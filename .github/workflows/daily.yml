@@ -1,0 +1,43 @@
+name: Daily Brief Data Fetch
+
+on:
+  schedule:
+    # 5h UTC = 7h Paris été / 6h Paris hiver
+    - cron: '0 5 * * 1-5'
+    # 6h UTC = 8h Paris été / 7h Paris hiver
+    - cron: '0 6 * * 1-5'
+  workflow_dispatch:  # Trigger manuel
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch brief data
+        run: python scripts/fetch_brief_data.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.email "bot@brief.local"
+          git config user.name "Brief Data Bot"
+          git add data/latest.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "data: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
