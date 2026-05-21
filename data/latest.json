@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-05-21T08:32:03.307382+00:00",
-  "generated_at_paris": "2026-05-21T10:32:03.307382+02:00",
+  "generated_at_utc": "2026-05-21T08:50:32.730850+00:00",
+  "generated_at_paris": "2026-05-21T10:50:32.730850+02:00",
   "date_paris": "2026-05-21",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 17.27,
-    "change_24h_pct": -0.97,
+    "value": 17.32,
+    "change_24h_pct": -0.69,
     "date": "2026-05-21"
   },
   "macro_calendar_today": [
@@ -173,7 +173,7 @@
   ],
   "news_bbc": [
     {
-      "title": "EasyJet boss says 'don't panic' over summer jet fuel supplies",
+      "title": "EasyJet boss says summer flights won't  be hit by jet fuel shortages",
       "summary": "The airline has seen no problems with fuel, but says people are booking later because of uncertainty caused by the Iran war.",
       "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 21 May 2026 08:23:31 GMT"
