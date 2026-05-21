@@ -1,0 +1,233 @@
+{
+  "generated_at_utc": "2026-05-21T08:32:03.307382+00:00",
+  "generated_at_paris": "2026-05-21T10:32:03.307382+02:00",
+  "date_paris": "2026-05-21",
+  "indices": {
+    "DAX": {
+      "open": 24345.3203,
+      "high": 24885.5605,
+      "low": 24287.6699,
+      "close": 24737.2402,
+      "date": "2026-05-20"
+    },
+    "CAC": {
+      "open": 7954.5698,
+      "high": 8175.2402,
+      "low": 7954.5698,
+      "close": 8117.4199,
+      "date": "2026-05-20"
+    },
+    "FTSE": {
+      "open": 10330.7002,
+      "high": 10458.2998,
+      "low": 10279.0996,
+      "close": 10432.2998,
+      "date": "2026-05-20"
+    },
+    "SPX": {
+      "open": 7369.1899,
+      "high": 7435.6899,
+      "low": 7357.46,
+      "close": 7432.9702,
+      "date": "2026-05-20"
+    },
+    "NDX": {
+      "open": 29006.5703,
+      "high": 29301.2793,
+      "low": 28919.4395,
+      "close": 29297.6992,
+      "date": "2026-05-20"
+    },
+    "DJI": {
+      "open": 49348.8281,
+      "high": 50067.2188,
+      "low": 49235.7383,
+      "close": 50009.3516,
+      "date": "2026-05-20"
+    },
+    "N225": {
+      "open": 60567.2695,
+      "high": 60567.2695,
+      "low": 59292.25,
+      "close": 59804.4102,
+      "date": "2026-05-20"
+    },
+    "HSI": {
+      "open": 25709.6191,
+      "high": 25713.5293,
+      "low": 25555.0605,
+      "close": 25651.1191,
+      "date": "2026-05-20"
+    }
+  },
+  "forex": {
+    "EURUSD": {
+      "open": 1.1605,
+      "high": 1.1644,
+      "low": 1.1584,
+      "close": 1.1607,
+      "date": "2026-05-20"
+    },
+    "GBPUSD": {
+      "open": 1.3392,
+      "high": 1.3462,
+      "low": 1.3379,
+      "close": 1.3396,
+      "date": "2026-05-20"
+    }
+  },
+  "vix": {
+    "value": 17.27,
+    "change_24h_pct": -0.97,
+    "date": "2026-05-21"
+  },
+  "macro_calendar_today": [
+    {
+      "time_paris": "09:15",
+      "country": "EUR",
+      "indicator": "French Flash Manufacturing PMI",
+      "consensus": "52.1",
+      "previous": "52.8",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "09:15",
+      "country": "EUR",
+      "indicator": "French Flash Services PMI",
+      "consensus": "46.6",
+      "previous": "46.5",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "09:30",
+      "country": "EUR",
+      "indicator": "German Flash Manufacturing PMI",
+      "consensus": "51.0",
+      "previous": "51.2",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "09:30",
+      "country": "EUR",
+      "indicator": "German Flash Services PMI",
+      "consensus": "47.1",
+      "previous": "46.9",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "10:30",
+      "country": "GBP",
+      "indicator": "Flash Manufacturing PMI",
+      "consensus": "52.9",
+      "previous": "53.6",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "10:30",
+      "country": "GBP",
+      "indicator": "Flash Services PMI",
+      "consensus": "51.7",
+      "previous": "52.0",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Philly Fed Manufacturing Index",
+      "consensus": "17.6",
+      "previous": "26.7",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Unemployment Claims",
+      "consensus": "210K",
+      "previous": "211K",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "15:45",
+      "country": "USD",
+      "indicator": "Flash Manufacturing PMI",
+      "consensus": "53.8",
+      "previous": "54.0",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "15:45",
+      "country": "USD",
+      "indicator": "Flash Services PMI",
+      "consensus": "51.1",
+      "previous": "51.3",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "17:00",
+      "country": "GBP",
+      "indicator": "BOE Gov Bailey Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    }
+  ],
+  "news_bbc": [
+    {
+      "title": "EasyJet boss says 'don't panic' over summer jet fuel supplies",
+      "summary": "The airline has seen no problems with fuel, but says people are booking later because of uncertainty caused by the Iran war.",
+      "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 21 May 2026 08:23:31 GMT"
+    },
+    {
+      "title": "UK agrees £3.7bn trade deal with six Gulf states",
+      "summary": "The deal will remove an estimated £580m worth of tariffs from British exports, but rights groups are critical",
+      "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 21 May 2026 08:19:59 GMT"
+    },
+    {
+      "title": "SpaceX files for stock market debut that could make Elon Musk a trillionaire",
+      "summary": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX",
+      "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 21 May 2026 06:00:32 GMT"
+    },
+    {
+      "title": "Chris Mason: Reeves' summer savings drive won't stretch to energy bills",
+      "summary": "The chancellor is announcing measures aimed at easing the cost of living - but no help yet with energy bills.",
+      "url": "https://www.bbc.com/news/articles/c4g9r92n3eqo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 21 May 2026 07:44:15 GMT"
+    },
+    {
+      "title": "Samsung strike on hold as workers push for AI bonus",
+      "summary": "The walkout, which was due to start on Thursday, has been suspended while union members vote on a tentative deal.",
+      "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 21 May 2026 06:01:54 GMT"
+    },
+    {
+      "title": "The fight against foreign developers buying Caribbean beaches",
+      "summary": "Campaigners in Barbuda, Grenada and Jamaica say they can no longer access their coastlines.",
+      "url": "https://www.bbc.com/news/articles/c62jp09p0l4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 23:19:14 GMT"
+    },
+    {
+      "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
+      "summary": "YouTube said it worked with experts to provide appropriate experiences. TikTok said it was disappointed Ofcom had not acknowledged its safety features.",
+      "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 21 May 2026 07:10:42 GMT"
+    },
+    {
+      "title": "Children in England to be offered free bus trips this August",
+      "summary": "Chancellor Rachel Reeves is to reveal a £100m fare-free bus scheme designed to relieve cost-of-living pressures.",
+      "url": "https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 21 May 2026 06:14:46 GMT"
+    }
+  ],
+  "sources_status": {
+    "yfinance_indices_ok_count": 8,
+    "yfinance_indices_total": 8,
+    "yfinance_forex_ok_count": 2,
+    "yfinance_forex_total": 2,
+    "yfinance_vix_ok": true,
+    "ff_macro_calendar_ok": true,
+    "bbc_news_ok": true
+  }
+}
