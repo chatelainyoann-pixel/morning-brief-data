@@ -1,224 +1,152 @@
 {
-  "generated_at_utc": "2026-05-21T08:50:32.730850+00:00",
-  "generated_at_paris": "2026-05-21T10:50:32.730850+02:00",
-  "date_paris": "2026-05-21",
+  "generated_at_utc": "2026-05-22T08:21:21.875185+00:00",
+  "generated_at_paris": "2026-05-22T10:21:21.875185+02:00",
+  "date_paris": "2026-05-22",
   "indices": {
     "DAX": {
-      "open": 24345.3203,
-      "high": 24885.5605,
-      "low": 24287.6699,
-      "close": 24737.2402,
-      "date": "2026-05-20"
+      "open": 24692.2109,
+      "high": 24894.6309,
+      "low": 24534.7891,
+      "close": 24606.7695,
+      "date": "2026-05-21"
     },
     "CAC": {
-      "open": 7954.5698,
-      "high": 8175.2402,
-      "low": 7954.5698,
-      "close": 8117.4199,
-      "date": "2026-05-20"
+      "open": 8109.77,
+      "high": 8153.5498,
+      "low": 8055.8901,
+      "close": 8086.0,
+      "date": "2026-05-21"
     },
     "FTSE": {
-      "open": 10330.7002,
-      "high": 10458.2998,
-      "low": 10279.0996,
-      "close": 10432.2998,
-      "date": "2026-05-20"
+      "open": 10432.5,
+      "high": 10471.5996,
+      "low": 10353.5,
+      "close": 10443.5,
+      "date": "2026-05-21"
     },
     "SPX": {
-      "open": 7369.1899,
-      "high": 7435.6899,
-      "low": 7357.46,
-      "close": 7432.9702,
-      "date": "2026-05-20"
+      "open": 7410.7798,
+      "high": 7465.96,
+      "low": 7389.48,
+      "close": 7445.7202,
+      "date": "2026-05-21"
     },
     "NDX": {
-      "open": 29006.5703,
-      "high": 29301.2793,
-      "low": 28919.4395,
-      "close": 29297.6992,
-      "date": "2026-05-20"
+      "open": 29150.1309,
+      "high": 29463.4902,
+      "low": 29040.0391,
+      "close": 29357.2695,
+      "date": "2026-05-21"
     },
     "DJI": {
-      "open": 49348.8281,
-      "high": 50067.2188,
-      "low": 49235.7383,
-      "close": 50009.3516,
-      "date": "2026-05-20"
+      "open": 49983.8008,
+      "high": 50381.4102,
+      "low": 49697.4688,
+      "close": 50285.6602,
+      "date": "2026-05-21"
     },
     "N225": {
-      "open": 60567.2695,
-      "high": 60567.2695,
-      "low": 59292.25,
-      "close": 59804.4102,
-      "date": "2026-05-20"
+      "open": 60374.8398,
+      "high": 62043.5312,
+      "low": 60282.3516,
+      "close": 61684.1406,
+      "date": "2026-05-21"
     },
     "HSI": {
-      "open": 25709.6191,
-      "high": 25713.5293,
-      "low": 25555.0605,
-      "close": 25651.1191,
-      "date": "2026-05-20"
+      "open": 25833.2402,
+      "high": 25833.7109,
+      "low": 25341.7305,
+      "close": 25386.5195,
+      "date": "2026-05-21"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1605,
-      "high": 1.1644,
-      "low": 1.1584,
-      "close": 1.1607,
-      "date": "2026-05-20"
+      "open": 1.1625,
+      "high": 1.1637,
+      "low": 1.1577,
+      "close": 1.1625,
+      "date": "2026-05-21"
     },
     "GBPUSD": {
-      "open": 1.3392,
-      "high": 1.3462,
-      "low": 1.3379,
-      "close": 1.3396,
-      "date": "2026-05-20"
+      "open": 1.3435,
+      "high": 1.3452,
+      "low": 1.3394,
+      "close": 1.3434,
+      "date": "2026-05-21"
     }
   },
   "vix": {
-    "value": 17.32,
-    "change_24h_pct": -0.69,
-    "date": "2026-05-21"
+    "value": 16.75,
+    "change_24h_pct": -0.06,
+    "date": "2026-05-22"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "09:15",
-      "country": "EUR",
-      "indicator": "French Flash Manufacturing PMI",
-      "consensus": "52.1",
-      "previous": "52.8",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:15",
-      "country": "EUR",
-      "indicator": "French Flash Services PMI",
-      "consensus": "46.6",
-      "previous": "46.5",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:30",
-      "country": "EUR",
-      "indicator": "German Flash Manufacturing PMI",
-      "consensus": "51.0",
-      "previous": "51.2",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:30",
-      "country": "EUR",
-      "indicator": "German Flash Services PMI",
-      "consensus": "47.1",
-      "previous": "46.9",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "10:30",
+      "time_paris": "08:00",
       "country": "GBP",
-      "indicator": "Flash Manufacturing PMI",
-      "consensus": "52.9",
-      "previous": "53.6",
+      "indicator": "Retail Sales m/m",
+      "consensus": "-0.6%",
+      "previous": "0.7%",
       "impact": "Medium"
     },
     {
-      "time_paris": "10:30",
-      "country": "GBP",
-      "indicator": "Flash Services PMI",
-      "consensus": "51.7",
-      "previous": "52.0",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "14:30",
+      "time_paris": "16:00",
       "country": "USD",
-      "indicator": "Philly Fed Manufacturing Index",
-      "consensus": "17.6",
-      "previous": "26.7",
+      "indicator": "Revised UoM Consumer Sentiment",
+      "consensus": "48.2",
+      "previous": "48.2",
       "impact": "Medium"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "210K",
-      "previous": "211K",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "15:45",
-      "country": "USD",
-      "indicator": "Flash Manufacturing PMI",
-      "consensus": "53.8",
-      "previous": "54.0",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "15:45",
-      "country": "USD",
-      "indicator": "Flash Services PMI",
-      "consensus": "51.1",
-      "previous": "51.3",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "17:00",
-      "country": "GBP",
-      "indicator": "BOE Gov Bailey Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
     }
   ],
   "news_bbc": [
     {
-      "title": "EasyJet boss says summer flights won't  be hit by jet fuel shortages",
-      "summary": "The airline has seen no problems with fuel, but says people are booking later because of uncertainty caused by the Iran war.",
-      "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 08:23:31 GMT"
+      "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
+      "summary": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\".",
+      "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 21 May 2026 23:01:37 GMT"
     },
     {
-      "title": "UK agrees £3.7bn trade deal with six Gulf states",
-      "summary": "The deal will remove an estimated £580m worth of tariffs from British exports, but rights groups are critical",
-      "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 08:19:59 GMT"
+      "title": "Government borrowing higher than expected in April",
+      "summary": "Borrowing, the difference between spending and income from taxes, was £24.3bn last month.",
+      "url": "https://www.bbc.com/news/articles/ce9py7nx8j4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 07:35:57 GMT"
     },
     {
-      "title": "SpaceX files for stock market debut that could make Elon Musk a trillionaire",
-      "summary": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX",
-      "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 06:00:32 GMT"
+      "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
+      "summary": "It comes just a day after the firm revealed plans for a record-breaking stock market debut.",
+      "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 02:57:12 GMT"
     },
     {
-      "title": "Chris Mason: Reeves' summer savings drive won't stretch to energy bills",
-      "summary": "The chancellor is announcing measures aimed at easing the cost of living - but no help yet with energy bills.",
-      "url": "https://www.bbc.com/news/articles/c4g9r92n3eqo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 07:44:15 GMT"
+      "title": "'Monitoring the situation': Why young men are drawn to prediction markets",
+      "summary": "Prediction markets are a fast-growing, multi-billion-dollar industry, and appeal disproportionately to young men",
+      "url": "https://www.bbc.com/news/articles/c93xv27kpwxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 21 May 2026 23:09:43 GMT"
     },
     {
-      "title": "Samsung strike on hold as workers push for AI bonus",
-      "summary": "The walkout, which was due to start on Thursday, has been suspended while union members vote on a tentative deal.",
-      "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 06:01:54 GMT"
+      "title": "Prepare for half-term queues at Dover due to EU border process, port says",
+      "summary": "It is the first holiday period since the EU's new border system was fully implemented.",
+      "url": "https://www.bbc.com/news/articles/cpqpygjwywjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 21 May 2026 23:05:13 GMT"
     },
     {
-      "title": "The fight against foreign developers buying Caribbean beaches",
-      "summary": "Campaigners in Barbuda, Grenada and Jamaica say they can no longer access their coastlines.",
-      "url": "https://www.bbc.com/news/articles/c62jp09p0l4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 20 May 2026 23:19:14 GMT"
+      "title": "Love factually: Dating start-ups promise to cut the cheats",
+      "summary": "Frustration with fake dating profiles has spurred new dating services with different approaches.",
+      "url": "https://www.bbc.com/news/articles/cnvpme6811do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 21 May 2026 23:14:18 GMT"
     },
     {
-      "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
-      "summary": "YouTube said it worked with experts to provide appropriate experiences. TikTok said it was disappointed Ofcom had not acknowledged its safety features.",
-      "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 07:10:42 GMT"
+      "title": "UK police bosses say unsafe social media platforms should be blocked for under-16s",
+      "summary": "The NCA and NPCC say children should be blocked from accessing sites which do not stop them seeing nudes or being contacted by strangers.",
+      "url": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 21 May 2026 23:07:54 GMT"
     },
     {
-      "title": "Children in England to be offered free bus trips this August",
-      "summary": "Chancellor Rachel Reeves is to reveal a £100m fare-free bus scheme designed to relieve cost-of-living pressures.",
-      "url": "https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 06:14:46 GMT"
+      "title": "Police to score train firms on tackling sexual harassment",
+      "summary": "The government will not be financial or legal penalties for train operators who fail to meet the targets.",
+      "url": "https://www.bbc.com/news/articles/cg4pew075xpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 21 May 2026 23:05:38 GMT"
     }
   ],
   "sources_status": {
