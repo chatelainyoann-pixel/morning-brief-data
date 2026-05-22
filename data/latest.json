@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-05-22T08:21:21.875185+00:00",
-  "generated_at_paris": "2026-05-22T10:21:21.875185+02:00",
+  "generated_at_utc": "2026-05-22T08:43:53.507491+00:00",
+  "generated_at_paris": "2026-05-22T10:43:53.507491+02:00",
   "date_paris": "2026-05-22",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 16.75,
-    "change_24h_pct": -0.06,
+    "value": 16.74,
+    "change_24h_pct": -0.12,
     "date": "2026-05-22"
   },
   "macro_calendar_today": [
@@ -100,6 +100,12 @@
     }
   ],
   "news_bbc": [
+    {
+      "title": "Morrisons planning to close 100 stores in next few months",
+      "summary": "It said difficulties had been exacerbated by \"significant cost increases resulting from government policy choices\".",
+      "url": "https://www.bbc.com/news/articles/c3623ny298xo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 08:25:04 GMT"
+    },
     {
       "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
       "summary": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\".",
@@ -125,28 +131,22 @@
       "published": "Thu, 21 May 2026 23:09:43 GMT"
     },
     {
-      "title": "Prepare for half-term queues at Dover due to EU border process, port says",
-      "summary": "It is the first holiday period since the EU's new border system was fully implemented.",
-      "url": "https://www.bbc.com/news/articles/cpqpygjwywjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 23:05:13 GMT"
-    },
-    {
       "title": "Love factually: Dating start-ups promise to cut the cheats",
       "summary": "Frustration with fake dating profiles has spurred new dating services with different approaches.",
       "url": "https://www.bbc.com/news/articles/cnvpme6811do?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 21 May 2026 23:14:18 GMT"
     },
     {
+      "title": "Prepare for half-term queues at Dover due to EU border process, port says",
+      "summary": "It is the first holiday period since the EU's new border system was fully implemented.",
+      "url": "https://www.bbc.com/news/articles/cpqpygjwywjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 21 May 2026 23:05:13 GMT"
+    },
+    {
       "title": "UK police bosses say unsafe social media platforms should be blocked for under-16s",
       "summary": "The NCA and NPCC say children should be blocked from accessing sites which do not stop them seeing nudes or being contacted by strangers.",
       "url": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 21 May 2026 23:07:54 GMT"
-    },
-    {
-      "title": "Police to score train firms on tackling sexual harassment",
-      "summary": "The government will not be financial or legal penalties for train operators who fail to meet the targets.",
-      "url": "https://www.bbc.com/news/articles/cg4pew075xpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 23:05:38 GMT"
     }
   ],
   "sources_status": {
