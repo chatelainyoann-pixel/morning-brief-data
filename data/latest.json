@@ -1,152 +1,135 @@
 {
-  "generated_at_utc": "2026-05-22T08:43:53.507491+00:00",
-  "generated_at_paris": "2026-05-22T10:43:53.507491+02:00",
-  "date_paris": "2026-05-22",
+  "generated_at_utc": "2026-05-25T08:56:06.249194+00:00",
+  "generated_at_paris": "2026-05-25T10:56:06.249194+02:00",
+  "date_paris": "2026-05-25",
   "indices": {
     "DAX": {
-      "open": 24692.2109,
-      "high": 24894.6309,
-      "low": 24534.7891,
-      "close": 24606.7695,
-      "date": "2026-05-21"
+      "open": 24768.4902,
+      "high": 24943.75,
+      "low": 24676.2695,
+      "close": 24888.5605,
+      "date": "2026-05-22"
     },
     "CAC": {
-      "open": 8109.77,
-      "high": 8153.5498,
-      "low": 8055.8901,
-      "close": 8086.0,
-      "date": "2026-05-21"
+      "open": 8138.9702,
+      "high": 8158.79,
+      "low": 8095.71,
+      "close": 8115.75,
+      "date": "2026-05-22"
     },
     "FTSE": {
-      "open": 10432.5,
-      "high": 10471.5996,
-      "low": 10353.5,
-      "close": 10443.5,
-      "date": "2026-05-21"
+      "open": 10443.0996,
+      "high": 10497.2002,
+      "low": 10435.5,
+      "close": 10466.2998,
+      "date": "2026-05-22"
     },
     "SPX": {
-      "open": 7410.7798,
-      "high": 7465.96,
-      "low": 7389.48,
-      "close": 7445.7202,
-      "date": "2026-05-21"
+      "open": 7468.8198,
+      "high": 7506.3198,
+      "low": 7463.29,
+      "close": 7473.4702,
+      "date": "2026-05-22"
     },
     "NDX": {
-      "open": 29150.1309,
-      "high": 29463.4902,
-      "low": 29040.0391,
-      "close": 29357.2695,
-      "date": "2026-05-21"
+      "open": 29476.2891,
+      "high": 29663.8906,
+      "low": 29423.6309,
+      "close": 29481.6406,
+      "date": "2026-05-22"
     },
     "DJI": {
-      "open": 49983.8008,
-      "high": 50381.4102,
-      "low": 49697.4688,
-      "close": 50285.6602,
-      "date": "2026-05-21"
+      "open": 50434.6484,
+      "high": 50830.2383,
+      "low": 50434.6484,
+      "close": 50579.6992,
+      "date": "2026-05-22"
     },
     "N225": {
-      "open": 60374.8398,
-      "high": 62043.5312,
-      "low": 60282.3516,
-      "close": 61684.1406,
-      "date": "2026-05-21"
+      "open": 61913.3594,
+      "high": 63432.4102,
+      "low": 61842.5586,
+      "close": 63339.0703,
+      "date": "2026-05-22"
     },
     "HSI": {
-      "open": 25833.2402,
-      "high": 25833.7109,
-      "low": 25341.7305,
-      "close": 25386.5195,
-      "date": "2026-05-21"
+      "open": 25641.8008,
+      "high": 25732.3594,
+      "low": 25483.2402,
+      "close": 25606.0293,
+      "date": "2026-05-22"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1625,
-      "high": 1.1637,
-      "low": 1.1577,
-      "close": 1.1625,
-      "date": "2026-05-21"
+      "open": 1.1616,
+      "high": 1.1618,
+      "low": 1.1589,
+      "close": 1.1621,
+      "date": "2026-05-22"
     },
     "GBPUSD": {
-      "open": 1.3435,
-      "high": 1.3452,
-      "low": 1.3394,
-      "close": 1.3434,
-      "date": "2026-05-21"
+      "open": 1.343,
+      "high": 1.3459,
+      "low": 1.3414,
+      "close": 1.3433,
+      "date": "2026-05-22"
     }
   },
   "vix": {
-    "value": 16.74,
-    "change_24h_pct": -0.12,
-    "date": "2026-05-22"
+    "value": 16.67,
+    "change_24h_pct": -0.18,
+    "date": "2026-05-25"
   },
-  "macro_calendar_today": [
-    {
-      "time_paris": "08:00",
-      "country": "GBP",
-      "indicator": "Retail Sales m/m",
-      "consensus": "-0.6%",
-      "previous": "0.7%",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Revised UoM Consumer Sentiment",
-      "consensus": "48.2",
-      "previous": "48.2",
-      "impact": "Medium"
-    }
-  ],
+  "macro_calendar_today": [],
   "news_bbc": [
     {
-      "title": "Morrisons planning to close 100 stores in next few months",
-      "summary": "It said difficulties had been exacerbated by \"significant cost increases resulting from government policy choices\".",
-      "url": "https://www.bbc.com/news/articles/c3623ny298xo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 08:25:04 GMT"
+      "title": "Oil prices slide on hopes of US-Iran peace deal",
+      "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 25 May 2026 08:38:44 GMT"
     },
     {
-      "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
-      "summary": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\".",
-      "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 23:01:37 GMT"
+      "title": "Beer boom goes flat as breweries call last orders",
+      "summary": "The UK's brewery scene is shrinking as pubs close, costs rise and drinking habits change.",
+      "url": "https://www.bbc.com/news/articles/c9werp5keqlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 25 May 2026 00:21:24 GMT"
     },
     {
-      "title": "Government borrowing higher than expected in April",
-      "summary": "Borrowing, the difference between spending and income from taxes, was £24.3bn last month.",
-      "url": "https://www.bbc.com/news/articles/ce9py7nx8j4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 07:35:57 GMT"
+      "title": "'I live in survival mode': The rise of the multi-job workforce",
+      "summary": "More people are taking second jobs as rising costs and insecure work reshape how we earn a living.",
+      "url": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 25 May 2026 00:26:38 GMT"
     },
     {
-      "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
-      "summary": "It comes just a day after the firm revealed plans for a record-breaking stock market debut.",
-      "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 02:57:12 GMT"
+      "title": "How Saudi Arabia's spending spree reached the end of the line",
+      "summary": "MBS's Vison 2030 project seemed the stuff of science fiction. Now reality has bitten",
+      "url": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 25 May 2026 01:08:39 GMT"
     },
     {
-      "title": "'Monitoring the situation': Why young men are drawn to prediction markets",
-      "summary": "Prediction markets are a fast-growing, multi-billion-dollar industry, and appeal disproportionately to young men",
-      "url": "https://www.bbc.com/news/articles/c93xv27kpwxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 23:09:43 GMT"
+      "title": "Indian billionaires buy foreign companies as growth slows at home",
+      "summary": "India Inc spent $18bn on global buyouts in 2025 and the deal value could cross $15bn in the first half of 2026.",
+      "url": "https://www.bbc.com/news/articles/cwy21x20q23o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 23:01:09 GMT"
     },
     {
-      "title": "Love factually: Dating start-ups promise to cut the cheats",
-      "summary": "Frustration with fake dating profiles has spurred new dating services with different approaches.",
-      "url": "https://www.bbc.com/news/articles/cnvpme6811do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 23:14:18 GMT"
+      "title": "Morocco wants tourists to visit Western Sahara. Some say it's tightening its control",
+      "summary": "The Moroccan government wants more Western holidaymakers to visit the territory it claims to own.",
+      "url": "https://www.bbc.com/news/articles/cvgldqk4w95o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 23:13:50 GMT"
     },
     {
-      "title": "Prepare for half-term queues at Dover due to EU border process, port says",
-      "summary": "It is the first holiday period since the EU's new border system was fully implemented.",
-      "url": "https://www.bbc.com/news/articles/cpqpygjwywjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 23:05:13 GMT"
+      "title": "'Shameful' more spent on benefits than jobs for young people, says Milburn",
+      "summary": "Reforms are needed of the welfare system to tackle the high numbers of young people not in work or education, says Alan Milburn.",
+      "url": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 10:21:58 GMT"
     },
     {
-      "title": "UK police bosses say unsafe social media platforms should be blocked for under-16s",
-      "summary": "The NCA and NPCC say children should be blocked from accessing sites which do not stop them seeing nudes or being contacted by strangers.",
-      "url": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 21 May 2026 23:07:54 GMT"
+      "title": "SpaceX launches massive Starship V3 rocket on test flight",
+      "summary": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed.",
+      "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 03:53:20 GMT"
     }
   ],
   "sources_status": {
@@ -155,7 +138,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": true,
+    "ff_macro_calendar_ok": false,
     "bbc_news_ok": true
   }
 }
