@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-05-26T08:31:05.480860+00:00",
-  "generated_at_paris": "2026-05-26T10:31:05.480860+02:00",
+  "generated_at_utc": "2026-05-26T09:00:34.299859+00:00",
+  "generated_at_paris": "2026-05-26T11:00:34.299859+02:00",
   "date_paris": "2026-05-26",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 16.83,
-    "change_24h_pct": 1.45,
+    "value": 16.78,
+    "change_24h_pct": 1.15,
     "date": "2026-05-26"
   },
   "macro_calendar_today": [
@@ -132,7 +132,7 @@
       "title": "'I live in survival mode': The rise of the multi-job workforce",
       "summary": "More people are taking second jobs as rising costs and insecure work reshape how we earn a living.",
       "url": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 00:26:38 GMT"
+      "published": "Tue, 26 May 2026 08:57:35 GMT"
     },
     {
       "title": "How Saudi Arabia's spending spree reached the end of the line",
