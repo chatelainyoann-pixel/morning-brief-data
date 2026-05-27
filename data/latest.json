@@ -1,144 +1,144 @@
 {
-  "generated_at_utc": "2026-05-26T09:00:34.299859+00:00",
-  "generated_at_paris": "2026-05-26T11:00:34.299859+02:00",
-  "date_paris": "2026-05-26",
+  "generated_at_utc": "2026-05-27T08:38:39.638537+00:00",
+  "generated_at_paris": "2026-05-27T10:38:39.638537+02:00",
+  "date_paris": "2026-05-27",
   "indices": {
     "DAX": {
-      "open": 25181.2695,
-      "high": 25438.4102,
-      "low": 25062.7207,
-      "close": 25389.0996,
-      "date": "2026-05-25"
+      "open": 25359.75,
+      "high": 25361.6406,
+      "low": 25180.5,
+      "close": 25184.8906,
+      "date": "2026-05-26"
     },
     "CAC": {
-      "open": 8185.4399,
-      "high": 8280.9805,
-      "low": 8183.71,
-      "close": 8258.2598,
-      "date": "2026-05-25"
+      "open": 8237.8398,
+      "high": 8240.9805,
+      "low": 8168.1299,
+      "close": 8173.1099,
+      "date": "2026-05-26"
     },
     "FTSE": {
-      "open": 10443.0996,
-      "high": 10497.2002,
-      "low": 10435.5,
-      "close": 10466.2998,
-      "date": "2026-05-22"
+      "open": 10465.5996,
+      "high": 10557.2002,
+      "low": 10461.0996,
+      "close": 10491.4004,
+      "date": "2026-05-26"
     },
     "SPX": {
-      "open": 7468.8198,
-      "high": 7506.3198,
-      "low": 7463.29,
-      "close": 7473.4702,
-      "date": "2026-05-22"
+      "open": 7511.79,
+      "high": 7539.0898,
+      "low": 7501.1001,
+      "close": 7519.1201,
+      "date": "2026-05-26"
     },
     "NDX": {
-      "open": 29476.2891,
-      "high": 29663.8906,
-      "low": 29423.6309,
-      "close": 29481.6406,
-      "date": "2026-05-22"
+      "open": 29854.5801,
+      "high": 30044.4902,
+      "low": 29753.0898,
+      "close": 30001.3203,
+      "date": "2026-05-26"
     },
     "DJI": {
-      "open": 50434.6484,
-      "high": 50830.2383,
-      "low": 50434.6484,
-      "close": 50579.6992,
-      "date": "2026-05-22"
+      "open": 50686.1484,
+      "high": 50785.6797,
+      "low": 50356.6406,
+      "close": 50461.6797,
+      "date": "2026-05-26"
     },
     "N225": {
-      "open": 63658.9492,
-      "high": 65408.8711,
-      "low": 63562.5117,
-      "close": 65158.1914,
-      "date": "2026-05-25"
+      "open": 65247.2383,
+      "high": 65317.6914,
+      "low": 64605.6914,
+      "close": 64996.0898,
+      "date": "2026-05-26"
     },
     "HSI": {
-      "open": 25641.8008,
-      "high": 25732.3594,
-      "low": 25483.2402,
-      "close": 25606.0293,
-      "date": "2026-05-22"
+      "open": 25622.3594,
+      "high": 25768.3809,
+      "low": 25431.1699,
+      "close": 25599.4492,
+      "date": "2026-05-26"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1641,
-      "high": 1.1655,
-      "low": 1.163,
-      "close": 1.1642,
-      "date": "2026-05-25"
+      "open": 1.1636,
+      "high": 1.1647,
+      "low": 1.1617,
+      "close": 1.1637,
+      "date": "2026-05-26"
     },
     "GBPUSD": {
-      "open": 1.3482,
-      "high": 1.3508,
-      "low": 1.3472,
-      "close": 1.3482,
-      "date": "2026-05-25"
+      "open": 1.3496,
+      "high": 1.3497,
+      "low": 1.3436,
+      "close": 1.3496,
+      "date": "2026-05-26"
     }
   },
   "vix": {
-    "value": 16.78,
-    "change_24h_pct": 1.15,
-    "date": "2026-05-26"
+    "value": 16.96,
+    "change_24h_pct": -0.29,
+    "date": "2026-05-27"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "CB Consumer Confidence",
-      "consensus": "91.9",
-      "previous": "92.8",
+      "time_paris": "10:00",
+      "country": "EUR",
+      "indicator": "ECB Financial Stability Review",
+      "consensus": "",
+      "previous": "",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Next boss warns of 'dramatic' fall in entry-level jobs",
-      "summary": "Lord Wolfson tells the BBC Next now typically receives double the number of applicants for one role than it did two years ago.",
-      "url": "https://www.bbc.com/news/articles/c2024r6lzyro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 06:57:09 GMT"
+      "title": "Energy bills to rise for millions as impact of Iran war hits",
+      "summary": "A household using a typical amount of energy will pay £221 a year more, under the regulator's new price cap.",
+      "url": "https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 07:39:33 GMT"
     },
     {
-      "title": "Social media as bad for young people as smoking, top doctors say",
-      "summary": "The Academy of Medical Royal Colleges says doctors should routinely check on screen time and social media use when seeing younger patients.",
-      "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 06:54:50 GMT"
+      "title": "'Bullying' and 'overbearing' behaviour behind abrupt BP chairman removal",
+      "summary": "BP declined to comment on whether bullying behaviour was part of the reason for his immediate dismissal.",
+      "url": "https://www.bbc.com/news/articles/cjrppppwvwlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 05:56:44 GMT"
     },
     {
-      "title": "Ferrari unveils first fully electric car",
+      "title": "Booming AI chip demand helps create two new $1tn club members",
+      "summary": "SK Hynix and Micron are the latest tech firms to join the growing list of stocks with mega valuations.",
+      "url": "https://www.bbc.com/news/articles/cnvp9dq0p3go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 02:15:10 GMT"
+    },
+    {
+      "title": "Ferrari shares slump after it unveils first fully electric car",
       "summary": "The new Luce model has divided opinion on social media, and comes despite intense pressure from Chinese EV makers.",
       "url": "https://www.bbc.com/news/articles/cwy22rddy5no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 02:48:58 GMT"
+      "published": "Wed, 27 May 2026 04:02:43 GMT"
     },
     {
-      "title": "Oil prices slide on hopes of US-Iran peace deal",
-      "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
-      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 13:05:56 GMT"
+      "title": "Post Office investigation could be delayed by five years, police warn",
+      "summary": "The commander leading the national police inquiry says the size of the investigation team would need to double in order to meet its current timeline",
+      "url": "https://www.bbc.com/news/articles/c2422y4ldymo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 26 May 2026 19:38:56 GMT"
     },
     {
-      "title": "Beer boom goes flat as breweries call last orders",
-      "summary": "The UK's brewery scene is shrinking as pubs close, costs rise and drinking habits change.",
-      "url": "https://www.bbc.com/news/articles/c9werp5keqlo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 00:21:24 GMT"
+      "title": "Farmers' warning as milk prices fall below cost",
+      "summary": "Farmers worry more family farms will be sold unless dairy prices rise quickly.",
+      "url": "https://www.bbc.com/news/articles/c5ye37jrk3go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 05:23:16 GMT"
     },
     {
-      "title": "The rise of the fruit that tastes like custard",
-      "summary": "Custard apple plants are prized for their hardiness but exporting their delicate fruit is difficult.",
-      "url": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 23:27:04 GMT"
+      "title": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
+      "summary": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete.",
+      "url": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 00:43:55 GMT"
     },
     {
-      "title": "'I live in survival mode': The rise of the multi-job workforce",
-      "summary": "More people are taking second jobs as rising costs and insecure work reshape how we earn a living.",
-      "url": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 08:57:35 GMT"
-    },
-    {
-      "title": "How Saudi Arabia's spending spree reached the end of the line",
-      "summary": "MBS's Vison 2030 project seemed the stuff of science fiction. Now reality has bitten",
-      "url": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 01:08:39 GMT"
+      "title": "Instagram betting ads featuring Kane and Haaland banned",
+      "summary": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s.",
+      "url": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 26 May 2026 23:33:40 GMT"
     }
   ],
   "sources_status": {
