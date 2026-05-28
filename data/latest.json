@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-05-28T08:42:07.358852+00:00",
-  "generated_at_paris": "2026-05-28T10:42:07.358852+02:00",
+  "generated_at_utc": "2026-05-28T09:38:19.564205+00:00",
+  "generated_at_paris": "2026-05-28T11:38:19.564205+02:00",
   "date_paris": "2026-05-28",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 16.66,
-    "change_24h_pct": 2.27,
+    "value": 16.69,
+    "change_24h_pct": 2.46,
     "date": "2026-05-28"
   },
   "macro_calendar_today": [
@@ -136,7 +136,7 @@
       "title": "One in six young people will not be in work or training in five years without action, report warns",
       "summary": "A report warns the UK is \"at risk of a lost generation\" with number of 16 to 24-year-olds out of work, education or training set to rise to 1.25 million by 2031.",
       "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 28 May 2026 07:30:24 GMT"
+      "published": "Thu, 28 May 2026 09:00:17 GMT"
     },
     {
       "title": "The £5 coffee that tells a story of global economic turmoil",
