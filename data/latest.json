@@ -1,184 +1,152 @@
 {
-  "generated_at_utc": "2026-05-28T09:38:19.564205+00:00",
-  "generated_at_paris": "2026-05-28T11:38:19.564205+02:00",
-  "date_paris": "2026-05-28",
+  "generated_at_utc": "2026-05-29T08:41:52.542258+00:00",
+  "generated_at_paris": "2026-05-29T10:41:52.542258+02:00",
+  "date_paris": "2026-05-29",
   "indices": {
     "DAX": {
-      "open": 25324.8105,
-      "high": 25394.8105,
-      "low": 25113.1504,
-      "close": 25177.8008,
-      "date": "2026-05-27"
+      "open": 25083.7695,
+      "high": 25244.7109,
+      "low": 24973.25,
+      "close": 25092.25,
+      "date": "2026-05-28"
     },
     "CAC": {
-      "open": 8190.8799,
-      "high": 8271.7598,
-      "low": 8190.8799,
-      "close": 8207.8896,
-      "date": "2026-05-27"
+      "open": 8172.7998,
+      "high": 8220.3701,
+      "low": 8150.5498,
+      "close": 8188.8701,
+      "date": "2026-05-28"
     },
     "FTSE": {
-      "open": 10491.2002,
-      "high": 10522.2998,
-      "low": 10462.0996,
-      "close": 10505.0,
-      "date": "2026-05-27"
+      "open": 10505.4004,
+      "high": 10505.4004,
+      "low": 10381.2002,
+      "close": 10426.0,
+      "date": "2026-05-28"
     },
     "SPX": {
-      "open": 7526.0098,
-      "high": 7530.7202,
-      "low": 7499.7202,
-      "close": 7520.3599,
-      "date": "2026-05-27"
+      "open": 7519.8198,
+      "high": 7568.7202,
+      "low": 7508.04,
+      "close": 7563.6299,
+      "date": "2026-05-28"
     },
     "NDX": {
-      "open": 30081.2793,
-      "high": 30099.7891,
-      "low": 29808.8906,
-      "close": 29973.5703,
-      "date": "2026-05-27"
+      "open": 30030.6309,
+      "high": 30263.1895,
+      "low": 29848.7598,
+      "close": 30223.8906,
+      "date": "2026-05-28"
     },
     "DJI": {
-      "open": 50487.1602,
-      "high": 50830.4102,
-      "low": 50487.1602,
-      "close": 50644.2812,
-      "date": "2026-05-27"
+      "open": 50660.9805,
+      "high": 50764.0391,
+      "low": 50314.3398,
+      "close": 50668.9688,
+      "date": "2026-05-28"
     },
     "N225": {
-      "open": 65777.8672,
-      "high": 66428.8125,
-      "low": 64999.4102,
-      "close": 64999.4102,
-      "date": "2026-05-27"
+      "open": 64770.7617,
+      "high": 65165.75,
+      "low": 63875.0391,
+      "close": 64693.1211,
+      "date": "2026-05-28"
     },
     "HSI": {
-      "open": 25608.7793,
-      "high": 25638.4102,
-      "low": 25258.0293,
-      "close": 25328.2305,
-      "date": "2026-05-27"
+      "open": 25230.5801,
+      "high": 25230.5801,
+      "low": 24727.2598,
+      "close": 25006.1602,
+      "date": "2026-05-28"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1639,
-      "high": 1.1661,
-      "low": 1.1624,
-      "close": 1.1637,
-      "date": "2026-05-27"
+      "open": 1.1618,
+      "high": 1.1658,
+      "low": 1.1587,
+      "close": 1.1618,
+      "date": "2026-05-28"
     },
     "GBPUSD": {
-      "open": 1.3457,
-      "high": 1.3459,
-      "low": 1.3417,
-      "close": 1.3455,
-      "date": "2026-05-27"
+      "open": 1.3416,
+      "high": 1.3448,
+      "low": 1.3368,
+      "close": 1.3417,
+      "date": "2026-05-28"
     }
   },
   "vix": {
-    "value": 16.69,
-    "change_24h_pct": 2.46,
-    "date": "2026-05-28"
+    "value": 15.82,
+    "change_24h_pct": 0.51,
+    "date": "2026-05-29"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "09:10",
+      "time_paris": "08:29",
       "country": "EUR",
-      "indicator": "ECB President Lagarde Speaks",
+      "indicator": "German Prelim CPI m/m",
+      "consensus": "0.1%",
+      "previous": "0.6%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "10:20",
+      "country": "GBP",
+      "indicator": "BOE Gov Bailey Speaks",
       "consensus": "",
       "previous": "",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Core PCE Price Index m/m",
-      "consensus": "0.3%",
-      "previous": "0.3%",
       "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Prelim GDP q/q",
-      "consensus": "2.0%",
-      "previous": "0.7%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Prelim GDP Price Index q/q",
-      "consensus": "3.6%",
-      "previous": "3.8%",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "211K",
-      "previous": "209K",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "New Home Sales",
-      "consensus": "661K",
-      "previous": "682K",
-      "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "One in six young people will not be in work or training in five years without action, report warns",
-      "summary": "A report warns the UK is \"at risk of a lost generation\" with number of 16 to 24-year-olds out of work, education or training set to rise to 1.25 million by 2031.",
+      "title": "Opportunities shrinking for too many young people, says major report on 'lost generation'",
+      "summary": "A report warns the number of 16 to 24-year-olds out of work, education or training is set to rise to 1.25 million by 2031.",
       "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 28 May 2026 09:00:17 GMT"
+      "published": "Thu, 28 May 2026 15:09:57 GMT"
+    },
+    {
+      "title": "'I've applied for more than 400 roles' - how young people are facing the job shortage",
+      "summary": "The BBC has been hearing from young people who are struggling to find work about how they are tackling the challenge.",
+      "url": "https://www.bbc.com/news/articles/czx2qll4rlyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 28 May 2026 15:56:03 GMT"
+    },
+    {
+      "title": "Blue Origin rocket explodes into huge ball of flame on Florida launch pad",
+      "summary": "Amazon billionaire Jeff Bezos, who founded Blue Origin, said it was a \"very rough day\".",
+      "url": "https://www.bbc.com/news/articles/cvgzl5wd8xeo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 29 May 2026 02:59:49 GMT"
+    },
+    {
+      "title": "US government prepares to print $250 note featuring Trump's face",
+      "summary": "Federal law bars printing images of living people on US currency, but Trump allies in Congress are moving to make an exception.",
+      "url": "https://www.bbc.com/news/articles/clypeyx6nemo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 28 May 2026 18:24:15 GMT"
+    },
+    {
+      "title": "When trade soured, this American liquor maker moved to Canada",
+      "summary": "Phillips Distilling lost 70% of its Canadian business after provinces banned the sale of US liquor. It has since found a way to sell its products in Canada again.",
+      "url": "https://www.bbc.com/news/articles/c2l22ypl909o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 28 May 2026 23:29:46 GMT"
+    },
+    {
+      "title": "Humanoid robots 'the future' of car making, says BMW",
+      "summary": "BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.",
+      "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 28 May 2026 23:36:45 GMT"
+    },
+    {
+      "title": "Drag queen Pattie Gonia fights trademark lawsuit by Patagonia",
+      "summary": "The outdoor apparel firm says the performer broke an agreement not to use its branding in merchandise.",
+      "url": "https://www.bbc.com/news/articles/cx21427lvvvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 28 May 2026 16:25:24 GMT"
     },
     {
       "title": "The £5 coffee that tells a story of global economic turmoil",
       "summary": "Coffees at some city centre outlets now cost £5. It's a story of tariffs, the climate, Gen Z cultural tastes, and savvy coffee farmers playing the market, writes Faisal Islam",
       "url": "https://www.bbc.com/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 28 May 2026 06:44:47 GMT"
-    },
-    {
-      "title": "Oil prices jump after US launches new attacks on Iran",
-      "summary": "The strikes come despite a ceasefire between Tehran and Washington as the two countries hold peace talks.",
-      "url": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 28 May 2026 05:32:06 GMT"
-    },
-    {
-      "title": "How you can save money on your energy bill",
-      "summary": "Experts say action now can save money when the pinch comes this winter.",
-      "url": "https://www.bbc.com/news/articles/cwy2e3wx7xwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 27 May 2026 16:13:04 GMT"
-    },
-    {
-      "title": "Is 'out of control' US tipping culture spreading overseas?",
-      "summary": "With US waiting staff getting cross at receiving less than 20%, tips are also on the rise elsewhere.",
-      "url": "https://www.bbc.com/news/articles/cj6p0wrkpj8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 27 May 2026 23:14:43 GMT"
-    },
-    {
-      "title": "Why Fifa is being investigated over World Cup ticket prices",
-      "summary": "New York and New Jersey are looking into the association after fans have reportedly been \"misled\" over ticket sales and seat locations.",
-      "url": "https://www.bbc.com/news/videos/cx2164ldp0ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 28 May 2026 00:14:24 GMT"
-    },
-    {
-      "title": "Google worker charged with using internal data to make $1.2m on bets",
-      "summary": "The longtime Google employee was charged in New York for allegedly breaking insider trading laws.",
-      "url": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 28 May 2026 02:14:19 GMT"
-    },
-    {
-      "title": "The world's carmakers are struggling to compete with China",
-      "summary": "The BBC visited China’s EV factories and found they are dominating the ecosystems shaping the global auto industry.",
-      "url": "https://www.bbc.com/news/articles/c4g8vg72z43o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 27 May 2026 22:00:38 GMT"
     }
   ],
   "sources_status": {
