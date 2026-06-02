@@ -1,160 +1,168 @@
 {
-  "generated_at_utc": "2026-06-01T11:01:33.414869+00:00",
-  "generated_at_paris": "2026-06-01T13:01:33.414869+02:00",
-  "date_paris": "2026-06-01",
+  "generated_at_utc": "2026-06-02T09:05:30.714277+00:00",
+  "generated_at_paris": "2026-06-02T11:05:30.714277+02:00",
+  "date_paris": "2026-06-02",
   "indices": {
     "DAX": {
-      "open": 25126.3496,
-      "high": 25204.1309,
-      "low": 25040.4492,
-      "close": 25104.6992,
-      "date": "2026-05-29"
+      "open": 25083.2402,
+      "high": 25301.7305,
+      "low": 24901.7695,
+      "close": 25003.0391,
+      "date": "2026-06-01"
     },
     "CAC": {
-      "open": 8224.6104,
-      "high": 8286.4697,
-      "low": 8183.3398,
-      "close": 8183.3398,
-      "date": "2026-05-29"
+      "open": 8171.23,
+      "high": 8222.2402,
+      "low": 8101.1499,
+      "close": 8146.5898,
+      "date": "2026-06-01"
     },
     "FTSE": {
-      "open": 10425.9004,
-      "high": 10462.2002,
-      "low": 10409.2998,
-      "close": 10409.2998,
-      "date": "2026-05-29"
+      "open": 10409.2998,
+      "high": 10409.7998,
+      "low": 10288.9004,
+      "close": 10339.0,
+      "date": "2026-06-01"
     },
     "SPX": {
-      "open": 7579.3301,
-      "high": 7599.3799,
-      "low": 7563.5498,
-      "close": 7580.0601,
-      "date": "2026-05-29"
+      "open": 7582.29,
+      "high": 7617.6602,
+      "low": 7562.6099,
+      "close": 7599.96,
+      "date": "2026-06-01"
     },
     "NDX": {
-      "open": 30333.8594,
-      "high": 30470.0293,
-      "low": 30210.0098,
-      "close": 30333.1797,
-      "date": "2026-05-29"
+      "open": 30295.25,
+      "high": 30633.5508,
+      "low": 30241.1992,
+      "close": 30513.8594,
+      "date": "2026-06-01"
     },
     "DJI": {
-      "open": 50773.9102,
-      "high": 51094.1797,
-      "low": 50698.2695,
-      "close": 51032.4609,
-      "date": "2026-05-29"
+      "open": 51161.1016,
+      "high": 51161.1016,
+      "low": 50767.3203,
+      "close": 51078.8789,
+      "date": "2026-06-01"
     },
     "N225": {
-      "open": 65133.9688,
-      "high": 66505.0234,
-      "low": 65133.9688,
-      "close": 66329.5,
-      "date": "2026-05-29"
+      "open": 66363.4297,
+      "high": 67231.2812,
+      "low": 66244.8438,
+      "close": 66934.3281,
+      "date": "2026-06-01"
     },
     "HSI": {
-      "open": 25161.5195,
-      "high": 25313.3301,
-      "low": 25055.8008,
-      "close": 25182.3906,
-      "date": "2026-05-29"
+      "open": 25180.0508,
+      "high": 25486.7598,
+      "low": 25174.3008,
+      "close": 25398.1797,
+      "date": "2026-06-01"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1653,
-      "high": 1.1686,
-      "low": 1.1626,
-      "close": 1.1653,
-      "date": "2026-05-29"
+      "open": 1.1648,
+      "high": 1.1667,
+      "low": 1.1607,
+      "close": 1.1649,
+      "date": "2026-06-01"
     },
     "GBPUSD": {
-      "open": 1.3445,
-      "high": 1.3485,
-      "low": 1.341,
-      "close": 1.3444,
-      "date": "2026-05-29"
+      "open": 1.345,
+      "high": 1.3476,
+      "low": 1.3409,
+      "close": 1.3452,
+      "date": "2026-06-01"
     }
   },
   "vix": {
-    "value": 15.77,
-    "change_24h_pct": 2.94,
-    "date": "2026-06-01"
+    "value": 16.18,
+    "change_24h_pct": 0.81,
+    "date": "2026-06-02"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "02:30",
-      "country": "USD",
-      "indicator": "FOMC Member Powell Speaks",
-      "consensus": "",
-      "previous": "",
+      "time_paris": "11:00",
+      "country": "EUR",
+      "indicator": "Core CPI Flash Estimate y/y",
+      "consensus": "2.4%",
+      "previous": "2.2%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "11:00",
+      "country": "EUR",
+      "indicator": "CPI Flash Estimate y/y",
+      "consensus": "3.2%",
+      "previous": "3.0%",
       "impact": "Medium"
     },
     {
       "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "ISM Manufacturing PMI",
-      "consensus": "53.3",
-      "previous": "52.7",
+      "country": "GBP",
+      "indicator": "BOE Gov Bailey Speaks",
+      "consensus": "",
+      "previous": "",
       "impact": "High"
     },
     {
       "time_paris": "16:00",
       "country": "USD",
-      "indicator": "ISM Manufacturing Prices",
-      "consensus": "85.3",
-      "previous": "84.6",
+      "indicator": "JOLTS Job Openings",
+      "consensus": "6.87M",
+      "previous": "6.87M",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Put a £5 deposit on vapes to stop fires, say waste companies",
-      "summary": "The industry body for waste companies says a refundable deposit would help boost vape recycling, but others disagree.",
-      "url": "https://www.bbc.com/news/articles/c4g4vqex028o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 01 Jun 2026 08:29:03 GMT"
+      "title": "AI giant Anthropic plans to sell shares in US as valuation nears $1tn",
+      "summary": "The AI company behind Claude is set to offer the public the chance to buy and sell shares in the firm later this year.",
+      "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 02 Jun 2026 07:00:21 GMT"
     },
     {
-      "title": "EasyJet says possible takeover bid 'opportunistic'",
-      "summary": "US investment firm Castlelake is considering making an offer for the budget airline.",
-      "url": "https://www.bbc.com/news/articles/c042071p96po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 01 Jun 2026 09:47:11 GMT"
+      "title": "Third of people say uni degree not worth it, as student loan inquiry begins",
+      "summary": "MPs will hear the concerns of graduates about the size of their student debts, and the interest rates.",
+      "url": "https://www.bbc.com/news/articles/c2e29gk73rjo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 01 Jun 2026 23:09:45 GMT"
     },
     {
-      "title": "Nvidia announces new AI chip for personal computers",
-      "summary": "The technology giant's boss Jensen Huang called the move the \"reinvention of the computer\".",
-      "url": "https://www.bbc.com/news/articles/crmp9mppvzro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 01 Jun 2026 05:48:27 GMT"
+      "title": "Steph Curry signs with Chinese brand after Under Armour split",
+      "summary": "Chinese firms have been vying to secure deals with big stars as they push to become global brands.",
+      "url": "https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 02 Jun 2026 06:29:35 GMT"
     },
     {
-      "title": "Why is Lidl opening a pub?",
-      "summary": "The debate about about what seems like a bizarre idea of having a cold pint after exploring the store's well known middle aisle.",
-      "url": "https://www.bbc.com/news/articles/cze222z1300o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 31 May 2026 23:16:27 GMT"
+      "title": "London Tube strikes go ahead after talks fail",
+      "summary": "Members of the RMT union are on strike on Tuesday in a row over working hours, with further action planned for Thursday.",
+      "url": "https://www.bbc.com/news/articles/c4g01xv08weo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 02 Jun 2026 03:26:42 GMT"
     },
     {
-      "title": "A year of grief after Air India crash: What remains when a plane falls from the sky",
-      "summary": "A mother still speaks about her son who died in the crash in the present tense and a brother waits for answers.",
-      "url": "https://www.bbc.com/news/articles/ce9pp53ky42o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 01 Jun 2026 00:24:47 GMT"
+      "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+      "summary": "Florida Attorney General James Uthmeier alleges OpenAI and boss Sam Altman built a 'web of deceit'",
+      "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 01 Jun 2026 18:58:26 GMT"
     },
     {
-      "title": "Caribbean hot sauce producers warn of shortages and higher prices",
-      "summary": "Manufacturers in Jamaica say the key chilli peppers they need are in limited supply.",
-      "url": "https://www.bbc.com/news/articles/cq8p1jy3vxlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 31 May 2026 23:19:32 GMT"
+      "title": "How 'confused' AI rollout hurts firms and baffles staff",
+      "summary": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.",
+      "url": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 01 Jun 2026 23:05:11 GMT"
     },
     {
-      "title": "Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days",
-      "summary": "China's worst coal mining disaster in 15 years comes amid an ambitious pivot towards green energy.",
-      "url": "https://www.bbc.com/news/articles/cpwpeg57777o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 31 May 2026 23:32:04 GMT"
+      "title": "China goes after 'ghost kitchens' to rein in cut-throat food delivery apps",
+      "summary": "The thousands of \"ghost kitchens\" - online shops that don't actually exist - have spooked Chinese consumers.",
+      "url": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 02 Jun 2026 07:52:47 GMT"
     },
     {
-      "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
-      "summary": "The brand's first EV has been heavily criticised, with some saying it has abandoned Ferrari's roots.",
-      "url": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 30 May 2026 22:23:32 GMT"
+      "title": "Abusive passengers could be blacklisted from all airlines under new proposal",
+      "summary": "The scheme would allow airlines to share information on disruptive passengers and potentially restrict their access to flights.",
+      "url": "https://www.bbc.com/news/articles/c707pknywjno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 01 Jun 2026 13:42:12 GMT"
     }
   ],
   "sources_status": {
