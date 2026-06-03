@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-03T09:24:35.928885+00:00",
-  "generated_at_paris": "2026-06-03T11:24:35.928885+02:00",
+  "generated_at_utc": "2026-06-03T10:27:00.444071+00:00",
+  "generated_at_paris": "2026-06-03T12:27:00.444071+02:00",
   "date_paris": "2026-06-03",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 16.03,
-    "change_24h_pct": 1.65,
+    "value": 16.04,
+    "change_24h_pct": 1.71,
     "date": "2026-06-03"
   },
   "macro_calendar_today": [
@@ -124,7 +124,7 @@
       "title": "US announces new tariffs over forced labour concerns",
       "summary": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
       "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 08:38:36 GMT"
+      "published": "Wed, 03 Jun 2026 10:13:42 GMT"
     },
     {
       "title": "Publishers in UK can opt out of Google AI search results",
