@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-04T08:47:17.547511+00:00",
-  "generated_at_paris": "2026-06-04T10:47:17.547511+02:00",
+  "generated_at_utc": "2026-06-04T09:37:19.456036+00:00",
+  "generated_at_paris": "2026-06-04T11:37:19.456036+02:00",
   "date_paris": "2026-06-04",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 16.42,
-    "change_24h_pct": 2.24,
+    "value": 16.48,
+    "change_24h_pct": 2.62,
     "date": "2026-06-04"
   },
   "macro_calendar_today": [
@@ -115,10 +115,10 @@
       "published": "Thu, 04 Jun 2026 07:10:10 GMT"
     },
     {
-      "title": "US announces new tariffs over forced labour concerns",
-      "summary": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
-      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 15:12:28 GMT"
+      "title": "'I lost thousands in savings and my partner's money is in limbo'",
+      "summary": "The number of people withdrawing money from a LISA is outpacing the number using one to buy a home. Why?",
+      "url": "https://www.bbc.com/news/articles/c15215lz3k0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 04 Jun 2026 05:06:33 GMT"
     },
     {
       "title": "Three-quarters of workers not on track for 'moderate' pension income, report suggests",
@@ -127,16 +127,10 @@
       "published": "Tue, 02 Jun 2026 23:02:23 GMT"
     },
     {
-      "title": "'I lost thousands in savings and my partner's money is in limbo'",
-      "summary": "The number of people withdrawing money from a LISA is outpacing the number using one to buy a home. Why?",
-      "url": "https://www.bbc.com/news/articles/c15215lz3k0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 05:06:33 GMT"
-    },
-    {
-      "title": "'By the grace of God': Miners dig on as lab-grown diamonds change market",
-      "summary": "The rising popularity of lab-grown diamonds heaps pressure on those hunting for the natural gems.",
-      "url": "https://www.bbc.com/news/articles/czx2jqvwp7go?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 23:00:45 GMT"
+      "title": "Who is Elon Musk and what is his net worth?",
+      "summary": "The boss of X, Tesla and SpaceX is the world's richest person and has used his platform to make his views known on a vast array of topics.",
+      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 04 Jun 2026 08:35:54 GMT"
     },
     {
       "title": "Universal park officially named as government pledges £1.3bn",
@@ -145,16 +139,22 @@
       "published": "Wed, 03 Jun 2026 13:30:00 GMT"
     },
     {
-      "title": "Lloyds, Halifax and Bank of Scotland back after online banking outage",
-      "summary": "\"We're aware some customers are having issues with our app and online banking. We're really sorry about this,\" Lloyds Bank posted on X.",
-      "url": "https://www.bbc.com/news/articles/c9d37gdxp7xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 14:16:52 GMT"
+      "title": "'By the grace of God': Miners dig on as lab-grown diamonds change market",
+      "summary": "The rising popularity of lab-grown diamonds heaps pressure on those hunting for the natural gems.",
+      "url": "https://www.bbc.com/news/articles/czx2jqvwp7go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 23:00:45 GMT"
     },
     {
-      "title": "The 18 creatures in the running to be on the new banknotes",
-      "summary": "The Bank of England is asking the public which animals should appear on future banknotes.",
-      "url": "https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 23:02:18 GMT"
+      "title": "Costly fuel pushes more Indians to buy electric cars but challenges remain",
+      "summary": "High fuel prices are strengthening the case for EV adoption in the world's third largest auto market.",
+      "url": "https://www.bbc.com/news/articles/cx21181yq4no?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 23:28:31 GMT"
+    },
+    {
+      "title": "US announces new tariffs over forced labour concerns",
+      "summary": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
+      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 15:12:28 GMT"
     }
   ],
   "sources_status": {
