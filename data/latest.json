@@ -1,113 +1,125 @@
 {
-  "generated_at_utc": "2026-06-03T10:27:00.444071+00:00",
-  "generated_at_paris": "2026-06-03T12:27:00.444071+02:00",
-  "date_paris": "2026-06-03",
+  "generated_at_utc": "2026-06-04T08:47:17.547511+00:00",
+  "generated_at_paris": "2026-06-04T10:47:17.547511+02:00",
+  "date_paris": "2026-06-04",
   "indices": {
     "DAX": {
-      "open": 25197.9004,
-      "high": 25362.8301,
-      "low": 25061.6602,
-      "close": 25124.1699,
-      "date": "2026-06-02"
+      "open": 24912.3105,
+      "high": 24973.1504,
+      "low": 24761.9609,
+      "close": 24795.9395,
+      "date": "2026-06-03"
     },
     "CAC": {
-      "open": 8191.4702,
-      "high": 8244.6104,
-      "low": 8166.5298,
-      "close": 8209.0898,
-      "date": "2026-06-02"
+      "open": 8178.4302,
+      "high": 8199.0303,
+      "low": 8150.4199,
+      "close": 8150.4199,
+      "date": "2026-06-03"
     },
     "FTSE": {
-      "open": 10338.4004,
-      "high": 10395.7002,
-      "low": 10333.2998,
-      "close": 10373.5,
-      "date": "2026-06-02"
+      "open": 10373.9004,
+      "high": 10383.0996,
+      "low": 10322.4004,
+      "close": 10332.2998,
+      "date": "2026-06-03"
     },
     "SPX": {
-      "open": 7595.3999,
-      "high": 7620.8999,
-      "low": 7582.9902,
-      "close": 7609.7798,
-      "date": "2026-06-02"
+      "open": 7605.3101,
+      "high": 7605.3501,
+      "low": 7551.2202,
+      "close": 7553.6802,
+      "date": "2026-06-03"
     },
     "NDX": {
-      "open": 30471.6094,
-      "high": 30670.1094,
-      "low": 30372.9609,
-      "close": 30660.5996,
-      "date": "2026-06-02"
+      "open": 30730.1094,
+      "high": 30762.1992,
+      "low": 30441.8008,
+      "close": 30571.2402,
+      "date": "2026-06-03"
     },
     "DJI": {
-      "open": 50912.8398,
-      "high": 51369.6094,
-      "low": 50829.5508,
-      "close": 51307.7891,
-      "date": "2026-06-02"
+      "open": 51220.9219,
+      "high": 51220.9219,
+      "low": 50687.0703,
+      "close": 50687.0703,
+      "date": "2026-06-03"
     },
     "N225": {
-      "open": 66629.6016,
-      "high": 66748.0625,
-      "low": 65551.1328,
-      "close": 66734.2422,
-      "date": "2026-06-02"
+      "open": 67238.5312,
+      "high": 68786.4922,
+      "low": 67238.5312,
+      "close": 68402.1328,
+      "date": "2026-06-03"
     },
     "HSI": {
-      "open": 25395.0703,
-      "high": 26045.0703,
-      "low": 25394.6406,
-      "close": 26038.3203,
-      "date": "2026-06-02"
+      "open": 25953.0098,
+      "high": 25953.0098,
+      "low": 25569.4492,
+      "close": 25633.2109,
+      "date": "2026-06-03"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1636,
-      "high": 1.1655,
-      "low": 1.1629,
-      "close": 1.1635,
-      "date": "2026-06-02"
+      "open": 1.1622,
+      "high": 1.1636,
+      "low": 1.1595,
+      "close": 1.1622,
+      "date": "2026-06-03"
     },
     "GBPUSD": {
-      "open": 1.346,
-      "high": 1.3481,
-      "low": 1.3452,
-      "close": 1.346,
-      "date": "2026-06-02"
+      "open": 1.3453,
+      "high": 1.3473,
+      "low": 1.3422,
+      "close": 1.3454,
+      "date": "2026-06-03"
     }
   },
   "vix": {
-    "value": 16.04,
-    "change_24h_pct": 1.71,
-    "date": "2026-06-03"
+    "value": 16.42,
+    "change_24h_pct": 2.24,
+    "date": "2026-06-04"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "14:15",
-      "country": "USD",
-      "indicator": "ADP Non-Farm Employment Change",
-      "consensus": "118K",
-      "previous": "109K",
-      "impact": "High"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "ISM Services PMI",
-      "consensus": "53.7",
-      "previous": "53.6",
-      "impact": "High"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Treasury Sec Bessent Speaks",
+      "time_paris": "10:00",
+      "country": "EUR",
+      "indicator": "ECB President Lagarde Speaks",
       "consensus": "",
       "previous": "",
       "impact": "Medium"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Unemployment Claims",
+      "consensus": "214K",
+      "previous": "215K",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "17:40",
+      "country": "GBP",
+      "indicator": "BOE Gov Bailey Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
     }
   ],
   "news_bbc": [
+    {
+      "title": "SpaceX says it's worth $1.75tn as it targets largest stock market debut",
+      "summary": "Elon Musk’s space exploration company set a target share price for buyers earlier than expected.",
+      "url": "https://www.bbc.com/news/articles/cvgz237n40jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 04 Jun 2026 07:10:10 GMT"
+    },
+    {
+      "title": "US announces new tariffs over forced labour concerns",
+      "summary": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
+      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 15:12:28 GMT"
+    },
     {
       "title": "Three-quarters of workers not on track for 'moderate' pension income, report suggests",
       "summary": "A newly-published report suggests a moderate lifestyle in retirement costs £32,700 for one person and £45,400 for two.",
@@ -115,46 +127,34 @@
       "published": "Tue, 02 Jun 2026 23:02:23 GMT"
     },
     {
+      "title": "'I lost thousands in savings and my partner's money is in limbo'",
+      "summary": "The number of people withdrawing money from a LISA is outpacing the number using one to buy a home. Why?",
+      "url": "https://www.bbc.com/news/articles/c15215lz3k0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 04 Jun 2026 05:06:33 GMT"
+    },
+    {
+      "title": "'By the grace of God': Miners dig on as lab-grown diamonds change market",
+      "summary": "The rising popularity of lab-grown diamonds heaps pressure on those hunting for the natural gems.",
+      "url": "https://www.bbc.com/news/articles/czx2jqvwp7go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 23:00:45 GMT"
+    },
+    {
+      "title": "Universal park officially named as government pledges £1.3bn",
+      "summary": "The government's contribution is going towards upgrading local infrastructure and transport links.",
+      "url": "https://www.bbc.com/news/articles/cn8p3zjx7pzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 13:30:00 GMT"
+    },
+    {
+      "title": "Lloyds, Halifax and Bank of Scotland back after online banking outage",
+      "summary": "\"We're aware some customers are having issues with our app and online banking. We're really sorry about this,\" Lloyds Bank posted on X.",
+      "url": "https://www.bbc.com/news/articles/c9d37gdxp7xo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 14:16:52 GMT"
+    },
+    {
       "title": "The 18 creatures in the running to be on the new banknotes",
       "summary": "The Bank of England is asking the public which animals should appear on future banknotes.",
       "url": "https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 02 Jun 2026 23:02:18 GMT"
-    },
-    {
-      "title": "US announces new tariffs over forced labour concerns",
-      "summary": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
-      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 10:13:42 GMT"
-    },
-    {
-      "title": "Publishers in UK can opt out of Google AI search results",
-      "summary": "The Competition and Markets Authority says it would put publishers \"in a stronger position to negotiate content deals with Google\".",
-      "url": "https://www.bbc.com/news/articles/c775pp26yz5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 05:18:00 GMT"
-    },
-    {
-      "title": "King told me Post Office scandal was 'dreadful', says oldest victim",
-      "summary": "Betty Brown says she is accepting the honour on behalf of all the victims of the scandal.",
-      "url": "https://www.bbc.com/news/articles/czr2dlerv0zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 17:08:41 GMT"
-    },
-    {
-      "title": "How 'confused' AI rollout hurts firms and baffles staff",
-      "summary": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.",
-      "url": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 01 Jun 2026 23:05:11 GMT"
-    },
-    {
-      "title": "Microsoft testing wearable AI gadget aimed at office workers",
-      "summary": "The company said its own workers are testing a \"wearable access badge\" and a desktop device.",
-      "url": "https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 21:47:42 GMT"
-    },
-    {
-      "title": "Water firm fined £1.8m over parasite outbreak",
-      "summary": "Four people were hospitalised and there were more than 140 cases of sickness and diarrhoea in Devon.",
-      "url": "https://www.bbc.com/news/articles/c62xevydk05o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 17:18:43 GMT"
     }
   ],
   "sources_status": {
