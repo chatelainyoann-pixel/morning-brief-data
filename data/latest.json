@@ -1,160 +1,168 @@
 {
-  "generated_at_utc": "2026-06-04T09:37:19.456036+00:00",
-  "generated_at_paris": "2026-06-04T11:37:19.456036+02:00",
-  "date_paris": "2026-06-04",
+  "generated_at_utc": "2026-06-05T08:43:06.825716+00:00",
+  "generated_at_paris": "2026-06-05T10:43:06.825716+02:00",
+  "date_paris": "2026-06-05",
   "indices": {
     "DAX": {
-      "open": 24912.3105,
-      "high": 24973.1504,
-      "low": 24761.9609,
-      "close": 24795.9395,
-      "date": "2026-06-03"
+      "open": 24849.4297,
+      "high": 25009.0195,
+      "low": 24830.6309,
+      "close": 24944.9492,
+      "date": "2026-06-04"
     },
     "CAC": {
-      "open": 8178.4302,
-      "high": 8199.0303,
-      "low": 8150.4199,
-      "close": 8150.4199,
-      "date": "2026-06-03"
+      "open": 8151.5498,
+      "high": 8256.79,
+      "low": 8150.8901,
+      "close": 8244.29,
+      "date": "2026-06-04"
     },
     "FTSE": {
-      "open": 10373.9004,
-      "high": 10383.0996,
-      "low": 10322.4004,
-      "close": 10332.2998,
-      "date": "2026-06-03"
+      "open": 10332.5,
+      "high": 10360.2998,
+      "low": 10238.5996,
+      "close": 10360.2998,
+      "date": "2026-06-04"
     },
     "SPX": {
-      "open": 7605.3101,
-      "high": 7605.3501,
-      "low": 7551.2202,
-      "close": 7553.6802,
-      "date": "2026-06-03"
+      "open": 7516.54,
+      "high": 7598.1899,
+      "low": 7516.54,
+      "close": 7584.3101,
+      "date": "2026-06-04"
     },
     "NDX": {
-      "open": 30730.1094,
-      "high": 30762.1992,
-      "low": 30441.8008,
-      "close": 30571.2402,
-      "date": "2026-06-03"
+      "open": 30174.5898,
+      "high": 30541.4297,
+      "low": 30092.2305,
+      "close": 30407.8105,
+      "date": "2026-06-04"
     },
     "DJI": {
-      "open": 51220.9219,
-      "high": 51220.9219,
-      "low": 50687.0703,
-      "close": 50687.0703,
-      "date": "2026-06-03"
+      "open": 50986.1016,
+      "high": 51657.8906,
+      "low": 50986.1016,
+      "close": 51561.9297,
+      "date": "2026-06-04"
     },
     "N225": {
-      "open": 67238.5312,
-      "high": 68786.4922,
-      "low": 67238.5312,
-      "close": 68402.1328,
-      "date": "2026-06-03"
+      "open": 67860.8438,
+      "high": 68051.9375,
+      "low": 66920.7969,
+      "close": 67470.6875,
+      "date": "2026-06-04"
     },
     "HSI": {
-      "open": 25953.0098,
-      "high": 25953.0098,
-      "low": 25569.4492,
-      "close": 25633.2109,
-      "date": "2026-06-03"
+      "open": 25465.3008,
+      "high": 25499.0898,
+      "low": 25188.0195,
+      "close": 25253.4004,
+      "date": "2026-06-04"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1622,
-      "high": 1.1636,
-      "low": 1.1595,
-      "close": 1.1622,
-      "date": "2026-06-03"
+      "open": 1.1609,
+      "high": 1.1647,
+      "low": 1.1599,
+      "close": 1.1609,
+      "date": "2026-06-04"
     },
     "GBPUSD": {
-      "open": 1.3453,
-      "high": 1.3473,
-      "low": 1.3422,
-      "close": 1.3454,
-      "date": "2026-06-03"
+      "open": 1.3427,
+      "high": 1.3463,
+      "low": 1.3413,
+      "close": 1.3427,
+      "date": "2026-06-04"
     }
   },
   "vix": {
-    "value": 16.48,
-    "change_24h_pct": 2.62,
-    "date": "2026-06-04"
+    "value": 15.7,
+    "change_24h_pct": 1.95,
+    "date": "2026-06-05"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "10:00",
-      "country": "EUR",
-      "indicator": "ECB President Lagarde Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "Medium"
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Average Hourly Earnings m/m",
+      "consensus": "0.3%",
+      "previous": "0.2%",
+      "impact": "High"
     },
     {
       "time_paris": "14:30",
       "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "214K",
-      "previous": "215K",
-      "impact": "Medium"
+      "indicator": "Non-Farm Employment Change",
+      "consensus": "85K",
+      "previous": "115K",
+      "impact": "High"
     },
     {
-      "time_paris": "17:40",
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Unemployment Rate",
+      "consensus": "4.3%",
+      "previous": "4.3%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "20:00",
       "country": "GBP",
       "indicator": "BOE Gov Bailey Speaks",
       "consensus": "",
       "previous": "",
-      "impact": "High"
+      "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "SpaceX says it's worth $1.75tn as it targets largest stock market debut",
-      "summary": "Elon Musk’s space exploration company set a target share price for buyers earlier than expected.",
-      "url": "https://www.bbc.com/news/articles/cvgz237n40jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 07:10:10 GMT"
+      "title": "We need to have ability to slow AI down, says Anthropic co-founder",
+      "summary": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
+      "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 05 Jun 2026 07:17:39 GMT"
     },
     {
-      "title": "'I lost thousands in savings and my partner's money is in limbo'",
-      "summary": "The number of people withdrawing money from a LISA is outpacing the number using one to buy a home. Why?",
-      "url": "https://www.bbc.com/news/articles/c15215lz3k0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 05:06:33 GMT"
+      "title": "Musk's SpaceX share sale: Four things you need to know",
+      "summary": "From next week individual investors can take a stake in Musk's rockets-to-AI company.",
+      "url": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 04 Jun 2026 16:18:37 GMT"
     },
     {
-      "title": "Three-quarters of workers not on track for 'moderate' pension income, report suggests",
-      "summary": "A newly-published report suggests a moderate lifestyle in retirement costs £32,700 for one person and £45,400 for two.",
-      "url": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 23:02:23 GMT"
+      "title": "British Heart Foundation plans to close 150 charity shops",
+      "summary": "The charity says it is facing \"an exceptionally challenging trading environment\".",
+      "url": "https://www.bbc.com/news/articles/cvgzg48d9q0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 05 Jun 2026 02:32:16 GMT"
     },
     {
-      "title": "Who is Elon Musk and what is his net worth?",
-      "summary": "The boss of X, Tesla and SpaceX is the world's richest person and has used his platform to make his views known on a vast array of topics.",
-      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 08:35:54 GMT"
+      "title": "Single 20-somethings need AI to make first move on dating apps - Hinge boss",
+      "summary": "Jackie Jantos says loneliness and lack of confidence were challenges for young adults looking for relationships.",
+      "url": "https://www.bbc.com/news/articles/c052397y6ygo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 04 Jun 2026 23:05:54 GMT"
     },
     {
-      "title": "Universal park officially named as government pledges £1.3bn",
-      "summary": "The government's contribution is going towards upgrading local infrastructure and transport links.",
-      "url": "https://www.bbc.com/news/articles/cn8p3zjx7pzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 13:30:00 GMT"
+      "title": "China cracks down on soft porn, violence and materialism in viral micro dramas",
+      "summary": "Micro dramas have surged in popularity, but drawn criticism for often sensationalist content.",
+      "url": "https://www.bbc.com/news/articles/clypy34pj6yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 05 Jun 2026 05:16:54 GMT"
     },
     {
-      "title": "'By the grace of God': Miners dig on as lab-grown diamonds change market",
-      "summary": "The rising popularity of lab-grown diamonds heaps pressure on those hunting for the natural gems.",
-      "url": "https://www.bbc.com/news/articles/czx2jqvwp7go?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 23:00:45 GMT"
+      "title": "The ancient trick making food waste useful and tasty",
+      "summary": "Instead of throwing away byproducts of food processing, fermentation is making them valuable.",
+      "url": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 04 Jun 2026 23:10:26 GMT"
     },
     {
-      "title": "Costly fuel pushes more Indians to buy electric cars but challenges remain",
-      "summary": "High fuel prices are strengthening the case for EV adoption in the world's third largest auto market.",
-      "url": "https://www.bbc.com/news/articles/cx21181yq4no?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 23:28:31 GMT"
+      "title": "Trump announces $700m coal investment using wartime powers",
+      "summary": "The president is directing money into coal as the Iran war drives up energy costs for Americans.",
+      "url": "https://www.bbc.com/news/articles/cy0209r62k5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 05 Jun 2026 00:03:36 GMT"
     },
     {
-      "title": "US announces new tariffs over forced labour concerns",
-      "summary": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
-      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 03 Jun 2026 15:12:28 GMT"
+      "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
+      "summary": "Naomi Gleit has weathered many controversies at Meta, but remains in what she tells the BBC is her \"dream job\".",
+      "url": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 04 Jun 2026 23:05:39 GMT"
     }
   ],
   "sources_status": {
