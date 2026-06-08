@@ -1,168 +1,135 @@
 {
-  "generated_at_utc": "2026-06-05T08:58:55.986450+00:00",
-  "generated_at_paris": "2026-06-05T10:58:55.986450+02:00",
-  "date_paris": "2026-06-05",
+  "generated_at_utc": "2026-06-08T09:22:12.980625+00:00",
+  "generated_at_paris": "2026-06-08T11:22:12.980625+02:00",
+  "date_paris": "2026-06-08",
   "indices": {
     "DAX": {
-      "open": 24849.4297,
-      "high": 25009.0195,
-      "low": 24830.6309,
-      "close": 24944.9492,
-      "date": "2026-06-04"
+      "open": 24881.8691,
+      "high": 25024.0508,
+      "low": 24756.4707,
+      "close": 24759.0508,
+      "date": "2026-06-05"
     },
     "CAC": {
-      "open": 8151.5498,
-      "high": 8256.79,
-      "low": 8150.8901,
-      "close": 8244.29,
-      "date": "2026-06-04"
+      "open": 8265.1299,
+      "high": 8296.0098,
+      "low": 8218.2402,
+      "close": 8218.2402,
+      "date": "2026-06-05"
     },
     "FTSE": {
-      "open": 10332.5,
-      "high": 10360.2998,
-      "low": 10238.5996,
-      "close": 10360.2998,
-      "date": "2026-06-04"
+      "open": 10360.2998,
+      "high": 10415.7002,
+      "low": 10331.5,
+      "close": 10368.0996,
+      "date": "2026-06-05"
     },
     "SPX": {
-      "open": 7516.54,
-      "high": 7598.1899,
-      "low": 7516.54,
-      "close": 7584.3101,
-      "date": "2026-06-04"
+      "open": 7537.3599,
+      "high": 7541.8101,
+      "low": 7368.6299,
+      "close": 7383.7402,
+      "date": "2026-06-05"
     },
     "NDX": {
-      "open": 30174.5898,
-      "high": 30541.4297,
-      "low": 30092.2305,
-      "close": 30407.8105,
-      "date": "2026-06-04"
+      "open": 29992.3691,
+      "high": 30051.0801,
+      "low": 28929.8809,
+      "close": 28957.5996,
+      "date": "2026-06-05"
     },
     "DJI": {
-      "open": 50986.1016,
-      "high": 51657.8906,
-      "low": 50986.1016,
-      "close": 51561.9297,
-      "date": "2026-06-04"
+      "open": 51610.0195,
+      "high": 51660.3984,
+      "low": 50781.4492,
+      "close": 50866.7812,
+      "date": "2026-06-05"
     },
     "N225": {
-      "open": 67860.8438,
-      "high": 68051.9375,
-      "low": 66920.7969,
-      "close": 67470.6875,
-      "date": "2026-06-04"
+      "open": 67115.0,
+      "high": 67115.0,
+      "low": 65862.2109,
+      "close": 66588.1172,
+      "date": "2026-06-05"
     },
     "HSI": {
-      "open": 25465.3008,
-      "high": 25499.0898,
-      "low": 25188.0195,
-      "close": 25253.4004,
-      "date": "2026-06-04"
+      "open": 25186.1191,
+      "high": 25216.1797,
+      "low": 24928.1406,
+      "close": 24961.9492,
+      "date": "2026-06-05"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1609,
-      "high": 1.1647,
-      "low": 1.1599,
-      "close": 1.1609,
-      "date": "2026-06-04"
+      "open": 1.1614,
+      "high": 1.1646,
+      "low": 1.1531,
+      "close": 1.1613,
+      "date": "2026-06-05"
     },
     "GBPUSD": {
-      "open": 1.3427,
-      "high": 1.3463,
-      "low": 1.3413,
+      "open": 1.3425,
+      "high": 1.3483,
+      "low": 1.3357,
       "close": 1.3427,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     }
   },
   "vix": {
-    "value": 15.7,
-    "change_24h_pct": 1.95,
-    "date": "2026-06-05"
+    "value": 19.97,
+    "change_24h_pct": -7.16,
+    "date": "2026-06-08"
   },
-  "macro_calendar_today": [
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Average Hourly Earnings m/m",
-      "consensus": "0.3%",
-      "previous": "0.2%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Non-Farm Employment Change",
-      "consensus": "85K",
-      "previous": "115K",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Unemployment Rate",
-      "consensus": "4.3%",
-      "previous": "4.3%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "20:00",
-      "country": "GBP",
-      "indicator": "BOE Gov Bailey Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "Medium"
-    }
-  ],
+  "macro_calendar_today": [],
   "news_bbc": [
     {
-      "title": "We need to have ability to slow AI down, says Anthropic co-founder",
-      "summary": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
-      "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 07:17:39 GMT"
+      "title": "Tech stocks plunge in Asia after record rally and renewed Middle East attacks",
+      "summary": "Markets in South Korea and Japan are hit by a tech sell-off, and oil rises as Iran and Israel launch attacks at each other",
+      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 08:36:21 GMT"
     },
     {
-      "title": "Musk's SpaceX share sale: Four things you need to know",
-      "summary": "From next week individual investors can take a stake in Musk's rockets-to-AI company.",
-      "url": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 16:18:37 GMT"
+      "title": "You may be saving for retirement without realising it. Here's how to check",
+      "summary": "One simple check could ensure you are not missing out on free money which could help in later life.",
+      "url": "https://www.bbc.com/news/articles/c1k2kpdzjdzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 07 Jun 2026 23:40:09 GMT"
     },
     {
-      "title": "British Heart Foundation plans to close 150 charity shops",
-      "summary": "The charity says it is facing \"an exceptionally challenging trading environment\".",
-      "url": "https://www.bbc.com/news/articles/cvgzg48d9q0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 02:32:16 GMT"
+      "title": "M&S launches new traineeship for 1,000 young people",
+      "summary": "The scheme aims to tackle the \"growing challenge\" of young people not in employment, education, or training.",
+      "url": "https://www.bbc.com/news/articles/cr7xr3dvxp9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 06:03:37 GMT"
     },
     {
-      "title": "Single 20-somethings need AI to make first move on dating apps - Hinge boss",
-      "summary": "Jackie Jantos says loneliness and lack of confidence were challenges for young adults looking for relationships.",
-      "url": "https://www.bbc.com/news/articles/c052397y6ygo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 23:05:54 GMT"
+      "title": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
+      "summary": "The Netherlands has one of the world's lowest rates of 16 to 24-year-olds not in education, employment or training.",
+      "url": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 07 Jun 2026 23:03:23 GMT"
     },
     {
-      "title": "China cracks down on soft porn, violence and materialism in viral micro dramas",
-      "summary": "Micro dramas have surged in popularity, but drawn criticism for often sensationalist content.",
-      "url": "https://www.bbc.com/news/articles/clypy34pj6yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 05:16:54 GMT"
+      "title": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
+      "summary": "The European country had 9.1 million international visitors in April, the most ever for that month.",
+      "url": "https://www.bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 07 Jun 2026 23:01:04 GMT"
     },
     {
-      "title": "The ancient trick making food waste useful and tasty",
-      "summary": "Instead of throwing away byproducts of food processing, fermentation is making them valuable.",
-      "url": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 23:10:26 GMT"
+      "title": "Tata Steel says new £1.25bn furnace may be delayed due to electrical issue",
+      "summary": "Plans for £1.25bn steel-making furnace may be delayed by electrical connectivity problem, Tata says.",
+      "url": "https://www.bbc.com/news/articles/ckg0w0lw451o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 07 Jun 2026 12:56:07 GMT"
     },
     {
-      "title": "Trump announces $700m coal investment using wartime powers",
-      "summary": "The president is directing money into coal as the Iran war drives up energy costs for Americans.",
-      "url": "https://www.bbc.com/news/articles/cy0209r62k5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 00:03:36 GMT"
+      "title": "I was applying for hundreds of jobs - this tip helped me get one",
+      "summary": "Four people who weren't hearing back from job applications shared what they did differently to secure their first role.",
+      "url": "https://www.bbc.com/news/articles/cd7pqwr5lqxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 23:39:00 GMT"
     },
     {
-      "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
-      "summary": "Naomi Gleit has weathered many controversies at Meta, but remains in what she tells the BBC is her \"dream job\".",
-      "url": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 23:05:39 GMT"
+      "title": "Cake sheds are making bakers £1,000 a week - but the dream might be over",
+      "summary": "They may have captured the public's imagination, but are councils coming for the cute cake cupboards?",
+      "url": "https://www.bbc.com/news/articles/crlpwd2prd0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 23:41:06 GMT"
     }
   ],
   "sources_status": {
@@ -171,7 +138,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": true,
+    "ff_macro_calendar_ok": false,
     "bbc_news_ok": true
   }
 }
