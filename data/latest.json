@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-08T09:22:12.980625+00:00",
-  "generated_at_paris": "2026-06-08T11:22:12.980625+02:00",
+  "generated_at_utc": "2026-06-08T10:09:15.190807+00:00",
+  "generated_at_paris": "2026-06-08T12:09:15.190807+02:00",
   "date_paris": "2026-06-08",
   "indices": {
     "DAX": {
@@ -77,23 +77,23 @@
     }
   },
   "vix": {
-    "value": 19.97,
-    "change_24h_pct": -7.16,
+    "value": 19.69,
+    "change_24h_pct": -8.46,
     "date": "2026-06-08"
   },
   "macro_calendar_today": [],
   "news_bbc": [
     {
-      "title": "Tech stocks plunge in Asia after record rally and renewed Middle East attacks",
-      "summary": "Markets in South Korea and Japan are hit by a tech sell-off, and oil rises as Iran and Israel launch attacks at each other",
+      "title": "Stock markets fall on tech plunge and renewed Middle East attacks",
+      "summary": "Markets in Europe and Asia were hit by a tech sell-off, and oil rises as Iran and Israel launch attacks at each other",
       "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 08:36:21 GMT"
+      "published": "Mon, 08 Jun 2026 09:27:46 GMT"
     },
     {
-      "title": "You may be saving for retirement without realising it. Here's how to check",
+      "title": "You may be saving to give up work without realising it. Here's how to check",
       "summary": "One simple check could ensure you are not missing out on free money which could help in later life.",
       "url": "https://www.bbc.com/news/articles/c1k2kpdzjdzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 23:40:09 GMT"
+      "published": "Mon, 08 Jun 2026 09:48:10 GMT"
     },
     {
       "title": "M&S launches new traineeship for 1,000 young people",
@@ -114,10 +114,10 @@
       "published": "Sun, 07 Jun 2026 23:01:04 GMT"
     },
     {
-      "title": "Tata Steel says new £1.25bn furnace may be delayed due to electrical issue",
-      "summary": "Plans for £1.25bn steel-making furnace may be delayed by electrical connectivity problem, Tata says.",
-      "url": "https://www.bbc.com/news/articles/ckg0w0lw451o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 12:56:07 GMT"
+      "title": "City Airport faces opposition to large jet plans",
+      "summary": "A committee of the London Assembly wants London City Airport's plans halted due to noise concerns.",
+      "url": "https://www.bbc.com/news/articles/cn9p0yjd57wo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 05:17:07 GMT"
     },
     {
       "title": "I was applying for hundreds of jobs - this tip helped me get one",
@@ -126,10 +126,10 @@
       "published": "Sat, 06 Jun 2026 23:39:00 GMT"
     },
     {
-      "title": "Cake sheds are making bakers £1,000 a week - but the dream might be over",
-      "summary": "They may have captured the public's imagination, but are councils coming for the cute cake cupboards?",
-      "url": "https://www.bbc.com/news/articles/crlpwd2prd0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 23:41:06 GMT"
+      "title": "Tata Steel says new £1.25bn furnace may be delayed due to electrical issue",
+      "summary": "Plans for £1.25bn steel-making furnace may be delayed by electrical connectivity problem, Tata says.",
+      "url": "https://www.bbc.com/news/articles/ckg0w0lw451o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 07 Jun 2026 12:56:07 GMT"
     }
   ],
   "sources_status": {
