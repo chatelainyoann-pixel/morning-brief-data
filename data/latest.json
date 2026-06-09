@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-09T08:30:12.859791+00:00",
-  "generated_at_paris": "2026-06-09T10:30:12.859791+02:00",
+  "generated_at_utc": "2026-06-09T08:53:29.897632+00:00",
+  "generated_at_paris": "2026-06-09T10:53:29.897632+02:00",
   "date_paris": "2026-06-09",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 18.11,
-    "change_24h_pct": -4.28,
+    "value": 18.17,
+    "change_24h_pct": -3.96,
     "date": "2026-06-09"
   },
   "macro_calendar_today": [],
