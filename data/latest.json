@@ -1,135 +1,135 @@
 {
-  "generated_at_utc": "2026-06-08T10:09:15.190807+00:00",
-  "generated_at_paris": "2026-06-08T12:09:15.190807+02:00",
-  "date_paris": "2026-06-08",
+  "generated_at_utc": "2026-06-09T08:30:12.859791+00:00",
+  "generated_at_paris": "2026-06-09T10:30:12.859791+02:00",
+  "date_paris": "2026-06-09",
   "indices": {
     "DAX": {
-      "open": 24881.8691,
-      "high": 25024.0508,
-      "low": 24756.4707,
-      "close": 24759.0508,
-      "date": "2026-06-05"
+      "open": 24447.3203,
+      "high": 24732.5996,
+      "low": 24426.6094,
+      "close": 24616.2207,
+      "date": "2026-06-08"
     },
     "CAC": {
-      "open": 8265.1299,
-      "high": 8296.0098,
-      "low": 8218.2402,
-      "close": 8218.2402,
-      "date": "2026-06-05"
+      "open": 8133.46,
+      "high": 8230.4697,
+      "low": 8121.3999,
+      "close": 8199.29,
+      "date": "2026-06-08"
     },
     "FTSE": {
-      "open": 10360.2998,
-      "high": 10415.7002,
-      "low": 10331.5,
-      "close": 10368.0996,
-      "date": "2026-06-05"
+      "open": 10369.0996,
+      "high": 10409.2998,
+      "low": 10319.2002,
+      "close": 10373.2002,
+      "date": "2026-06-08"
     },
     "SPX": {
-      "open": 7537.3599,
-      "high": 7541.8101,
-      "low": 7368.6299,
-      "close": 7383.7402,
-      "date": "2026-06-05"
+      "open": 7440.5698,
+      "high": 7466.8101,
+      "low": 7395.1299,
+      "close": 7405.73,
+      "date": "2026-06-08"
     },
     "NDX": {
-      "open": 29992.3691,
-      "high": 30051.0801,
-      "low": 28929.8809,
-      "close": 28957.5996,
-      "date": "2026-06-05"
+      "open": 29482.1895,
+      "high": 29697.9004,
+      "low": 29294.0195,
+      "close": 29414.2598,
+      "date": "2026-06-08"
     },
     "DJI": {
-      "open": 51610.0195,
-      "high": 51660.3984,
-      "low": 50781.4492,
-      "close": 50866.7812,
-      "date": "2026-06-05"
+      "open": 50997.2305,
+      "high": 51277.1484,
+      "low": 50732.3516,
+      "close": 50786.0117,
+      "date": "2026-06-08"
     },
     "N225": {
-      "open": 67115.0,
-      "high": 67115.0,
-      "low": 65862.2109,
-      "close": 66588.1172,
-      "date": "2026-06-05"
+      "open": 65947.5625,
+      "high": 66115.1797,
+      "low": 63406.6602,
+      "close": 64024.6016,
+      "date": "2026-06-08"
     },
     "HSI": {
-      "open": 25186.1191,
-      "high": 25216.1797,
-      "low": 24928.1406,
-      "close": 24961.9492,
-      "date": "2026-06-05"
+      "open": 24582.9102,
+      "high": 24837.9805,
+      "low": 24458.5391,
+      "close": 24657.0605,
+      "date": "2026-06-08"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1614,
-      "high": 1.1646,
-      "low": 1.1531,
-      "close": 1.1613,
-      "date": "2026-06-05"
+      "open": 1.1525,
+      "high": 1.1554,
+      "low": 1.1501,
+      "close": 1.1523,
+      "date": "2026-06-08"
     },
     "GBPUSD": {
-      "open": 1.3425,
-      "high": 1.3483,
-      "low": 1.3357,
-      "close": 1.3427,
-      "date": "2026-06-05"
+      "open": 1.3336,
+      "high": 1.337,
+      "low": 1.3307,
+      "close": 1.3336,
+      "date": "2026-06-08"
     }
   },
   "vix": {
-    "value": 19.69,
-    "change_24h_pct": -8.46,
-    "date": "2026-06-08"
+    "value": 18.11,
+    "change_24h_pct": -4.28,
+    "date": "2026-06-09"
   },
   "macro_calendar_today": [],
   "news_bbc": [
     {
-      "title": "Stock markets fall on tech plunge and renewed Middle East attacks",
-      "summary": "Markets in Europe and Asia were hit by a tech sell-off, and oil rises as Iran and Israel launch attacks at each other",
-      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 09:27:46 GMT"
+      "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
+      "summary": "The company behind ChatGPT files its plans one week after Anthropic did the same.",
+      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 08:02:43 GMT"
     },
     {
-      "title": "You may be saving to give up work without realising it. Here's how to check",
-      "summary": "One simple check could ensure you are not missing out on free money which could help in later life.",
-      "url": "https://www.bbc.com/news/articles/c1k2kpdzjdzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 09:48:10 GMT"
+      "title": "Driving test booking rules tightened after thousands of no shows",
+      "summary": "Learner drivers can only swap their test to the three centres nearest to their original booking.",
+      "url": "https://www.bbc.com/news/articles/c4gyel9n02zo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 23:05:32 GMT"
     },
     {
-      "title": "M&S launches new traineeship for 1,000 young people",
-      "summary": "The scheme aims to tackle the \"growing challenge\" of young people not in employment, education, or training.",
-      "url": "https://www.bbc.com/news/articles/cr7xr3dvxp9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 06:03:37 GMT"
+      "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
+      "summary": "SpaceX is preparing for a stock market debut that could transform the company, the wider market and Elon Musk's fortune.",
+      "url": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 23:22:17 GMT"
     },
     {
-      "title": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
-      "summary": "The Netherlands has one of the world's lowest rates of 16 to 24-year-olds not in education, employment or training.",
-      "url": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 23:03:23 GMT"
+      "title": "US adds BYD to list of firms with alleged Chinese military ties",
+      "summary": "The Pentagon list warns US firms of risks linked to working with flagged Chinese companies.",
+      "url": "https://www.bbc.com/news/articles/c75y6e5p9reo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 07:20:59 GMT"
     },
     {
-      "title": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
-      "summary": "The European country had 9.1 million international visitors in April, the most ever for that month.",
-      "url": "https://www.bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 23:01:04 GMT"
+      "title": "How driving test booking is changing for learner drivers",
+      "summary": "From 12 May, only learner drivers can book their own tests, not instructors.",
+      "url": "https://www.bbc.com/news/articles/ckgpl9zdw3po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 23:06:07 GMT"
     },
     {
-      "title": "City Airport faces opposition to large jet plans",
-      "summary": "A committee of the London Assembly wants London City Airport's plans halted due to noise concerns.",
-      "url": "https://www.bbc.com/news/articles/cn9p0yjd57wo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 05:17:07 GMT"
+      "title": "Could humanoid robots be heading for the battlefield?",
+      "summary": "Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off.",
+      "url": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 23:06:30 GMT"
     },
     {
-      "title": "I was applying for hundreds of jobs - this tip helped me get one",
-      "summary": "Four people who weren't hearing back from job applications shared what they did differently to secure their first role.",
-      "url": "https://www.bbc.com/news/articles/cd7pqwr5lqxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 23:39:00 GMT"
+      "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
+      "summary": "The former leader of crypto platform FTX, currently serving a 25-year sentence, on Monday officially applied to be pardoned.",
+      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 17:18:21 GMT"
     },
     {
-      "title": "Tata Steel says new £1.25bn furnace may be delayed due to electrical issue",
-      "summary": "Plans for £1.25bn steel-making furnace may be delayed by electrical connectivity problem, Tata says.",
-      "url": "https://www.bbc.com/news/articles/ckg0w0lw451o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 12:56:07 GMT"
+      "title": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories",
+      "summary": "Kyiv has made it difficult for Moscow to provide military and civilian supplies to the territories it occupies.",
+      "url": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 23:23:15 GMT"
     }
   ],
   "sources_status": {
