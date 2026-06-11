@@ -1,168 +1,184 @@
 {
-  "generated_at_utc": "2026-06-10T09:34:08.319442+00:00",
-  "generated_at_paris": "2026-06-10T11:34:08.319442+02:00",
-  "date_paris": "2026-06-10",
+  "generated_at_utc": "2026-06-11T09:11:58.582690+00:00",
+  "generated_at_paris": "2026-06-11T11:11:58.582690+02:00",
+  "date_paris": "2026-06-11",
   "indices": {
     "DAX": {
-      "open": 24447.3203,
-      "high": 24732.5996,
-      "low": 24426.6094,
-      "close": 24616.2207,
-      "date": "2026-06-08"
+      "open": 24589.2891,
+      "high": 24820.9492,
+      "low": 24398.8691,
+      "close": 24433.0605,
+      "date": "2026-06-09"
     },
     "CAC": {
-      "open": 8133.46,
-      "high": 8230.4697,
-      "low": 8121.3999,
-      "close": 8199.29,
-      "date": "2026-06-08"
+      "open": 8179.2202,
+      "high": 8290.7002,
+      "low": 8175.6099,
+      "close": 8203.4297,
+      "date": "2026-06-09"
     },
     "FTSE": {
-      "open": 10369.0996,
-      "high": 10409.2998,
-      "low": 10319.2002,
-      "close": 10373.2002,
-      "date": "2026-06-08"
+      "open": 10372.7998,
+      "high": 10372.7998,
+      "low": 10227.2998,
+      "close": 10227.2998,
+      "date": "2026-06-09"
     },
     "SPX": {
       "open": NaN,
       "high": NaN,
       "low": NaN,
       "close": NaN,
-      "date": "2026-06-09"
+      "date": "2026-06-10"
     },
     "NDX": {
       "open": NaN,
       "high": NaN,
       "low": NaN,
       "close": NaN,
-      "date": "2026-06-09"
+      "date": "2026-06-10"
     },
     "DJI": {
       "open": NaN,
       "high": NaN,
       "low": NaN,
       "close": NaN,
-      "date": "2026-06-09"
+      "date": "2026-06-10"
     },
     "N225": {
-      "open": 65947.5625,
-      "high": 66115.1797,
-      "low": 63406.6602,
-      "close": 64024.6016,
-      "date": "2026-06-08"
+      "open": 64625.2617,
+      "high": 65485.1602,
+      "low": 63918.9609,
+      "close": 65416.6289,
+      "date": "2026-06-09"
     },
     "HSI": {
-      "open": 24582.9102,
-      "high": 24837.9805,
-      "low": 24458.5391,
-      "close": 24657.0605,
-      "date": "2026-06-08"
+      "open": 24551.9297,
+      "high": 24740.6504,
+      "low": 24486.3906,
+      "close": 24565.9004,
+      "date": "2026-06-09"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1528,
-      "high": 1.1578,
-      "low": 1.1528,
-      "close": 1.1528,
-      "date": "2026-06-09"
+      "open": 1.1535,
+      "high": 1.1574,
+      "low": 1.1534,
+      "close": 1.1535,
+      "date": "2026-06-10"
     },
     "GBPUSD": {
-      "open": 1.3333,
-      "high": 1.3409,
-      "low": 1.3332,
-      "close": 1.3333,
-      "date": "2026-06-09"
+      "open": 1.3372,
+      "high": 1.3423,
+      "low": 1.3369,
+      "close": 1.3372,
+      "date": "2026-06-10"
     }
   },
   "vix": {
-    "value": 21.21,
-    "change_24h_pct": 12.1,
-    "date": "2026-06-10"
+    "value": 20.59,
+    "change_24h_pct": 3.62,
+    "date": "2026-06-11"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Core CPI m/m",
-      "consensus": "0.3%",
-      "previous": "0.4%",
+      "time_paris": "14:15",
+      "country": "EUR",
+      "indicator": "Main Refinancing Rate",
+      "consensus": "2.40%",
+      "previous": "2.15%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:15",
+      "country": "EUR",
+      "indicator": "Monetary Policy Statement",
+      "consensus": "",
+      "previous": "",
       "impact": "High"
     },
     {
       "time_paris": "14:30",
       "country": "USD",
-      "indicator": "Core CPI y/y",
-      "consensus": "2.9%",
-      "previous": "2.8%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "CPI m/m",
+      "indicator": "Core PPI m/m",
       "consensus": "0.5%",
-      "previous": "0.6%",
+      "previous": "1.0%",
       "impact": "High"
     },
     {
       "time_paris": "14:30",
       "country": "USD",
-      "indicator": "CPI y/y",
-      "consensus": "4.2%",
-      "previous": "3.8%",
+      "indicator": "PPI m/m",
+      "consensus": "0.7%",
+      "previous": "1.4%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Unemployment Claims",
+      "consensus": "220K",
+      "previous": "225K",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:45",
+      "country": "EUR",
+      "indicator": "ECB Press Conference",
+      "consensus": "",
+      "previous": "",
       "impact": "High"
     }
   ],
   "news_bbc": [
     {
-      "title": "Bill debt soars but many don't know help is available",
-      "summary": "The majority of billpayers are unaware of special tariffs for water and broadband, the spending watchdog says.",
-      "url": "https://www.bbc.com/news/articles/cdjkevgv9rzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 23:03:32 GMT"
+      "title": "Ryanair investigated over charging parents to sit with children",
+      "summary": "The UK's competition regulator is investigating the airline over charges it imposes on parents to sit next to their child.",
+      "url": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 11 Jun 2026 07:37:26 GMT"
     },
     {
-      "title": "World's largest chipmaker does not rule out price rises as costs increase",
-      "summary": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
-      "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 22:00:24 GMT"
+      "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
+      "summary": "The retail group already owns just over a quarter of the German fashion brand but wants to buy the rest of it.",
+      "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 23:04:46 GMT"
     },
     {
-      "title": "How to enjoy the World Cup - and keep your boss on side",
-      "summary": "Football fans and bosses share their strategies to balance late night kick offs with work the next day.",
-      "url": "https://www.bbc.com/news/articles/c0r2yldw1vjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 23:03:08 GMT"
+      "title": "The furious dispute over what caused Air India flight 171 to crash",
+      "summary": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+      "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 23:10:11 GMT"
     },
     {
-      "title": "UK pint prices up 36% since last World Cup – here's why",
-      "summary": "UK pint prices are up 36% since the last World Cup. We look at why beer now costs so much more.",
-      "url": "https://www.bbc.com/news/articles/c982107drq8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 10 Jun 2026 05:23:36 GMT"
+      "title": "I'd have vetoed foreign sale of UK tech giant, says Business Secretary",
+      "summary": "Peter Kyle's comments come as the government sets out how it would back British technology companies.",
+      "url": "https://www.bbc.com/news/articles/cd0mg79ggm0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 23:01:38 GMT"
     },
     {
-      "title": "Beauty Pie LED mask ad banned over misleading anti-wrinkle claim",
-      "summary": "The mask is not \"clinically proven to reduce wrinkles in four weeks\", the advertising watchdog finds.",
-      "url": "https://www.bbc.com/news/articles/c892lj7xn02o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 23:03:20 GMT"
+      "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+      "summary": "Consumers are increasingly feeling the strain of the US-Israel war in Iran.",
+      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 11 Jun 2026 00:02:45 GMT"
     },
     {
-      "title": "Kalshi to make some users reveal job details to tackle insider trading",
-      "summary": "After issues with insider trading, the prediction betting platform is adding new rules.",
-      "url": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 22:32:31 GMT"
+      "title": "'A little goes a long way': New York's candy stores sweeten economic gloom",
+      "summary": "While US consumer confidence is at an historic low the Big Apple's sweet shops are expanding.",
+      "url": "https://www.bbc.com/news/articles/c30ylzlygngo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 23:01:54 GMT"
     },
     {
-      "title": "Version of AI tool 'too powerful for public' released to public",
-      "summary": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
-      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 18:35:59 GMT"
+      "title": "Social media on trial: Four important cases to watch",
+      "summary": "Social media firms face thousands of lawsuits, the BBC looks at four which could be significant.",
+      "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 11 Jun 2026 05:02:29 GMT"
     },
     {
-      "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
-      "summary": "The company behind ChatGPT files its plans one week after Anthropic did the same.",
-      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 08:02:43 GMT"
+      "title": "Korea fines e-commerce giant $400m over data breach affecting millions",
+      "summary": "The record fine comes after around 37.5 million users had their private data exposed.",
+      "url": "https://www.bbc.com/news/articles/cvgj4rgz2n2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 11 Jun 2026 07:32:57 GMT"
     }
   ],
   "sources_status": {
