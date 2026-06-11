@@ -1,63 +1,63 @@
 {
-  "generated_at_utc": "2026-06-11T09:11:58.582690+00:00",
-  "generated_at_paris": "2026-06-11T11:11:58.582690+02:00",
+  "generated_at_utc": "2026-06-11T09:57:10.487815+00:00",
+  "generated_at_paris": "2026-06-11T11:57:10.487815+02:00",
   "date_paris": "2026-06-11",
   "indices": {
     "DAX": {
-      "open": 24589.2891,
-      "high": 24820.9492,
-      "low": 24398.8691,
-      "close": 24433.0605,
-      "date": "2026-06-09"
+      "open": 24507.4004,
+      "high": 24517.4805,
+      "low": 24043.5195,
+      "close": 24195.3105,
+      "date": "2026-06-10"
     },
     "CAC": {
-      "open": 8179.2202,
-      "high": 8290.7002,
-      "low": 8175.6099,
-      "close": 8203.4297,
-      "date": "2026-06-09"
+      "open": 8223.0498,
+      "high": 8240.6299,
+      "low": 8113.0,
+      "close": 8161.8301,
+      "date": "2026-06-10"
     },
     "FTSE": {
-      "open": 10372.7998,
-      "high": 10372.7998,
-      "low": 10227.2998,
-      "close": 10227.2998,
-      "date": "2026-06-09"
+      "open": 10227.4004,
+      "high": 10263.7998,
+      "low": 10127.5996,
+      "close": 10254.7998,
+      "date": "2026-06-10"
     },
     "SPX": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
+      "open": 7350.54,
+      "high": 7396.5601,
+      "low": 7265.9302,
+      "close": 7266.9902,
       "date": "2026-06-10"
     },
     "NDX": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
+      "open": 28893.8203,
+      "high": 29212.3809,
+      "low": 28462.9199,
+      "close": 28508.0293,
       "date": "2026-06-10"
     },
     "DJI": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
+      "open": 50760.1211,
+      "high": 50769.2617,
+      "low": 49909.0703,
+      "close": 49918.7812,
       "date": "2026-06-10"
     },
     "N225": {
-      "open": 64625.2617,
-      "high": 65485.1602,
-      "low": 63918.9609,
-      "close": 65416.6289,
-      "date": "2026-06-09"
+      "open": 64952.3789,
+      "high": 65098.8594,
+      "low": 63733.0391,
+      "close": 64179.2695,
+      "date": "2026-06-10"
     },
     "HSI": {
-      "open": 24551.9297,
-      "high": 24740.6504,
-      "low": 24486.3906,
-      "close": 24565.9004,
-      "date": "2026-06-09"
+      "open": 24442.5195,
+      "high": 24505.9609,
+      "low": 24207.0293,
+      "close": 24407.9609,
+      "date": "2026-06-10"
     }
   },
   "forex": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 20.59,
-    "change_24h_pct": 3.62,
+    "value": 20.63,
+    "change_24h_pct": -7.16,
     "date": "2026-06-11"
   },
   "macro_calendar_today": [
@@ -136,13 +136,7 @@
       "title": "Ryanair investigated over charging parents to sit with children",
       "summary": "The UK's competition regulator is investigating the airline over charges it imposes on parents to sit next to their child.",
       "url": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 11 Jun 2026 07:37:26 GMT"
-    },
-    {
-      "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
-      "summary": "The retail group already owns just over a quarter of the German fashion brand but wants to buy the rest of it.",
-      "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 10 Jun 2026 23:04:46 GMT"
+      "published": "Thu, 11 Jun 2026 09:13:06 GMT"
     },
     {
       "title": "The furious dispute over what caused Air India flight 171 to crash",
@@ -151,34 +145,40 @@
       "published": "Wed, 10 Jun 2026 23:10:11 GMT"
     },
     {
+      "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
+      "summary": "The retail group already owns just over a quarter of the German fashion brand but wants to buy the rest of it.",
+      "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 23:04:46 GMT"
+    },
+    {
       "title": "I'd have vetoed foreign sale of UK tech giant, says Business Secretary",
       "summary": "Peter Kyle's comments come as the government sets out how it would back British technology companies.",
       "url": "https://www.bbc.com/news/articles/cd0mg79ggm0o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 10 Jun 2026 23:01:38 GMT"
     },
     {
-      "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
-      "summary": "Consumers are increasingly feeling the strain of the US-Israel war in Iran.",
-      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 11 Jun 2026 00:02:45 GMT"
+      "title": "SpaceX IPO: Preparing for the biggest liftoff yet?",
+      "summary": "It’s not just about rockets: what SpaceX does and why its IPO matters",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8gld?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 20:30:00 GMT"
     },
     {
-      "title": "'A little goes a long way': New York's candy stores sweeten economic gloom",
+      "title": "New candy stores are popping up across NYC. Why?",
       "summary": "While US consumer confidence is at an historic low the Big Apple's sweet shops are expanding.",
       "url": "https://www.bbc.com/news/articles/c30ylzlygngo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 10 Jun 2026 23:01:54 GMT"
+    },
+    {
+      "title": "Trump says 'I love the inflation' as US prices rise at fastest rate in three years",
+      "summary": "The US president later said he had meant that he actually loved that inflation was not higher.",
+      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 11 Jun 2026 09:14:13 GMT"
     },
     {
       "title": "Social media on trial: Four important cases to watch",
       "summary": "Social media firms face thousands of lawsuits, the BBC looks at four which could be significant.",
       "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 11 Jun 2026 05:02:29 GMT"
-    },
-    {
-      "title": "Korea fines e-commerce giant $400m over data breach affecting millions",
-      "summary": "The record fine comes after around 37.5 million users had their private data exposed.",
-      "url": "https://www.bbc.com/news/articles/cvgj4rgz2n2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 11 Jun 2026 07:32:57 GMT"
     }
   ],
   "sources_status": {
