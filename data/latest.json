@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-12T08:56:47.464817+00:00",
-  "generated_at_paris": "2026-06-12T10:56:47.464817+02:00",
+  "generated_at_utc": "2026-06-12T09:49:14.916489+00:00",
+  "generated_at_paris": "2026-06-12T11:49:14.916489+02:00",
   "date_paris": "2026-06-12",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 18.82,
-    "change_24h_pct": -3.19,
+    "value": 18.64,
+    "change_24h_pct": -4.12,
     "date": "2026-06-12"
   },
   "macro_calendar_today": [
@@ -109,16 +109,22 @@
   ],
   "news_bbc": [
     {
-      "title": "UK economy contracts as Iran war impact felt",
-      "summary": "The economy shrank slightly in April as the Iran war began to have an impact on businesses, official data shows.",
-      "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 12 Jun 2026 07:33:08 GMT"
-    },
-    {
       "title": "Elon Musk's SpaceX raises $75bn ahead of world's biggest stock market launch",
       "summary": "The public sale is also expected to make Elon Musk the world's first trillionaire.",
       "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 12 Jun 2026 08:45:05 GMT"
+    },
+    {
+      "title": "Watch: Three things to know about SpaceX's stock market debut",
+      "summary": "The BBC's Samira Hussain explains everything you need to know about SpaceX's historic IPO.",
+      "url": "https://www.bbc.com/news/videos/c4gyx0x1d5ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 12 Jun 2026 08:39:37 GMT"
+    },
+    {
+      "title": "UK economy contracts as Iran war impact felt",
+      "summary": "The economy shrank slightly in April as the Iran war began to have an impact on businesses, official data shows.",
+      "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 12 Jun 2026 07:33:08 GMT"
     },
     {
       "title": "Why the economics make this the craziest World Cup ever",
@@ -133,28 +139,22 @@
       "published": "Thu, 11 Jun 2026 23:00:29 GMT"
     },
     {
-      "title": "Ryanair investigated over charging parents to sit with children",
-      "summary": "The UK's competition regulator is investigating the airline over charges it imposes on parents to sit next to their child.",
-      "url": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 11 Jun 2026 16:58:39 GMT"
-    },
-    {
       "title": "India's 'blue gold' starts a new drinks industry",
       "summary": "Agave plants grow wild in India and new distillers are using them to create a spirits industry.",
       "url": "https://www.bbc.com/news/articles/cdrpe4vly5mo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 11 Jun 2026 23:01:48 GMT"
     },
     {
+      "title": "Ryanair investigated over charging parents to sit with children",
+      "summary": "The UK's competition regulator is investigating the airline over charges it imposes on parents to sit next to their child.",
+      "url": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 11 Jun 2026 16:58:39 GMT"
+    },
+    {
       "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
       "summary": "The retail group already owns just over a quarter of the German fashion brand but wants to buy the rest of it.",
       "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 10 Jun 2026 23:04:46 GMT"
-    },
-    {
-      "title": "I'd have vetoed foreign sale of UK tech giant, says Business Secretary",
-      "summary": "Peter Kyle's comments come as the government sets out how it would back British technology companies.",
-      "url": "https://www.bbc.com/news/articles/cd0mg79ggm0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 10 Jun 2026 23:01:38 GMT"
     }
   ],
   "sources_status": {
