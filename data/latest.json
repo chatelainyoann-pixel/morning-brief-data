@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-15T10:54:33.544300+00:00",
-  "generated_at_paris": "2026-06-15T12:54:33.544300+02:00",
+  "generated_at_utc": "2026-06-15T11:37:20.246590+00:00",
+  "generated_at_paris": "2026-06-15T13:37:20.246590+02:00",
   "date_paris": "2026-06-15",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 16.79,
-    "change_24h_pct": -5.03,
+    "value": 16.66,
+    "change_24h_pct": -5.77,
     "date": "2026-06-15"
   },
   "macro_calendar_today": [
@@ -96,7 +96,7 @@
       "title": "The US and Iran have agreed a deal. How soon could things go back to normal?",
       "summary": "Experts warn the impact of the war will continue to affect the global economy for months to come.",
       "url": "https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 15 Jun 2026 09:32:50 GMT"
+      "published": "Mon, 15 Jun 2026 11:03:45 GMT"
     },
     {
       "title": "Oil prices fall and shares jump after US-Iran deal announced",
