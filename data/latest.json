@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-06-15T11:37:20.246590+00:00",
-  "generated_at_paris": "2026-06-15T13:37:20.246590+02:00",
-  "date_paris": "2026-06-15",
+  "generated_at_utc": "2026-06-16T10:06:09.007482+00:00",
+  "generated_at_paris": "2026-06-16T12:06:09.007482+02:00",
+  "date_paris": "2026-06-16",
   "indices": {
     "DAX": {
       "open": 24549.25,
@@ -25,25 +25,25 @@
       "date": "2026-06-12"
     },
     "SPX": {
-      "open": 7410.8501,
-      "high": 7456.3999,
-      "low": 7363.0098,
-      "close": 7431.46,
-      "date": "2026-06-12"
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
+      "date": "2026-06-15"
     },
     "NDX": {
-      "open": 29380.6797,
-      "high": 29733.8906,
-      "low": 29220.8301,
-      "close": 29635.9492,
-      "date": "2026-06-12"
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
+      "date": "2026-06-15"
     },
     "DJI": {
-      "open": 51148.7305,
-      "high": 51409.6992,
-      "low": 50827.8398,
-      "close": 51202.2617,
-      "date": "2026-06-12"
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
+      "date": "2026-06-15"
     },
     "N225": {
       "open": 65176.2305,
@@ -62,59 +62,50 @@
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1574,
-      "high": 1.1592,
-      "low": 1.1558,
-      "close": 1.1576,
-      "date": "2026-06-12"
+      "open": 1.1606,
+      "high": 1.1623,
+      "low": 1.1595,
+      "close": 1.1603,
+      "date": "2026-06-15"
     },
     "GBPUSD": {
-      "open": 1.3412,
-      "high": 1.3426,
-      "low": 1.3385,
-      "close": 1.3414,
-      "date": "2026-06-12"
+      "open": 1.3453,
+      "high": 1.3461,
+      "low": 1.3418,
+      "close": 1.345,
+      "date": "2026-06-15"
     }
   },
   "vix": {
-    "value": 16.66,
-    "change_24h_pct": -5.77,
-    "date": "2026-06-15"
+    "value": 16.16,
+    "change_24h_pct": -8.6,
+    "date": "2026-06-16"
   },
-  "macro_calendar_today": [
-    {
-      "time_paris": "09:30",
-      "country": "EUR",
-      "indicator": "ECB President Lagarde Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "Medium"
-    }
-  ],
+  "macro_calendar_today": [],
   "news_bbc": [
     {
-      "title": "The US and Iran have agreed a deal. How soon could things go back to normal?",
+      "title": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
+      "summary": "The environment secretary says the deal does not do enough for consumers or the environment.",
+      "url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 16 Jun 2026 10:02:36 GMT"
+    },
+    {
+      "title": "Japan raises interest rate to highest for 31 years",
+      "summary": "The Bank of Japan has been raising rates from near-zero since 2024.",
+      "url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 16 Jun 2026 08:26:30 GMT"
+    },
+    {
+      "title": "SpaceX IPO raised $10bn more than thought",
+      "summary": "The company's listing raised $87.5bn, compared with the $75bn it was initially thought.",
+      "url": "https://www.bbc.com/news/articles/cgrk21wnvy9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 21:15:39 GMT"
+    },
+    {
+      "title": "How could the US-Iran deal affect oil prices and the cost of food?",
       "summary": "Experts warn the impact of the war will continue to affect the global economy for months to come.",
       "url": "https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 15 Jun 2026 11:03:45 GMT"
-    },
-    {
-      "title": "Oil prices fall and shares jump after US-Iran deal announced",
-      "summary": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
-      "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 15 Jun 2026 07:38:09 GMT"
-    },
-    {
-      "title": "Millions of people can get discounts on their bills - here's how",
-      "summary": "Lower social tariffs allow many people on benefits to get cheaper deals for water, broadband and phone.",
-      "url": "https://www.bbc.com/news/articles/c4gyplpyj00o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 23:25:30 GMT"
-    },
-    {
-      "title": "Financial losses from scams hit £1.3bn a year as criminals turn to AI",
-      "summary": "On average, nearly eight cases of fraud in which money is stolen are reported in the UK every minute.",
-      "url": "https://www.bbc.com/news/articles/cwykp9ygxlvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 23:25:15 GMT"
+      "published": "Mon, 15 Jun 2026 15:20:09 GMT"
     },
     {
       "title": "Is the convertible heading into the sunset?",
@@ -123,22 +114,22 @@
       "published": "Sun, 14 Jun 2026 23:25:00 GMT"
     },
     {
-      "title": "Why I sold my business to my staff",
-      "summary": "As more US company owners reach retirement age many are selling up to their employees.",
-      "url": "https://www.bbc.com/news/articles/c0ey87z1ggjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 23:26:01 GMT"
+      "title": "What is Helium-3 and could we get it from the moon?",
+      "summary": "Helium-3 is expensive and demand is forecast to soar, so some are planning to mine it on the moon.",
+      "url": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 16 Jun 2026 00:11:13 GMT"
     },
     {
-      "title": "UK electric car sales target set to be weakened",
-      "summary": "The new target hasn't yet been decided, with different numbers under consideration, the BBC understands.",
-      "url": "https://www.bbc.com/news/articles/cx2dmwmj4dmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 17:56:07 GMT"
+      "title": "What's happening to UK petrol and diesel prices now the US and Iran have a deal?",
+      "summary": "When the conflict began on 28 February, fuel costs jumped as the war disrupted the production and transportation of energy across the Middle East.",
+      "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 11:28:39 GMT"
     },
     {
-      "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
-      "summary": "The BBC breaks down how the tech mogul's fortune has grown.",
-      "url": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 12 Jun 2026 23:05:39 GMT"
+      "title": "Anthropic to meet White House over AI tool suspension",
+      "summary": "The sudden meeting was called after Anthropic had to block users from just-released AI models.",
+      "url": "https://www.bbc.com/news/articles/c9w2p7ykp8yo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 18:44:26 GMT"
     }
   ],
   "sources_status": {
@@ -147,7 +138,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": true,
+    "ff_macro_calendar_ok": false,
     "bbc_news_ok": true
   }
 }
