@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-16T10:06:09.007482+00:00",
-  "generated_at_paris": "2026-06-16T12:06:09.007482+02:00",
+  "generated_at_utc": "2026-06-16T10:47:29.305724+00:00",
+  "generated_at_paris": "2026-06-16T12:47:29.305724+02:00",
   "date_paris": "2026-06-16",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 16.16,
-    "change_24h_pct": -8.6,
+    "value": 16.18,
+    "change_24h_pct": -8.48,
     "date": "2026-06-16"
   },
   "macro_calendar_today": [],
@@ -87,7 +87,7 @@
       "title": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
       "summary": "The environment secretary says the deal does not do enough for consumers or the environment.",
       "url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 10:02:36 GMT"
+      "published": "Tue, 16 Jun 2026 10:09:11 GMT"
     },
     {
       "title": "Japan raises interest rate to highest for 31 years",
