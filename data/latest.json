@@ -1,117 +1,184 @@
 {
-  "generated_at_utc": "2026-06-16T10:47:29.305724+00:00",
-  "generated_at_paris": "2026-06-16T12:47:29.305724+02:00",
-  "date_paris": "2026-06-16",
+  "generated_at_utc": "2026-06-17T09:28:46.771043+00:00",
+  "generated_at_paris": "2026-06-17T11:28:46.771043+02:00",
+  "date_paris": "2026-06-17",
   "indices": {
     "DAX": {
-      "open": 24549.25,
-      "high": 24753.8906,
-      "low": 24421.8203,
-      "close": 24635.3008,
-      "date": "2026-06-12"
+      "open": 24942.7305,
+      "high": 25110.2793,
+      "low": 24900.7305,
+      "close": 24910.4102,
+      "date": "2026-06-16"
     },
     "CAC": {
-      "open": 8315.3096,
-      "high": 8397.6299,
-      "low": 8302.6904,
-      "close": 8350.8701,
-      "date": "2026-06-12"
+      "open": 8406.7402,
+      "high": 8461.9404,
+      "low": 8401.5898,
+      "close": 8447.2695,
+      "date": "2026-06-16"
     },
     "FTSE": {
-      "open": 10302.7002,
-      "high": 10471.7002,
-      "low": 10302.7002,
-      "close": 10471.7002,
-      "date": "2026-06-12"
+      "open": 10431.2998,
+      "high": 10523.5,
+      "low": 10428.5996,
+      "close": 10494.2002,
+      "date": "2026-06-16"
     },
     "SPX": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "date": "2026-06-15"
+      "open": 7548.7798,
+      "high": 7564.96,
+      "low": 7508.6802,
+      "close": 7511.3501,
+      "date": "2026-06-16"
     },
     "NDX": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "date": "2026-06-15"
+      "open": 30455.4902,
+      "high": 30560.0801,
+      "low": 29962.8691,
+      "close": 29968.1309,
+      "date": "2026-06-16"
     },
     "DJI": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "date": "2026-06-15"
+      "open": 51712.6289,
+      "high": 52190.2891,
+      "low": 51712.6289,
+      "close": 51999.6719,
+      "date": "2026-06-16"
     },
     "N225": {
-      "open": 65176.2305,
-      "high": 67065.9375,
-      "low": 64998.1094,
-      "close": 66020.0391,
-      "date": "2026-06-12"
+      "open": 69288.9062,
+      "high": 70020.6797,
+      "low": 69095.6719,
+      "close": 69404.5,
+      "date": "2026-06-16"
     },
     "HSI": {
-      "open": 24501.5,
-      "high": 24771.6094,
-      "low": 24445.5098,
-      "close": 24718.0996,
-      "date": "2026-06-12"
+      "open": 24826.1895,
+      "high": 24844.9805,
+      "low": 24378.6895,
+      "close": 24493.9492,
+      "date": "2026-06-16"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1606,
-      "high": 1.1623,
-      "low": 1.1595,
-      "close": 1.1603,
-      "date": "2026-06-15"
+      "open": 1.1593,
+      "high": 1.1618,
+      "low": 1.1575,
+      "close": 1.1594,
+      "date": "2026-06-16"
     },
     "GBPUSD": {
-      "open": 1.3453,
-      "high": 1.3461,
-      "low": 1.3418,
-      "close": 1.345,
-      "date": "2026-06-15"
+      "open": 1.3417,
+      "high": 1.3441,
+      "low": 1.3392,
+      "close": 1.3416,
+      "date": "2026-06-16"
     }
   },
   "vix": {
-    "value": 16.18,
-    "change_24h_pct": -8.48,
-    "date": "2026-06-16"
+    "value": 16.35,
+    "change_24h_pct": -0.37,
+    "date": "2026-06-17"
   },
-  "macro_calendar_today": [],
+  "macro_calendar_today": [
+    {
+      "time_paris": "08:00",
+      "country": "GBP",
+      "indicator": "CPI y/y",
+      "consensus": "3.0%",
+      "previous": "2.8%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "12:50",
+      "country": "EUR",
+      "indicator": "ECB President Lagarde Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Core Retail Sales m/m",
+      "consensus": "0.6%",
+      "previous": "0.7%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Retail Sales m/m",
+      "consensus": "0.5%",
+      "previous": "0.5%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "15:30",
+      "country": "USD",
+      "indicator": "President Trump Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "20:00",
+      "country": "USD",
+      "indicator": "Federal Funds Rate",
+      "consensus": "3.75%",
+      "previous": "3.75%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "20:00",
+      "country": "USD",
+      "indicator": "FOMC Economic Projections",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    },
+    {
+      "time_paris": "20:00",
+      "country": "USD",
+      "indicator": "FOMC Statement",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    },
+    {
+      "time_paris": "20:30",
+      "country": "USD",
+      "indicator": "FOMC Press Conference",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    }
+  ],
   "news_bbc": [
     {
-      "title": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
-      "summary": "The environment secretary says the deal does not do enough for consumers or the environment.",
-      "url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 10:09:11 GMT"
+      "title": "Inflation unexpectedly steady as food price rises slow",
+      "summary": "Higher petrol prices were offset by slower price rises for meat, dairy and vegetables, according to the ONS.",
+      "url": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 17 Jun 2026 08:07:45 GMT"
     },
     {
-      "title": "Japan raises interest rate to highest for 31 years",
-      "summary": "The Bank of Japan has been raising rates from near-zero since 2024.",
-      "url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 08:26:30 GMT"
+      "title": "Cadbury chocolate-owner Mondelez defends staying in Russia",
+      "summary": "Mondelez boss Dirk Van de Put says it was the \"right decision\" to remain after the war with Ukraine.",
+      "url": "https://www.bbc.com/news/articles/cy06d00jpn0o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 16 Jun 2026 23:05:23 GMT"
     },
     {
-      "title": "SpaceX IPO raised $10bn more than thought",
-      "summary": "The company's listing raised $87.5bn, compared with the $75bn it was initially thought.",
-      "url": "https://www.bbc.com/news/articles/cgrk21wnvy9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 15 Jun 2026 21:15:39 GMT"
+      "title": "Japan raids ice cream giants over price-fixing allegations",
+      "summary": "The investigation on alleged cartel pricing of ice cream comes as Japan faces record summer temperatures.",
+      "url": "https://www.bbc.com/news/articles/c0ly0k88e61o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 17 Jun 2026 07:33:39 GMT"
     },
     {
-      "title": "How could the US-Iran deal affect oil prices and the cost of food?",
-      "summary": "Experts warn the impact of the war will continue to affect the global economy for months to come.",
-      "url": "https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 15 Jun 2026 15:20:09 GMT"
-    },
-    {
-      "title": "Is the convertible heading into the sunset?",
-      "summary": "UK drivers have taken a shine to the SUV but could the fate of the convertible be reversed?",
-      "url": "https://www.bbc.com/news/articles/cx212yy4er0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 23:25:00 GMT"
+      "title": "'It's a unique scenario' - Inside Lidl's first ever pub",
+      "summary": "The supermarket chain Lidl owns and operates The Middle Ale, a 'world first' for the brand.",
+      "url": "https://www.bbc.com/news/articles/cj9gnljenpko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 17 Jun 2026 05:24:35 GMT"
     },
     {
       "title": "What is Helium-3 and could we get it from the moon?",
@@ -120,16 +187,22 @@
       "published": "Tue, 16 Jun 2026 00:11:13 GMT"
     },
     {
-      "title": "What's happening to UK petrol and diesel prices now the US and Iran have a deal?",
-      "summary": "When the conflict began on 28 February, fuel costs jumped as the war disrupted the production and transportation of energy across the Middle East.",
-      "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 15 Jun 2026 11:28:39 GMT"
+      "title": "Struggling Pizza Hut chain to be sold for $2.7bn",
+      "summary": "The decision comes after a prolonged period of difficulty for the chain, which has faced increasing competition from a range of rivals.",
+      "url": "https://www.bbc.com/news/articles/c75yd6dy2vlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 16 Jun 2026 21:00:30 GMT"
     },
     {
-      "title": "Anthropic to meet White House over AI tool suspension",
-      "summary": "The sudden meeting was called after Anthropic had to block users from just-released AI models.",
-      "url": "https://www.bbc.com/news/articles/c9w2p7ykp8yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 15 Jun 2026 18:44:26 GMT"
+      "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
+      "summary": "Elon Musk's rocket firm has overtaken the retail and media empire in value after a surge in its share price.",
+      "url": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 17 Jun 2026 01:27:26 GMT"
+    },
+    {
+      "title": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
+      "summary": "The environment secretary says the deal does not do enough for consumers or the environment.",
+      "url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 16 Jun 2026 12:25:59 GMT"
     }
   ],
   "sources_status": {
@@ -138,7 +211,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": false,
+    "ff_macro_calendar_ok": true,
     "bbc_news_ok": true
   }
 }
