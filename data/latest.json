@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-17T09:28:46.771043+00:00",
-  "generated_at_paris": "2026-06-17T11:28:46.771043+02:00",
+  "generated_at_utc": "2026-06-17T10:20:04.249461+00:00",
+  "generated_at_paris": "2026-06-17T12:20:04.249461+02:00",
   "date_paris": "2026-06-17",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 16.35,
-    "change_24h_pct": -0.37,
+    "value": 16.46,
+    "change_24h_pct": 0.3,
     "date": "2026-06-17"
   },
   "macro_calendar_today": [
@@ -160,7 +160,7 @@
       "title": "Inflation unexpectedly steady as food price rises slow",
       "summary": "Higher petrol prices were offset by slower price rises for meat, dairy and vegetables, according to the ONS.",
       "url": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 17 Jun 2026 08:07:45 GMT"
+      "published": "Wed, 17 Jun 2026 09:52:43 GMT"
     },
     {
       "title": "Cadbury chocolate-owner Mondelez defends staying in Russia",
