@@ -1,208 +1,192 @@
 {
-  "generated_at_utc": "2026-06-17T10:20:04.249461+00:00",
-  "generated_at_paris": "2026-06-17T12:20:04.249461+02:00",
-  "date_paris": "2026-06-17",
+  "generated_at_utc": "2026-06-18T09:12:47.432059+00:00",
+  "generated_at_paris": "2026-06-18T11:12:47.432059+02:00",
+  "date_paris": "2026-06-18",
   "indices": {
     "DAX": {
-      "open": 24942.7305,
-      "high": 25110.2793,
-      "low": 24900.7305,
-      "close": 24910.4102,
-      "date": "2026-06-16"
+      "open": 24816.9609,
+      "high": 24956.4805,
+      "low": 24763.5293,
+      "close": 24934.6699,
+      "date": "2026-06-17"
     },
     "CAC": {
-      "open": 8406.7402,
-      "high": 8461.9404,
-      "low": 8401.5898,
-      "close": 8447.2695,
-      "date": "2026-06-16"
+      "open": 8435.1201,
+      "high": 8476.79,
+      "low": 8408.9004,
+      "close": 8430.79,
+      "date": "2026-06-17"
     },
     "FTSE": {
-      "open": 10431.2998,
-      "high": 10523.5,
-      "low": 10428.5996,
-      "close": 10494.2002,
-      "date": "2026-06-16"
+      "open": 10494.4004,
+      "high": 10508.5996,
+      "low": 10468.4004,
+      "close": 10508.5996,
+      "date": "2026-06-17"
     },
     "SPX": {
-      "open": 7548.7798,
-      "high": 7564.96,
-      "low": 7508.6802,
-      "close": 7511.3501,
-      "date": "2026-06-16"
+      "open": 7524.5,
+      "high": 7532.1699,
+      "low": 7402.6099,
+      "close": 7420.1001,
+      "date": "2026-06-17"
     },
     "NDX": {
-      "open": 30455.4902,
-      "high": 30560.0801,
-      "low": 29962.8691,
-      "close": 29968.1309,
-      "date": "2026-06-16"
+      "open": 30160.7402,
+      "high": 30208.9395,
+      "low": 29604.9297,
+      "close": 29670.9492,
+      "date": "2026-06-17"
     },
     "DJI": {
-      "open": 51712.6289,
-      "high": 52190.2891,
-      "low": 51712.6289,
-      "close": 51999.6719,
-      "date": "2026-06-16"
+      "open": 51937.5586,
+      "high": 52281.1914,
+      "low": 51392.5781,
+      "close": 51492.5508,
+      "date": "2026-06-17"
     },
     "N225": {
-      "open": 69288.9062,
-      "high": 70020.6797,
-      "low": 69095.6719,
-      "close": 69404.5,
-      "date": "2026-06-16"
+      "open": 69005.8828,
+      "high": 70125.75,
+      "low": 68985.6328,
+      "close": 69902.25,
+      "date": "2026-06-17"
     },
     "HSI": {
-      "open": 24826.1895,
-      "high": 24844.9805,
-      "low": 24378.6895,
-      "close": 24493.9492,
-      "date": "2026-06-16"
+      "open": 24495.8496,
+      "high": 24560.1895,
+      "low": 24254.0703,
+      "close": 24312.1602,
+      "date": "2026-06-17"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1593,
+      "open": 1.1609,
       "high": 1.1618,
-      "low": 1.1575,
-      "close": 1.1594,
-      "date": "2026-06-16"
+      "low": 1.1587,
+      "close": 1.161,
+      "date": "2026-06-17"
     },
     "GBPUSD": {
-      "open": 1.3417,
-      "high": 1.3441,
-      "low": 1.3392,
-      "close": 1.3416,
-      "date": "2026-06-16"
+      "open": 1.3425,
+      "high": 1.3435,
+      "low": 1.3389,
+      "close": 1.3426,
+      "date": "2026-06-17"
     }
   },
   "vix": {
-    "value": 16.46,
-    "change_24h_pct": 0.3,
-    "date": "2026-06-17"
+    "value": 17.17,
+    "change_24h_pct": -6.89,
+    "date": "2026-06-18"
   },
   "macro_calendar_today": [
     {
       "time_paris": "08:00",
       "country": "GBP",
-      "indicator": "CPI y/y",
-      "consensus": "3.0%",
-      "previous": "2.8%",
+      "indicator": "Claimant Count Change",
+      "consensus": "25.8K",
+      "previous": "26.5K",
       "impact": "High"
     },
     {
-      "time_paris": "12:50",
-      "country": "EUR",
-      "indicator": "ECB President Lagarde Speaks",
+      "time_paris": "08:00",
+      "country": "GBP",
+      "indicator": "Average Earnings Index 3m/y",
+      "consensus": "4.0%",
+      "previous": "4.1%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "13:00",
+      "country": "GBP",
+      "indicator": "Monetary Policy Summary",
       "consensus": "",
       "previous": "",
-      "impact": "Medium"
+      "impact": "High"
     },
     {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Core Retail Sales m/m",
-      "consensus": "0.6%",
-      "previous": "0.7%",
-      "impact": "Medium"
+      "time_paris": "13:00",
+      "country": "GBP",
+      "indicator": "MPC Official Bank Rate Votes",
+      "consensus": "1-0-8",
+      "previous": "1-0-8",
+      "impact": "High"
     },
     {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Retail Sales m/m",
-      "consensus": "0.5%",
-      "previous": "0.5%",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "15:30",
-      "country": "USD",
-      "indicator": "President Trump Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "20:00",
-      "country": "USD",
-      "indicator": "Federal Funds Rate",
+      "time_paris": "13:00",
+      "country": "GBP",
+      "indicator": "Official Bank Rate",
       "consensus": "3.75%",
       "previous": "3.75%",
       "impact": "High"
     },
     {
-      "time_paris": "20:00",
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "FOMC Economic Projections",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
+      "indicator": "Philly Fed Manufacturing Index",
+      "consensus": "9.8",
+      "previous": "-0.4",
+      "impact": "Medium"
     },
     {
-      "time_paris": "20:00",
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "FOMC Statement",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
-    },
-    {
-      "time_paris": "20:30",
-      "country": "USD",
-      "indicator": "FOMC Press Conference",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
+      "indicator": "Unemployment Claims",
+      "consensus": "225K",
+      "previous": "229K",
+      "impact": "Medium"
     }
   ],
   "news_bbc": [
+    {
+      "title": "Number of job vacancies hits five year-low",
+      "summary": "Latest figures suggest companies are becoming more cautious about taking on new staff.",
+      "url": "https://www.bbc.com/news/articles/cm203nn7lzro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 18 Jun 2026 08:44:12 GMT"
+    },
+    {
+      "title": "Interest rates expected to be held by Bank of England",
+      "summary": "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
+      "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 17 Jun 2026 23:01:11 GMT"
+    },
+    {
+      "title": "Apple to raise prices as AI boom pushes up chip costs",
+      "summary": "The firm's outgoing boss Tim Cook did not say when prices would rise or which products would be affected.",
+      "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 18 Jun 2026 07:27:21 GMT"
+    },
+    {
+      "title": "Why has Texas set its sights on London?",
+      "summary": "Texas, which once had an embassy in London, strengthens its ties with the capital by opening a new trade office.",
+      "url": "https://www.bbc.com/news/articles/ckgpgvklkgko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 18 Jun 2026 05:03:39 GMT"
+    },
+    {
+      "title": "Warsh to review how Fed works after holding US interest rates at first meeting",
+      "summary": "The Federal Reserve held rates between 3.5% and 3.75% after Kevin Warsh's first meeting in charge of the central bank.",
+      "url": "https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 17 Jun 2026 18:41:12 GMT"
+    },
+    {
+      "title": "'We had to get out of the way': The backlash over delivery robots",
+      "summary": "As the delivery vehicles increasing take to US streets, bans and protest groups are springing up.",
+      "url": "https://www.bbc.com/news/articles/c0rygp005wjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 17 Jun 2026 23:02:05 GMT"
+    },
+    {
+      "title": "Driving test wait time target will not be met until autumn next year",
+      "summary": "The Transport Secretary had been aiming to reduce the backlog to seven weeks by this autumn.",
+      "url": "https://www.bbc.com/news/articles/cd7wv0xqvryo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 17 Jun 2026 15:37:05 GMT"
+    },
     {
       "title": "Inflation unexpectedly steady as food price rises slow",
       "summary": "Higher petrol prices were offset by slower price rises for meat, dairy and vegetables, according to the ONS.",
       "url": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 17 Jun 2026 09:52:43 GMT"
-    },
-    {
-      "title": "Cadbury chocolate-owner Mondelez defends staying in Russia",
-      "summary": "Mondelez boss Dirk Van de Put says it was the \"right decision\" to remain after the war with Ukraine.",
-      "url": "https://www.bbc.com/news/articles/cy06d00jpn0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 23:05:23 GMT"
-    },
-    {
-      "title": "Japan raids ice cream giants over price-fixing allegations",
-      "summary": "The investigation on alleged cartel pricing of ice cream comes as Japan faces record summer temperatures.",
-      "url": "https://www.bbc.com/news/articles/c0ly0k88e61o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 17 Jun 2026 07:33:39 GMT"
-    },
-    {
-      "title": "'It's a unique scenario' - Inside Lidl's first ever pub",
-      "summary": "The supermarket chain Lidl owns and operates The Middle Ale, a 'world first' for the brand.",
-      "url": "https://www.bbc.com/news/articles/cj9gnljenpko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 17 Jun 2026 05:24:35 GMT"
-    },
-    {
-      "title": "What is Helium-3 and could we get it from the moon?",
-      "summary": "Helium-3 is expensive and demand is forecast to soar, so some are planning to mine it on the moon.",
-      "url": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 00:11:13 GMT"
-    },
-    {
-      "title": "Struggling Pizza Hut chain to be sold for $2.7bn",
-      "summary": "The decision comes after a prolonged period of difficulty for the chain, which has faced increasing competition from a range of rivals.",
-      "url": "https://www.bbc.com/news/articles/c75yd6dy2vlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 21:00:30 GMT"
-    },
-    {
-      "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
-      "summary": "Elon Musk's rocket firm has overtaken the retail and media empire in value after a surge in its share price.",
-      "url": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 17 Jun 2026 01:27:26 GMT"
-    },
-    {
-      "title": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
-      "summary": "The environment secretary says the deal does not do enough for consumers or the environment.",
-      "url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 12:25:59 GMT"
     }
   ],
   "sources_status": {
