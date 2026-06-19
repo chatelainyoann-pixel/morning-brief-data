@@ -1,192 +1,144 @@
 {
-  "generated_at_utc": "2026-06-18T10:00:00.938472+00:00",
-  "generated_at_paris": "2026-06-18T12:00:00.938472+02:00",
-  "date_paris": "2026-06-18",
+  "generated_at_utc": "2026-06-19T09:28:01.426990+00:00",
+  "generated_at_paris": "2026-06-19T11:28:01.426990+02:00",
+  "date_paris": "2026-06-19",
   "indices": {
     "DAX": {
-      "open": 24816.9609,
-      "high": 24956.4805,
-      "low": 24763.5293,
-      "close": 24934.6699,
-      "date": "2026-06-17"
+      "open": 24996.5391,
+      "high": 25059.3691,
+      "low": 24840.2695,
+      "close": 25026.8008,
+      "date": "2026-06-18"
     },
     "CAC": {
-      "open": 8435.1201,
-      "high": 8476.79,
-      "low": 8408.9004,
-      "close": 8430.79,
-      "date": "2026-06-17"
+      "open": 8433.0898,
+      "high": 8473.2402,
+      "low": 8406.1699,
+      "close": 8467.9805,
+      "date": "2026-06-18"
     },
     "FTSE": {
-      "open": 10494.4004,
-      "high": 10508.5996,
-      "low": 10468.4004,
-      "close": 10508.5996,
-      "date": "2026-06-17"
+      "open": 10510.2002,
+      "high": 10510.2002,
+      "low": 10376.5996,
+      "close": 10399.7002,
+      "date": "2026-06-18"
     },
     "SPX": {
-      "open": 7524.5,
-      "high": 7532.1699,
-      "low": 7402.6099,
-      "close": 7420.1001,
-      "date": "2026-06-17"
+      "open": 7487.3599,
+      "high": 7511.0698,
+      "low": 7468.3198,
+      "close": 7500.5801,
+      "date": "2026-06-18"
     },
     "NDX": {
-      "open": 30160.7402,
-      "high": 30208.9395,
-      "low": 29604.9297,
-      "close": 29670.9492,
-      "date": "2026-06-17"
+      "open": 30261.5996,
+      "high": 30463.7695,
+      "low": 30089.3496,
+      "close": 30406.1895,
+      "date": "2026-06-18"
     },
     "DJI": {
-      "open": 51937.5586,
-      "high": 52281.1914,
-      "low": 51392.5781,
-      "close": 51492.5508,
-      "date": "2026-06-17"
+      "open": 51571.8516,
+      "high": 51949.2617,
+      "low": 51554.5312,
+      "close": 51564.6992,
+      "date": "2026-06-18"
     },
     "N225": {
-      "open": 69005.8828,
-      "high": 70125.75,
-      "low": 68985.6328,
-      "close": 69902.25,
-      "date": "2026-06-17"
+      "open": 70163.7109,
+      "high": 71398.5781,
+      "low": 70092.9375,
+      "close": 71053.4922,
+      "date": "2026-06-18"
     },
     "HSI": {
-      "open": 24495.8496,
-      "high": 24560.1895,
-      "low": 24254.0703,
-      "close": 24312.1602,
-      "date": "2026-06-17"
+      "open": 24145.1895,
+      "high": 24163.25,
+      "low": 23749.9902,
+      "close": 23924.8105,
+      "date": "2026-06-18"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1609,
-      "high": 1.1618,
-      "low": 1.1587,
-      "close": 1.161,
-      "date": "2026-06-17"
+      "open": 1.1511,
+      "high": 1.153,
+      "low": 1.1454,
+      "close": 1.1507,
+      "date": "2026-06-18"
     },
     "GBPUSD": {
-      "open": 1.3425,
-      "high": 1.3435,
-      "low": 1.3389,
-      "close": 1.3426,
-      "date": "2026-06-17"
+      "open": 1.3305,
+      "high": 1.3326,
+      "low": 1.3207,
+      "close": 1.3301,
+      "date": "2026-06-18"
     }
   },
   "vix": {
-    "value": 17.06,
-    "change_24h_pct": -7.48,
-    "date": "2026-06-18"
+    "value": 16.87,
+    "change_24h_pct": 2.87,
+    "date": "2026-06-19"
   },
   "macro_calendar_today": [
     {
       "time_paris": "08:00",
       "country": "GBP",
-      "indicator": "Claimant Count Change",
-      "consensus": "25.8K",
-      "previous": "26.5K",
-      "impact": "High"
-    },
-    {
-      "time_paris": "08:00",
-      "country": "GBP",
-      "indicator": "Average Earnings Index 3m/y",
-      "consensus": "4.0%",
-      "previous": "4.1%",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "13:00",
-      "country": "GBP",
-      "indicator": "Monetary Policy Summary",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
-    },
-    {
-      "time_paris": "13:00",
-      "country": "GBP",
-      "indicator": "MPC Official Bank Rate Votes",
-      "consensus": "1-0-8",
-      "previous": "1-0-8",
-      "impact": "High"
-    },
-    {
-      "time_paris": "13:00",
-      "country": "GBP",
-      "indicator": "Official Bank Rate",
-      "consensus": "3.75%",
-      "previous": "3.75%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Philly Fed Manufacturing Index",
-      "consensus": "9.8",
-      "previous": "-0.4",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "225K",
-      "previous": "229K",
+      "indicator": "Retail Sales m/m",
+      "consensus": "0.5%",
+      "previous": "-1.3%",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Number of job vacancies hits five year-low",
-      "summary": "Latest figures suggest companies are becoming more cautious about taking on new staff.",
-      "url": "https://www.bbc.com/news/articles/cm203nn7lzro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 08:44:12 GMT"
+      "title": "Plans to end gazumping with binding agreements in house sales shake-up",
+      "summary": "Sales agreements will be legally binding sooner and making sellers provide more home information up front are part of the planned changes.",
+      "url": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 08:42:57 GMT"
     },
     {
-      "title": "Interest rates expected to be held by Bank of England",
+      "title": "Warning over 'fragile' public finances as borrowing rises",
+      "summary": "The UK borrowed £23.3bn in May, according to official figures, up almost a third on the same month last year.",
+      "url": "https://www.bbc.com/news/articles/cqx1e8nrwgvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 08:37:31 GMT"
+    },
+    {
+      "title": "'I'd be put off if he asked to split it': Who should pay on a first date?",
+      "summary": "Some insist on splitting the bill, others say the asker should pay, while many still see a man paying as romantic.",
+      "url": "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 06:52:40 GMT"
+    },
+    {
+      "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
+      "summary": "Analysis showed how much the UK could have grown if it had not exited the EU.",
+      "url": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 18 Jun 2026 23:05:05 GMT"
+    },
+    {
+      "title": "Five ways the Iran peace deal could affect you and your money",
+      "summary": "With fuel and gas prices having fallen in recent days, we look at how the end of hostitlities might affect you - in five charts.",
+      "url": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 18 Jun 2026 23:06:20 GMT"
+    },
+    {
+      "title": "The artificial ice pyramids saving India's mountain villages",
+      "summary": "Himalayan villages are creating artificial glaciers to guarantee water for their crops in the spring.",
+      "url": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 18 Jun 2026 23:11:07 GMT"
+    },
+    {
+      "title": "Interest rates held as Bank warns of impact of high energy prices",
       "summary": "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
       "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 17 Jun 2026 23:01:11 GMT"
+      "published": "Thu, 18 Jun 2026 12:50:33 GMT"
     },
     {
-      "title": "Apple to raise prices as AI boom pushes up chip costs",
-      "summary": "The firm's outgoing boss Tim Cook did not say when prices would rise or which products would be affected.",
-      "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 07:27:21 GMT"
-    },
-    {
-      "title": "Why has Texas set its sights on London?",
-      "summary": "Texas, which once had an embassy in London, strengthens its ties with the capital by opening a new trade office.",
-      "url": "https://www.bbc.com/news/articles/ckgpgvklkgko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 05:03:39 GMT"
-    },
-    {
-      "title": "Warsh to review how Fed works after holding US interest rates at first meeting",
-      "summary": "The Federal Reserve held rates between 3.5% and 3.75% after Kevin Warsh's first meeting in charge of the central bank.",
-      "url": "https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 17 Jun 2026 18:41:12 GMT"
-    },
-    {
-      "title": "'We had to get out of the way': The backlash over delivery robots",
-      "summary": "As the delivery vehicles increasing take to US streets, bans and protest groups are springing up.",
-      "url": "https://www.bbc.com/news/articles/c0rygp005wjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 17 Jun 2026 23:02:05 GMT"
-    },
-    {
-      "title": "Driving test wait time target will not be met until autumn next year",
-      "summary": "The Transport Secretary had been aiming to reduce the backlog to seven weeks by this autumn.",
-      "url": "https://www.bbc.com/news/articles/cd7wv0xqvryo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 17 Jun 2026 15:37:05 GMT"
-    },
-    {
-      "title": "Inflation unexpectedly steady as food price rises slow",
-      "summary": "Higher petrol prices were offset by slower price rises for meat, dairy and vegetables, according to the ONS.",
-      "url": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 17 Jun 2026 09:52:43 GMT"
+      "title": "'Do not travel' advice for Dubai dropped",
+      "summary": "Thousands of Brits were left stranded in the Middle East when the US-Iran war broke out in early 2026.",
+      "url": "https://www.bbc.com/news/articles/cddl29lg5gro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 18 Jun 2026 15:36:42 GMT"
     }
   ],
   "sources_status": {
