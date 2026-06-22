@@ -1,28 +1,28 @@
 {
-  "generated_at_utc": "2026-06-19T10:06:27.828610+00:00",
-  "generated_at_paris": "2026-06-19T12:06:27.828610+02:00",
-  "date_paris": "2026-06-19",
+  "generated_at_utc": "2026-06-22T10:36:52.415231+00:00",
+  "generated_at_paris": "2026-06-22T12:36:52.415231+02:00",
+  "date_paris": "2026-06-22",
   "indices": {
     "DAX": {
-      "open": 24996.5391,
-      "high": 25059.3691,
-      "low": 24840.2695,
-      "close": 25026.8008,
-      "date": "2026-06-18"
+      "open": 25075.3301,
+      "high": 25173.0195,
+      "low": 24951.5391,
+      "close": 24985.8203,
+      "date": "2026-06-19"
     },
     "CAC": {
-      "open": 8433.0898,
-      "high": 8473.2402,
-      "low": 8406.1699,
-      "close": 8467.9805,
-      "date": "2026-06-18"
+      "open": 8473.6904,
+      "high": 8501.3604,
+      "low": 8419.2002,
+      "close": 8421.1396,
+      "date": "2026-06-19"
     },
     "FTSE": {
-      "open": 10510.2002,
-      "high": 10510.2002,
-      "low": 10376.5996,
-      "close": 10399.7002,
-      "date": "2026-06-18"
+      "open": 10400.5,
+      "high": 10418.5996,
+      "low": 10352.9004,
+      "close": 10363.2998,
+      "date": "2026-06-19"
     },
     "SPX": {
       "open": 7487.3599,
@@ -46,11 +46,11 @@
       "date": "2026-06-18"
     },
     "N225": {
-      "open": 70163.7109,
-      "high": 71398.5781,
-      "low": 70092.9375,
-      "close": 71053.4922,
-      "date": "2026-06-18"
+      "open": 71551.0312,
+      "high": 71952.9922,
+      "low": 70517.9766,
+      "close": 71250.0625,
+      "date": "2026-06-19"
     },
     "HSI": {
       "open": 24145.1895,
@@ -62,83 +62,91 @@
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1511,
-      "high": 1.153,
-      "low": 1.1454,
-      "close": 1.1507,
-      "date": "2026-06-18"
+      "open": 1.1464,
+      "high": 1.1476,
+      "low": 1.1418,
+      "close": 1.1459,
+      "date": "2026-06-19"
     },
     "GBPUSD": {
-      "open": 1.3305,
-      "high": 1.3326,
-      "low": 1.3207,
-      "close": 1.3301,
-      "date": "2026-06-18"
+      "open": 1.3206,
+      "high": 1.3242,
+      "low": 1.3164,
+      "close": 1.3202,
+      "date": "2026-06-19"
     }
   },
   "vix": {
-    "value": 16.88,
-    "change_24h_pct": 2.93,
-    "date": "2026-06-19"
+    "value": 17.4,
+    "change_24h_pct": 6.1,
+    "date": "2026-06-22"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "08:00",
-      "country": "GBP",
-      "indicator": "Retail Sales m/m",
-      "consensus": "0.5%",
-      "previous": "-1.3%",
+      "time_paris": "15:00",
+      "country": "EUR",
+      "indicator": "ECB President Lagarde Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "17:25",
+      "country": "EUR",
+      "indicator": "ECB President Lagarde Speaks",
+      "consensus": "",
+      "previous": "",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Plans to end gazumping with binding agreements in house sales shake-up",
-      "summary": "Sales agreements will be legally binding sooner and making sellers provide more home information up front are part of the planned changes.",
-      "url": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 09:47:29 GMT"
+      "title": "EasyJet says US bidder trying to buy it 'on the cheap' as it rejects £4.7bn offer",
+      "summary": "The airline describes the latest bid approach from Castlelake as \"highly opportunistic\".",
+      "url": "https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 10:29:11 GMT"
     },
     {
-      "title": "Warning over 'fragile' public finances as borrowing rises",
-      "summary": "The UK borrowed £23.3bn in May, according to official figures, up almost a third on the same month last year.",
-      "url": "https://www.bbc.com/news/articles/cqx1e8nrwgvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 08:37:31 GMT"
+      "title": "Fake romance to missed deliveries: How to protect yourself from three common scams",
+      "summary": "Romance and investment fraud is at record levels but what can you do to prevent being caught out.",
+      "url": "https://www.bbc.com/news/articles/cx2xq1vngvdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 23:10:16 GMT"
     },
     {
-      "title": "'I'd be put off if he asked to split it': Who should pay on a first date?",
-      "summary": "Some insist on splitting the bill, others say the asker should pay, while many still see a man paying as romantic.",
-      "url": "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 06:52:40 GMT"
+      "title": "South East Water appoints new chief executive",
+      "summary": "John Halsall has previously worked for Thames Water, South West Water and Network Rail.",
+      "url": "https://www.bbc.com/news/articles/cr5jrr1n7ddo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 09:42:32 GMT"
     },
     {
-      "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
-      "summary": "Analysis showed how much the UK could have grown if it had not exited the EU.",
-      "url": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 23:05:05 GMT"
+      "title": "Toy Story 5 scores record opening weekend for franchise",
+      "summary": "The film's opening is a return to form for Disney and Pixar after facing notable challenges in recent years.",
+      "url": "https://www.bbc.com/news/articles/cx2kqg958v1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 03:13:05 GMT"
     },
     {
-      "title": "Five ways the Iran peace deal could affect you and your money",
-      "summary": "With fuel and gas prices having fallen in recent days, we look at how the end of hostilities might affect you - in five charts.",
-      "url": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 09:31:04 GMT"
+      "title": "'I couldn't sleep when I heard the last bank would close'",
+      "summary": "When 84-year-old Maggie Dodd discovered that the last remaining bank in Lochgilphead was closing, she began to panic.",
+      "url": "https://www.bbc.com/news/articles/c1ey6qy18jlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 23:03:07 GMT"
     },
     {
-      "title": "The artificial ice pyramids saving India's mountain villages",
-      "summary": "Himalayan villages are creating artificial glaciers to guarantee water for their crops in the spring.",
-      "url": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 23:11:07 GMT"
+      "title": "Is Germany looking again at coal-powered electricity?",
+      "summary": "It had planned to abandon the fuel, but the higher cost of natural gas may make it think again.",
+      "url": "https://www.bbc.com/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 23:27:11 GMT"
     },
     {
-      "title": "Interest rates held as Bank warns of impact of high energy prices",
-      "summary": "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
-      "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 12:50:33 GMT"
+      "title": "Wowcher sorry for 'unacceptable' crocodile attack email",
+      "summary": "The firm's marketing email appeared to reference an incident involving a toddler at a zoo.",
+      "url": "https://www.bbc.com/news/articles/c17ynlek5djo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 19:12:32 GMT"
     },
     {
-      "title": "'Do not travel' advice for Dubai dropped",
-      "summary": "Thousands of Brits were left stranded in the Middle East when the US-Iran war broke out in early 2026.",
-      "url": "https://www.bbc.com/news/articles/cddl29lg5gro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 15:36:42 GMT"
+      "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+      "summary": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
+      "url": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 10:55:05 GMT"
     }
   ],
   "sources_status": {
