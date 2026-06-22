@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-22T10:36:52.415231+00:00",
-  "generated_at_paris": "2026-06-22T12:36:52.415231+02:00",
+  "generated_at_utc": "2026-06-22T11:25:54.546921+00:00",
+  "generated_at_paris": "2026-06-22T13:25:54.546921+02:00",
   "date_paris": "2026-06-22",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 17.4,
-    "change_24h_pct": 6.1,
+    "value": 17.29,
+    "change_24h_pct": 5.43,
     "date": "2026-06-22"
   },
   "macro_calendar_today": [
@@ -113,10 +113,10 @@
       "published": "Sun, 21 Jun 2026 23:10:16 GMT"
     },
     {
-      "title": "South East Water appoints new chief executive",
+      "title": "South East Water announces new chief executive",
       "summary": "John Halsall has previously worked for Thames Water, South West Water and Network Rail.",
       "url": "https://www.bbc.com/news/articles/cr5jrr1n7ddo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 09:42:32 GMT"
+      "published": "Mon, 22 Jun 2026 11:25:06 GMT"
     },
     {
       "title": "Toy Story 5 scores record opening weekend for franchise",
