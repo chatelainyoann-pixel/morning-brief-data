@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-23T08:28:21.994739+00:00",
-  "generated_at_paris": "2026-06-23T10:28:21.994739+02:00",
+  "generated_at_utc": "2026-06-23T08:52:04.048404+00:00",
+  "generated_at_paris": "2026-06-23T10:52:04.048404+02:00",
   "date_paris": "2026-06-23",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 20.24,
-    "change_24h_pct": 17.13,
+    "value": 20.2,
+    "change_24h_pct": 16.9,
     "date": "2026-06-23"
   },
   "macro_calendar_today": [
@@ -161,7 +161,7 @@
       "published": "Tue, 23 Jun 2026 02:21:14 GMT"
     },
     {
-      "title": "Can you refuse to work or send your kids to school during a heatwave?",
+      "title": "Can you keep your kids off school or refuse to work during a heatwave?",
       "summary": "As temperatures increase significantly over the next few days, these are your rights.",
       "url": "https://www.bbc.com/news/articles/c6217nv34rro?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 23 Jun 2026 08:15:12 GMT"
