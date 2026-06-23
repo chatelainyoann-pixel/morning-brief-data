@@ -1,152 +1,200 @@
 {
-  "generated_at_utc": "2026-06-22T11:25:54.546921+00:00",
-  "generated_at_paris": "2026-06-22T13:25:54.546921+02:00",
-  "date_paris": "2026-06-22",
+  "generated_at_utc": "2026-06-23T08:28:21.994739+00:00",
+  "generated_at_paris": "2026-06-23T10:28:21.994739+02:00",
+  "date_paris": "2026-06-23",
   "indices": {
     "DAX": {
-      "open": 25075.3301,
-      "high": 25173.0195,
-      "low": 24951.5391,
-      "close": 24985.8203,
-      "date": "2026-06-19"
+      "open": 25035.9297,
+      "high": 25176.2109,
+      "low": 24896.1895,
+      "close": 25139.6895,
+      "date": "2026-06-22"
     },
     "CAC": {
-      "open": 8473.6904,
-      "high": 8501.3604,
-      "low": 8419.2002,
-      "close": 8421.1396,
-      "date": "2026-06-19"
+      "open": 8434.0703,
+      "high": 8435.8096,
+      "low": 8353.0596,
+      "close": 8400.1104,
+      "date": "2026-06-22"
     },
     "FTSE": {
-      "open": 10400.5,
-      "high": 10418.5996,
-      "low": 10352.9004,
-      "close": 10363.2998,
-      "date": "2026-06-19"
+      "open": 10363.5996,
+      "high": 10443.2002,
+      "low": 10346.5996,
+      "close": 10437.9004,
+      "date": "2026-06-22"
     },
     "SPX": {
-      "open": 7487.3599,
-      "high": 7511.0698,
-      "low": 7468.3198,
-      "close": 7500.5801,
-      "date": "2026-06-18"
+      "open": 7500.4399,
+      "high": 7530.0098,
+      "low": 7460.0098,
+      "close": 7472.79,
+      "date": "2026-06-22"
     },
     "NDX": {
-      "open": 30261.5996,
-      "high": 30463.7695,
-      "low": 30089.3496,
-      "close": 30406.1895,
-      "date": "2026-06-18"
+      "open": 30529.9902,
+      "high": 30642.5703,
+      "low": 30194.25,
+      "close": 30347.0801,
+      "date": "2026-06-22"
     },
     "DJI": {
-      "open": 51571.8516,
-      "high": 51949.2617,
-      "low": 51554.5312,
-      "close": 51564.6992,
-      "date": "2026-06-18"
+      "open": 51555.1914,
+      "high": 51887.8516,
+      "low": 51555.1914,
+      "close": 51712.7109,
+      "date": "2026-06-22"
     },
     "N225": {
-      "open": 71551.0312,
-      "high": 71952.9922,
-      "low": 70517.9766,
-      "close": 71250.0625,
-      "date": "2026-06-19"
+      "open": 71067.1484,
+      "high": 72831.7266,
+      "low": 71009.5234,
+      "close": 72353.9609,
+      "date": "2026-06-22"
     },
     "HSI": {
-      "open": 24145.1895,
-      "high": 24163.25,
-      "low": 23749.9902,
-      "close": 23924.8105,
-      "date": "2026-06-18"
+      "open": 23811.7598,
+      "high": 23863.7109,
+      "low": 23444.8594,
+      "close": 23768.5195,
+      "date": "2026-06-22"
     }
   },
   "forex": {
     "EURUSD": {
       "open": 1.1464,
-      "high": 1.1476,
-      "low": 1.1418,
-      "close": 1.1459,
-      "date": "2026-06-19"
+      "high": 1.1473,
+      "low": 1.1426,
+      "close": 1.1463,
+      "date": "2026-06-22"
     },
     "GBPUSD": {
-      "open": 1.3206,
-      "high": 1.3242,
-      "low": 1.3164,
-      "close": 1.3202,
-      "date": "2026-06-19"
+      "open": 1.3208,
+      "high": 1.3272,
+      "low": 1.3185,
+      "close": 1.3208,
+      "date": "2026-06-22"
     }
   },
   "vix": {
-    "value": 17.29,
-    "change_24h_pct": 5.43,
-    "date": "2026-06-22"
+    "value": 20.24,
+    "change_24h_pct": 17.13,
+    "date": "2026-06-23"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "15:00",
+      "time_paris": "09:15",
       "country": "EUR",
-      "indicator": "ECB President Lagarde Speaks",
-      "consensus": "",
-      "previous": "",
+      "indicator": "French Flash Manufacturing PMI",
+      "consensus": "50.2",
+      "previous": "48.9",
       "impact": "Medium"
     },
     {
-      "time_paris": "17:25",
+      "time_paris": "09:15",
       "country": "EUR",
-      "indicator": "ECB President Lagarde Speaks",
-      "consensus": "",
-      "previous": "",
+      "indicator": "French Flash Services PMI",
+      "consensus": "45.9",
+      "previous": "42.9",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "09:30",
+      "country": "EUR",
+      "indicator": "German Flash Manufacturing PMI",
+      "consensus": "50.3",
+      "previous": "49.9",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "09:30",
+      "country": "EUR",
+      "indicator": "German Flash Services PMI",
+      "consensus": "49.0",
+      "previous": "47.8",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "10:30",
+      "country": "GBP",
+      "indicator": "Flash Manufacturing PMI",
+      "consensus": "53.5",
+      "previous": "53.7",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "10:30",
+      "country": "GBP",
+      "indicator": "Flash Services PMI",
+      "consensus": "50.1",
+      "previous": "47.9",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "15:45",
+      "country": "USD",
+      "indicator": "Flash Manufacturing PMI",
+      "consensus": "54.6",
+      "previous": "55.3",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "15:45",
+      "country": "USD",
+      "indicator": "Flash Services PMI",
+      "consensus": "51.1",
+      "previous": "50.9",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "EasyJet says US bidder trying to buy it 'on the cheap' as it rejects £4.7bn offer",
-      "summary": "The airline describes the latest bid approach from Castlelake as \"highly opportunistic\".",
-      "url": "https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 10:29:11 GMT"
+      "title": "Ticket reseller StubHub ordered to refund customers over hidden fees",
+      "summary": "The Competition and Markets Authority said StubHub must refund 50,000 customers and pay a fine.",
+      "url": "https://www.bbc.com/news/articles/cd6enx152jlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 07:42:32 GMT"
     },
     {
-      "title": "Fake romance to missed deliveries: How to protect yourself from three common scams",
-      "summary": "Romance and investment fraud is at record levels but what can you do to prevent being caught out.",
-      "url": "https://www.bbc.com/news/articles/cx2xq1vngvdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 21 Jun 2026 23:10:16 GMT"
+      "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
+      "summary": "The cuts are part of a wider trend among tech firms as they spend hundreds of billions of dollars on AI.",
+      "url": "https://www.bbc.com/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 02:21:14 GMT"
     },
     {
-      "title": "South East Water announces new chief executive",
-      "summary": "John Halsall has previously worked for Thames Water, South West Water and Network Rail.",
-      "url": "https://www.bbc.com/news/articles/cr5jrr1n7ddo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 11:25:06 GMT"
+      "title": "Can you refuse to work or send your kids to school during a heatwave?",
+      "summary": "As temperatures increase significantly over the next few days, these are your rights.",
+      "url": "https://www.bbc.com/news/articles/c6217nv34rro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 08:15:12 GMT"
     },
     {
-      "title": "Toy Story 5 scores record opening weekend for franchise",
-      "summary": "The film's opening is a return to form for Disney and Pixar after facing notable challenges in recent years.",
-      "url": "https://www.bbc.com/news/articles/cx2kqg958v1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 03:13:05 GMT"
+      "title": "Millions in UK could claim share of £3bn after Apple case given green light",
+      "summary": "Apple rejected the suggestion its practices are anti-competitive, saying many customers rely on third-party alternatives.",
+      "url": "https://www.bbc.com/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 23:02:33 GMT"
     },
     {
-      "title": "'I couldn't sleep when I heard the last bank would close'",
-      "summary": "When 84-year-old Maggie Dodd discovered that the last remaining bank in Lochgilphead was closing, she began to panic.",
-      "url": "https://www.bbc.com/news/articles/c1ey6qy18jlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 21 Jun 2026 23:03:07 GMT"
+      "title": "Tesla crash that killed a woman under US federal investigation",
+      "summary": "A Tesla driver on Friday said he was using ‘self-driving’ technology after his vehicle sped into a Texas home.",
+      "url": "https://www.bbc.com/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 22:20:07 GMT"
     },
     {
-      "title": "Is Germany looking again at coal-powered electricity?",
-      "summary": "It had planned to abandon the fuel, but the higher cost of natural gas may make it think again.",
-      "url": "https://www.bbc.com/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 21 Jun 2026 23:27:11 GMT"
+      "title": "Do you know your 'sweat score'? The rise of hydration tech",
+      "summary": "Hydration tracking gadgets are flooding the market but is it too much information?",
+      "url": "https://www.bbc.com/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 23:01:11 GMT"
     },
     {
-      "title": "Wowcher sorry for 'unacceptable' crocodile attack email",
-      "summary": "The firm's marketing email appeared to reference an incident involving a toddler at a zoo.",
-      "url": "https://www.bbc.com/news/articles/c17ynlek5djo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 21 Jun 2026 19:12:32 GMT"
+      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+      "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 05:39:17 GMT"
     },
     {
-      "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
-      "summary": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
-      "url": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 21 Jun 2026 10:55:05 GMT"
+      "title": "Australia's coal and gas exports violate our human rights, group says in new UN case",
+      "summary": "The group says that it is unlawful for Australia to continue approving fossil fuel exports without protecting its citizens.",
+      "url": "https://www.bbc.com/news/articles/cn8q5nx6jw6o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 03:55:00 GMT"
     }
   ],
   "sources_status": {
