@@ -1,200 +1,135 @@
 {
-  "generated_at_utc": "2026-06-23T08:52:04.048404+00:00",
-  "generated_at_paris": "2026-06-23T10:52:04.048404+02:00",
-  "date_paris": "2026-06-23",
+  "generated_at_utc": "2026-06-24T08:21:01.431758+00:00",
+  "generated_at_paris": "2026-06-24T10:21:01.431758+02:00",
+  "date_paris": "2026-06-24",
   "indices": {
     "DAX": {
-      "open": 25035.9297,
-      "high": 25176.2109,
-      "low": 24896.1895,
-      "close": 25139.6895,
-      "date": "2026-06-22"
+      "open": 24835.5605,
+      "high": 24988.7109,
+      "low": 24728.5703,
+      "close": 24893.5801,
+      "date": "2026-06-23"
     },
     "CAC": {
-      "open": 8434.0703,
-      "high": 8435.8096,
-      "low": 8353.0596,
-      "close": 8400.1104,
-      "date": "2026-06-22"
+      "open": 8332.2998,
+      "high": 8379.29,
+      "low": 8304.5703,
+      "close": 8340.71,
+      "date": "2026-06-23"
     },
     "FTSE": {
-      "open": 10363.5996,
-      "high": 10443.2002,
-      "low": 10346.5996,
-      "close": 10437.9004,
-      "date": "2026-06-22"
+      "open": 10438.2002,
+      "high": 10462.2002,
+      "low": 10332.4004,
+      "close": 10428.9004,
+      "date": "2026-06-23"
     },
     "SPX": {
-      "open": 7500.4399,
-      "high": 7530.0098,
-      "low": 7460.0098,
-      "close": 7472.79,
-      "date": "2026-06-22"
+      "open": 7366.5098,
+      "high": 7424.1699,
+      "low": 7347.6001,
+      "close": 7365.46,
+      "date": "2026-06-23"
     },
     "NDX": {
-      "open": 30529.9902,
-      "high": 30642.5703,
-      "low": 30194.25,
-      "close": 30347.0801,
-      "date": "2026-06-22"
+      "open": 29369.25,
+      "high": 29748.7207,
+      "low": 29276.9805,
+      "close": 29347.2695,
+      "date": "2026-06-23"
     },
     "DJI": {
-      "open": 51555.1914,
-      "high": 51887.8516,
-      "low": 51555.1914,
-      "close": 51712.7109,
-      "date": "2026-06-22"
+      "open": 51735.6406,
+      "high": 51872.5586,
+      "low": 51301.7695,
+      "close": 51666.8398,
+      "date": "2026-06-23"
     },
     "N225": {
-      "open": 71067.1484,
-      "high": 72831.7266,
-      "low": 71009.5234,
-      "close": 72353.9609,
-      "date": "2026-06-22"
+      "open": 72404.3672,
+      "high": 72618.4375,
+      "low": 69788.3828,
+      "close": 69788.3828,
+      "date": "2026-06-23"
     },
     "HSI": {
-      "open": 23811.7598,
-      "high": 23863.7109,
-      "low": 23444.8594,
-      "close": 23768.5195,
-      "date": "2026-06-22"
+      "open": 23800.0195,
+      "high": 23825.8105,
+      "low": 23252.1309,
+      "close": 23336.2793,
+      "date": "2026-06-23"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1464,
-      "high": 1.1473,
-      "low": 1.1426,
-      "close": 1.1463,
-      "date": "2026-06-22"
+      "open": 1.1425,
+      "high": 1.1439,
+      "low": 1.1377,
+      "close": 1.1427,
+      "date": "2026-06-23"
     },
     "GBPUSD": {
-      "open": 1.3208,
-      "high": 1.3272,
-      "low": 1.3185,
-      "close": 1.3208,
-      "date": "2026-06-22"
+      "open": 1.3246,
+      "high": 1.325,
+      "low": 1.3186,
+      "close": 1.3247,
+      "date": "2026-06-23"
     }
   },
   "vix": {
-    "value": 20.2,
-    "change_24h_pct": 16.9,
-    "date": "2026-06-23"
+    "value": 19.09,
+    "change_24h_pct": -2.05,
+    "date": "2026-06-24"
   },
-  "macro_calendar_today": [
-    {
-      "time_paris": "09:15",
-      "country": "EUR",
-      "indicator": "French Flash Manufacturing PMI",
-      "consensus": "50.2",
-      "previous": "48.9",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:15",
-      "country": "EUR",
-      "indicator": "French Flash Services PMI",
-      "consensus": "45.9",
-      "previous": "42.9",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:30",
-      "country": "EUR",
-      "indicator": "German Flash Manufacturing PMI",
-      "consensus": "50.3",
-      "previous": "49.9",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:30",
-      "country": "EUR",
-      "indicator": "German Flash Services PMI",
-      "consensus": "49.0",
-      "previous": "47.8",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "10:30",
-      "country": "GBP",
-      "indicator": "Flash Manufacturing PMI",
-      "consensus": "53.5",
-      "previous": "53.7",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "10:30",
-      "country": "GBP",
-      "indicator": "Flash Services PMI",
-      "consensus": "50.1",
-      "previous": "47.9",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "15:45",
-      "country": "USD",
-      "indicator": "Flash Manufacturing PMI",
-      "consensus": "54.6",
-      "previous": "55.3",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "15:45",
-      "country": "USD",
-      "indicator": "Flash Services PMI",
-      "consensus": "51.1",
-      "previous": "50.9",
-      "impact": "Medium"
-    }
-  ],
+  "macro_calendar_today": [],
   "news_bbc": [
     {
-      "title": "Ticket reseller StubHub ordered to refund customers over hidden fees",
-      "summary": "The Competition and Markets Authority said StubHub must refund 50,000 customers and pay a fine.",
-      "url": "https://www.bbc.com/news/articles/cd6enx152jlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 07:42:32 GMT"
+      "title": "The economic challenges facing the next prime minister",
+      "summary": "Though the person in charge of the country will change, the fiscal issues remain the same.",
+      "url": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 23:01:55 GMT"
     },
     {
-      "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
-      "summary": "The cuts are part of a wider trend among tech firms as they spend hundreds of billions of dollars on AI.",
-      "url": "https://www.bbc.com/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 02:21:14 GMT"
+      "title": "Burnham likely to replace Reeves if he becomes PM",
+      "summary": "Rachel Reeves would be offered a more junior cabinet role, the BBC understands.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyl91qlyr1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 24 Jun 2026 08:20:26 GMT"
     },
     {
-      "title": "Can you keep your kids off school or refuse to work during a heatwave?",
-      "summary": "As temperatures increase significantly over the next few days, these are your rights.",
-      "url": "https://www.bbc.com/news/articles/c6217nv34rro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 08:15:12 GMT"
+      "title": "US to probe petrol price gouging claims, Trump says",
+      "summary": "The president's remarks come as global oil prices have fallen but remain higher than before the US-Israel war with Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 24 Jun 2026 07:09:04 GMT"
     },
     {
-      "title": "Millions in UK could claim share of £3bn after Apple case given green light",
-      "summary": "Apple rejected the suggestion its practices are anti-competitive, saying many customers rely on third-party alternatives.",
-      "url": "https://www.bbc.com/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 23:02:33 GMT"
+      "title": "Ten years on, Brexit's economic impact is becoming clearer",
+      "summary": "A decade ago, many economists argued the UK would sustain longer-term economic damage by leaving the EU. So what did happen?",
+      "url": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 23:07:34 GMT"
     },
     {
-      "title": "Tesla crash that killed a woman under US federal investigation",
-      "summary": "A Tesla driver on Friday said he was using ‘self-driving’ technology after his vehicle sped into a Texas home.",
-      "url": "https://www.bbc.com/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 22:20:07 GMT"
+      "title": "Who could be the UK's next chancellor?",
+      "summary": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
+      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 24 Jun 2026 00:43:24 GMT"
     },
     {
       "title": "Do you know your 'sweat score'? The rise of hydration tech",
       "summary": "Hydration tracking gadgets are flooding the market but is it too much information?",
-      "url": "https://www.bbc.com/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 22 Jun 2026 23:01:11 GMT"
     },
     {
-      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-      "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
-      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 05:39:17 GMT"
+      "title": "Tech stocks tumble on concerns over AI spending",
+      "summary": "A sudden wave of selling in major tech shares triggers doubt over the sustainability of the AI boom.",
+      "url": "https://www.bbc.co.uk/news/articles/c802gvxpyxzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 17:34:02 GMT"
     },
     {
-      "title": "Australia's coal and gas exports violate our human rights, group says in new UN case",
-      "summary": "The group says that it is unlawful for Australia to continue approving fossil fuel exports without protecting its citizens.",
-      "url": "https://www.bbc.com/news/articles/cn8q5nx6jw6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 03:55:00 GMT"
+      "title": "How has Northern Ireland's economy fared since Brexit?",
+      "summary": "A decade on from Brexit, BBC News NI's John Campbell looks at whether the region has benefited from having dual access to the EU and GB markets.",
+      "url": "https://www.bbc.co.uk/news/articles/crel5d221ggo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 24 Jun 2026 06:45:31 GMT"
     }
   ],
   "sources_status": {
@@ -203,7 +138,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": true,
+    "ff_macro_calendar_ok": false,
     "bbc_news_ok": true
   }
 }
