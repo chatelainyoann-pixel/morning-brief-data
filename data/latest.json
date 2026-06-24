@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-24T08:21:01.431758+00:00",
-  "generated_at_paris": "2026-06-24T10:21:01.431758+02:00",
+  "generated_at_utc": "2026-06-24T08:47:32.126273+00:00",
+  "generated_at_paris": "2026-06-24T10:47:32.126273+02:00",
   "date_paris": "2026-06-24",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 19.09,
-    "change_24h_pct": -2.05,
+    "value": 19.19,
+    "change_24h_pct": -1.54,
     "date": "2026-06-24"
   },
   "macro_calendar_today": [],
@@ -90,16 +90,16 @@
       "published": "Tue, 23 Jun 2026 23:01:55 GMT"
     },
     {
+      "title": "Why are there holiday delay warnings over the EU's new border system?",
+      "summary": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
+      "url": "https://www.bbc.co.uk/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 24 Jun 2026 08:38:21 GMT"
+    },
+    {
       "title": "Burnham likely to replace Reeves if he becomes PM",
       "summary": "Rachel Reeves would be offered a more junior cabinet role, the BBC understands.",
       "url": "https://www.bbc.co.uk/news/articles/cwyl91qlyr1o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 24 Jun 2026 08:20:26 GMT"
-    },
-    {
-      "title": "US to probe petrol price gouging claims, Trump says",
-      "summary": "The president's remarks come as global oil prices have fallen but remain higher than before the US-Israel war with Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 07:09:04 GMT"
     },
     {
       "title": "Ten years on, Brexit's economic impact is becoming clearer",
@@ -108,10 +108,10 @@
       "published": "Tue, 23 Jun 2026 23:07:34 GMT"
     },
     {
-      "title": "Who could be the UK's next chancellor?",
-      "summary": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
-      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 00:43:24 GMT"
+      "title": "US to probe petrol price gouging claims, Trump says",
+      "summary": "The president's remarks come as global oil prices have fallen but remain higher than before the US-Israel war with Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 24 Jun 2026 07:09:04 GMT"
     },
     {
       "title": "Do you know your 'sweat score'? The rise of hydration tech",
@@ -120,16 +120,16 @@
       "published": "Mon, 22 Jun 2026 23:01:11 GMT"
     },
     {
+      "title": "Who could be the UK's next chancellor?",
+      "summary": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
+      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 24 Jun 2026 00:43:24 GMT"
+    },
+    {
       "title": "Tech stocks tumble on concerns over AI spending",
       "summary": "A sudden wave of selling in major tech shares triggers doubt over the sustainability of the AI boom.",
       "url": "https://www.bbc.co.uk/news/articles/c802gvxpyxzo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 23 Jun 2026 17:34:02 GMT"
-    },
-    {
-      "title": "How has Northern Ireland's economy fared since Brexit?",
-      "summary": "A decade on from Brexit, BBC News NI's John Campbell looks at whether the region has benefited from having dual access to the EU and GB markets.",
-      "url": "https://www.bbc.co.uk/news/articles/crel5d221ggo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 06:45:31 GMT"
     }
   ],
   "sources_status": {
