@@ -1,135 +1,176 @@
 {
-  "generated_at_utc": "2026-06-24T08:47:32.126273+00:00",
-  "generated_at_paris": "2026-06-24T10:47:32.126273+02:00",
-  "date_paris": "2026-06-24",
+  "generated_at_utc": "2026-06-25T08:22:24.419902+00:00",
+  "generated_at_paris": "2026-06-25T10:22:24.419902+02:00",
+  "date_paris": "2026-06-25",
   "indices": {
     "DAX": {
-      "open": 24835.5605,
-      "high": 24988.7109,
-      "low": 24728.5703,
-      "close": 24893.5801,
-      "date": "2026-06-23"
+      "open": 24790.6992,
+      "high": 24800.6602,
+      "low": 24593.4805,
+      "close": 24740.3594,
+      "date": "2026-06-24"
     },
     "CAC": {
-      "open": 8332.2998,
-      "high": 8379.29,
-      "low": 8304.5703,
-      "close": 8340.71,
-      "date": "2026-06-23"
+      "open": 8353.6797,
+      "high": 8395.8799,
+      "low": 8334.7695,
+      "close": 8385.4902,
+      "date": "2026-06-24"
     },
     "FTSE": {
-      "open": 10438.2002,
-      "high": 10462.2002,
-      "low": 10332.4004,
-      "close": 10428.9004,
-      "date": "2026-06-23"
+      "open": 10429.0,
+      "high": 10469.2998,
+      "low": 10407.0,
+      "close": 10461.5996,
+      "date": "2026-06-24"
     },
     "SPX": {
-      "open": 7366.5098,
-      "high": 7424.1699,
-      "low": 7347.6001,
-      "close": 7365.46,
-      "date": "2026-06-23"
+      "open": 7370.8799,
+      "high": 7428.0601,
+      "low": 7336.8198,
+      "close": 7358.2202,
+      "date": "2026-06-24"
     },
     "NDX": {
-      "open": 29369.25,
-      "high": 29748.7207,
-      "low": 29276.9805,
-      "close": 29347.2695,
-      "date": "2026-06-23"
+      "open": 29328.4004,
+      "high": 29592.9004,
+      "low": 28963.0996,
+      "close": 29220.0605,
+      "date": "2026-06-24"
     },
     "DJI": {
-      "open": 51735.6406,
-      "high": 51872.5586,
-      "low": 51301.7695,
-      "close": 51666.8398,
-      "date": "2026-06-23"
+      "open": 51660.75,
+      "high": 52248.6914,
+      "low": 51617.7305,
+      "close": 51848.8984,
+      "date": "2026-06-24"
     },
     "N225": {
-      "open": 72404.3672,
-      "high": 72618.4375,
-      "low": 69788.3828,
-      "close": 69788.3828,
-      "date": "2026-06-23"
+      "open": 69615.0781,
+      "high": 70218.7109,
+      "low": 68461.1016,
+      "close": 69174.9688,
+      "date": "2026-06-24"
     },
     "HSI": {
-      "open": 23800.0195,
-      "high": 23825.8105,
-      "low": 23252.1309,
-      "close": 23336.2793,
-      "date": "2026-06-23"
+      "open": 23420.6992,
+      "high": 23565.6504,
+      "low": 23248.8691,
+      "close": 23412.1797,
+      "date": "2026-06-24"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1425,
-      "high": 1.1439,
-      "low": 1.1377,
-      "close": 1.1427,
-      "date": "2026-06-23"
+      "open": 1.1379,
+      "high": 1.1384,
+      "low": 1.1325,
+      "close": 1.138,
+      "date": "2026-06-24"
     },
     "GBPUSD": {
-      "open": 1.3246,
-      "high": 1.325,
-      "low": 1.3186,
-      "close": 1.3247,
-      "date": "2026-06-23"
+      "open": 1.3201,
+      "high": 1.3209,
+      "low": 1.3143,
+      "close": 1.32,
+      "date": "2026-06-24"
     }
   },
   "vix": {
-    "value": 19.19,
-    "change_24h_pct": -1.54,
-    "date": "2026-06-24"
+    "value": 17.98,
+    "change_24h_pct": -3.49,
+    "date": "2026-06-25"
   },
-  "macro_calendar_today": [],
+  "macro_calendar_today": [
+    {
+      "time_paris": "02:30",
+      "country": "USD",
+      "indicator": "President Trump Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Core PCE Price Index m/m",
+      "consensus": "0.3%",
+      "previous": "0.2%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Final GDP q/q",
+      "consensus": "1.6%",
+      "previous": "1.6%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Final GDP Price Index q/q",
+      "consensus": "3.5%",
+      "previous": "3.5%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Unemployment Claims",
+      "consensus": "225K",
+      "previous": "226K",
+      "impact": "Medium"
+    }
+  ],
   "news_bbc": [
     {
-      "title": "The economic challenges facing the next prime minister",
-      "summary": "Though the person in charge of the country will change, the fiscal issues remain the same.",
-      "url": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 23:01:55 GMT"
+      "title": "Reeves backs Burnham to become next prime minister",
+      "summary": "The chancellor throws her support behind the MP for Makerfield despite reports he could demote her if he becomes PM.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Jun 2026 05:00:07 GMT"
     },
     {
-      "title": "Why are there holiday delay warnings over the EU's new border system?",
-      "summary": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
-      "url": "https://www.bbc.co.uk/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 08:38:21 GMT"
+      "title": "Oil price falls to levels not seen since before Iran war",
+      "summary": "Energy prices have been on a wild ride since Iran responded to US and Israeli attacks by effectively closing the Strait of Hormuz.",
+      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Jun 2026 07:34:55 GMT"
     },
     {
-      "title": "Burnham likely to replace Reeves if he becomes PM",
-      "summary": "Rachel Reeves would be offered a more junior cabinet role, the BBC understands.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyl91qlyr1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 08:20:26 GMT"
+      "title": "I've spent 30 years in recruitment - this is how to get a job",
+      "summary": "The recruitment agency boss shares his tips on getting noticed in a tougher jobs market.",
+      "url": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Jun 2026 07:24:08 GMT"
     },
     {
-      "title": "Ten years on, Brexit's economic impact is becoming clearer",
-      "summary": "A decade ago, many economists argued the UK would sustain longer-term economic damage by leaving the EU. So what did happen?",
-      "url": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 23:07:34 GMT"
+      "title": "Price cuts on family summer days out come into force",
+      "summary": "The government is reducing VAT from 20% to 5% on attractions and kids' meals  as schools begin to break-up.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Jun 2026 08:19:54 GMT"
     },
     {
-      "title": "US to probe petrol price gouging claims, Trump says",
-      "summary": "The president's remarks come as global oil prices have fallen but remain higher than before the US-Israel war with Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 07:09:04 GMT"
+      "title": "Ferrari marketing boss quits just weeks after EV launch backlash",
+      "summary": "The design of the luxury carmaker's first all-electric vehicle, the Luce, was heavily criticised.",
+      "url": "https://www.bbc.co.uk/news/articles/cnv9edrjjn4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Jun 2026 05:10:01 GMT"
     },
     {
-      "title": "Do you know your 'sweat score'? The rise of hydration tech",
-      "summary": "Hydration tracking gadgets are flooding the market but is it too much information?",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 23:01:11 GMT"
+      "title": "The legal fight to get equal pay for Germany's disabled workers",
+      "summary": "A test case is seeking the minimum wage for 300,000 disabled people who currently get paid less.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0v1d24elo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 24 Jun 2026 23:10:28 GMT"
     },
     {
-      "title": "Who could be the UK's next chancellor?",
-      "summary": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
-      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 00:43:24 GMT"
+      "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+      "summary": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Jun 2026 03:12:17 GMT"
     },
     {
-      "title": "Tech stocks tumble on concerns over AI spending",
-      "summary": "A sudden wave of selling in major tech shares triggers doubt over the sustainability of the AI boom.",
-      "url": "https://www.bbc.co.uk/news/articles/c802gvxpyxzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 17:34:02 GMT"
+      "title": "Baroness Mone among individuals sued to recover PPE Medpro millions",
+      "summary": "The Baroness and her husband Doug Barrowman are among individuals being sued in a bid to recover some of the money owed to the government by the business.",
+      "url": "https://www.bbc.co.uk/news/articles/c7vy1y7myn5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 24 Jun 2026 17:32:22 GMT"
     }
   ],
   "sources_status": {
@@ -138,7 +179,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": false,
+    "ff_macro_calendar_ok": true,
     "bbc_news_ok": true
   }
 }
