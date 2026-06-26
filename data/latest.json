@@ -1,176 +1,152 @@
 {
-  "generated_at_utc": "2026-06-25T08:42:25.881858+00:00",
-  "generated_at_paris": "2026-06-25T10:42:25.881858+02:00",
-  "date_paris": "2026-06-25",
+  "generated_at_utc": "2026-06-26T08:29:22.182371+00:00",
+  "generated_at_paris": "2026-06-26T10:29:22.182371+02:00",
+  "date_paris": "2026-06-26",
   "indices": {
     "DAX": {
-      "open": 24790.6992,
-      "high": 24800.6602,
-      "low": 24593.4805,
-      "close": 24740.3594,
-      "date": "2026-06-24"
+      "open": 24810.0,
+      "high": 25088.2793,
+      "low": 24761.7207,
+      "close": 24994.8301,
+      "date": "2026-06-25"
     },
     "CAC": {
-      "open": 8353.6797,
-      "high": 8395.8799,
-      "low": 8334.7695,
-      "close": 8385.4902,
-      "date": "2026-06-24"
+      "open": 8388.8203,
+      "high": 8452.3799,
+      "low": 8374.5,
+      "close": 8431.6104,
+      "date": "2026-06-25"
     },
     "FTSE": {
-      "open": 10429.0,
-      "high": 10469.2998,
-      "low": 10407.0,
-      "close": 10461.5996,
-      "date": "2026-06-24"
+      "open": 10461.5,
+      "high": 10575.2998,
+      "low": 10415.5,
+      "close": 10529.9004,
+      "date": "2026-06-25"
     },
     "SPX": {
-      "open": 7370.8799,
-      "high": 7428.0601,
-      "low": 7336.8198,
-      "close": 7358.2202,
-      "date": "2026-06-24"
+      "open": 7404.9102,
+      "high": 7419.0801,
+      "low": 7323.5,
+      "close": 7357.4902,
+      "date": "2026-06-25"
     },
     "NDX": {
-      "open": 29328.4004,
-      "high": 29592.9004,
-      "low": 28963.0996,
-      "close": 29220.0605,
-      "date": "2026-06-24"
+      "open": 29843.8906,
+      "high": 29843.8906,
+      "low": 29000.5508,
+      "close": 29440.3203,
+      "date": "2026-06-25"
     },
     "DJI": {
-      "open": 51660.75,
-      "high": 52248.6914,
-      "low": 51617.7305,
-      "close": 51848.8984,
-      "date": "2026-06-24"
+      "open": 52009.0195,
+      "high": 52655.6602,
+      "low": 51857.7812,
+      "close": 51920.6211,
+      "date": "2026-06-25"
     },
     "N225": {
-      "open": 69615.0781,
-      "high": 70218.7109,
-      "low": 68461.1016,
-      "close": 69174.9688,
-      "date": "2026-06-24"
+      "open": 70114.0938,
+      "high": 72594.2188,
+      "low": 69982.6719,
+      "close": 72366.3438,
+      "date": "2026-06-25"
     },
     "HSI": {
-      "open": 23420.6992,
-      "high": 23565.6504,
-      "low": 23248.8691,
-      "close": 23412.1797,
-      "date": "2026-06-24"
+      "open": 23388.5,
+      "high": 23388.5,
+      "low": 22978.5898,
+      "close": 23076.9102,
+      "date": "2026-06-25"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1379,
-      "high": 1.1384,
-      "low": 1.1325,
-      "close": 1.138,
-      "date": "2026-06-24"
+      "open": 1.1353,
+      "high": 1.1388,
+      "low": 1.1334,
+      "close": 1.1354,
+      "date": "2026-06-25"
     },
     "GBPUSD": {
-      "open": 1.3201,
-      "high": 1.3209,
-      "low": 1.3143,
-      "close": 1.32,
-      "date": "2026-06-24"
+      "open": 1.3163,
+      "high": 1.3217,
+      "low": 1.3153,
+      "close": 1.3167,
+      "date": "2026-06-25"
     }
   },
   "vix": {
-    "value": 18.02,
-    "change_24h_pct": -3.27,
-    "date": "2026-06-25"
+    "value": 19.77,
+    "change_24h_pct": 4.66,
+    "date": "2026-06-26"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "02:30",
+      "time_paris": "16:00",
       "country": "USD",
-      "indicator": "President Trump Speaks",
+      "indicator": "Revised UoM Consumer Sentiment",
+      "consensus": "50.0",
+      "previous": "48.9",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "16:00",
+      "country": "USD",
+      "indicator": "Revised UoM Inflation Expectations",
       "consensus": "",
-      "previous": "",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Core PCE Price Index m/m",
-      "consensus": "0.3%",
-      "previous": "0.2%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Final GDP q/q",
-      "consensus": "1.6%",
-      "previous": "1.6%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Final GDP Price Index q/q",
-      "consensus": "3.5%",
-      "previous": "3.5%",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "225K",
-      "previous": "226K",
+      "previous": "4.6%",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Reeves backs Burnham to become next prime minister",
-      "summary": "The chancellor throws her support behind the MP for Makerfield despite reports he could demote her if he becomes PM.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 05:00:07 GMT"
+      "title": "Power banks and vapes now biggest fire risk on planes",
+      "summary": "Lithium battery fires are the number one safety risk to aircraft, yet the number of devices found in hold bags has nearly doubled in a year.",
+      "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Jun 2026 23:28:13 GMT"
     },
     {
-      "title": "Oil price falls to levels not seen since before Iran war",
-      "summary": "Energy prices have been on a wild ride since Iran responded to US and Israeli attacks by effectively closing the Strait of Hormuz.",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 07:34:55 GMT"
+      "title": "Yes, there have been rows but here's how I've made moving back home work",
+      "summary": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
+      "url": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Jun 2026 23:03:48 GMT"
     },
     {
-      "title": "I've spent 30 years in recruitment - this is how to get a job",
-      "summary": "The recruitment agency boss shares his tips on getting noticed in a tougher jobs market.",
-      "url": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 07:24:08 GMT"
+      "title": "Asia stock markets slide as tech shares slump",
+      "summary": "Trading on South Korea's Kospi index was halted for the third time this week to prevent panic selling.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 07:33:10 GMT"
     },
     {
-      "title": "Price cuts on family summer days out come into force",
-      "summary": "The government is reducing VAT from 20% to 5% on attractions and kids' meals  as schools begin to break-up.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 08:19:54 GMT"
+      "title": "Teens who hacked TfL were known to police years before cyber-attack",
+      "summary": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Jun 2026 23:19:48 GMT"
     },
     {
-      "title": "Ferrari marketing boss quits just weeks after EV launch backlash",
-      "summary": "The design of the luxury carmaker's first all-electric vehicle, the Luce, was heavily criticised.",
-      "url": "https://www.bbc.co.uk/news/articles/cnv9edrjjn4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 05:10:01 GMT"
+      "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
+      "summary": "Apple said it had \"never seen a component price increase this much, this quickly\".",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Jun 2026 19:41:22 GMT"
     },
     {
-      "title": "The legal fight to get equal pay for Germany's disabled workers",
-      "summary": "A test case is seeking the minimum wage for 300,000 disabled people who currently get paid less.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0v1d24elo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 23:10:28 GMT"
+      "title": "The abundant but expensive energy source that's under your feet",
+      "summary": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
+      "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Jun 2026 23:05:05 GMT"
     },
     {
-      "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
-      "summary": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 03:12:17 GMT"
+      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
+      "summary": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
+      "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Jun 2026 12:08:33 GMT"
     },
     {
-      "title": "Baroness Mone among individuals sued to recover PPE Medpro millions",
-      "summary": "The Baroness and her husband Doug Barrowman are among individuals being sued in a bid to recover some of the money owed to the government by the business.",
-      "url": "https://www.bbc.co.uk/news/articles/c7vy1y7myn5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 17:32:22 GMT"
+      "title": "How you can save money on your energy bill as debts rise",
+      "summary": "Experts say support is available as total debt and arrears to suppliers hit a new record.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy2e3wx7xwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Jun 2026 11:04:09 GMT"
     }
   ],
   "sources_status": {
