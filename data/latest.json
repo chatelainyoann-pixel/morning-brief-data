@@ -1,152 +1,144 @@
 {
-  "generated_at_utc": "2026-06-26T08:44:07.159506+00:00",
-  "generated_at_paris": "2026-06-26T10:44:07.159506+02:00",
-  "date_paris": "2026-06-26",
+  "generated_at_utc": "2026-06-29T09:25:27.550856+00:00",
+  "generated_at_paris": "2026-06-29T11:25:27.550856+02:00",
+  "date_paris": "2026-06-29",
   "indices": {
     "DAX": {
-      "open": 24810.0,
-      "high": 25088.2793,
-      "low": 24761.7207,
-      "close": 24994.8301,
-      "date": "2026-06-25"
+      "open": 24848.5098,
+      "high": 24869.6309,
+      "low": 24547.6992,
+      "close": 24671.2207,
+      "date": "2026-06-26"
     },
     "CAC": {
-      "open": 8388.8203,
-      "high": 8452.3799,
-      "low": 8374.5,
-      "close": 8431.6104,
-      "date": "2026-06-25"
+      "open": 8410.3604,
+      "high": 8421.0996,
+      "low": 8342.6201,
+      "close": 8384.8701,
+      "date": "2026-06-26"
     },
     "FTSE": {
-      "open": 10461.5,
-      "high": 10575.2998,
-      "low": 10415.5,
-      "close": 10529.9004,
-      "date": "2026-06-25"
+      "open": 10530.2002,
+      "high": 10530.2002,
+      "low": 10404.7002,
+      "close": 10508.0,
+      "date": "2026-06-26"
     },
     "SPX": {
-      "open": 7404.9102,
-      "high": 7419.0801,
-      "low": 7323.5,
-      "close": 7357.4902,
-      "date": "2026-06-25"
+      "open": 7312.7402,
+      "high": 7392.9502,
+      "low": 7294.1802,
+      "close": 7354.02,
+      "date": "2026-06-26"
     },
     "NDX": {
-      "open": 29843.8906,
-      "high": 29843.8906,
-      "low": 29000.5508,
-      "close": 29440.3203,
-      "date": "2026-06-25"
+      "open": 29040.1191,
+      "high": 29413.8008,
+      "low": 28890.7402,
+      "close": 29118.2402,
+      "date": "2026-06-26"
     },
     "DJI": {
-      "open": 52009.0195,
-      "high": 52655.6602,
-      "low": 51857.7812,
-      "close": 51920.6211,
-      "date": "2026-06-25"
+      "open": 51803.7695,
+      "high": 52130.0703,
+      "low": 51614.7383,
+      "close": 51876.1094,
+      "date": "2026-06-26"
     },
     "N225": {
-      "open": 70114.0938,
-      "high": 72594.2188,
-      "low": 69982.6719,
-      "close": 72366.3438,
-      "date": "2026-06-25"
+      "open": 71587.7109,
+      "high": 71786.2812,
+      "low": 68639.8438,
+      "close": 69360.8828,
+      "date": "2026-06-26"
     },
     "HSI": {
-      "open": 23388.5,
-      "high": 23388.5,
-      "low": 22978.5898,
-      "close": 23076.9102,
-      "date": "2026-06-25"
+      "open": 22952.0898,
+      "high": 22962.4609,
+      "low": 22518.0,
+      "close": 22671.8594,
+      "date": "2026-06-26"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1353,
-      "high": 1.1388,
-      "low": 1.1334,
-      "close": 1.1354,
-      "date": "2026-06-25"
+      "open": 1.1364,
+      "high": 1.1434,
+      "low": 1.1355,
+      "close": 1.1362,
+      "date": "2026-06-26"
     },
     "GBPUSD": {
-      "open": 1.3163,
-      "high": 1.3217,
-      "low": 1.3153,
-      "close": 1.3167,
-      "date": "2026-06-25"
+      "open": 1.319,
+      "high": 1.3232,
+      "low": 1.3181,
+      "close": 1.3188,
+      "date": "2026-06-26"
     }
   },
   "vix": {
-    "value": 19.7,
-    "change_24h_pct": 4.29,
-    "date": "2026-06-26"
+    "value": 18.44,
+    "change_24h_pct": 0.16,
+    "date": "2026-06-29"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Revised UoM Consumer Sentiment",
-      "consensus": "50.0",
-      "previous": "48.9",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Revised UoM Inflation Expectations",
+      "time_paris": "19:30",
+      "country": "EUR",
+      "indicator": "ECB President Lagarde Speaks",
       "consensus": "",
-      "previous": "4.6%",
+      "previous": "",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Power banks and vapes now biggest fire risk on planes",
-      "summary": "Lithium battery fires are the number one safety risk to aircraft, yet the number of devices found in hold bags has nearly doubled in a year.",
-      "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 23:28:13 GMT"
+      "title": "South Korea unveils $880bn chip and AI investment plan",
+      "summary": "It comes as regional rivals like Taiwan, China and Japan are investing heavily in chip factories and other technology.",
+      "url": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 08:55:29 GMT"
     },
     {
-      "title": "Yes, there have been rows but here's how I've made moving back home work",
+      "title": "Got the tennis bug? How to play sport without paying",
+      "summary": "As the world's best players begin play at Wimbledon, how can you get into sport on a budget.",
+      "url": "https://www.bbc.co.uk/news/articles/crlw2xw1yy2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 28 Jun 2026 23:06:00 GMT"
+    },
+    {
+      "title": "Rogue builder left our roof leaking and spent £30K we gave him in Lanzarote",
+      "summary": "Christian Williams benefitted to the tune of £160,000 from offending - but had just £1 to pay back.",
+      "url": "https://www.bbc.co.uk/news/articles/cze9wpny62go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 05:05:34 GMT"
+    },
+    {
+      "title": "Trump threatens 100% tariff on European nations over tech tax",
+      "summary": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
+      "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 01:37:18 GMT"
+    },
+    {
+      "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
+      "summary": "Some analysts say the first non-stop London to Sydney flight is a major milestone - but would you buy a ticket?",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 23:02:15 GMT"
+    },
+    {
+      "title": "Three unusual things about the King's tax bill",
+      "summary": "King Charles paid £12.9m in tax for 2024-2025 - here's what we know about his unique tax situation.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 23:00:30 GMT"
+    },
+    {
+      "title": "Who could be the UK's next chancellor?",
+      "summary": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
+      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 10:37:12 GMT"
+    },
+    {
+      "title": "I'm back at home again after uni - here's how I'm making it work",
       "summary": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
       "url": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 25 Jun 2026 23:03:48 GMT"
-    },
-    {
-      "title": "Asia stock markets slide as tech shares slump",
-      "summary": "Trading on South Korea's Kospi index was halted for the third time this week to prevent panic selling.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 07:33:10 GMT"
-    },
-    {
-      "title": "Teens who hacked TfL were known to police years before cyber-attack",
-      "summary": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 23:19:48 GMT"
-    },
-    {
-      "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
-      "summary": "Apple said it had \"never seen a component price increase this much, this quickly\".",
-      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 19:41:22 GMT"
-    },
-    {
-      "title": "The abundant but expensive energy source that's under your feet",
-      "summary": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
-      "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 23:05:05 GMT"
-    },
-    {
-      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
-      "summary": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
-      "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 12:08:33 GMT"
-    },
-    {
-      "title": "How you can save money on your energy bill as debts rise",
-      "summary": "Experts say support is available as total debt and arrears to suppliers hit a new record.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy2e3wx7xwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 11:04:09 GMT"
     }
   ],
   "sources_status": {
