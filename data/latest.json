@@ -1,144 +1,160 @@
 {
-  "generated_at_utc": "2026-06-29T10:14:20.100709+00:00",
-  "generated_at_paris": "2026-06-29T12:14:20.100709+02:00",
-  "date_paris": "2026-06-29",
+  "generated_at_utc": "2026-06-30T08:29:12.955892+00:00",
+  "generated_at_paris": "2026-06-30T10:29:12.955892+02:00",
+  "date_paris": "2026-06-30",
   "indices": {
     "DAX": {
-      "open": 24848.5098,
-      "high": 24869.6309,
-      "low": 24547.6992,
-      "close": 24671.2207,
-      "date": "2026-06-26"
+      "open": 24724.3398,
+      "high": 24762.2402,
+      "low": 24556.7793,
+      "close": 24626.8906,
+      "date": "2026-06-29"
     },
     "CAC": {
-      "open": 8410.3604,
-      "high": 8421.0996,
-      "low": 8342.6201,
-      "close": 8384.8701,
-      "date": "2026-06-26"
+      "open": 8379.3604,
+      "high": 8391.5596,
+      "low": 8341.2598,
+      "close": 8367.3301,
+      "date": "2026-06-29"
     },
     "FTSE": {
-      "open": 10530.2002,
-      "high": 10530.2002,
-      "low": 10404.7002,
-      "close": 10508.0,
-      "date": "2026-06-26"
+      "open": 10507.7998,
+      "high": 10521.0,
+      "low": 10472.0,
+      "close": 10484.2002,
+      "date": "2026-06-29"
     },
     "SPX": {
-      "open": 7312.7402,
-      "high": 7392.9502,
-      "low": 7294.1802,
-      "close": 7354.02,
-      "date": "2026-06-26"
+      "open": 7391.8799,
+      "high": 7444.3198,
+      "low": 7348.8799,
+      "close": 7440.4302,
+      "date": "2026-06-29"
     },
     "NDX": {
-      "open": 29040.1191,
-      "high": 29413.8008,
-      "low": 28890.7402,
-      "close": 29118.2402,
-      "date": "2026-06-26"
+      "open": 29310.2598,
+      "high": 29792.6309,
+      "low": 28991.5195,
+      "close": 29774.75,
+      "date": "2026-06-29"
     },
     "DJI": {
-      "open": 51803.7695,
-      "high": 52130.0703,
-      "low": 51614.7383,
-      "close": 51876.1094,
-      "date": "2026-06-26"
+      "open": 51995.1406,
+      "high": 52311.6289,
+      "low": 51949.5391,
+      "close": 52182.7383,
+      "date": "2026-06-29"
     },
     "N225": {
-      "open": 71587.7109,
-      "high": 71786.2812,
-      "low": 68639.8438,
-      "close": 69360.8828,
-      "date": "2026-06-26"
+      "open": 69609.8828,
+      "high": 69609.8828,
+      "low": 67997.5703,
+      "close": 69468.1094,
+      "date": "2026-06-29"
     },
     "HSI": {
-      "open": 22952.0898,
-      "high": 22962.4609,
-      "low": 22518.0,
-      "close": 22671.8594,
-      "date": "2026-06-26"
+      "open": 22827.6504,
+      "high": 23183.1699,
+      "low": 22783.6406,
+      "close": 23026.6797,
+      "date": "2026-06-29"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1364,
-      "high": 1.1434,
-      "low": 1.1355,
-      "close": 1.1362,
-      "date": "2026-06-26"
+      "open": 1.1384,
+      "high": 1.1426,
+      "low": 1.1382,
+      "close": 1.1386,
+      "date": "2026-06-29"
     },
     "GBPUSD": {
-      "open": 1.319,
-      "high": 1.3232,
-      "low": 1.3181,
-      "close": 1.3188,
-      "date": "2026-06-26"
+      "open": 1.3196,
+      "high": 1.3256,
+      "low": 1.3195,
+      "close": 1.3197,
+      "date": "2026-06-29"
     }
   },
   "vix": {
-    "value": 18.44,
-    "change_24h_pct": 0.16,
-    "date": "2026-06-29"
+    "value": 17.56,
+    "change_24h_pct": -0.51,
+    "date": "2026-06-30"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "19:30",
+      "time_paris": "08:29",
       "country": "EUR",
-      "indicator": "ECB President Lagarde Speaks",
-      "consensus": "",
-      "previous": "",
+      "indicator": "German Prelim CPI m/m",
+      "consensus": "0.0%",
+      "previous": "-0.2%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "16:00",
+      "country": "USD",
+      "indicator": "CB Consumer Confidence",
+      "consensus": "94.4",
+      "previous": "93.1",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "16:00",
+      "country": "USD",
+      "indicator": "JOLTS Job Openings",
+      "consensus": "7.28M",
+      "previous": "7.62M",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
+      "title": "Homes harder to sell as high mortgage rates frustrate buyers",
+      "summary": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla.",
+      "url": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 06:22:35 GMT"
+    },
+    {
+      "title": "We had packed lunches every day for 10 years and retired at 40",
+      "summary": "The Fire (Financially Independent, Retire Early) movement sees followers save as much as possible.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgdn3qqg7po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 23:03:26 GMT"
+    },
+    {
+      "title": "Chinese tycoon sentenced to 30 years in US jail",
+      "summary": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
+      "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 02:08:21 GMT"
+    },
+    {
+      "title": "Hollywood director gets two and a half years in prison for defrauding Netflix",
+      "summary": "He was accused of using money for a Netflix show on lavish purchases like Rolls Royces and Ferraris.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0rrnq317o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 20:41:10 GMT"
+    },
+    {
+      "title": "India's biggest share sales tell the story of a country glued to its phones",
+      "summary": "NSE and Jio Platforms embody the sweeping changes in how India has consumed, invested and transacted over the past decade.",
+      "url": "https://www.bbc.co.uk/news/articles/cdej6ej7w4go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 03:42:14 GMT"
+    },
+    {
+      "title": "Burnham's 'Manchesterism' could change the UK, but is not yet a full economic plan",
+      "summary": "Andy Burnham's speech depicted a different way of seeing and running the UK, though there are many other questions about the detail.",
+      "url": "https://www.bbc.co.uk/news/articles/cpq3yxdyx9do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 15:41:04 GMT"
+    },
+    {
+      "title": "Will Andy Burnham's devolution plan raise economic growth?",
+      "summary": "BBC Verify has looked at what impact further devolution could be expected to have on the UK.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz4x9ew49o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 19:33:26 GMT"
+    },
+    {
       "title": "British American Tobacco to cut 9,000 jobs",
-      "summary": "The tobacco industry is grappling with declining demand for traditional cigarettes.",
+      "summary": "The company had said earlier this year it was planning savings to make it  \"more digital and AI-focused\".",
       "url": "https://www.bbc.co.uk/news/articles/c3vyen243dno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 10:09:36 GMT"
-    },
-    {
-      "title": "South Korea unveils $880bn chip and AI investment plan",
-      "summary": "It comes as regional rivals like Taiwan, China and Japan are investing heavily in chip factories and other technology.",
-      "url": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 08:55:29 GMT"
-    },
-    {
-      "title": "Got the tennis bug? How to play sport without paying",
-      "summary": "As the world's best players begin play at Wimbledon, how can you get into sport on a budget.",
-      "url": "https://www.bbc.co.uk/news/articles/crlw2xw1yy2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 28 Jun 2026 23:06:00 GMT"
-    },
-    {
-      "title": "Rogue builder left our roof leaking and spent £30K we gave him in Lanzarote",
-      "summary": "Christian Williams benefitted to the tune of £160,000 from offending - but had just £1 to pay back.",
-      "url": "https://www.bbc.co.uk/news/articles/cze9wpny62go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 05:05:34 GMT"
-    },
-    {
-      "title": "Trump threatens 100% tariff on European nations over tech tax",
-      "summary": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
-      "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 27 Jun 2026 01:37:18 GMT"
-    },
-    {
-      "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
-      "summary": "Some analysts say the first non-stop London to Sydney flight is a major milestone - but would you buy a ticket?",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 23:02:15 GMT"
-    },
-    {
-      "title": "Three unusual things about the King's tax bill",
-      "summary": "King Charles paid £12.9m in tax for 2024-2025 - here's what we know about his unique tax situation.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 23:00:30 GMT"
-    },
-    {
-      "title": "Who could be the UK's next chancellor?",
-      "summary": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
-      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 10:37:12 GMT"
+      "published": "Mon, 29 Jun 2026 12:58:22 GMT"
     }
   ],
   "sources_status": {
