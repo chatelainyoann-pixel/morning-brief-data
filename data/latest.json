@@ -1,160 +1,216 @@
 {
-  "generated_at_utc": "2026-06-30T08:49:59.333646+00:00",
-  "generated_at_paris": "2026-06-30T10:49:59.333646+02:00",
-  "date_paris": "2026-06-30",
+  "generated_at_utc": "2026-07-01T08:49:01.015995+00:00",
+  "generated_at_paris": "2026-07-01T10:49:01.015995+02:00",
+  "date_paris": "2026-07-01",
   "indices": {
     "DAX": {
-      "open": 24724.3398,
-      "high": 24762.2402,
-      "low": 24556.7793,
-      "close": 24626.8906,
-      "date": "2026-06-29"
+      "open": 24815.2207,
+      "high": 25024.2695,
+      "low": 24794.8398,
+      "close": 24995.8105,
+      "date": "2026-06-30"
     },
     "CAC": {
-      "open": 8379.3604,
-      "high": 8391.5596,
-      "low": 8341.2598,
-      "close": 8367.3301,
-      "date": "2026-06-29"
+      "open": 8377.8604,
+      "high": 8420.5801,
+      "low": 8363.2305,
+      "close": 8403.9902,
+      "date": "2026-06-30"
     },
     "FTSE": {
-      "open": 10507.7998,
-      "high": 10521.0,
-      "low": 10472.0,
-      "close": 10484.2002,
-      "date": "2026-06-29"
+      "open": 10484.2998,
+      "high": 10613.2002,
+      "low": 10483.9004,
+      "close": 10497.0996,
+      "date": "2026-06-30"
     },
     "SPX": {
-      "open": 7391.8799,
-      "high": 7444.3198,
-      "low": 7348.8799,
-      "close": 7440.4302,
-      "date": "2026-06-29"
+      "open": 7441.27,
+      "high": 7508.29,
+      "low": 7438.04,
+      "close": 7499.3599,
+      "date": "2026-06-30"
     },
     "NDX": {
-      "open": 29310.2598,
-      "high": 29792.6309,
-      "low": 28991.5195,
-      "close": 29774.75,
-      "date": "2026-06-29"
+      "open": 29792.9297,
+      "high": 30328.7891,
+      "low": 29767.7598,
+      "close": 30276.3496,
+      "date": "2026-06-30"
     },
     "DJI": {
-      "open": 51995.1406,
-      "high": 52311.6289,
-      "low": 51949.5391,
-      "close": 52182.7383,
-      "date": "2026-06-29"
+      "open": 52168.1797,
+      "high": 52387.4492,
+      "low": 52033.1289,
+      "close": 52319.1992,
+      "date": "2026-06-30"
     },
     "N225": {
-      "open": 69609.8828,
-      "high": 69609.8828,
-      "low": 67997.5703,
-      "close": 69468.1094,
-      "date": "2026-06-29"
+      "open": 70085.6016,
+      "high": 70667.0,
+      "low": 69302.1875,
+      "close": 70062.3203,
+      "date": "2026-06-30"
     },
     "HSI": {
-      "open": 22827.6504,
-      "high": 23183.1699,
-      "low": 22783.6406,
-      "close": 23026.6797,
-      "date": "2026-06-29"
+      "open": 23007.8691,
+      "high": 23086.8496,
+      "low": 22685.1406,
+      "close": 22881.0195,
+      "date": "2026-06-30"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1384,
-      "high": 1.1426,
-      "low": 1.1382,
-      "close": 1.1386,
-      "date": "2026-06-29"
+      "open": 1.1419,
+      "high": 1.1434,
+      "low": 1.1383,
+      "close": 1.1422,
+      "date": "2026-06-30"
     },
     "GBPUSD": {
-      "open": 1.3196,
-      "high": 1.3256,
-      "low": 1.3195,
-      "close": 1.3197,
-      "date": "2026-06-29"
+      "open": 1.3253,
+      "high": 1.3276,
+      "low": 1.3215,
+      "close": 1.3254,
+      "date": "2026-06-30"
     }
   },
   "vix": {
-    "value": 17.61,
-    "change_24h_pct": -0.23,
-    "date": "2026-06-30"
+    "value": 16.99,
+    "change_24h_pct": 3.28,
+    "date": "2026-07-01"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "08:29",
+      "time_paris": "11:00",
       "country": "EUR",
-      "indicator": "German Prelim CPI m/m",
-      "consensus": "0.0%",
-      "previous": "-0.2%",
+      "indicator": "Core CPI Flash Estimate y/y",
+      "consensus": "2.5%",
+      "previous": "2.5%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "11:00",
+      "country": "EUR",
+      "indicator": "CPI Flash Estimate y/y",
+      "consensus": "3.0%",
+      "previous": "3.2%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:15",
+      "country": "USD",
+      "indicator": "ADP Non-Farm Employment Change",
+      "consensus": "118K",
+      "previous": "122K",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "15:00",
+      "country": "EUR",
+      "indicator": "ECB President Lagarde Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "15:00",
+      "country": "GBP",
+      "indicator": "BOE Gov Bailey Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    },
+    {
+      "time_paris": "15:00",
+      "country": "USD",
+      "indicator": "Fed Chairman Warsh Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    },
+    {
+      "time_paris": "16:00",
+      "country": "EUR",
+      "indicator": "ECB President Lagarde Speaks",
+      "consensus": "",
+      "previous": "",
       "impact": "Medium"
     },
     {
       "time_paris": "16:00",
       "country": "USD",
-      "indicator": "CB Consumer Confidence",
-      "consensus": "94.4",
-      "previous": "93.1",
-      "impact": "Medium"
+      "indicator": "ISM Manufacturing PMI",
+      "consensus": "53.8",
+      "previous": "54.0",
+      "impact": "High"
     },
     {
       "time_paris": "16:00",
       "country": "USD",
-      "indicator": "JOLTS Job Openings",
-      "consensus": "7.28M",
-      "previous": "7.62M",
+      "indicator": "ISM Manufacturing Prices",
+      "consensus": "77.7",
+      "previous": "82.1",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "21:15",
+      "country": "USD",
+      "indicator": "President Trump Speaks",
+      "consensus": "",
+      "previous": "",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Homes harder to sell as high mortgage rates frustrate buyers",
-      "summary": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla.",
-      "url": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 06:22:35 GMT"
+      "title": "Trump made more than $1bn from crypto in first year back in office",
+      "summary": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 07:30:53 GMT"
+    },
+    {
+      "title": "Plea for households to read energy meter as prices rise",
+      "summary": "Household energy prices have risen by 13% a year as regulator Ofgem's latest price cap kicks in.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 23:02:02 GMT"
+    },
+    {
+      "title": "Anthropic says US lifts export ban on its advanced AI tools",
+      "summary": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
+      "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 03:39:44 GMT"
+    },
+    {
+      "title": "Why Gen Z are planning for life without a state pension",
+      "summary": "Many younger people do not believe the state pension will exist when they are older",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 23:05:19 GMT"
+    },
+    {
+      "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
+      "summary": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
+      "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 01:04:16 GMT"
+    },
+    {
+      "title": "Why is crucial tech vulnerable to the heat?",
+      "summary": "Energy grids and train services are among the vital services that are vulnerable to very hot weather.",
+      "url": "https://www.bbc.co.uk/news/articles/cj0gez6d50ro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 07:23:12 GMT"
+    },
+    {
+      "title": "Romesh Ranganathan 'gutted' over bakery closure",
+      "summary": "Coughlans Bakery says it has gone into voluntary liquidation over hikes in national insurance and business rates.",
+      "url": "https://www.bbc.co.uk/news/articles/c74y7wdgy49o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 06:53:28 GMT"
     },
     {
       "title": "We had packed lunches every day for 10 years and retired at 40",
       "summary": "The Fire (Financially Independent, Retire Early) movement sees followers save as much as possible.",
       "url": "https://www.bbc.co.uk/news/articles/cvgdn3qqg7po?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 29 Jun 2026 23:03:26 GMT"
-    },
-    {
-      "title": "Chinese tycoon sentenced to 30 years in US jail",
-      "summary": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
-      "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 02:08:21 GMT"
-    },
-    {
-      "title": "Hollywood director gets two and a half years in prison for defrauding Netflix",
-      "summary": "He was accused of using money for a Netflix show on lavish purchases like Rolls Royces and Ferraris.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0rrnq317o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 20:41:10 GMT"
-    },
-    {
-      "title": "India's biggest share sales tell the story of a country glued to its phones",
-      "summary": "NSE and Jio Platforms embody the sweeping changes in how India has consumed, invested and transacted over the past decade.",
-      "url": "https://www.bbc.co.uk/news/articles/cdej6ej7w4go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 03:42:14 GMT"
-    },
-    {
-      "title": "Burnham's 'Manchesterism' could change the UK, but is not yet a full economic plan",
-      "summary": "Andy Burnham's speech depicted a different way of seeing and running the UK, though there are many other questions about the detail.",
-      "url": "https://www.bbc.co.uk/news/articles/cpq3yxdyx9do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 15:41:04 GMT"
-    },
-    {
-      "title": "Will Andy Burnham's devolution plan raise economic growth?",
-      "summary": "BBC Verify has looked at what impact further devolution could be expected to have on the UK.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz4x9ew49o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 19:33:26 GMT"
-    },
-    {
-      "title": "British American Tobacco to cut 9,000 jobs",
-      "summary": "The company had said earlier this year it was planning savings to make it  \"more digital and AI-focused\".",
-      "url": "https://www.bbc.co.uk/news/articles/c3vyen243dno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 12:58:22 GMT"
     }
   ],
   "sources_status": {
