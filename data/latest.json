@@ -1,56 +1,56 @@
 {
-  "generated_at_utc": "2026-07-01T09:22:59.142049+00:00",
-  "generated_at_paris": "2026-07-01T11:22:59.142049+02:00",
-  "date_paris": "2026-07-01",
+  "generated_at_utc": "2026-07-02T08:10:52.705708+00:00",
+  "generated_at_paris": "2026-07-02T10:10:52.705708+02:00",
+  "date_paris": "2026-07-02",
   "indices": {
     "DAX": {
-      "open": 24815.2207,
-      "high": 25024.2695,
-      "low": 24794.8398,
-      "close": 24995.8105,
-      "date": "2026-06-30"
+      "open": 25028.9297,
+      "high": 25095.6602,
+      "low": 24887.0,
+      "close": 25040.2793,
+      "date": "2026-07-01"
     },
     "CAC": {
-      "open": 8377.8604,
-      "high": 8420.5801,
-      "low": 8363.2305,
-      "close": 8403.9902,
-      "date": "2026-06-30"
+      "open": 8391.6904,
+      "high": 8391.6904,
+      "low": 8316.5303,
+      "close": 8337.29,
+      "date": "2026-07-01"
     },
     "FTSE": {
-      "open": 10484.2998,
-      "high": 10613.2002,
-      "low": 10483.9004,
-      "close": 10497.0996,
-      "date": "2026-06-30"
+      "open": 10497.5996,
+      "high": 10508.2998,
+      "low": 10429.2002,
+      "close": 10478.2998,
+      "date": "2026-07-01"
     },
     "SPX": {
-      "open": 7441.27,
-      "high": 7508.29,
-      "low": 7438.04,
-      "close": 7499.3599,
-      "date": "2026-06-30"
+      "open": 7478.8398,
+      "high": 7521.8101,
+      "low": 7449.6299,
+      "close": 7483.23,
+      "date": "2026-07-01"
     },
     "NDX": {
-      "open": 29792.9297,
-      "high": 30328.7891,
-      "low": 29767.7598,
-      "close": 30276.3496,
-      "date": "2026-06-30"
+      "open": 29914.2793,
+      "high": 30084.7793,
+      "low": 29787.4102,
+      "close": 29809.1309,
+      "date": "2026-07-01"
     },
     "DJI": {
-      "open": 52168.1797,
-      "high": 52387.4492,
-      "low": 52033.1289,
-      "close": 52319.1992,
-      "date": "2026-06-30"
+      "open": 52231.1797,
+      "high": 52742.6602,
+      "low": 52026.6406,
+      "close": 52305.2383,
+      "date": "2026-07-01"
     },
     "N225": {
-      "open": 70085.6016,
-      "high": 70667.0,
-      "low": 69302.1875,
-      "close": 70062.3203,
-      "date": "2026-06-30"
+      "open": 70774.2812,
+      "high": 71962.3438,
+      "low": 70126.1406,
+      "close": 70474.9609,
+      "date": "2026-07-01"
     },
     "HSI": {
       "open": 23007.8691,
@@ -62,137 +62,89 @@
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1419,
-      "high": 1.1434,
-      "low": 1.1383,
-      "close": 1.1422,
-      "date": "2026-06-30"
+      "open": 1.1413,
+      "high": 1.1417,
+      "low": 1.1362,
+      "close": 1.1413,
+      "date": "2026-07-01"
     },
     "GBPUSD": {
-      "open": 1.3253,
-      "high": 1.3276,
-      "low": 1.3215,
-      "close": 1.3254,
-      "date": "2026-06-30"
+      "open": 1.325,
+      "high": 1.329,
+      "low": 1.3222,
+      "close": 1.3251,
+      "date": "2026-07-01"
     }
   },
   "vix": {
-    "value": 16.94,
-    "change_24h_pct": 2.98,
-    "date": "2026-07-01"
+    "value": 16.85,
+    "change_24h_pct": 1.57,
+    "date": "2026-07-02"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "11:00",
-      "country": "EUR",
-      "indicator": "Core CPI Flash Estimate y/y",
-      "consensus": "2.5%",
-      "previous": "2.5%",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "11:00",
-      "country": "EUR",
-      "indicator": "CPI Flash Estimate y/y",
-      "consensus": "3.0%",
-      "previous": "3.2%",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "14:15",
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "ADP Non-Farm Employment Change",
-      "consensus": "118K",
-      "previous": "122K",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "15:00",
-      "country": "EUR",
-      "indicator": "ECB President Lagarde Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "15:00",
-      "country": "GBP",
-      "indicator": "BOE Gov Bailey Speaks",
-      "consensus": "",
-      "previous": "",
+      "indicator": "Average Hourly Earnings m/m",
+      "consensus": "0.3%",
+      "previous": "0.3%",
       "impact": "High"
     },
     {
-      "time_paris": "15:00",
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "Fed Chairman Warsh Speaks",
-      "consensus": "",
-      "previous": "",
+      "indicator": "Non-Farm Employment Change",
+      "consensus": "114K",
+      "previous": "172K",
       "impact": "High"
     },
     {
-      "time_paris": "16:00",
-      "country": "EUR",
-      "indicator": "ECB President Lagarde Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "ISM Manufacturing PMI",
-      "consensus": "53.8",
-      "previous": "54.0",
+      "indicator": "Unemployment Rate",
+      "consensus": "4.3%",
+      "previous": "4.3%",
       "impact": "High"
     },
     {
-      "time_paris": "16:00",
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "ISM Manufacturing Prices",
-      "consensus": "77.7",
-      "previous": "82.1",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "21:15",
-      "country": "USD",
-      "indicator": "President Trump Speaks",
-      "consensus": "",
-      "previous": "",
+      "indicator": "Unemployment Claims",
+      "consensus": "219K",
+      "previous": "215K",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Trump made more than $1bn from crypto in first year back in office",
-      "summary": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 07:30:53 GMT"
+      "title": "World Cup dreams shattered as StubHub tickets cancelled at last minute",
+      "summary": "Hundreds of fans who bought World Cup tickets on resale site StubHub say they have had them cancelled at the last minute.",
+      "url": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 04:59:47 GMT"
     },
     {
-      "title": "Plea for households to read energy meter as prices rise",
-      "summary": "Household energy prices have risen by 13% a year as regulator Ofgem's latest price cap kicks in.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 23:02:02 GMT"
+      "title": "Diesel sees biggest monthly fall in 26 years. What's happening to fuel prices?",
+      "summary": "When the US-Israel war with Iran began, fuel costs jumped, but they are now plummeting as hope of lasting peace grows.",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 23:01:32 GMT"
     },
     {
-      "title": "Anthropic says US lifts export ban on its advanced AI tools",
-      "summary": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
-      "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 03:39:44 GMT"
+      "title": "Singapore seizes $42m mansion over Nvidia chip smuggling",
+      "summary": "The luxury home was seized as part of a probe into the illegal trade of servers containing AI semiconductors.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2d9y18g73o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 06:02:17 GMT"
     },
     {
-      "title": "Why Gen Z are planning for life without a state pension",
-      "summary": "Many younger people do not believe the state pension will exist when they are older",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 23:05:19 GMT"
+      "title": "Bibles, Home Alone and perfume: Six takeaways from Trump's 2025 finances",
+      "summary": "Official documents show the US president made billions of dollars as he returned to the White House.",
+      "url": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 17:22:25 GMT"
     },
     {
-      "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
-      "summary": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
-      "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 01:04:16 GMT"
+      "title": "Don't expect trackers to save your stolen car, experts say",
+      "summary": "Kia told the BBC UK law prevented its location tracking function being used to live track vehicles.",
+      "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 23:31:43 GMT"
     },
     {
       "title": "Why is crucial tech vulnerable to the heat?",
@@ -201,16 +153,16 @@
       "published": "Wed, 01 Jul 2026 07:23:12 GMT"
     },
     {
-      "title": "Romesh Ranganathan 'gutted' over bakery closure",
-      "summary": "Coughlans Bakery says it has gone into voluntary liquidation over hikes in national insurance and business rates.",
-      "url": "https://www.bbc.co.uk/news/articles/c74y7wdgy49o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 06:53:28 GMT"
+      "title": "Halifax brand to be scrapped after 173 years",
+      "summary": "Lloyds says it remains committed to the town of Halifax and very little will change for customers.",
+      "url": "https://www.bbc.co.uk/news/articles/c24ydy4q0nzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 20:09:05 GMT"
     },
     {
-      "title": "We had packed lunches every day for 10 years and retired at 40",
-      "summary": "The Fire (Financially Independent, Retire Early) movement sees followers save as much as possible.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgdn3qqg7po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 23:03:26 GMT"
+      "title": "US blocks long-term renewal of North American trade deal",
+      "summary": "US blocks 16-year North America trade deal renewal, triggering annual rolling reviews",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 18:56:36 GMT"
     }
   ],
   "sources_status": {
