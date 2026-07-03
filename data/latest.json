@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-03T08:08:22.280165+00:00",
-  "generated_at_paris": "2026-07-03T10:08:22.280165+02:00",
+  "generated_at_utc": "2026-07-03T08:41:26.482081+00:00",
+  "generated_at_paris": "2026-07-03T10:41:26.482081+02:00",
   "date_paris": "2026-07-03",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 15.84,
-    "change_24h_pct": -1.92,
+    "value": 15.92,
+    "change_24h_pct": -1.42,
     "date": "2026-07-03"
   },
   "macro_calendar_today": [
@@ -113,13 +113,13 @@
       "published": "Fri, 03 Jul 2026 07:40:21 GMT"
     },
     {
-      "title": "Pubs allowed to stay open until 5am for England Mexico match",
+      "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
       "summary": "The government had initially said it would not relax licensing laws further for the World Cup.",
       "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 02 Jul 2026 20:49:17 GMT"
     },
     {
-      "title": "Goat and skin in millions of 'lamb' kebabs compared to horsemeat lasagne scandal",
+      "title": "How millions will have eaten takeaway 'lamb' kebabs made of goat meat and skin",
       "summary": "Millions are likely to have eaten \"lamb\" kebabs that were actually made with goat, skin and fat.",
       "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 03 Jul 2026 05:14:17 GMT"
