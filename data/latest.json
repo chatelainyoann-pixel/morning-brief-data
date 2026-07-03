@@ -1,168 +1,152 @@
 {
-  "generated_at_utc": "2026-07-02T08:36:36.651968+00:00",
-  "generated_at_paris": "2026-07-02T10:36:36.651968+02:00",
-  "date_paris": "2026-07-02",
+  "generated_at_utc": "2026-07-03T08:08:22.280165+00:00",
+  "generated_at_paris": "2026-07-03T10:08:22.280165+02:00",
+  "date_paris": "2026-07-03",
   "indices": {
     "DAX": {
-      "open": 25028.9297,
-      "high": 25095.6602,
-      "low": 24887.0,
-      "close": 25040.2793,
-      "date": "2026-07-01"
+      "open": 25025.1309,
+      "high": 25655.8203,
+      "low": 24994.6406,
+      "close": 25580.8809,
+      "date": "2026-07-02"
     },
     "CAC": {
-      "open": 8391.6904,
-      "high": 8391.6904,
-      "low": 8316.5303,
-      "close": 8337.29,
-      "date": "2026-07-01"
+      "open": 8343.6504,
+      "high": 8503.2402,
+      "low": 8342.2598,
+      "close": 8474.8604,
+      "date": "2026-07-02"
     },
     "FTSE": {
-      "open": 10497.5996,
-      "high": 10508.2998,
-      "low": 10429.2002,
-      "close": 10478.2998,
-      "date": "2026-07-01"
+      "open": 10477.7998,
+      "high": 10694.9004,
+      "low": 10436.7998,
+      "close": 10652.9004,
+      "date": "2026-07-02"
     },
     "SPX": {
-      "open": 7478.8398,
-      "high": 7521.8101,
-      "low": 7449.6299,
-      "close": 7483.23,
-      "date": "2026-07-01"
+      "open": 7495.1401,
+      "high": 7540.75,
+      "low": 7427.5498,
+      "close": 7483.2402,
+      "date": "2026-07-02"
     },
     "NDX": {
-      "open": 29914.2793,
-      "high": 30084.7793,
-      "low": 29787.4102,
-      "close": 29809.1309,
-      "date": "2026-07-01"
+      "open": 29778.6992,
+      "high": 30044.5,
+      "low": 29087.3301,
+      "close": 29329.2109,
+      "date": "2026-07-02"
     },
     "DJI": {
-      "open": 52231.1797,
-      "high": 52742.6602,
-      "low": 52026.6406,
-      "close": 52305.2383,
-      "date": "2026-07-01"
+      "open": 52395.2188,
+      "high": 52903.8516,
+      "low": 52395.2188,
+      "close": 52900.0703,
+      "date": "2026-07-02"
     },
     "N225": {
-      "open": 70774.2812,
-      "high": 71962.3438,
-      "low": 70126.1406,
-      "close": 70474.9609,
-      "date": "2026-07-01"
+      "open": 70039.8906,
+      "high": 70081.3906,
+      "low": 68676.2578,
+      "close": 68733.1484,
+      "date": "2026-07-02"
     },
     "HSI": {
-      "open": 23007.8691,
-      "high": 23086.8496,
-      "low": 22685.1406,
-      "close": 22881.0195,
-      "date": "2026-06-30"
+      "open": 23071.4297,
+      "high": 23335.9199,
+      "low": 22953.6992,
+      "close": 23055.0293,
+      "date": "2026-07-02"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1413,
-      "high": 1.1417,
-      "low": 1.1362,
-      "close": 1.1413,
-      "date": "2026-07-01"
+      "open": 1.1378,
+      "high": 1.1472,
+      "low": 1.1375,
+      "close": 1.1378,
+      "date": "2026-07-02"
     },
     "GBPUSD": {
-      "open": 1.325,
-      "high": 1.329,
-      "low": 1.3222,
-      "close": 1.3251,
-      "date": "2026-07-01"
+      "open": 1.3279,
+      "high": 1.3385,
+      "low": 1.3276,
+      "close": 1.3279,
+      "date": "2026-07-02"
     }
   },
   "vix": {
-    "value": 16.85,
-    "change_24h_pct": 1.57,
-    "date": "2026-07-02"
+    "value": 15.84,
+    "change_24h_pct": -1.92,
+    "date": "2026-07-03"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Average Hourly Earnings m/m",
-      "consensus": "0.3%",
-      "previous": "0.3%",
-      "impact": "High"
+      "time_paris": "10:00",
+      "country": "EUR",
+      "indicator": "ECB President Lagarde Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "Medium"
     },
     {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Non-Farm Employment Change",
-      "consensus": "114K",
-      "previous": "172K",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Unemployment Rate",
-      "consensus": "4.3%",
-      "previous": "4.3%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "219K",
-      "previous": "215K",
+      "time_paris": "17:00",
+      "country": "GBP",
+      "indicator": "BOE Gov Bailey Speaks",
+      "consensus": "",
+      "previous": "",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "World Cup dreams shattered as StubHub tickets cancelled at last minute",
-      "summary": "Hundreds of fans who bought World Cup tickets on resale site StubHub say they have had them cancelled at the last minute.",
-      "url": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Jul 2026 04:59:47 GMT"
+      "title": "'We give up to £400': How much should you gift at a wedding?",
+      "summary": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
+      "url": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 23:01:24 GMT"
     },
     {
-      "title": "Diesel sees biggest monthly fall in 26 years. What's happening to fuel prices?",
-      "summary": "When the US-Israel war with Iran began, fuel costs jumped, but they are now plummeting as hope of lasting peace grows.",
-      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 23:01:32 GMT"
+      "title": "Burnham says there is some room for movement on tax",
+      "summary": "But the likely next PM says he will stick to Labour's pledges to not raise VAT, income tax or national insurance.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Jul 2026 07:40:21 GMT"
     },
     {
-      "title": "Singapore seizes $42m mansion over Nvidia chip smuggling",
-      "summary": "The luxury home was seized as part of a probe into the illegal trade of servers containing AI semiconductors.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2d9y18g73o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Jul 2026 06:02:17 GMT"
+      "title": "Pubs allowed to stay open until 5am for England Mexico match",
+      "summary": "The government had initially said it would not relax licensing laws further for the World Cup.",
+      "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 20:49:17 GMT"
     },
     {
-      "title": "Bibles, Home Alone and perfume: Six takeaways from Trump's 2025 finances",
-      "summary": "Official documents show the US president made billions of dollars as he returned to the White House.",
-      "url": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 17:22:25 GMT"
+      "title": "Goat and skin in millions of 'lamb' kebabs compared to horsemeat lasagne scandal",
+      "summary": "Millions are likely to have eaten \"lamb\" kebabs that were actually made with goat, skin and fat.",
+      "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Jul 2026 05:14:17 GMT"
     },
     {
-      "title": "Don't expect trackers to save your stolen car, experts say",
-      "summary": "Kia told the BBC UK law prevented its location tracking function being used to live track vehicles.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 23:31:43 GMT"
+      "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
+      "summary": "The ads use terms including “rape” and “child video” and link to content on the messaging app Telegram.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Jul 2026 03:50:18 GMT"
     },
     {
-      "title": "Why is crucial tech vulnerable to the heat?",
-      "summary": "Energy grids and train services are among the vital services that are vulnerable to very hot weather.",
-      "url": "https://www.bbc.co.uk/news/articles/cj0gez6d50ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 07:23:12 GMT"
+      "title": "AI is 'not smart' so what's next in artificial intelligence?",
+      "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+      "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 23:02:09 GMT"
     },
     {
-      "title": "Old British fridges 'cannot cope with the heat'",
-      "summary": "Experts say older fridges are failing in hot weather as rising temperatures put them under pressure.",
-      "url": "https://www.bbc.co.uk/news/articles/c77yejxnvpxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Jul 2026 05:20:56 GMT"
+      "title": "Security staff to go on strike at Aberdeen Airport",
+      "summary": "The strikes, involving baggage screening staff, are set to begin on Monday with the Unite union warning of \"significant delays\".",
+      "url": "https://www.bbc.co.uk/news/articles/c39y3expgk3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Jul 2026 07:14:32 GMT"
     },
     {
-      "title": "Halifax brand to be scrapped after 173 years",
-      "summary": "Lloyds says it remains committed to the town of Halifax and very little will change for customers.",
-      "url": "https://www.bbc.co.uk/news/articles/c24ydy4q0nzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 20:09:05 GMT"
+      "title": "Ryanair warns of 'queue chaos' from new EU border system",
+      "summary": "The airline calls on European governments to postpone the EES system until after the summer holiday period.",
+      "url": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 17:17:36 GMT"
     }
   ],
   "sources_status": {
