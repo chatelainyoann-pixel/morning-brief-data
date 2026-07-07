@@ -1,144 +1,144 @@
 {
-  "generated_at_utc": "2026-07-06T09:46:47.992643+00:00",
-  "generated_at_paris": "2026-07-06T11:46:47.992643+02:00",
-  "date_paris": "2026-07-06",
+  "generated_at_utc": "2026-07-07T08:22:44.536294+00:00",
+  "generated_at_paris": "2026-07-07T10:22:44.536294+02:00",
+  "date_paris": "2026-07-07",
   "indices": {
     "DAX": {
-      "open": 25763.9707,
-      "high": 25826.7793,
-      "low": 25611.6895,
-      "close": 25779.3105,
-      "date": "2026-07-03"
+      "open": 25811.9004,
+      "high": 25900.0996,
+      "low": 25698.5605,
+      "close": 25817.8906,
+      "date": "2026-07-06"
     },
     "CAC": {
-      "open": 8486.8896,
-      "high": 8520.8496,
-      "low": 8457.6797,
-      "close": 8508.0703,
-      "date": "2026-07-03"
+      "open": 8519.8604,
+      "high": 8561.3799,
+      "low": 8465.79,
+      "close": 8479.8701,
+      "date": "2026-07-06"
     },
     "FTSE": {
-      "open": 10652.7998,
-      "high": 10701.2998,
-      "low": 10604.2998,
-      "close": 10679.0,
-      "date": "2026-07-03"
+      "open": 10679.4004,
+      "high": 10733.4004,
+      "low": 10618.4004,
+      "close": 10651.7998,
+      "date": "2026-07-06"
     },
     "SPX": {
-      "open": 7495.1401,
-      "high": 7540.75,
-      "low": 7427.5498,
-      "close": 7483.2402,
-      "date": "2026-07-02"
+      "open": 7506.96,
+      "high": 7551.3101,
+      "low": 7500.9702,
+      "close": 7537.4302,
+      "date": "2026-07-06"
     },
     "NDX": {
-      "open": 29778.6992,
-      "high": 30044.5,
-      "low": 29087.3301,
-      "close": 29329.2109,
-      "date": "2026-07-02"
+      "open": 29575.5703,
+      "high": 29847.7402,
+      "low": 29553.6191,
+      "close": 29697.8691,
+      "date": "2026-07-06"
     },
     "DJI": {
-      "open": 52395.2188,
-      "high": 52903.8516,
-      "low": 52395.2188,
-      "close": 52900.0703,
-      "date": "2026-07-02"
+      "open": 52828.4492,
+      "high": 53060.1016,
+      "low": 52648.6914,
+      "close": 53055.9102,
+      "date": "2026-07-06"
     },
     "N225": {
-      "open": 68676.0625,
-      "high": 69788.0312,
-      "low": 67609.4922,
-      "close": 69744.0703,
-      "date": "2026-07-03"
+      "open": 69973.3438,
+      "high": 70384.5938,
+      "low": 68904.4062,
+      "close": 69737.6875,
+      "date": "2026-07-06"
     },
     "HSI": {
-      "open": 23240.8496,
-      "high": 23516.6992,
-      "low": 23226.1992,
-      "close": 23350.0293,
-      "date": "2026-07-03"
+      "open": 23404.6094,
+      "high": 23686.5605,
+      "low": 23229.3809,
+      "close": 23616.3203,
+      "date": "2026-07-06"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1424,
-      "high": 1.1465,
-      "low": 1.1421,
-      "close": 1.1423,
-      "date": "2026-07-03"
+      "open": 1.1436,
+      "high": 1.1444,
+      "low": 1.141,
+      "close": 1.1438,
+      "date": "2026-07-06"
     },
     "GBPUSD": {
-      "open": 1.334,
-      "high": 1.3382,
-      "low": 1.3335,
-      "close": 1.3339,
-      "date": "2026-07-03"
+      "open": 1.3351,
+      "high": 1.3368,
+      "low": 1.333,
+      "close": 1.3353,
+      "date": "2026-07-06"
     }
   },
   "vix": {
-    "value": 16.33,
-    "change_24h_pct": 1.11,
-    "date": "2026-07-06"
+    "value": 15.96,
+    "change_24h_pct": 2.5,
+    "date": "2026-07-07"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "ISM Services PMI",
-      "consensus": "54.2",
-      "previous": "54.5",
-      "impact": "High"
+      "time_paris": "12:30",
+      "country": "GBP",
+      "indicator": "BOE Gov Bailey Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "ITV sells media and entertainment arm to Sky for £1.6bn",
-      "summary": "The two broadcasters say the deal will create a strong rival to global streaming giants.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 08:51:08 GMT"
+      "title": "Banks accused of pushing customers away from basic accounts",
+      "summary": "Some of the UK's biggest banks have been failing their most vulnerable customers, according to the financial regulator.",
+      "url": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 23:29:34 GMT"
     },
     {
-      "title": "Three things you can do to stop EU border checks at the airport costing you",
-      "summary": "Queues are expected at airports this summer owing to EU's new digital border control system.",
-      "url": "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Jul 2026 23:18:27 GMT"
+      "title": "Amazon bars breastfeeding boss from business course",
+      "summary": "Rachael Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.",
+      "url": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 23:31:21 GMT"
     },
     {
-      "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
-      "summary": "The once-a-day pill, from the makers of the Wegovy weight-loss jab, can now be bought privately in UK pharmacies.",
-      "url": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 00:06:42 GMT"
+      "title": "Samsung profits jump 1,800% as AI chip sales soar",
+      "summary": "The firm's shares fell sharply on Tuesday as some investors had expected an even stronger performance.",
+      "url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Jul 2026 07:28:10 GMT"
     },
     {
-      "title": "Backlash after China bubble tea firm ordered to pay Louis Vuitton $1.5m",
-      "summary": "A court in China ruled that Molly Tea had infringed on the luxury brand's four-petal flower design.",
-      "url": "https://www.bbc.co.uk/news/articles/cwykk095yzzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 02:19:25 GMT"
+      "title": "Phone contract comparisons 'amounted to mis-selling' student loans, MPs say",
+      "summary": "A new report says students were not well-enough informed that their loan terms could change retrospectively.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 23:08:51 GMT"
     },
     {
-      "title": "EasyJet agrees 'in principle' to £5.2bn takeover deal",
-      "summary": "The low-cost airline had previously rejected four takeover offers from US investment firm Castlelake.",
-      "url": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 09:41:59 GMT"
+      "title": "'I wear it on my middle finger': The rise of the defiant divorce ring",
+      "summary": "Around the world women are marking their split with new - or repurposed engagement - rings.",
+      "url": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 23:30:40 GMT"
     },
     {
-      "title": "What Sky buying ITV could mean for your favourite shows",
-      "summary": "Sky is set to buy ITV's TV and streaming channels for up to £1.6bn, the companies announced on Monday.",
-      "url": "https://www.bbc.co.uk/news/articles/c04yx44xq19o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 06:20:38 GMT"
+      "title": "Robots available for rent: But what can they do?",
+      "summary": "Robotics tech is changing fast, so for many it makes sense to rent a robot.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 23:48:55 GMT"
     },
     {
-      "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
-      "summary": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.",
-      "url": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Jul 2026 13:55:34 GMT"
+      "title": "E-bike injury payouts top £110m and push up insurance premiums",
+      "summary": "It is only seven years since the first claim over an injury from a micromobility vehicle was made.",
+      "url": "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Jul 2026 05:40:34 GMT"
     },
     {
-      "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
-      "summary": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
-      "url": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 10:46:34 GMT"
+      "title": "Can China repeat its EV success with robotaxis?",
+      "summary": "China's self-driving car firms have been given a headstart by the country's EV supply chain as they expand globally.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 22:01:07 GMT"
     }
   ],
   "sources_status": {
