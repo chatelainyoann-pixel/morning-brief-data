@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-08T07:28:04.621563+00:00",
-  "generated_at_paris": "2026-07-08T09:28:04.621563+02:00",
+  "generated_at_utc": "2026-07-08T08:01:46.752305+00:00",
+  "generated_at_paris": "2026-07-08T10:01:46.752305+02:00",
   "date_paris": "2026-07-08",
   "indices": {
     "DAX": {
@@ -77,9 +77,9 @@
     }
   },
   "vix": {
-    "value": 16.13,
-    "change_24h_pct": 3.6,
-    "date": "2026-07-07"
+    "value": 16.41,
+    "change_24h_pct": 1.74,
+    "date": "2026-07-08"
   },
   "macro_calendar_today": [
     {
@@ -96,7 +96,7 @@
       "title": "Virgin Media fined £28m for preventing customers from cancelling contracts",
       "summary": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
       "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Jul 2026 07:19:56 GMT"
+      "published": "Wed, 08 Jul 2026 07:33:01 GMT"
     },
     {
       "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
@@ -114,7 +114,7 @@
       "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
       "summary": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
       "url": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Jul 2026 06:32:21 GMT"
+      "published": "Wed, 08 Jul 2026 07:53:37 GMT"
     },
     {
       "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
