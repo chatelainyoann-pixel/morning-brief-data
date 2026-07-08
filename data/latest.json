@@ -1,144 +1,144 @@
 {
-  "generated_at_utc": "2026-07-07T08:58:36.567340+00:00",
-  "generated_at_paris": "2026-07-07T10:58:36.567340+02:00",
-  "date_paris": "2026-07-07",
+  "generated_at_utc": "2026-07-08T07:28:04.621563+00:00",
+  "generated_at_paris": "2026-07-08T09:28:04.621563+02:00",
+  "date_paris": "2026-07-08",
   "indices": {
     "DAX": {
-      "open": 25811.9004,
-      "high": 25900.0996,
-      "low": 25698.5605,
-      "close": 25817.8906,
-      "date": "2026-07-06"
+      "open": 25770.4492,
+      "high": 25811.9707,
+      "low": 25465.1191,
+      "close": 25465.25,
+      "date": "2026-07-07"
     },
     "CAC": {
-      "open": 8519.8604,
-      "high": 8561.3799,
-      "low": 8465.79,
-      "close": 8479.8701,
-      "date": "2026-07-06"
+      "open": 8500.0801,
+      "high": 8545.6797,
+      "low": 8436.2402,
+      "close": 8436.2402,
+      "date": "2026-07-07"
     },
     "FTSE": {
-      "open": 10679.4004,
-      "high": 10733.4004,
-      "low": 10618.4004,
-      "close": 10651.7998,
-      "date": "2026-07-06"
+      "open": 10651.2998,
+      "high": 10747.0,
+      "low": 10651.2002,
+      "close": 10665.9004,
+      "date": "2026-07-07"
     },
     "SPX": {
-      "open": 7506.96,
-      "high": 7551.3101,
-      "low": 7500.9702,
-      "close": 7537.4302,
-      "date": "2026-07-06"
+      "open": 7516.6299,
+      "high": 7536.0601,
+      "low": 7478.6299,
+      "close": 7503.8501,
+      "date": "2026-07-07"
     },
     "NDX": {
-      "open": 29575.5703,
-      "high": 29847.7402,
-      "low": 29553.6191,
-      "close": 29697.8691,
-      "date": "2026-07-06"
+      "open": 29362.1992,
+      "high": 29426.4492,
+      "low": 28974.4707,
+      "close": 29173.0195,
+      "date": "2026-07-07"
     },
     "DJI": {
-      "open": 52828.4492,
-      "high": 53060.1016,
-      "low": 52648.6914,
-      "close": 53055.9102,
-      "date": "2026-07-06"
+      "open": 53104.0586,
+      "high": 53289.3008,
+      "low": 52774.1719,
+      "close": 52925.1484,
+      "date": "2026-07-07"
     },
     "N225": {
-      "open": 69973.3438,
-      "high": 70384.5938,
-      "low": 68904.4062,
-      "close": 69737.6875,
-      "date": "2026-07-06"
+      "open": 69460.0781,
+      "high": 69957.5078,
+      "low": 68003.9219,
+      "close": 68256.9609,
+      "date": "2026-07-07"
     },
     "HSI": {
-      "open": 23404.6094,
-      "high": 23686.5605,
-      "low": 23229.3809,
-      "close": 23616.3203,
-      "date": "2026-07-06"
+      "open": 23568.4902,
+      "high": 23820.9199,
+      "low": 23398.2695,
+      "close": 23496.8906,
+      "date": "2026-07-07"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1436,
-      "high": 1.1444,
-      "low": 1.141,
-      "close": 1.1438,
-      "date": "2026-07-06"
+      "open": 1.1442,
+      "high": 1.1447,
+      "low": 1.1423,
+      "close": 1.1442,
+      "date": "2026-07-07"
     },
     "GBPUSD": {
-      "open": 1.3351,
-      "high": 1.3368,
-      "low": 1.333,
-      "close": 1.3353,
-      "date": "2026-07-06"
+      "open": 1.3395,
+      "high": 1.3402,
+      "low": 1.3362,
+      "close": 1.3398,
+      "date": "2026-07-07"
     }
   },
   "vix": {
-    "value": 15.83,
-    "change_24h_pct": 1.67,
+    "value": 16.13,
+    "change_24h_pct": 3.6,
     "date": "2026-07-07"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "12:30",
-      "country": "GBP",
-      "indicator": "BOE Gov Bailey Speaks",
+      "time_paris": "20:00",
+      "country": "USD",
+      "indicator": "FOMC Meeting Minutes",
       "consensus": "",
       "previous": "",
-      "impact": "Medium"
+      "impact": "High"
     }
   ],
   "news_bbc": [
     {
-      "title": "Banks accused of pushing customers away from basic accounts",
-      "summary": "Some of the UK's biggest banks have been failing their most vulnerable customers, according to the financial regulator.",
-      "url": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 23:29:34 GMT"
+      "title": "Virgin Media fined £28m for preventing customers from cancelling contracts",
+      "summary": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
+      "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 07:19:56 GMT"
     },
     {
-      "title": "Amazon bars breastfeeding boss from business course",
-      "summary": "Rachael Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.",
-      "url": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 23:31:21 GMT"
+      "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
+      "summary": "No final decision has been made but the job cuts will happen in the autumn if the redundancy plans are approved.",
+      "url": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 01:04:44 GMT"
     },
     {
-      "title": "Samsung profits jump 1,800% as AI chip sales soar",
-      "summary": "The firm's shares fell sharply on Tuesday as some investors had expected an even stronger performance.",
-      "url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 07:28:10 GMT"
+      "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
+      "summary": "The BBC looks at how spending habits have shifted as users report feeling less hungry.",
+      "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Jul 2026 23:11:48 GMT"
     },
     {
-      "title": "Phone contract comparisons 'amounted to mis-selling' student loans, MPs say",
-      "summary": "A new report says students were not well-enough informed that their loan terms could change retrospectively.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 23:08:51 GMT"
+      "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
+      "summary": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
+      "url": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 06:32:21 GMT"
     },
     {
-      "title": "'I wear it on my middle finger': The rise of the defiant divorce ring",
-      "summary": "Around the world women are marking their split with new - or repurposed engagement - rings.",
-      "url": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 23:30:40 GMT"
+      "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
+      "summary": "23andMe compiles genetic profiles of people through DNA testing kits, but it was heavily criticised after a 2023 hack.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Jul 2026 23:47:33 GMT"
     },
     {
-      "title": "Robots available for rent: But what can they do?",
-      "summary": "Robotics tech is changing fast, so for many it makes sense to rent a robot.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 23:48:55 GMT"
+      "title": "Airbnb data identifies illegal social home sublets",
+      "summary": "Nearly 6,000 social homes are thought to be illegally listed on short-term rental platforms.",
+      "url": "https://www.bbc.co.uk/news/articles/c6211ng49zwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 05:03:28 GMT"
     },
     {
-      "title": "E-bike injury payouts top £110m and push up insurance premiums",
-      "summary": "It is only seven years since the first claim over an injury from a micromobility vehicle was made.",
-      "url": "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 05:40:34 GMT"
+      "title": "Australia dock workers call for 28-hour week in AI talks",
+      "summary": "A union says workers are \"in the crosshairs\" of automation as AI is being tested across ports.",
+      "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 06:06:12 GMT"
     },
     {
-      "title": "Can China repeat its EV success with robotaxis?",
-      "summary": "China's self-driving car firms have been given a headstart by the country's EV supply chain as they expand globally.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 22:01:07 GMT"
+      "title": "Dubai and Egypt package holidays cheaper to lure customers back",
+      "summary": "Family deals to many non-European destinations are cheaper this summer than last, as travel nerves have slowed bookings.",
+      "url": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Jul 2026 23:34:45 GMT"
     }
   ],
   "sources_status": {
