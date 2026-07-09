@@ -1,144 +1,144 @@
 {
-  "generated_at_utc": "2026-07-08T08:01:46.752305+00:00",
-  "generated_at_paris": "2026-07-08T10:01:46.752305+02:00",
-  "date_paris": "2026-07-08",
+  "generated_at_utc": "2026-07-09T08:26:13.056877+00:00",
+  "generated_at_paris": "2026-07-09T10:26:13.056877+02:00",
+  "date_paris": "2026-07-09",
   "indices": {
     "DAX": {
-      "open": 25770.4492,
-      "high": 25811.9707,
-      "low": 25465.1191,
-      "close": 25465.25,
-      "date": "2026-07-07"
+      "open": 25274.9395,
+      "high": 25280.1602,
+      "low": 24830.1699,
+      "close": 24897.4492,
+      "date": "2026-07-08"
     },
     "CAC": {
-      "open": 8500.0801,
-      "high": 8545.6797,
-      "low": 8436.2402,
-      "close": 8436.2402,
-      "date": "2026-07-07"
+      "open": 8389.29,
+      "high": 8389.29,
+      "low": 8235.3496,
+      "close": 8252.6602,
+      "date": "2026-07-08"
     },
     "FTSE": {
-      "open": 10651.2998,
-      "high": 10747.0,
-      "low": 10651.2002,
-      "close": 10665.9004,
-      "date": "2026-07-07"
+      "open": 10666.0996,
+      "high": 10666.0996,
+      "low": 10467.0,
+      "close": 10489.0,
+      "date": "2026-07-08"
     },
     "SPX": {
-      "open": 7516.6299,
-      "high": 7536.0601,
-      "low": 7478.6299,
-      "close": 7503.8501,
-      "date": "2026-07-07"
+      "open": 7476.54,
+      "high": 7488.5098,
+      "low": 7421.8198,
+      "close": 7482.71,
+      "date": "2026-07-08"
     },
     "NDX": {
-      "open": 29362.1992,
-      "high": 29426.4492,
-      "low": 28974.4707,
-      "close": 29173.0195,
-      "date": "2026-07-07"
+      "open": 29030.3301,
+      "high": 29280.5801,
+      "low": 28814.5703,
+      "close": 29252.5605,
+      "date": "2026-07-08"
     },
     "DJI": {
-      "open": 53104.0586,
-      "high": 53289.3008,
-      "low": 52774.1719,
-      "close": 52925.1484,
-      "date": "2026-07-07"
+      "open": 52758.4688,
+      "high": 52758.4688,
+      "low": 52069.8711,
+      "close": 52348.3906,
+      "date": "2026-07-08"
     },
     "N225": {
-      "open": 69460.0781,
-      "high": 69957.5078,
-      "low": 68003.9219,
-      "close": 68256.9609,
-      "date": "2026-07-07"
+      "open": 67704.1562,
+      "high": 68432.6797,
+      "low": 66819.0469,
+      "close": 66819.0469,
+      "date": "2026-07-08"
     },
     "HSI": {
-      "open": 23568.4902,
-      "high": 23820.9199,
-      "low": 23398.2695,
-      "close": 23496.8906,
-      "date": "2026-07-07"
+      "open": 23541.2207,
+      "high": 24310.9199,
+      "low": 23541.2207,
+      "close": 24199.4609,
+      "date": "2026-07-08"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1442,
-      "high": 1.1447,
-      "low": 1.1423,
-      "close": 1.1442,
-      "date": "2026-07-07"
+      "open": 1.1401,
+      "high": 1.1432,
+      "low": 1.1392,
+      "close": 1.1404,
+      "date": "2026-07-08"
     },
     "GBPUSD": {
-      "open": 1.3395,
-      "high": 1.3402,
-      "low": 1.3362,
-      "close": 1.3398,
-      "date": "2026-07-07"
+      "open": 1.3345,
+      "high": 1.3378,
+      "low": 1.3324,
+      "close": 1.3349,
+      "date": "2026-07-08"
     }
   },
   "vix": {
-    "value": 16.41,
-    "change_24h_pct": 1.74,
-    "date": "2026-07-08"
+    "value": 16.61,
+    "change_24h_pct": -1.72,
+    "date": "2026-07-09"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "20:00",
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "FOMC Meeting Minutes",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
+      "indicator": "Unemployment Claims",
+      "consensus": "218K",
+      "previous": "215K",
+      "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Virgin Media fined £28m for preventing customers from cancelling contracts",
-      "summary": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
-      "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Jul 2026 07:33:01 GMT"
+      "title": "Why electric cars cost more to insure - and what's being done about it",
+      "summary": "The insurance cost of electric vehicles is still putting off many would-be buyers. So what can be done about it?",
+      "url": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 23:09:55 GMT"
     },
     {
-      "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
-      "summary": "No final decision has been made but the job cuts will happen in the autumn if the redundancy plans are approved.",
-      "url": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Jul 2026 01:04:44 GMT"
+      "title": "I run the UK's biggest bank, here are five ways to manage your money",
+      "summary": "The CEO of Lloyds Bank talks about how to save, budget, avoid scams and manage money in a relationship.",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 23:10:10 GMT"
+    },
+    {
+      "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
+      "summary": "Adura says the UK government must approve North Sea production urgently to avoid domestic supply shortages.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Jul 2026 05:04:17 GMT"
+    },
+    {
+      "title": "Life of Sizewell B extended by another 20 years",
+      "summary": "The power plant was due to reach the end of its life in 2035 but will now continue until 2055.",
+      "url": "https://www.bbc.co.uk/news/articles/c1dy1rdv17lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Jul 2026 05:27:18 GMT"
+    },
+    {
+      "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
+      "summary": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
+      "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 11:24:05 GMT"
+    },
+    {
+      "title": "Wealthy AI workers send San Francisco house prices soaring",
+      "summary": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
+      "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 23:11:35 GMT"
     },
     {
       "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
       "summary": "The BBC looks at how spending habits have shifted as users report feeling less hungry.",
       "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 23:11:48 GMT"
+      "published": "Wed, 08 Jul 2026 09:31:56 GMT"
     },
     {
-      "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
-      "summary": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
-      "url": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Jul 2026 07:53:37 GMT"
-    },
-    {
-      "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
-      "summary": "23andMe compiles genetic profiles of people through DNA testing kits, but it was heavily criticised after a 2023 hack.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 23:47:33 GMT"
-    },
-    {
-      "title": "Airbnb data identifies illegal social home sublets",
-      "summary": "Nearly 6,000 social homes are thought to be illegally listed on short-term rental platforms.",
-      "url": "https://www.bbc.co.uk/news/articles/c6211ng49zwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Jul 2026 05:03:28 GMT"
-    },
-    {
-      "title": "Australia dock workers call for 28-hour week in AI talks",
-      "summary": "A union says workers are \"in the crosshairs\" of automation as AI is being tested across ports.",
-      "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Jul 2026 06:06:12 GMT"
-    },
-    {
-      "title": "Dubai and Egypt package holidays cheaper to lure customers back",
-      "summary": "Family deals to many non-European destinations are cheaper this summer than last, as travel nerves have slowed bookings.",
-      "url": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 23:34:45 GMT"
+      "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
+      "summary": "Pillows, sleeping bags and feeders subject to safety notices were found on sites including Amazon and TikTok.",
+      "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 19:23:33 GMT"
     }
   ],
   "sources_status": {
