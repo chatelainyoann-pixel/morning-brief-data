@@ -1,144 +1,135 @@
 {
-  "generated_at_utc": "2026-07-09T08:26:13.056877+00:00",
-  "generated_at_paris": "2026-07-09T10:26:13.056877+02:00",
-  "date_paris": "2026-07-09",
+  "generated_at_utc": "2026-07-10T08:21:52.652170+00:00",
+  "generated_at_paris": "2026-07-10T10:21:52.652170+02:00",
+  "date_paris": "2026-07-10",
   "indices": {
     "DAX": {
-      "open": 25274.9395,
-      "high": 25280.1602,
-      "low": 24830.1699,
-      "close": 24897.4492,
-      "date": "2026-07-08"
+      "open": 25097.4805,
+      "high": 25127.7598,
+      "low": 24867.3203,
+      "close": 25118.2695,
+      "date": "2026-07-09"
     },
     "CAC": {
-      "open": 8389.29,
-      "high": 8389.29,
-      "low": 8235.3496,
-      "close": 8252.6602,
-      "date": "2026-07-08"
+      "open": 8307.5098,
+      "high": 8329.0,
+      "low": 8262.8604,
+      "close": 8326.6201,
+      "date": "2026-07-09"
     },
     "FTSE": {
-      "open": 10666.0996,
-      "high": 10666.0996,
-      "low": 10467.0,
-      "close": 10489.0,
-      "date": "2026-07-08"
+      "open": 10487.9004,
+      "high": 10539.5,
+      "low": 10397.5,
+      "close": 10472.5,
+      "date": "2026-07-09"
     },
     "SPX": {
-      "open": 7476.54,
-      "high": 7488.5098,
-      "low": 7421.8198,
-      "close": 7482.71,
-      "date": "2026-07-08"
+      "open": 7491.6001,
+      "high": 7546.8901,
+      "low": 7481.73,
+      "close": 7543.6401,
+      "date": "2026-07-09"
     },
     "NDX": {
-      "open": 29030.3301,
-      "high": 29280.5801,
-      "low": 28814.5703,
-      "close": 29252.5605,
-      "date": "2026-07-08"
+      "open": 29486.6094,
+      "high": 29773.7402,
+      "low": 29398.4707,
+      "close": 29727.0996,
+      "date": "2026-07-09"
     },
     "DJI": {
-      "open": 52758.4688,
-      "high": 52758.4688,
-      "low": 52069.8711,
-      "close": 52348.3906,
-      "date": "2026-07-08"
+      "open": 52249.4414,
+      "high": 52574.8906,
+      "low": 52249.4414,
+      "close": 52487.4102,
+      "date": "2026-07-09"
     },
     "N225": {
-      "open": 67704.1562,
-      "high": 68432.6797,
-      "low": 66819.0469,
-      "close": 66819.0469,
-      "date": "2026-07-08"
+      "open": 67046.3672,
+      "high": 68447.8906,
+      "low": 67008.8906,
+      "close": 67743.8516,
+      "date": "2026-07-09"
     },
     "HSI": {
-      "open": 23541.2207,
-      "high": 24310.9199,
-      "low": 23541.2207,
-      "close": 24199.4609,
-      "date": "2026-07-08"
+      "open": 24030.1797,
+      "high": 24030.1797,
+      "low": 24030.1797,
+      "close": 24030.1797,
+      "date": "2026-07-09"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1401,
-      "high": 1.1432,
-      "low": 1.1392,
-      "close": 1.1404,
-      "date": "2026-07-08"
+      "open": 1.1422,
+      "high": 1.1451,
+      "low": 1.1421,
+      "close": 1.1422,
+      "date": "2026-07-09"
     },
     "GBPUSD": {
-      "open": 1.3345,
-      "high": 1.3378,
-      "low": 1.3324,
-      "close": 1.3349,
-      "date": "2026-07-08"
+      "open": 1.3394,
+      "high": 1.343,
+      "low": 1.3385,
+      "close": 1.3396,
+      "date": "2026-07-09"
     }
   },
   "vix": {
-    "value": 16.61,
-    "change_24h_pct": -1.72,
-    "date": "2026-07-09"
+    "value": 16.14,
+    "change_24h_pct": 1.89,
+    "date": "2026-07-10"
   },
-  "macro_calendar_today": [
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "218K",
-      "previous": "215K",
-      "impact": "Medium"
-    }
-  ],
+  "macro_calendar_today": [],
   "news_bbc": [
+    {
+      "title": "EasyJet agrees to rival £5.7bn takeover bid",
+      "summary": "The airline says a bid from US firm Apollo has trumped a previous potential takeover offer from Castlelake.",
+      "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 10 Jul 2026 07:22:29 GMT"
+    },
+    {
+      "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+      "summary": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
+      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 10 Jul 2026 01:33:45 GMT"
+    },
+    {
+      "title": "Vapes to have less enticing names to protect children, under UK plans",
+      "summary": "People are being consulted about plans to stop vape companies using of enticing flavour descriptions that \"attract\" children into experimenting.",
+      "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 10 Jul 2026 02:15:38 GMT"
+    },
+    {
+      "title": "Would you swap homes with a stranger to get a cheaper holiday?",
+      "summary": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 10 Jul 2026 07:47:29 GMT"
+    },
+    {
+      "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
+      "summary": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 10 Jul 2026 02:48:18 GMT"
+    },
+    {
+      "title": "Pressure builds on Europe's biggest port to be greener",
+      "summary": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
+      "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Jul 2026 23:00:51 GMT"
+    },
+    {
+      "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
+      "summary": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
+      "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Jul 2026 14:41:54 GMT"
+    },
     {
       "title": "Why electric cars cost more to insure - and what's being done about it",
       "summary": "The insurance cost of electric vehicles is still putting off many would-be buyers. So what can be done about it?",
       "url": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 08 Jul 2026 23:09:55 GMT"
-    },
-    {
-      "title": "I run the UK's biggest bank, here are five ways to manage your money",
-      "summary": "The CEO of Lloyds Bank talks about how to save, budget, avoid scams and manage money in a relationship.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Jul 2026 23:10:10 GMT"
-    },
-    {
-      "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
-      "summary": "Adura says the UK government must approve North Sea production urgently to avoid domestic supply shortages.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Jul 2026 05:04:17 GMT"
-    },
-    {
-      "title": "Life of Sizewell B extended by another 20 years",
-      "summary": "The power plant was due to reach the end of its life in 2035 but will now continue until 2055.",
-      "url": "https://www.bbc.co.uk/news/articles/c1dy1rdv17lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Jul 2026 05:27:18 GMT"
-    },
-    {
-      "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
-      "summary": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
-      "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Jul 2026 11:24:05 GMT"
-    },
-    {
-      "title": "Wealthy AI workers send San Francisco house prices soaring",
-      "summary": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
-      "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Jul 2026 23:11:35 GMT"
-    },
-    {
-      "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
-      "summary": "The BBC looks at how spending habits have shifted as users report feeling less hungry.",
-      "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Jul 2026 09:31:56 GMT"
-    },
-    {
-      "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
-      "summary": "Pillows, sleeping bags and feeders subject to safety notices were found on sites including Amazon and TikTok.",
-      "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Jul 2026 19:23:33 GMT"
     }
   ],
   "sources_status": {
@@ -147,7 +138,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": true,
+    "ff_macro_calendar_ok": false,
     "bbc_news_ok": true
   }
 }
