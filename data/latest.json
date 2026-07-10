@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-10T08:21:52.652170+00:00",
-  "generated_at_paris": "2026-07-10T10:21:52.652170+02:00",
+  "generated_at_utc": "2026-07-10T08:53:51.595958+00:00",
+  "generated_at_paris": "2026-07-10T10:53:51.595958+02:00",
   "date_paris": "2026-07-10",
   "indices": {
     "DAX": {
@@ -77,17 +77,17 @@
     }
   },
   "vix": {
-    "value": 16.14,
-    "change_24h_pct": 1.89,
+    "value": 16.09,
+    "change_24h_pct": 1.58,
     "date": "2026-07-10"
   },
   "macro_calendar_today": [],
   "news_bbc": [
     {
-      "title": "EasyJet agrees to rival £5.7bn takeover bid",
+      "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
       "summary": "The airline says a bid from US firm Apollo has trumped a previous potential takeover offer from Castlelake.",
       "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 07:22:29 GMT"
+      "published": "Fri, 10 Jul 2026 08:26:37 GMT"
     },
     {
       "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
@@ -102,10 +102,10 @@
       "published": "Fri, 10 Jul 2026 02:15:38 GMT"
     },
     {
-      "title": "Would you swap homes with a stranger to get a cheaper holiday?",
+      "title": "We've saved £6,000 on holidays by swapping homes with strangers",
       "summary": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
       "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 07:47:29 GMT"
+      "published": "Fri, 10 Jul 2026 08:26:00 GMT"
     },
     {
       "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
