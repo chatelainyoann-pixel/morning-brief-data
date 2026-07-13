@@ -1,135 +1,135 @@
 {
-  "generated_at_utc": "2026-07-10T08:53:51.595958+00:00",
-  "generated_at_paris": "2026-07-10T10:53:51.595958+02:00",
-  "date_paris": "2026-07-10",
+  "generated_at_utc": "2026-07-13T08:15:56.189647+00:00",
+  "generated_at_paris": "2026-07-13T10:15:56.189647+02:00",
+  "date_paris": "2026-07-13",
   "indices": {
     "DAX": {
-      "open": 25097.4805,
-      "high": 25127.7598,
-      "low": 24867.3203,
-      "close": 25118.2695,
-      "date": "2026-07-09"
+      "open": 25081.1895,
+      "high": 25195.8301,
+      "low": 24937.5195,
+      "close": 25067.0898,
+      "date": "2026-07-10"
     },
     "CAC": {
-      "open": 8307.5098,
-      "high": 8329.0,
-      "low": 8262.8604,
-      "close": 8326.6201,
-      "date": "2026-07-09"
+      "open": 8324.0703,
+      "high": 8350.8301,
+      "low": 8284.2402,
+      "close": 8338.9697,
+      "date": "2026-07-10"
     },
     "FTSE": {
-      "open": 10487.9004,
-      "high": 10539.5,
-      "low": 10397.5,
-      "close": 10472.5,
-      "date": "2026-07-09"
+      "open": 10471.9004,
+      "high": 10513.9004,
+      "low": 10462.7998,
+      "close": 10497.2998,
+      "date": "2026-07-10"
     },
     "SPX": {
-      "open": 7491.6001,
-      "high": 7546.8901,
-      "low": 7481.73,
-      "close": 7543.6401,
-      "date": "2026-07-09"
+      "open": 7547.6401,
+      "high": 7579.9302,
+      "low": 7508.1602,
+      "close": 7575.3901,
+      "date": "2026-07-10"
     },
     "NDX": {
-      "open": 29486.6094,
-      "high": 29773.7402,
-      "low": 29398.4707,
-      "close": 29727.0996,
-      "date": "2026-07-09"
+      "open": 29618.3398,
+      "high": 29856.9395,
+      "low": 29484.4902,
+      "close": 29825.1094,
+      "date": "2026-07-10"
     },
     "DJI": {
-      "open": 52249.4414,
-      "high": 52574.8906,
-      "low": 52249.4414,
-      "close": 52487.4102,
-      "date": "2026-07-09"
+      "open": 52622.9219,
+      "high": 52709.75,
+      "low": 52266.8086,
+      "close": 52637.0117,
+      "date": "2026-07-10"
     },
     "N225": {
-      "open": 67046.3672,
-      "high": 68447.8906,
-      "low": 67008.8906,
-      "close": 67743.8516,
-      "date": "2026-07-09"
+      "open": 68526.7188,
+      "high": 69374.8594,
+      "low": 68271.9062,
+      "close": 68557.7266,
+      "date": "2026-07-10"
     },
     "HSI": {
-      "open": 24030.1797,
-      "high": 24030.1797,
-      "low": 24030.1797,
-      "close": 24030.1797,
-      "date": "2026-07-09"
+      "open": 24213.4395,
+      "high": 24499.6309,
+      "low": 24064.6191,
+      "close": 24175.1191,
+      "date": "2026-07-10"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1422,
-      "high": 1.1451,
-      "low": 1.1421,
-      "close": 1.1422,
-      "date": "2026-07-09"
+      "open": 1.1434,
+      "high": 1.1463,
+      "low": 1.1418,
+      "close": 1.1433,
+      "date": "2026-07-10"
     },
     "GBPUSD": {
-      "open": 1.3394,
-      "high": 1.343,
-      "low": 1.3385,
-      "close": 1.3396,
-      "date": "2026-07-09"
+      "open": 1.3414,
+      "high": 1.3452,
+      "low": 1.3401,
+      "close": 1.3416,
+      "date": "2026-07-10"
     }
   },
   "vix": {
-    "value": 16.09,
-    "change_24h_pct": 1.58,
-    "date": "2026-07-10"
+    "value": 16.4,
+    "change_24h_pct": 9.12,
+    "date": "2026-07-13"
   },
   "macro_calendar_today": [],
   "news_bbc": [
     {
-      "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
-      "summary": "The airline says a bid from US firm Apollo has trumped a previous potential takeover offer from Castlelake.",
-      "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 08:26:37 GMT"
+      "title": "How to change bank, energy or broadband provider and save money",
+      "summary": "Changing your broadband or energy supplier, or even your bank, for a better deal is simpler than it used to be.",
+      "url": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 23:28:01 GMT"
     },
     {
-      "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-      "summary": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
-      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 01:33:45 GMT"
+      "title": "The SpaceX IPO made history. One month on has it lost momentum?",
+      "summary": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
+      "url": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 07:19:57 GMT"
     },
     {
-      "title": "Vapes to have less enticing names to protect children, under UK plans",
-      "summary": "People are being consulted about plans to stop vape companies using of enticing flavour descriptions that \"attract\" children into experimenting.",
-      "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 02:15:38 GMT"
+      "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
+      "summary": "Within hours of fresh US attacks, Iran said it had struck US military bases in Kuwait, Jordan and Bahrain.",
+      "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 05:00:46 GMT"
     },
     {
-      "title": "We've saved £6,000 on holidays by swapping homes with strangers",
-      "summary": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 08:26:00 GMT"
+      "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
+      "summary": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
+      "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 00:07:00 GMT"
     },
     {
-      "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
-      "summary": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 02:48:18 GMT"
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "summary": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
+      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 05:00:15 GMT"
     },
     {
-      "title": "Pressure builds on Europe's biggest port to be greener",
-      "summary": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
-      "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Jul 2026 23:00:51 GMT"
+      "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
+      "summary": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
+      "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 23:29:06 GMT"
     },
     {
-      "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
-      "summary": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
-      "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Jul 2026 14:41:54 GMT"
+      "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
+      "summary": "The Chancellor tells Laura Kuenssberg she will be handing over a stable economy to the incoming PM.",
+      "url": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 12:00:16 GMT"
     },
     {
-      "title": "Why electric cars cost more to insure - and what's being done about it",
-      "summary": "The insurance cost of electric vehicles is still putting off many would-be buyers. So what can be done about it?",
-      "url": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 08 Jul 2026 23:09:55 GMT"
+      "title": "Will Trump Accounts deliver for American children?",
+      "summary": "The White House has hailed the project as giving new generations a stake in the American dream, but the scheme has its critics.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 07:41:18 GMT"
     }
   ],
   "sources_status": {
