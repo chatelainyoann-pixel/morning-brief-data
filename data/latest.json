@@ -1,135 +1,192 @@
 {
-  "generated_at_utc": "2026-07-13T08:38:09.457387+00:00",
-  "generated_at_paris": "2026-07-13T10:38:09.457387+02:00",
-  "date_paris": "2026-07-13",
+  "generated_at_utc": "2026-07-14T07:09:55.485289+00:00",
+  "generated_at_paris": "2026-07-14T09:09:55.485289+02:00",
+  "date_paris": "2026-07-14",
   "indices": {
     "DAX": {
-      "open": 25081.1895,
-      "high": 25195.8301,
-      "low": 24937.5195,
-      "close": 25067.0898,
-      "date": "2026-07-10"
+      "open": 24963.8008,
+      "high": 25154.5801,
+      "low": 24963.8008,
+      "close": 25114.25,
+      "date": "2026-07-13"
     },
     "CAC": {
-      "open": 8324.0703,
-      "high": 8350.8301,
-      "low": 8284.2402,
-      "close": 8338.9697,
-      "date": "2026-07-10"
+      "open": 8306.6396,
+      "high": 8375.3701,
+      "low": 8306.6396,
+      "close": 8364.6504,
+      "date": "2026-07-13"
     },
     "FTSE": {
-      "open": 10471.9004,
-      "high": 10513.9004,
-      "low": 10462.7998,
-      "close": 10497.2998,
-      "date": "2026-07-10"
+      "open": 10498.0996,
+      "high": 10532.0996,
+      "low": 10465.0,
+      "close": 10498.2998,
+      "date": "2026-07-13"
     },
     "SPX": {
-      "open": 7547.6401,
-      "high": 7579.9302,
-      "low": 7508.1602,
-      "close": 7575.3901,
-      "date": "2026-07-10"
+      "open": 7547.5298,
+      "high": 7565.3701,
+      "low": 7506.4102,
+      "close": 7515.3398,
+      "date": "2026-07-13"
     },
     "NDX": {
-      "open": 29618.3398,
-      "high": 29856.9395,
-      "low": 29484.4902,
-      "close": 29825.1094,
-      "date": "2026-07-10"
+      "open": 29471.0195,
+      "high": 29541.0,
+      "low": 29189.2109,
+      "close": 29264.0996,
+      "date": "2026-07-13"
     },
     "DJI": {
-      "open": 52622.9219,
-      "high": 52709.75,
-      "low": 52266.8086,
-      "close": 52637.0117,
-      "date": "2026-07-10"
+      "open": 52676.5312,
+      "high": 52846.5117,
+      "low": 52351.1211,
+      "close": 52498.6406,
+      "date": "2026-07-13"
     },
     "N225": {
-      "open": 68526.7188,
-      "high": 69374.8594,
-      "low": 68271.9062,
-      "close": 68557.7266,
-      "date": "2026-07-10"
+      "open": 68410.6328,
+      "high": 69078.2109,
+      "low": 66653.1094,
+      "close": 67242.7266,
+      "date": "2026-07-13"
     },
     "HSI": {
-      "open": 24213.4395,
-      "high": 24499.6309,
-      "low": 24064.6191,
-      "close": 24175.1191,
-      "date": "2026-07-10"
+      "open": 24157.6504,
+      "high": 24449.7695,
+      "low": 24095.7305,
+      "close": 24213.7207,
+      "date": "2026-07-13"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1434,
-      "high": 1.1463,
-      "low": 1.1418,
-      "close": 1.1433,
-      "date": "2026-07-10"
+      "open": 1.1404,
+      "high": 1.1446,
+      "low": 1.1387,
+      "close": 1.1404,
+      "date": "2026-07-13"
     },
     "GBPUSD": {
-      "open": 1.3414,
-      "high": 1.3452,
-      "low": 1.3401,
-      "close": 1.3416,
-      "date": "2026-07-10"
+      "open": 1.3387,
+      "high": 1.3411,
+      "low": 1.3367,
+      "close": 1.3387,
+      "date": "2026-07-13"
     }
   },
   "vix": {
-    "value": 16.27,
-    "change_24h_pct": 8.25,
+    "value": 17.16,
+    "change_24h_pct": 14.17,
     "date": "2026-07-13"
   },
-  "macro_calendar_today": [],
+  "macro_calendar_today": [
+    {
+      "time_paris": "10:45",
+      "country": "GBP",
+      "indicator": "BOE Gov Bailey Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Core CPI m/m",
+      "consensus": "0.2%",
+      "previous": "0.2%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Core CPI y/y",
+      "consensus": "2.8%",
+      "previous": "2.9%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "CPI m/m",
+      "consensus": "-0.1%",
+      "previous": "0.5%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "CPI y/y",
+      "consensus": "3.8%",
+      "previous": "4.2%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "16:00",
+      "country": "USD",
+      "indicator": "Fed Chairman Warsh Testifies",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    },
+    {
+      "time_paris": "22:00",
+      "country": "GBP",
+      "indicator": "BOE Gov Bailey Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    }
+  ],
   "news_bbc": [
     {
-      "title": "How to change bank, energy or broadband provider and save money",
-      "summary": "Changing your broadband or energy supplier, or even your bank, for a better deal is simpler than it used to be.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 23:28:01 GMT"
+      "title": "The secretive crypto firm backed by Farage's biggest donor",
+      "summary": "Tether is a giant in crytocurrency, an industry that Nigel Farage believes the UK should be embracing.",
+      "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 23:00:59 GMT"
     },
     {
-      "title": "The SpaceX IPO made history. One month on has it lost momentum?",
-      "summary": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
-      "url": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 07:19:57 GMT"
+      "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+      "summary": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
+      "url": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 05:00:03 GMT"
     },
     {
-      "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
-      "summary": "Within hours of fresh US attacks, Iran said it had struck US military bases in Kuwait, Jordan and Bahrain.",
-      "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 05:00:46 GMT"
+      "title": "'I don't want to seem tight': How much should you give to the year-end teacher collection?",
+      "summary": "Collecting money for a joint present might overcome the competitive gift-giving, but it can still cause friction.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg8x4vk04vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 23:02:11 GMT"
     },
     {
-      "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
-      "summary": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
-      "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 00:07:00 GMT"
+      "title": "California leads lawsuit to block Paramount Warner Bros mega merger",
+      "summary": "The state, where the both studios have headquarters, has joined 11 others to halt the deal.",
+      "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 23:17:32 GMT"
     },
     {
-      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
-      "summary": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
-      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 05:00:15 GMT"
+      "title": "US burrito giant Chipotle opening first outlet in Mexico",
+      "summary": "Other US fast food brands have struggled to succeed in the countries their dishes originated.",
+      "url": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 02:42:51 GMT"
     },
     {
-      "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
-      "summary": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
-      "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 23:29:06 GMT"
+      "title": "Is tracking your food purchases good for your health?",
+      "summary": "Food tracking apps are popular, but are they a good way to make us eat a healthier diet?",
+      "url": "https://www.bbc.co.uk/news/articles/cy8wlplellvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 23:04:58 GMT"
     },
     {
-      "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
-      "summary": "The Chancellor tells Laura Kuenssberg she will be handing over a stable economy to the incoming PM.",
-      "url": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 12:00:16 GMT"
+      "title": "Volkswagen planning to cut up to 100,000 jobs globally",
+      "summary": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 16:19:15 GMT"
     },
     {
-      "title": "Will Trump Accounts deliver for American children?",
-      "summary": "The White House has hailed the project as giving new generations a stake in the American dream, but the scheme has its critics.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 07:41:18 GMT"
+      "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+      "summary": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the Strait of Hormuz.",
+      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 04:50:48 GMT"
     }
   ],
   "sources_status": {
@@ -138,7 +195,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": false,
+    "ff_macro_calendar_ok": true,
     "bbc_news_ok": true
   }
 }
