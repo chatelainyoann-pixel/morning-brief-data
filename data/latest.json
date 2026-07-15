@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-15T07:13:16.514354+00:00",
-  "generated_at_paris": "2026-07-15T09:13:16.514354+02:00",
+  "generated_at_utc": "2026-07-15T07:44:31.868810+00:00",
+  "generated_at_paris": "2026-07-15T09:44:31.868810+02:00",
   "date_paris": "2026-07-15",
   "indices": {
     "DAX": {
@@ -77,9 +77,9 @@
     }
   },
   "vix": {
-    "value": 17.16,
-    "change_24h_pct": 14.17,
-    "date": "2026-07-13"
+    "value": 16.34,
+    "change_24h_pct": -4.78,
+    "date": "2026-07-15"
   },
   "macro_calendar_today": [
     {
@@ -112,7 +112,7 @@
       "title": "Thames Water returns to profit after raising bills",
       "summary": "The UK's largest water company reported a post-tax profit for the 12 months to the end of March, but its net debt also swelled.",
       "url": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Jul 2026 07:04:10 GMT"
+      "published": "Wed, 15 Jul 2026 07:35:29 GMT"
     },
     {
       "title": "Heating oil customers to get compensation after price hikes",
@@ -127,10 +127,10 @@
       "published": "Tue, 14 Jul 2026 23:01:57 GMT"
     },
     {
-      "title": "Midnight social media curfew proposed for older UK teens",
+      "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
       "summary": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
       "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 23:17:23 GMT"
+      "published": "Wed, 15 Jul 2026 07:17:22 GMT"
     },
     {
       "title": "I changed jobs 10 times in 10 years to get the career I wanted",
