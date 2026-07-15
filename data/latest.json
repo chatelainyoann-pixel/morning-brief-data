@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-07-14T07:30:40.168788+00:00",
-  "generated_at_paris": "2026-07-14T09:30:40.168788+02:00",
-  "date_paris": "2026-07-14",
+  "generated_at_utc": "2026-07-15T07:13:16.514354+00:00",
+  "generated_at_paris": "2026-07-15T09:13:16.514354+02:00",
+  "date_paris": "2026-07-15",
   "indices": {
     "DAX": {
       "open": 24963.8008,
@@ -25,25 +25,25 @@
       "date": "2026-07-13"
     },
     "SPX": {
-      "open": 7547.5298,
-      "high": 7565.3701,
-      "low": 7506.4102,
-      "close": 7515.3398,
-      "date": "2026-07-13"
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
+      "date": "2026-07-14"
     },
     "NDX": {
-      "open": 29471.0195,
-      "high": 29541.0,
-      "low": 29189.2109,
-      "close": 29264.0996,
-      "date": "2026-07-13"
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
+      "date": "2026-07-14"
     },
     "DJI": {
-      "open": 52676.5312,
-      "high": 52846.5117,
-      "low": 52351.1211,
-      "close": 52498.6406,
-      "date": "2026-07-13"
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
+      "date": "2026-07-14"
     },
     "N225": {
       "open": 68410.6328,
@@ -62,64 +62,40 @@
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1404,
-      "high": 1.1446,
-      "low": 1.1387,
-      "close": 1.1404,
-      "date": "2026-07-13"
+      "open": 1.1384,
+      "high": 1.1461,
+      "low": 1.1379,
+      "close": 1.1384,
+      "date": "2026-07-14"
     },
     "GBPUSD": {
-      "open": 1.3387,
-      "high": 1.3411,
-      "low": 1.3367,
-      "close": 1.3387,
-      "date": "2026-07-13"
+      "open": 1.3351,
+      "high": 1.3437,
+      "low": 1.3343,
+      "close": 1.3348,
+      "date": "2026-07-14"
     }
   },
   "vix": {
-    "value": 17.22,
-    "change_24h_pct": 0.35,
-    "date": "2026-07-14"
+    "value": 17.16,
+    "change_24h_pct": 14.17,
+    "date": "2026-07-13"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "10:45",
-      "country": "GBP",
-      "indicator": "BOE Gov Bailey Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "Medium"
-    },
-    {
       "time_paris": "14:30",
       "country": "USD",
-      "indicator": "Core CPI m/m",
-      "consensus": "0.2%",
-      "previous": "0.2%",
+      "indicator": "Core PPI m/m",
+      "consensus": "0.3%",
+      "previous": "0.4%",
       "impact": "High"
     },
     {
       "time_paris": "14:30",
       "country": "USD",
-      "indicator": "Core CPI y/y",
-      "consensus": "2.8%",
-      "previous": "2.9%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "CPI m/m",
-      "consensus": "-0.1%",
-      "previous": "0.5%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "CPI y/y",
-      "consensus": "3.8%",
-      "previous": "4.2%",
+      "indicator": "PPI m/m",
+      "consensus": "0.0%",
+      "previous": "1.1%",
       "impact": "High"
     },
     {
@@ -129,46 +105,38 @@
       "consensus": "",
       "previous": "",
       "impact": "High"
-    },
-    {
-      "time_paris": "22:00",
-      "country": "GBP",
-      "indicator": "BOE Gov Bailey Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
     }
   ],
   "news_bbc": [
     {
-      "title": "The secretive crypto firm backed by Farage's biggest donor",
-      "summary": "Tether is a giant in crytocurrency, an industry that Nigel Farage believes the UK should be embracing.",
-      "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 23:00:59 GMT"
+      "title": "Thames Water returns to profit after raising bills",
+      "summary": "The UK's largest water company reported a post-tax profit for the 12 months to the end of March, but its net debt also swelled.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 07:04:10 GMT"
     },
     {
-      "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
-      "summary": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
-      "url": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 05:00:03 GMT"
+      "title": "Heating oil customers to get compensation after price hikes",
+      "summary": "The cost of heating oil spiked following the US-Israel war with Iran which forced up crude prices.",
+      "url": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 23:00:41 GMT"
     },
     {
-      "title": "'I don't want to seem tight': How much should you give to the year-end teacher collection?",
-      "summary": "Collecting money for a joint present might overcome the competitive gift-giving, but it can still cause friction.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg8x4vk04vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 23:02:11 GMT"
+      "title": "Buy Now Pay Later rules to bring refunds and rejections",
+      "summary": "Consumers should be better protected as Buy Now Pay Later lenders now require authorisation to operate.",
+      "url": "https://www.bbc.co.uk/news/articles/c9q283r9px3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 23:01:57 GMT"
     },
     {
-      "title": "California leads lawsuit to block Paramount Warner Bros mega merger",
-      "summary": "The state, where the both studios have headquarters, has joined 11 others to halt the deal.",
-      "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 23:17:32 GMT"
+      "title": "Midnight social media curfew proposed for older UK teens",
+      "summary": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
+      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 23:17:23 GMT"
     },
     {
-      "title": "US burrito giant Chipotle opening first outlet in Mexico",
-      "summary": "Other US fast food brands have struggled to succeed in the countries their dishes originated.",
-      "url": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 02:42:51 GMT"
+      "title": "I changed jobs 10 times in 10 years to get the career I wanted",
+      "summary": "The lily-padding trend sees young people repeatedly move jobs to try to advance in the workplace.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 23:04:15 GMT"
     },
     {
       "title": "Is tracking your food purchases good for your health?",
@@ -177,16 +145,16 @@
       "published": "Mon, 13 Jul 2026 23:04:58 GMT"
     },
     {
-      "title": "Volkswagen planning to cut up to 100,000 jobs globally",
-      "summary": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 16:19:15 GMT"
+      "title": "China economic growth falls sharply, missing target",
+      "summary": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
+      "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 05:12:55 GMT"
     },
     {
-      "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
-      "summary": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the Strait of Hormuz.",
-      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 04:50:48 GMT"
+      "title": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
+      "summary": "The free trade agreement between the world's fifth and sixth largest economies has come into effect - can it deliver?",
+      "url": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 22:17:43 GMT"
     }
   ],
   "sources_status": {
