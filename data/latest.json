@@ -1,160 +1,176 @@
 {
-  "generated_at_utc": "2026-07-15T07:44:31.868810+00:00",
-  "generated_at_paris": "2026-07-15T09:44:31.868810+02:00",
-  "date_paris": "2026-07-15",
+  "generated_at_utc": "2026-07-16T07:21:52.010900+00:00",
+  "generated_at_paris": "2026-07-16T09:21:52.010900+02:00",
+  "date_paris": "2026-07-16",
   "indices": {
     "DAX": {
-      "open": 24963.8008,
-      "high": 25154.5801,
-      "low": 24963.8008,
-      "close": 25114.25,
-      "date": "2026-07-13"
+      "open": 24970.0508,
+      "high": 25055.4805,
+      "low": 24839.2305,
+      "close": 24999.5293,
+      "date": "2026-07-15"
     },
     "CAC": {
-      "open": 8306.6396,
-      "high": 8375.3701,
-      "low": 8306.6396,
-      "close": 8364.6504,
-      "date": "2026-07-13"
+      "open": 8367.0498,
+      "high": 8398.4297,
+      "low": 8320.1299,
+      "close": 8382.4297,
+      "date": "2026-07-15"
     },
     "FTSE": {
-      "open": 10498.0996,
-      "high": 10532.0996,
-      "low": 10465.0,
-      "close": 10498.2998,
-      "date": "2026-07-13"
+      "open": 10529.0996,
+      "high": 10546.2002,
+      "low": 10443.5996,
+      "close": 10515.9004,
+      "date": "2026-07-15"
     },
     "SPX": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "date": "2026-07-14"
+      "open": 7571.7202,
+      "high": 7581.5,
+      "low": 7526.9502,
+      "close": 7572.3999,
+      "date": "2026-07-15"
     },
     "NDX": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "date": "2026-07-14"
+      "open": 29759.8008,
+      "high": 29771.8906,
+      "low": 29192.8906,
+      "close": 29502.5996,
+      "date": "2026-07-15"
     },
     "DJI": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "date": "2026-07-14"
+      "open": 52604.1992,
+      "high": 52823.9492,
+      "low": 52428.5391,
+      "close": 52658.6406,
+      "date": "2026-07-15"
     },
     "N225": {
-      "open": 68410.6328,
-      "high": 69078.2109,
-      "low": 66653.1094,
-      "close": 67242.7266,
-      "date": "2026-07-13"
+      "open": 67989.7422,
+      "high": 68798.2422,
+      "low": 67833.1719,
+      "close": 68751.5078,
+      "date": "2026-07-15"
     },
     "HSI": {
-      "open": 24157.6504,
-      "high": 24449.7695,
-      "low": 24095.7305,
-      "close": 24213.7207,
-      "date": "2026-07-13"
+      "open": 24551.3398,
+      "high": 24774.8398,
+      "low": 24449.5293,
+      "close": 24681.0996,
+      "date": "2026-07-15"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1384,
-      "high": 1.1461,
-      "low": 1.1379,
-      "close": 1.1384,
-      "date": "2026-07-14"
+      "open": 1.1425,
+      "high": 1.1446,
+      "low": 1.1407,
+      "close": 1.1425,
+      "date": "2026-07-15"
     },
     "GBPUSD": {
-      "open": 1.3351,
-      "high": 1.3437,
-      "low": 1.3343,
-      "close": 1.3348,
-      "date": "2026-07-14"
+      "open": 1.3395,
+      "high": 1.3498,
+      "low": 1.3383,
+      "close": 1.3397,
+      "date": "2026-07-15"
     }
   },
   "vix": {
-    "value": 16.34,
-    "change_24h_pct": -4.78,
+    "value": 15.67,
+    "change_24h_pct": -5.03,
     "date": "2026-07-15"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Core PPI m/m",
-      "consensus": "0.3%",
-      "previous": "0.4%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "PPI m/m",
+      "time_paris": "08:00",
+      "country": "GBP",
+      "indicator": "GDP m/m",
       "consensus": "0.0%",
-      "previous": "1.1%",
+      "previous": "-0.1%",
       "impact": "High"
     },
     {
-      "time_paris": "16:00",
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "Fed Chairman Warsh Testifies",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
+      "indicator": "Core Retail Sales m/m",
+      "consensus": "0.0%",
+      "previous": "0.8%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Philly Fed Manufacturing Index",
+      "consensus": "12.7",
+      "previous": "10.3",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Retail Sales m/m",
+      "consensus": "0.2%",
+      "previous": "0.9%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Unemployment Claims",
+      "consensus": "216K",
+      "previous": "215K",
+      "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Thames Water returns to profit after raising bills",
-      "summary": "The UK's largest water company reported a post-tax profit for the 12 months to the end of March, but its net debt also swelled.",
+      "title": "British Steel taken into public ownership to protect 'vital' UK supply",
+      "summary": "The Scunthorpe steelworks has been officially nationalised under new government powers passed this week.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 16 Jul 2026 07:06:16 GMT"
+    },
+    {
+      "title": "UK economy returns to growth in May",
+      "summary": "The modest growth reverses a slight contraction that had been seen the previous month.",
+      "url": "https://www.bbc.co.uk/news/articles/c8xnllq944go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 16 Jul 2026 07:19:17 GMT"
+    },
+    {
+      "title": "Celebrity influencers paid up to £1m to advertise deodorant on Instagram",
+      "summary": "The chief executive of Wild reveals what happens behind the scenes of social media posts.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgegqrp656o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 16 Jul 2026 06:40:58 GMT"
+    },
+    {
+      "title": "SpaceX share price drops below stock market debut",
+      "summary": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
+      "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 18:11:57 GMT"
+    },
+    {
+      "title": "Buffett calls Bill Gates relationship with Epstein 'distasteful'",
+      "summary": "The billionaire investor's firm has stopped giving donations to the Microsoft co-founder's charity.",
+      "url": "https://www.bbc.co.uk/news/articles/cz97wx2zj78o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 22:25:35 GMT"
+    },
+    {
+      "title": "Salary information to be shown on job ads under new laws",
+      "summary": "The government argues the move would help jobseekers and could reduce pay discrimination claims.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg7gg2zdexo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 18:46:26 GMT"
+    },
+    {
+      "title": "Burnham faces crucial choice for chancellor as battle for No 11 continues",
+      "summary": "Whoever Burnham appoints to the key role will send a signal of his intent, writes Iain Watson.",
+      "url": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 17:13:06 GMT"
+    },
+    {
+      "title": "Cash-strapped Thames Water poses big test for Burnham",
+      "summary": "Despite returning to profit after hiking bills 40%, the deeply troubled company is far from out of the woods.",
       "url": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Jul 2026 07:35:29 GMT"
-    },
-    {
-      "title": "Heating oil customers to get compensation after price hikes",
-      "summary": "The cost of heating oil spiked following the US-Israel war with Iran which forced up crude prices.",
-      "url": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 23:00:41 GMT"
-    },
-    {
-      "title": "Buy Now Pay Later rules to bring refunds and rejections",
-      "summary": "Consumers should be better protected as Buy Now Pay Later lenders now require authorisation to operate.",
-      "url": "https://www.bbc.co.uk/news/articles/c9q283r9px3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 23:01:57 GMT"
-    },
-    {
-      "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
-      "summary": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
-      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Jul 2026 07:17:22 GMT"
-    },
-    {
-      "title": "I changed jobs 10 times in 10 years to get the career I wanted",
-      "summary": "The lily-padding trend sees young people repeatedly move jobs to try to advance in the workplace.",
-      "url": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 23:04:15 GMT"
-    },
-    {
-      "title": "Is tracking your food purchases good for your health?",
-      "summary": "Food tracking apps are popular, but are they a good way to make us eat a healthier diet?",
-      "url": "https://www.bbc.co.uk/news/articles/cy8wlplellvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 23:04:58 GMT"
-    },
-    {
-      "title": "China economic growth falls sharply, missing target",
-      "summary": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
-      "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Jul 2026 05:12:55 GMT"
-    },
-    {
-      "title": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
-      "summary": "The free trade agreement between the world's fifth and sixth largest economies has come into effect - can it deliver?",
-      "url": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 22:17:43 GMT"
+      "published": "Wed, 15 Jul 2026 12:09:08 GMT"
     }
   ],
   "sources_status": {
