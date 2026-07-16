@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-16T07:21:52.010900+00:00",
-  "generated_at_paris": "2026-07-16T09:21:52.010900+02:00",
+  "generated_at_utc": "2026-07-16T07:49:16.339968+00:00",
+  "generated_at_paris": "2026-07-16T09:49:16.339968+02:00",
   "date_paris": "2026-07-16",
   "indices": {
     "DAX": {
@@ -77,9 +77,9 @@
     }
   },
   "vix": {
-    "value": 15.67,
-    "change_24h_pct": -5.03,
-    "date": "2026-07-15"
+    "value": 15.8,
+    "change_24h_pct": 0.83,
+    "date": "2026-07-16"
   },
   "macro_calendar_today": [
     {
@@ -128,7 +128,7 @@
       "title": "British Steel taken into public ownership to protect 'vital' UK supply",
       "summary": "The Scunthorpe steelworks has been officially nationalised under new government powers passed this week.",
       "url": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Jul 2026 07:06:16 GMT"
+      "published": "Thu, 16 Jul 2026 07:34:47 GMT"
     },
     {
       "title": "UK economy returns to growth in May",
