@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-17T07:15:21.777646+00:00",
-  "generated_at_paris": "2026-07-17T09:15:21.777646+02:00",
+  "generated_at_utc": "2026-07-17T07:46:50.040917+00:00",
+  "generated_at_paris": "2026-07-17T09:46:50.040917+02:00",
   "date_paris": "2026-07-17",
   "indices": {
     "DAX": {
@@ -77,9 +77,9 @@
     }
   },
   "vix": {
-    "value": 16.73,
-    "change_24h_pct": 6.76,
-    "date": "2026-07-16"
+    "value": 17.9,
+    "change_24h_pct": 6.99,
+    "date": "2026-07-17"
   },
   "macro_calendar_today": [
     {
@@ -118,7 +118,7 @@
       "title": "China hits out at British Steel nationalisation",
       "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
       "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 05:35:00 GMT"
+      "published": "Fri, 17 Jul 2026 07:39:38 GMT"
     },
     {
       "title": "The financial winners and losers from the World Cup",
@@ -133,10 +133,10 @@
       "published": "Thu, 16 Jul 2026 23:14:11 GMT"
     },
     {
-      "title": "Trump Media to sell early access to key social posts",
+      "title": "Trump Media to sell instant access to 'market-moving' social posts",
       "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
       "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 07:05:08 GMT"
+      "published": "Fri, 17 Jul 2026 07:25:31 GMT"
     },
     {
       "title": "British Steel taken into public ownership to protect 'vital' UK supply",
