@@ -1,160 +1,135 @@
 {
-  "generated_at_utc": "2026-07-17T07:46:50.040917+00:00",
-  "generated_at_paris": "2026-07-17T09:46:50.040917+02:00",
-  "date_paris": "2026-07-17",
+  "generated_at_utc": "2026-07-20T07:57:40.021178+00:00",
+  "generated_at_paris": "2026-07-20T09:57:40.021178+02:00",
+  "date_paris": "2026-07-20",
   "indices": {
     "DAX": {
-      "open": 25018.9492,
-      "high": 25021.5098,
-      "low": 24696.1699,
-      "close": 24915.4902,
-      "date": "2026-07-16"
+      "open": 24755.0898,
+      "high": 24850.75,
+      "low": 24651.3398,
+      "close": 24830.9805,
+      "date": "2026-07-17"
     },
     "CAC": {
-      "open": 8380.8398,
-      "high": 8380.8398,
-      "low": 8281.2695,
-      "close": 8377.8604,
-      "date": "2026-07-16"
+      "open": 8326.7402,
+      "high": 8350.1904,
+      "low": 8282.1699,
+      "close": 8338.8096,
+      "date": "2026-07-17"
     },
     "FTSE": {
-      "open": 10515.0,
-      "high": 10572.2002,
-      "low": 10447.5996,
-      "close": 10572.2002,
-      "date": "2026-07-16"
+      "open": 10572.4004,
+      "high": 10623.7002,
+      "low": 10527.7002,
+      "close": 10600.4004,
+      "date": "2026-07-17"
     },
     "SPX": {
-      "open": 7558.7998,
-      "high": 7570.7402,
-      "low": 7504.02,
-      "close": 7533.77,
-      "date": "2026-07-16"
+      "open": 7447.52,
+      "high": 7498.4702,
+      "low": 7431.2598,
+      "close": 7457.6899,
+      "date": "2026-07-17"
     },
     "NDX": {
-      "open": 29318.3008,
-      "high": 29333.0605,
-      "low": 28881.2305,
-      "close": 29025.7695,
-      "date": "2026-07-16"
+      "open": 28457.3301,
+      "high": 28867.4004,
+      "low": 28231.3203,
+      "close": 28592.6602,
+      "date": "2026-07-17"
     },
     "DJI": {
-      "open": 52924.8594,
-      "high": 52924.8594,
-      "low": 52367.4219,
-      "close": 52552.9688,
-      "date": "2026-07-16"
+      "open": 52426.4609,
+      "high": 52610.9688,
+      "low": 51986.7383,
+      "close": 52146.4219,
+      "date": "2026-07-17"
     },
     "N225": {
-      "open": 67900.4297,
-      "high": 68069.8203,
-      "low": 66499.4922,
-      "close": 66835.5391,
-      "date": "2026-07-16"
+      "open": 66339.8516,
+      "high": 66441.7734,
+      "low": 62704.6016,
+      "close": 64141.1211,
+      "date": "2026-07-17"
     },
     "HSI": {
-      "open": 24825.0195,
-      "high": 25221.4395,
-      "low": 24825.0195,
-      "close": 25008.5996,
-      "date": "2026-07-16"
+      "open": 25022.5391,
+      "high": 25166.5605,
+      "low": 24332.5098,
+      "close": 24562.2402,
+      "date": "2026-07-17"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1473,
-      "high": 1.1478,
-      "low": 1.1438,
-      "close": 1.147,
-      "date": "2026-07-16"
+      "open": 1.1447,
+      "high": 1.1453,
+      "low": 1.1425,
+      "close": 1.1445,
+      "date": "2026-07-17"
     },
     "GBPUSD": {
-      "open": 1.3539,
-      "high": 1.3545,
-      "low": 1.3481,
-      "close": 1.3541,
-      "date": "2026-07-16"
+      "open": 1.3479,
+      "high": 1.3483,
+      "low": 1.3427,
+      "close": 1.3479,
+      "date": "2026-07-17"
     }
   },
   "vix": {
-    "value": 17.9,
-    "change_24h_pct": 6.99,
-    "date": "2026-07-17"
+    "value": 18.44,
+    "change_24h_pct": -1.76,
+    "date": "2026-07-20"
   },
-  "macro_calendar_today": [
-    {
-      "time_paris": "03:00",
-      "country": "USD",
-      "indicator": "President Trump Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Prelim UoM Consumer Sentiment",
-      "consensus": "51.0",
-      "previous": "48.9",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Prelim UoM Inflation Expectations",
-      "consensus": "",
-      "previous": "4.6%",
-      "impact": "Medium"
-    }
-  ],
+  "macro_calendar_today": [],
   "news_bbc": [
     {
-      "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
-      "summary": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
-      "url": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 05:00:08 GMT"
+      "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+      "summary": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 07:26:56 GMT"
     },
     {
-      "title": "China hits out at British Steel nationalisation",
-      "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 07:39:38 GMT"
+      "title": "Are you a parent missing out on £27 a week? Here's how to check",
+      "summary": "Thousands of new parents fail to claim child benefit until it is too late to receive some of the money, HMRC says.",
+      "url": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Jul 2026 23:16:47 GMT"
     },
     {
-      "title": "The financial winners and losers from the World Cup",
-      "summary": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most?",
-      "url": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Jul 2026 23:16:14 GMT"
+      "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
+      "summary": "The BBC understands creditors would would pursue payment in full of the outstanding debts, in the multi-billions of pounds.",
+      "url": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Jul 2026 18:35:16 GMT"
     },
     {
-      "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
-      "summary": "Sarah and her husband have shared one account for 25 years, but she says managing it falls to her.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Jul 2026 23:14:11 GMT"
+      "title": "My fitness tracker knew I was pregnant before I did",
+      "summary": "Ravika is one of hundreds of women who are noticing early pregnancy signs through the data on their fitness trackers.",
+      "url": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Jul 2026 23:09:18 GMT"
     },
     {
-      "title": "Trump Media to sell instant access to 'market-moving' social posts",
-      "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
-      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 07:25:31 GMT"
+      "title": "New EU border system tripling time at passport control, airport boss says",
+      "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Jul 2026 01:47:59 GMT"
     },
     {
-      "title": "British Steel taken into public ownership to protect 'vital' UK supply",
-      "summary": "The Scunthorpe steelworks has been officially nationalised under new government powers passed this week.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Jul 2026 11:31:15 GMT"
+      "title": "This farmer wanted to quit the cocaine industry - he couldn't",
+      "summary": "Colombians who grow cocaine's raw material bemoan a lack of support to help them switch crops.",
+      "url": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Jul 2026 23:18:03 GMT"
     },
     {
-      "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
-      "summary": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Jul 2026 18:52:35 GMT"
+      "title": "Chinese firm seeks compensation over British Steel nationalisation",
+      "summary": "Jingye said it will take action \"through legal means to the very end\" after the UK government nationalised British Steel.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Jul 2026 10:59:07 GMT"
     },
     {
-      "title": "Who is the frontrunner to be the UK's next chancellor?",
-      "summary": "Andy Burnham will be moving into Downing Street next week, and a question remains over who will be his neighbour in Number 11.",
-      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Jul 2026 10:03:05 GMT"
+      "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
+      "summary": "It's a small but growing problem in the property market - here's how to protect yourself.",
+      "url": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Jul 2026 01:14:53 GMT"
     }
   ],
   "sources_status": {
@@ -163,7 +138,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": true,
+    "ff_macro_calendar_ok": false,
     "bbc_news_ok": true
   }
 }
