@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-21T07:31:51.217816+00:00",
-  "generated_at_paris": "2026-07-21T09:31:51.217816+02:00",
+  "generated_at_utc": "2026-07-21T08:01:16.972531+00:00",
+  "generated_at_paris": "2026-07-21T10:01:16.972531+02:00",
   "date_paris": "2026-07-21",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 17.51,
-    "change_24h_pct": -6.11,
+    "value": 17.6,
+    "change_24h_pct": -5.63,
     "date": "2026-07-21"
   },
   "macro_calendar_today": [
@@ -107,10 +107,10 @@
       "published": "Tue, 21 Jul 2026 07:27:10 GMT"
     },
     {
-      "title": "UK government borrowing falls in June",
+      "title": "UK government borrowing lower than expected in June",
       "summary": "Public finances for last month were better than expected but the UK is carrying major debt.",
       "url": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 07:20:13 GMT"
+      "published": "Tue, 21 Jul 2026 07:45:04 GMT"
     },
     {
       "title": "'I made £100,000 of TikTok sales in one day': The business of live shopping",
@@ -122,7 +122,7 @@
       "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
       "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
       "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 07:12:14 GMT"
+      "published": "Tue, 21 Jul 2026 07:56:13 GMT"
     },
     {
       "title": "Who is new chancellor John Healey? Labour veteran who quit as defence secretary",
