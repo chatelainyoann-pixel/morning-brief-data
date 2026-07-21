@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-07-20T08:30:11.928128+00:00",
-  "generated_at_paris": "2026-07-20T10:30:11.928128+02:00",
-  "date_paris": "2026-07-20",
+  "generated_at_utc": "2026-07-21T07:31:51.217816+00:00",
+  "generated_at_paris": "2026-07-21T09:31:51.217816+02:00",
+  "date_paris": "2026-07-21",
   "indices": {
     "DAX": {
-      "open": 24755.0898,
-      "high": 24850.75,
-      "low": 24651.3398,
-      "close": 24830.9805,
-      "date": "2026-07-17"
+      "open": 24769.1504,
+      "high": 24974.5293,
+      "low": 24751.1309,
+      "close": 24846.6895,
+      "date": "2026-07-20"
     },
     "CAC": {
-      "open": 8326.7402,
-      "high": 8350.1904,
-      "low": 8282.1699,
-      "close": 8338.8096,
-      "date": "2026-07-17"
+      "open": 8316.3799,
+      "high": 8391.04,
+      "low": 8316.3799,
+      "close": 8340.1104,
+      "date": "2026-07-20"
     },
     "FTSE": {
-      "open": 10572.4004,
-      "high": 10623.7002,
-      "low": 10527.7002,
-      "close": 10600.4004,
-      "date": "2026-07-17"
+      "open": 10600.2998,
+      "high": 10600.2998,
+      "low": 10512.7998,
+      "close": 10524.7998,
+      "date": "2026-07-20"
     },
     "SPX": {
-      "open": 7447.52,
-      "high": 7498.4702,
-      "low": 7431.2598,
-      "close": 7457.6899,
-      "date": "2026-07-17"
+      "open": 7489.1802,
+      "high": 7513.23,
+      "low": 7440.5298,
+      "close": 7443.2798,
+      "date": "2026-07-20"
     },
     "NDX": {
-      "open": 28457.3301,
-      "high": 28867.4004,
-      "low": 28231.3203,
-      "close": 28592.6602,
-      "date": "2026-07-17"
+      "open": 28871.1602,
+      "high": 29017.2305,
+      "low": 28590.4004,
+      "close": 28604.2305,
+      "date": "2026-07-20"
     },
     "DJI": {
-      "open": 52426.4609,
-      "high": 52610.9688,
-      "low": 51986.7383,
-      "close": 52146.4219,
-      "date": "2026-07-17"
+      "open": 52154.5703,
+      "high": 52411.8984,
+      "low": 51781.8984,
+      "close": 51839.2617,
+      "date": "2026-07-20"
     },
     "N225": {
       "open": 66339.8516,
@@ -53,83 +53,100 @@
       "date": "2026-07-17"
     },
     "HSI": {
-      "open": 25022.5391,
-      "high": 25166.5605,
-      "low": 24332.5098,
-      "close": 24562.2402,
-      "date": "2026-07-17"
+      "open": 24835.0293,
+      "high": 25155.5508,
+      "low": 24756.3594,
+      "close": 25143.0508,
+      "date": "2026-07-20"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1447,
-      "high": 1.1453,
-      "low": 1.1425,
-      "close": 1.1445,
-      "date": "2026-07-17"
+      "open": 1.1427,
+      "high": 1.145,
+      "low": 1.1405,
+      "close": 1.1428,
+      "date": "2026-07-20"
     },
     "GBPUSD": {
-      "open": 1.3479,
-      "high": 1.3483,
-      "low": 1.3427,
-      "close": 1.3479,
-      "date": "2026-07-17"
+      "open": 1.3444,
+      "high": 1.3481,
+      "low": 1.3415,
+      "close": 1.3446,
+      "date": "2026-07-20"
     }
   },
   "vix": {
-    "value": 18.43,
-    "change_24h_pct": -1.81,
-    "date": "2026-07-20"
+    "value": 17.51,
+    "change_24h_pct": -6.11,
+    "date": "2026-07-21"
   },
-  "macro_calendar_today": [],
+  "macro_calendar_today": [
+    {
+      "time_paris": "08:00",
+      "country": "GBP",
+      "indicator": "Claimant Count Change",
+      "consensus": "29.4K",
+      "previous": "31.2K",
+      "impact": "High"
+    },
+    {
+      "time_paris": "08:00",
+      "country": "GBP",
+      "indicator": "Average Earnings Index 3m/y",
+      "consensus": "4.5%",
+      "previous": "4.4%",
+      "impact": "Medium"
+    }
+  ],
   "news_bbc": [
     {
-      "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
-      "summary": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 07:26:56 GMT"
+      "title": "VAT to be cut from household electricity bills in October",
+      "summary": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 07:27:10 GMT"
     },
     {
-      "title": "Are you a parent missing out on £27 a week? Here's how to check",
-      "summary": "Thousands of new parents fail to claim child benefit until it is too late to receive some of the money, HMRC says.",
-      "url": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Jul 2026 23:16:47 GMT"
+      "title": "UK government borrowing falls in June",
+      "summary": "Public finances for last month were better than expected but the UK is carrying major debt.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 07:20:13 GMT"
     },
     {
-      "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
-      "summary": "The BBC understands creditors would would pursue payment in full of the outstanding debts, in the multi-billions of pounds.",
-      "url": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Jul 2026 18:35:16 GMT"
+      "title": "'I made £100,000 of TikTok sales in one day': The business of live shopping",
+      "summary": "Buying on social media livestreams is fast becoming regular consumer behaviour for many.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2j22w8k0po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 23:06:04 GMT"
     },
     {
-      "title": "My fitness tracker knew I was pregnant before I did",
-      "summary": "Ravika is one of hundreds of women who are noticing early pregnancy signs through the data on their fitness trackers.",
-      "url": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Jul 2026 23:09:18 GMT"
+      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 07:12:14 GMT"
     },
     {
-      "title": "New EU border system tripling time at passport control, airport boss says",
-      "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Jul 2026 01:47:59 GMT"
+      "title": "Who is new chancellor John Healey? Labour veteran who quit as defence secretary",
+      "summary": "The former defence secretary is seen as a safe pair of hands - and is now in charge of the government's finances.",
+      "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 18:44:55 GMT"
     },
     {
-      "title": "This farmer wanted to quit the cocaine industry - he couldn't",
-      "summary": "Colombians who grow cocaine's raw material bemoan a lack of support to help them switch crops.",
-      "url": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Jul 2026 23:18:03 GMT"
+      "title": "The 20-somethings betting big on tech stocks",
+      "summary": "The BBC hears from people about the risks and rewards of investing in technology shares.",
+      "url": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 22:00:41 GMT"
     },
     {
-      "title": "Chinese firm seeks compensation over British Steel nationalisation",
-      "summary": "Jingye said it will take action \"through legal means to the very end\" after the UK government nationalised British Steel.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Jul 2026 10:59:07 GMT"
+      "title": "Merger deal between Paramount and Warner Bros paused by judge",
+      "summary": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 19:48:13 GMT"
     },
     {
-      "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
-      "summary": "It's a small but growing problem in the property market - here's how to protect yourself.",
-      "url": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Jul 2026 01:14:53 GMT"
+      "title": "Thousands of websites taken down for illegal World Cup streams",
+      "summary": "More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 20:08:56 GMT"
     }
   ],
   "sources_status": {
@@ -138,7 +155,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": false,
+    "ff_macro_calendar_ok": true,
     "bbc_news_ok": true
   }
 }
