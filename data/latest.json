@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-22T07:33:17.263095+00:00",
-  "generated_at_paris": "2026-07-22T09:33:17.263095+02:00",
+  "generated_at_utc": "2026-07-22T08:01:31.337065+00:00",
+  "generated_at_paris": "2026-07-22T10:01:31.337065+02:00",
   "date_paris": "2026-07-22",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 17.39,
-    "change_24h_pct": 1.99,
+    "value": 17.57,
+    "change_24h_pct": 3.05,
     "date": "2026-07-22"
   },
   "macro_calendar_today": [
@@ -107,13 +107,13 @@
       "published": "Wed, 22 Jul 2026 06:05:29 GMT"
     },
     {
-      "title": "Will AI help you do your job or replace you?",
+      "title": "Will your job be replaced by AI?  Here are the roles most affected",
       "summary": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
       "url": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 23:04:42 GMT"
+      "published": "Wed, 22 Jul 2026 07:40:33 GMT"
     },
     {
-      "title": "Lower fuel, chocolate and beef prices help push inflation down",
+      "title": "Food prices rise at slowest rate in nearly two years",
       "summary": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
       "url": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 22 Jul 2026 07:27:04 GMT"
@@ -137,16 +137,16 @@
       "published": "Tue, 21 Jul 2026 23:17:58 GMT"
     },
     {
+      "title": "Can airport really go carbon neutral amid plans to expand flights?",
+      "summary": "Campaigners say people just need to fly less amid unbearable heat and wildfires.",
+      "url": "https://www.bbc.co.uk/news/articles/c78gljynx3xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 15:54:36 GMT"
+    },
+    {
       "title": "VAT to be cut from household electricity bills in October",
       "summary": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.",
       "url": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 21 Jul 2026 14:25:22 GMT"
-    },
-    {
-      "title": "France passes law banning under-15s from social media",
-      "summary": "The law will require social media platforms in France to verify all users age from January.",
-      "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 03:50:55 GMT"
     }
   ],
   "sources_status": {
