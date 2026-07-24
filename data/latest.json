@@ -1,168 +1,192 @@
 {
-  "generated_at_utc": "2026-07-23T08:04:25.763637+00:00",
-  "generated_at_paris": "2026-07-23T10:04:25.763637+02:00",
-  "date_paris": "2026-07-23",
+  "generated_at_utc": "2026-07-24T07:29:49.651433+00:00",
+  "generated_at_paris": "2026-07-24T09:29:49.651433+02:00",
+  "date_paris": "2026-07-24",
   "indices": {
     "DAX": {
-      "open": 25001.3105,
-      "high": 25271.3398,
-      "low": 24984.2695,
-      "close": 25155.4102,
-      "date": "2026-07-22"
+      "open": 24994.0508,
+      "high": 25074.2793,
+      "low": 24696.5898,
+      "close": 24763.1191,
+      "date": "2026-07-23"
     },
     "CAC": {
-      "open": 8355.1299,
-      "high": 8468.0,
-      "low": 8350.8398,
-      "close": 8437.8896,
-      "date": "2026-07-22"
+      "open": 8370.3301,
+      "high": 8376.54,
+      "low": 8279.5801,
+      "close": 8299.0898,
+      "date": "2026-07-23"
     },
     "FTSE": {
-      "open": 10585.9004,
-      "high": 10763.4004,
-      "low": 10568.7002,
-      "close": 10717.0,
-      "date": "2026-07-22"
+      "open": 10717.0,
+      "high": 10720.2998,
+      "low": 10610.4004,
+      "close": 10639.2002,
+      "date": "2026-07-23"
     },
     "SPX": {
-      "open": 7497.4702,
-      "high": 7525.9399,
-      "low": 7485.8501,
-      "close": 7498.96,
-      "date": "2026-07-22"
+      "open": 7418.29,
+      "high": 7450.1201,
+      "low": 7376.0,
+      "close": 7408.2998,
+      "date": "2026-07-23"
     },
     "NDX": {
-      "open": 28949.8105,
-      "high": 29176.9102,
-      "low": 28934.5195,
-      "close": 28998.0996,
-      "date": "2026-07-22"
+      "open": 28545.9805,
+      "high": 28726.6191,
+      "low": 28274.5195,
+      "close": 28454.8105,
+      "date": "2026-07-23"
     },
     "DJI": {
-      "open": 52287.1406,
-      "high": 52511.2109,
-      "low": 52148.8711,
-      "close": 52218.5781,
-      "date": "2026-07-22"
+      "open": 51755.5391,
+      "high": 51885.1406,
+      "low": 51542.0586,
+      "close": 51711.6484,
+      "date": "2026-07-23"
     },
     "N225": {
-      "open": 66449.2734,
-      "high": 67592.2031,
-      "low": 65955.6016,
-      "close": 66115.6016,
-      "date": "2026-07-22"
+      "open": 66421.0078,
+      "high": 67022.3672,
+      "low": 66208.6562,
+      "close": 66422.6016,
+      "date": "2026-07-23"
     },
     "HSI": {
-      "open": 24978.9004,
-      "high": 25040.2695,
-      "low": 24802.0605,
-      "close": 24892.6602,
-      "date": "2026-07-22"
+      "open": 24966.5293,
+      "high": 25267.3906,
+      "low": 24876.8301,
+      "close": 25210.8105,
+      "date": "2026-07-23"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1402,
-      "high": 1.1421,
-      "low": 1.14,
-      "close": 1.1404,
-      "date": "2026-07-22"
+      "open": 1.1413,
+      "high": 1.1438,
+      "low": 1.1365,
+      "close": 1.1412,
+      "date": "2026-07-23"
     },
     "GBPUSD": {
-      "open": 1.3379,
-      "high": 1.3393,
-      "low": 1.3357,
-      "close": 1.3379,
-      "date": "2026-07-22"
+      "open": 1.3376,
+      "high": 1.3394,
+      "low": 1.3301,
+      "close": 1.3375,
+      "date": "2026-07-23"
     }
   },
   "vix": {
-    "value": 17.91,
-    "change_24h_pct": 7.63,
+    "value": 18.7,
+    "change_24h_pct": 12.38,
     "date": "2026-07-23"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "14:15",
-      "country": "EUR",
-      "indicator": "Main Refinancing Rate",
-      "consensus": "2.40%",
-      "previous": "2.40%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:15",
-      "country": "EUR",
-      "indicator": "Monetary Policy Statement",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "211K",
-      "previous": "208K",
+      "time_paris": "08:00",
+      "country": "GBP",
+      "indicator": "Retail Sales m/m",
+      "consensus": "-0.3%",
+      "previous": "1.2%",
       "impact": "Medium"
     },
     {
-      "time_paris": "14:45",
+      "time_paris": "09:15",
       "country": "EUR",
-      "indicator": "ECB Press Conference",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
+      "indicator": "French Flash Manufacturing PMI",
+      "consensus": "51.0",
+      "previous": "50.7",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "09:15",
+      "country": "EUR",
+      "indicator": "French Flash Services PMI",
+      "consensus": "47.5",
+      "previous": "47.4",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "09:30",
+      "country": "EUR",
+      "indicator": "German Flash Manufacturing PMI",
+      "consensus": "50.4",
+      "previous": "50.0",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "09:30",
+      "country": "EUR",
+      "indicator": "German Flash Services PMI",
+      "consensus": "49.0",
+      "previous": "46.8",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "10:30",
+      "country": "GBP",
+      "indicator": "Flash Manufacturing PMI",
+      "consensus": "52.0",
+      "previous": "53.1",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "10:30",
+      "country": "GBP",
+      "indicator": "Flash Services PMI",
+      "consensus": "49.4",
+      "previous": "48.7",
+      "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Airport drop-off fees up by a third - here are the priciest",
-      "summary": "The cost of parking closest to the terminal has hit £10 at two of the UK's airports.",
-      "url": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Jul 2026 07:03:20 GMT"
+      "title": "US hits dozens of trading partners with new wave of tariffs",
+      "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Jul 2026 07:12:13 GMT"
     },
     {
-      "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
-      "summary": "A co-founder of start-up Hugging Face told the BBC that most firms are not aware that the \"game has changed\".",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Jul 2026 06:18:37 GMT"
+      "title": "UK complacent about war threat, warns BAE boss",
+      "summary": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned.\nDr Charles Woodburn",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Jul 2026 23:04:19 GMT"
     },
     {
-      "title": "Google burning through cash with spiralling AI costs",
-      "summary": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
+      "title": "We split bills equally even when one of us earned a lot more",
+      "summary": "Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending.",
+      "url": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Jul 2026 23:01:08 GMT"
+    },
+    {
+      "title": "UK mortgage rates rise to highest level for a month",
+      "summary": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.",
+      "url": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Jul 2026 23:02:10 GMT"
+    },
+    {
+      "title": "Oil prices hit $100 for the first time since May",
+      "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Jul 2026 15:31:00 GMT"
+    },
+    {
+      "title": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
+      "summary": "A new bill would let the US government order the shutdown of AI models that pose a public threat.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Jul 2026 20:58:35 GMT"
+    },
+    {
+      "title": "Pubs cheer business rates relief while other firms 'left out in the cold'",
+      "summary": "Pubs welcomed the support package, while other High Street firms asked why they were left out.",
+      "url": "https://www.bbc.co.uk/news/articles/clyvnz4489wo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Jul 2026 14:27:37 GMT"
+    },
+    {
+      "title": "Google and Tesla shares plunge as AI spending rattles markets",
+      "summary": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.",
       "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Jul 2026 07:15:59 GMT"
-    },
-    {
-      "title": "Why the UK is dithering over what to do about e-scooters",
-      "summary": "Why is it taking so long for the government to regulate them, and what are the consequences of delay?",
-      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 23:51:24 GMT"
-    },
-    {
-      "title": "Some food prices have fallen – but inflation expected to rise from here",
-      "summary": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 10:10:01 GMT"
-    },
-    {
-      "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
-      "summary": "The allegations come as Chinese AI companies are facing increased US government scrutiny.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Jul 2026 01:52:10 GMT"
-    },
-    {
-      "title": "Former Lloyd's of London boss's relationship breached rules, firm says",
-      "summary": "The insurance market's chairman said the CEO's conduct \"fell significantly below the standards expected of him\".",
-      "url": "https://www.bbc.co.uk/news/articles/cre48d34ewzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 17:08:53 GMT"
-    },
-    {
-      "title": "I travel four hours on a bus per day - the bus fare cap will save me £500 a year",
-      "summary": "The BBC speaks to people around the country about their view on the newly-announced bus fare cap.",
-      "url": "https://www.bbc.co.uk/news/articles/clyv4y3xdvgo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 17:07:05 GMT"
+      "published": "Thu, 23 Jul 2026 20:42:33 GMT"
     }
   ],
   "sources_status": {
