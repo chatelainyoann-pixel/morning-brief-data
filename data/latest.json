@@ -1,135 +1,144 @@
 {
-  "generated_at_utc": "2026-07-27T08:59:56.393306+00:00",
-  "generated_at_paris": "2026-07-27T10:59:56.393306+02:00",
-  "date_paris": "2026-07-27",
+  "generated_at_utc": "2026-07-28T07:36:46.833763+00:00",
+  "generated_at_paris": "2026-07-28T09:36:46.833763+02:00",
+  "date_paris": "2026-07-28",
   "indices": {
     "DAX": {
-      "open": 24830.4102,
-      "high": 25099.6797,
-      "low": 24821.6699,
-      "close": 25099.0,
-      "date": "2026-07-24"
+      "open": 25459.3203,
+      "high": 25560.4004,
+      "low": 25361.0293,
+      "close": 25361.0293,
+      "date": "2026-07-27"
     },
     "CAC": {
-      "open": 8284.6797,
-      "high": 8372.4102,
-      "low": 8278.6396,
-      "close": 8372.2803,
-      "date": "2026-07-24"
+      "open": 8442.75,
+      "high": 8463.71,
+      "low": 8402.8096,
+      "close": 8406.0596,
+      "date": "2026-07-27"
     },
     "FTSE": {
-      "open": 10638.9004,
-      "high": 10738.7998,
-      "low": 10599.0996,
-      "close": 10736.2002,
-      "date": "2026-07-24"
+      "open": 10736.0996,
+      "high": 10820.9004,
+      "low": 10736.0996,
+      "close": 10781.7998,
+      "date": "2026-07-27"
     },
     "SPX": {
-      "open": 7406.2998,
-      "high": 7460.98,
-      "low": 7396.5298,
-      "close": 7411.98,
-      "date": "2026-07-24"
+      "open": 7464.2002,
+      "high": 7480.5698,
+      "low": 7382.7402,
+      "close": 7413.1802,
+      "date": "2026-07-27"
     },
     "NDX": {
-      "open": 28362.1504,
-      "high": 28471.4805,
-      "low": 28053.0801,
-      "close": 28128.3398,
-      "date": "2026-07-24"
+      "open": 28412.3105,
+      "high": 28460.1992,
+      "low": 27786.5391,
+      "close": 28039.2109,
+      "date": "2026-07-27"
     },
     "DJI": {
-      "open": 51791.3711,
-      "high": 52118.1914,
-      "low": 51682.3594,
-      "close": 51947.25,
-      "date": "2026-07-24"
+      "open": 52173.4219,
+      "high": 52607.7812,
+      "low": 51985.3789,
+      "close": 52210.0781,
+      "date": "2026-07-27"
     },
     "N225": {
-      "open": 65584.25,
-      "high": 65720.8125,
-      "low": 64201.0312,
-      "close": 64611.1484,
-      "date": "2026-07-24"
+      "open": 65164.9805,
+      "high": 65220.6914,
+      "low": 64123.3984,
+      "close": 64931.1914,
+      "date": "2026-07-27"
     },
     "HSI": {
-      "open": 24932.5,
-      "high": 25031.3398,
-      "low": 24812.5,
-      "close": 24963.2305,
-      "date": "2026-07-24"
+      "open": 24993.7695,
+      "high": 25276.9609,
+      "low": 24938.3398,
+      "close": 25207.1797,
+      "date": "2026-07-27"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1376,
-      "high": 1.14,
-      "low": 1.1368,
-      "close": 1.1377,
-      "date": "2026-07-24"
+      "open": 1.1398,
+      "high": 1.1418,
+      "low": 1.137,
+      "close": 1.1395,
+      "date": "2026-07-27"
     },
     "GBPUSD": {
-      "open": 1.3313,
-      "high": 1.3349,
-      "low": 1.3307,
-      "close": 1.3313,
-      "date": "2026-07-24"
+      "open": 1.3353,
+      "high": 1.3364,
+      "low": 1.33,
+      "close": 1.3351,
+      "date": "2026-07-27"
     }
   },
   "vix": {
-    "value": 17.61,
-    "change_24h_pct": -5.22,
-    "date": "2026-07-27"
+    "value": 19.02,
+    "change_24h_pct": 1.87,
+    "date": "2026-07-28"
   },
-  "macro_calendar_today": [],
+  "macro_calendar_today": [
+    {
+      "time_paris": "16:00",
+      "country": "USD",
+      "indicator": "CB Consumer Confidence",
+      "consensus": "92.4",
+      "previous": "91.2",
+      "impact": "Medium"
+    }
+  ],
   "news_bbc": [
     {
-      "title": "Shein swings to $99m loss as Trump tariffs hit sales",
-      "summary": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong.",
-      "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 02:08:36 GMT"
+      "title": "Schools to offer technical subjects to pupils from age 14, Burnham says",
+      "summary": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 07:06:04 GMT"
     },
     {
-      "title": "Would you choose £50,000 over the chance of £1m?",
-      "summary": "The vast majority of people - particularly women - answer a survey saying they'd take the certainty over chance.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 26 Jul 2026 23:11:36 GMT"
+      "title": "The way you look can help you get a job - here's how",
+      "summary": "While you need to answer the questions in an interview, your appearance and mannerisms are also crucial.",
+      "url": "https://www.bbc.co.uk/news/articles/c80neg5rd81o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 06:53:59 GMT"
     },
     {
-      "title": "Chinese chipmaker shares surge 470% in blockbuster stock market debut",
-      "summary": "The company's shares soared by 470% in its market debut, as the AI boom drives chip demand.",
-      "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 07:34:59 GMT"
+      "title": "Should I still travel to France or Spain on holiday?",
+      "summary": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+      "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 07:22:58 GMT"
     },
     {
-      "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
-      "summary": "Neither the US nor Iran have launched attacks in the last two nights, after almost two weeks of tit-for-tat strikes risked derailing talks to permanently end the war.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 08:14:46 GMT"
+      "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+      "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
+      "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 01:53:58 GMT"
     },
     {
-      "title": "Rental searches for pet friendly properties drop after law change",
-      "summary": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
-      "url": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 26 Jul 2026 00:00:49 GMT"
+      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "summary": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
+      "url": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 07:33:12 GMT"
     },
     {
-      "title": "Water returns to Gatwick Airport after major outage",
-      "summary": "Gatwick Airport faced a day of disruptions with toilets and restaurants closed to passengers.",
-      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 26 Jul 2026 21:15:21 GMT"
+      "title": "Is it time to stop using glue and labels on paper?",
+      "summary": "Labels and adhesives can prevent paper from being recycled but there's new tech aimed at changing that.",
+      "url": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Jul 2026 23:00:06 GMT"
     },
     {
-      "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
-      "summary": "Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 26 Jul 2026 00:17:50 GMT"
+      "title": "Some people's chats with Claude AI found to be publicly available online",
+      "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
+      "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 07:10:37 GMT"
     },
     {
-      "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
-      "summary": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
-      "url": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Jul 2026 23:23:53 GMT"
+      "title": "Cracker Barrel chief executive steps down a year after rebrand chaos",
+      "summary": "Cracker Barrel CEO Julie Masino will exit following customer backlash over modern logo redesign.",
+      "url": "https://www.bbc.co.uk/news/articles/cr49z0r54nko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Jul 2026 18:49:54 GMT"
     }
   ],
   "sources_status": {
@@ -138,7 +147,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": false,
+    "ff_macro_calendar_ok": true,
     "bbc_news_ok": true
   }
 }
