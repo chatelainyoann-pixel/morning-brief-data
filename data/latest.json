@@ -1,144 +1,160 @@
 {
-  "generated_at_utc": "2026-07-28T08:07:45.776172+00:00",
-  "generated_at_paris": "2026-07-28T10:07:45.776172+02:00",
-  "date_paris": "2026-07-28",
+  "generated_at_utc": "2026-07-29T07:41:47.975777+00:00",
+  "generated_at_paris": "2026-07-29T09:41:47.975777+02:00",
+  "date_paris": "2026-07-29",
   "indices": {
     "DAX": {
-      "open": 25459.3203,
-      "high": 25560.4004,
-      "low": 25361.0293,
-      "close": 25361.0293,
-      "date": "2026-07-27"
+      "open": 25496.1309,
+      "high": 25553.4707,
+      "low": 25307.1699,
+      "close": 25464.0098,
+      "date": "2026-07-28"
     },
     "CAC": {
-      "open": 8442.75,
-      "high": 8463.71,
-      "low": 8402.8096,
-      "close": 8406.0596,
-      "date": "2026-07-27"
+      "open": 8447.0898,
+      "high": 8472.8096,
+      "low": 8400.3301,
+      "close": 8458.7803,
+      "date": "2026-07-28"
     },
     "FTSE": {
-      "open": 10736.0996,
-      "high": 10820.9004,
-      "low": 10736.0996,
-      "close": 10781.7998,
-      "date": "2026-07-27"
+      "open": 10781.9004,
+      "high": 10884.2998,
+      "low": 10770.2998,
+      "close": 10871.0,
+      "date": "2026-07-28"
     },
     "SPX": {
-      "open": 7464.2002,
-      "high": 7480.5698,
-      "low": 7382.7402,
-      "close": 7413.1802,
-      "date": "2026-07-27"
+      "open": 7395.5498,
+      "high": 7452.0898,
+      "low": 7382.9502,
+      "close": 7428.7798,
+      "date": "2026-07-28"
     },
     "NDX": {
-      "open": 28412.3105,
-      "high": 28460.1992,
-      "low": 27786.5391,
-      "close": 28039.2109,
-      "date": "2026-07-27"
+      "open": 27810.3906,
+      "high": 27926.5293,
+      "low": 27452.9492,
+      "close": 27763.1309,
+      "date": "2026-07-28"
     },
     "DJI": {
-      "open": 52173.4219,
-      "high": 52607.7812,
-      "low": 51985.3789,
-      "close": 52210.0781,
-      "date": "2026-07-27"
+      "open": 52492.8789,
+      "high": 52901.8711,
+      "low": 52443.5195,
+      "close": 52747.3203,
+      "date": "2026-07-28"
     },
     "N225": {
-      "open": 65164.9805,
-      "high": 65220.6914,
-      "low": 64123.3984,
-      "close": 64931.1914,
-      "date": "2026-07-27"
+      "open": 64539.9219,
+      "high": 64573.1797,
+      "low": 61923.6016,
+      "close": 62364.9219,
+      "date": "2026-07-28"
     },
     "HSI": {
-      "open": 24993.7695,
-      "high": 25276.9609,
-      "low": 24938.3398,
-      "close": 25207.1797,
-      "date": "2026-07-27"
+      "open": 25271.9492,
+      "high": 25440.6797,
+      "low": 25069.8496,
+      "close": 25310.8496,
+      "date": "2026-07-28"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1398,
-      "high": 1.1418,
-      "low": 1.137,
-      "close": 1.1395,
-      "date": "2026-07-27"
+      "open": 1.1369,
+      "high": 1.1402,
+      "low": 1.1354,
+      "close": 1.1369,
+      "date": "2026-07-28"
     },
     "GBPUSD": {
-      "open": 1.3353,
-      "high": 1.3364,
-      "low": 1.33,
-      "close": 1.3351,
-      "date": "2026-07-27"
+      "open": 1.3289,
+      "high": 1.3311,
+      "low": 1.3273,
+      "close": 1.329,
+      "date": "2026-07-28"
     }
   },
   "vix": {
-    "value": 19.04,
-    "change_24h_pct": 1.98,
-    "date": "2026-07-28"
+    "value": 18.28,
+    "change_24h_pct": 0.38,
+    "date": "2026-07-29"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "16:00",
+      "time_paris": "20:00",
       "country": "USD",
-      "indicator": "CB Consumer Confidence",
-      "consensus": "92.4",
-      "previous": "91.2",
-      "impact": "Medium"
+      "indicator": "Federal Funds Rate",
+      "consensus": "3.75%",
+      "previous": "3.75%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "20:00",
+      "country": "USD",
+      "indicator": "FOMC Statement",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    },
+    {
+      "time_paris": "20:30",
+      "country": "USD",
+      "indicator": "FOMC Press Conference",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
     }
   ],
   "news_bbc": [
     {
-      "title": "Schools to offer technical subjects to pupils from age 14, Burnham says",
-      "summary": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 07:06:04 GMT"
+      "title": "Ticket prices set to rise as Heathrow able to recover runway project money",
+      "summary": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 07:29:31 GMT"
     },
     {
-      "title": "The way you look can help you get a job - here's how",
-      "summary": "While you need to answer the questions in an interview, your appearance and mannerisms are also crucial.",
-      "url": "https://www.bbc.co.uk/news/articles/c80neg5rd81o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 06:53:59 GMT"
+      "title": "'Don't wait until you want revenge' - why prenups are on the rise",
+      "summary": "Around one in three young couples are now signing prenups to set out who gets what in the event of divorce.",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 23:00:07 GMT"
     },
     {
-      "title": "Should I still travel to France or Spain on holiday?",
-      "summary": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
-      "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 07:22:58 GMT"
+      "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+      "summary": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
+      "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 23:00:15 GMT"
     },
     {
-      "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-      "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
-      "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 01:53:58 GMT"
+      "title": "Burnham has no scope to increase borrowing, think tank warns",
+      "summary": "The Prime Minister has announced a series of cost-of-living measure since taking office but is facing questions about how he will fund them.",
+      "url": "https://www.bbc.co.uk/news/articles/c62ev62381mo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 23:00:12 GMT"
     },
     {
-      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "summary": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
-      "url": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 07:33:12 GMT"
+      "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
+      "summary": "Details have been released of an emergency call with hundreds of cyber-security experts after the ChatGPT hack of a tech company.",
+      "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 23:00:10 GMT"
     },
     {
-      "title": "Is it time to stop using glue and labels on paper?",
-      "summary": "Labels and adhesives can prevent paper from being recycled but there's new tech aimed at changing that.",
-      "url": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 23:00:06 GMT"
+      "title": "The evidence that shows today's 20-somethings really do have it worse",
+      "summary": "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 23:52:23 GMT"
     },
     {
-      "title": "Some people's chats with Claude AI found to be publicly available online",
-      "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
-      "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 07:10:37 GMT"
+      "title": "Trump administration bans new Chinese humanoid robots",
+      "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 02:30:50 GMT"
     },
     {
-      "title": "Cracker Barrel chief executive steps down a year after rebrand chaos",
-      "summary": "Cracker Barrel CEO Julie Masino will exit following customer backlash over modern logo redesign.",
-      "url": "https://www.bbc.co.uk/news/articles/cr49z0r54nko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 18:49:54 GMT"
+      "title": "Unauthorised airport car park grows  despite stop notice",
+      "summary": "Customers says they returned from their holidays to find their cars damaged and dirty.",
+      "url": "https://www.bbc.co.uk/news/articles/cn8ngxw5195o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 05:12:15 GMT"
     }
   ],
   "sources_status": {
