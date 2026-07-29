@@ -1,63 +1,63 @@
 {
-  "generated_at_utc": "2026-07-29T07:41:47.975777+00:00",
-  "generated_at_paris": "2026-07-29T09:41:47.975777+02:00",
+  "generated_at_utc": "2026-07-29T08:12:19.394269+00:00",
+  "generated_at_paris": "2026-07-29T10:12:19.394269+02:00",
   "date_paris": "2026-07-29",
   "indices": {
     "DAX": {
-      "open": 25496.1309,
-      "high": 25553.4707,
-      "low": 25307.1699,
-      "close": 25464.0098,
-      "date": "2026-07-28"
+      "open": 25459.3203,
+      "high": 25560.4004,
+      "low": 25361.0293,
+      "close": 25361.0293,
+      "date": "2026-07-27"
     },
     "CAC": {
-      "open": 8447.0898,
-      "high": 8472.8096,
-      "low": 8400.3301,
-      "close": 8458.7803,
-      "date": "2026-07-28"
+      "open": 8442.75,
+      "high": 8463.71,
+      "low": 8402.8096,
+      "close": 8406.0596,
+      "date": "2026-07-27"
     },
     "FTSE": {
-      "open": 10781.9004,
-      "high": 10884.2998,
-      "low": 10770.2998,
-      "close": 10871.0,
-      "date": "2026-07-28"
+      "open": 10736.0996,
+      "high": 10820.9004,
+      "low": 10736.0996,
+      "close": 10781.7998,
+      "date": "2026-07-27"
     },
     "SPX": {
-      "open": 7395.5498,
-      "high": 7452.0898,
-      "low": 7382.9502,
-      "close": 7428.7798,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
       "date": "2026-07-28"
     },
     "NDX": {
-      "open": 27810.3906,
-      "high": 27926.5293,
-      "low": 27452.9492,
-      "close": 27763.1309,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
       "date": "2026-07-28"
     },
     "DJI": {
-      "open": 52492.8789,
-      "high": 52901.8711,
-      "low": 52443.5195,
-      "close": 52747.3203,
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
       "date": "2026-07-28"
     },
     "N225": {
-      "open": 64539.9219,
-      "high": 64573.1797,
-      "low": 61923.6016,
-      "close": 62364.9219,
-      "date": "2026-07-28"
+      "open": 65164.9805,
+      "high": 65220.6914,
+      "low": 64123.3984,
+      "close": 64931.1914,
+      "date": "2026-07-27"
     },
     "HSI": {
-      "open": 25271.9492,
-      "high": 25440.6797,
-      "low": 25069.8496,
-      "close": 25310.8496,
-      "date": "2026-07-28"
+      "open": 24993.7695,
+      "high": 25276.9609,
+      "low": 24938.3398,
+      "close": 25207.1797,
+      "date": "2026-07-27"
     }
   },
   "forex": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 18.28,
-    "change_24h_pct": 0.38,
+    "value": 18.22,
+    "change_24h_pct": -2.41,
     "date": "2026-07-29"
   },
   "macro_calendar_today": [
@@ -109,10 +109,10 @@
   ],
   "news_bbc": [
     {
-      "title": "Ticket prices set to rise as Heathrow able to recover runway project money",
+      "title": "Ticket prices set to rise by 15p as Heathrow able to recover runway project money",
       "summary": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers.",
       "url": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 07:29:31 GMT"
+      "published": "Wed, 29 Jul 2026 07:45:41 GMT"
     },
     {
       "title": "'Don't wait until you want revenge' - why prenups are on the rise",
