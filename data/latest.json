@@ -1,160 +1,224 @@
 {
-  "generated_at_utc": "2026-07-29T08:12:19.394269+00:00",
-  "generated_at_paris": "2026-07-29T10:12:19.394269+02:00",
-  "date_paris": "2026-07-29",
+  "generated_at_utc": "2026-07-30T07:33:28.456870+00:00",
+  "generated_at_paris": "2026-07-30T09:33:28.456870+02:00",
+  "date_paris": "2026-07-30",
   "indices": {
     "DAX": {
-      "open": 25459.3203,
-      "high": 25560.4004,
-      "low": 25361.0293,
-      "close": 25361.0293,
-      "date": "2026-07-27"
+      "open": 25551.9707,
+      "high": 25571.4492,
+      "low": 25336.3906,
+      "close": 25460.4805,
+      "date": "2026-07-29"
     },
     "CAC": {
-      "open": 8442.75,
-      "high": 8463.71,
-      "low": 8402.8096,
-      "close": 8406.0596,
-      "date": "2026-07-27"
+      "open": 8492.9697,
+      "high": 8502.4805,
+      "low": 8379.7803,
+      "close": 8408.2695,
+      "date": "2026-07-29"
     },
     "FTSE": {
-      "open": 10736.0996,
-      "high": 10820.9004,
-      "low": 10736.0996,
-      "close": 10781.7998,
-      "date": "2026-07-27"
+      "open": 10871.2002,
+      "high": 10951.0996,
+      "low": 10864.0996,
+      "close": 10908.4004,
+      "date": "2026-07-29"
     },
     "SPX": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "date": "2026-07-28"
+      "open": 7418.1602,
+      "high": 7450.8398,
+      "low": 7313.9199,
+      "close": 7316.1499,
+      "date": "2026-07-29"
     },
     "NDX": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "date": "2026-07-28"
+      "open": 27780.4609,
+      "high": 27954.9102,
+      "low": 27176.0293,
+      "close": 27192.3105,
+      "date": "2026-07-29"
     },
     "DJI": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "date": "2026-07-28"
+      "open": 52674.2109,
+      "high": 52674.2109,
+      "low": 51551.1797,
+      "close": 51594.1406,
+      "date": "2026-07-29"
     },
     "N225": {
-      "open": 65164.9805,
-      "high": 65220.6914,
-      "low": 64123.3984,
-      "close": 64931.1914,
-      "date": "2026-07-27"
+      "open": 62734.6797,
+      "high": 63138.0391,
+      "low": 60448.8984,
+      "close": 61434.1914,
+      "date": "2026-07-29"
     },
     "HSI": {
-      "open": 24993.7695,
-      "high": 25276.9609,
-      "low": 24938.3398,
-      "close": 25207.1797,
-      "date": "2026-07-27"
+      "open": 25487.1602,
+      "high": 25808.9297,
+      "low": 25487.1602,
+      "close": 25807.9199,
+      "date": "2026-07-29"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1369,
-      "high": 1.1402,
-      "low": 1.1354,
-      "close": 1.1369,
-      "date": "2026-07-28"
+      "open": 1.1384,
+      "high": 1.1405,
+      "low": 1.1376,
+      "close": 1.1387,
+      "date": "2026-07-29"
     },
     "GBPUSD": {
-      "open": 1.3289,
-      "high": 1.3311,
-      "low": 1.3273,
-      "close": 1.329,
-      "date": "2026-07-28"
+      "open": 1.3284,
+      "high": 1.3309,
+      "low": 1.328,
+      "close": 1.3287,
+      "date": "2026-07-29"
     }
   },
   "vix": {
-    "value": 18.22,
-    "change_24h_pct": -2.41,
-    "date": "2026-07-29"
+    "value": 19.71,
+    "change_24h_pct": -4.6,
+    "date": "2026-07-30"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "20:00",
-      "country": "USD",
-      "indicator": "Federal Funds Rate",
+      "time_paris": "08:29",
+      "country": "EUR",
+      "indicator": "German Prelim CPI m/m",
+      "consensus": "0.7%",
+      "previous": "-0.3%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "10:00",
+      "country": "EUR",
+      "indicator": "German Prelim GDP q/q",
+      "consensus": "0.1%",
+      "previous": "0.3%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "13:00",
+      "country": "GBP",
+      "indicator": "BOE Monetary Policy Report",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    },
+    {
+      "time_paris": "13:00",
+      "country": "GBP",
+      "indicator": "Monetary Policy Summary",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    },
+    {
+      "time_paris": "13:00",
+      "country": "GBP",
+      "indicator": "MPC Official Bank Rate Votes",
+      "consensus": "2-0-7",
+      "previous": "2-0-7",
+      "impact": "High"
+    },
+    {
+      "time_paris": "13:00",
+      "country": "GBP",
+      "indicator": "Official Bank Rate",
       "consensus": "3.75%",
       "previous": "3.75%",
       "impact": "High"
     },
     {
-      "time_paris": "20:00",
-      "country": "USD",
-      "indicator": "FOMC Statement",
+      "time_paris": "13:30",
+      "country": "GBP",
+      "indicator": "BOE Gov Bailey Speaks",
       "consensus": "",
       "previous": "",
       "impact": "High"
     },
     {
-      "time_paris": "20:30",
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "FOMC Press Conference",
-      "consensus": "",
-      "previous": "",
+      "indicator": "Advance GDP q/q",
+      "consensus": "2.1%",
+      "previous": "2.0%",
       "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Core PCE Price Index m/m",
+      "consensus": "0.2%",
+      "previous": "0.3%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Advance GDP Price Index q/q",
+      "consensus": "4.1%",
+      "previous": "3.6%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Unemployment Claims",
+      "consensus": "201K",
+      "previous": "187K",
+      "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Ticket prices set to rise by 15p as Heathrow able to recover runway project money",
-      "summary": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 07:45:41 GMT"
+      "title": "Interest rates expected to be held again by Bank of England",
+      "summary": "It would be the fifth hold in a row, with the Bank rate standing at 3.75% - the lowest since February 2023.",
+      "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 23:01:56 GMT"
     },
     {
-      "title": "'Don't wait until you want revenge' - why prenups are on the rise",
-      "summary": "Around one in three young couples are now signing prenups to set out who gets what in the event of divorce.",
-      "url": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 23:00:07 GMT"
+      "title": "Shell profits double as oil prices rise due to Iran war",
+      "summary": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
+      "url": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Jul 2026 07:11:44 GMT"
     },
     {
-      "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
-      "summary": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
-      "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 23:00:15 GMT"
+      "title": "What happens here has a big impact on your money",
+      "summary": "BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England.",
+      "url": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 16:00:24 GMT"
     },
     {
-      "title": "Burnham has no scope to increase borrowing, think tank warns",
-      "summary": "The Prime Minister has announced a series of cost-of-living measure since taking office but is facing questions about how he will fund them.",
-      "url": "https://www.bbc.co.uk/news/articles/c62ev62381mo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 23:00:12 GMT"
+      "title": "Meta shares fall as frustration grows over AI spending plans",
+      "summary": "CEO Mark Zuckerberg said the firm intends to sell its AI tools to other companies for the first time.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 22:44:18 GMT"
     },
     {
-      "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
-      "summary": "Details have been released of an emergency call with hundreds of cyber-security experts after the ChatGPT hack of a tech company.",
-      "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 23:00:10 GMT"
+      "title": "Beauty Pie founder on how she dropped out of university and built five beauty businesses",
+      "summary": "Marcia Kilgore, founder of Beauty Pie, shares her top tips on how to create a successful business.",
+      "url": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 23:02:18 GMT"
     },
     {
-      "title": "The evidence that shows today's 20-somethings really do have it worse",
-      "summary": "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 23:52:23 GMT"
+      "title": "The Chinese robot army transforming the UK's retail industry",
+      "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+      "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 22:08:29 GMT"
     },
     {
-      "title": "Trump administration bans new Chinese humanoid robots",
-      "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 02:30:50 GMT"
+      "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
+      "summary": "Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending.",
+      "url": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Jul 2026 06:04:21 GMT"
     },
     {
-      "title": "Unauthorised airport car park grows  despite stop notice",
-      "summary": "Customers says they returned from their holidays to find their cars damaged and dirty.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8ngxw5195o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 05:12:15 GMT"
+      "title": "'No magic wand' to tackle high prices, Fed boss says as US interest rates held",
+      "summary": "The Federal Reserve's decision, which was broadly expected, means rates remain between the 3.5% and 3.75%.",
+      "url": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 20:32:50 GMT"
     }
   ],
   "sources_status": {
