@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-30T07:33:28.456870+00:00",
-  "generated_at_paris": "2026-07-30T09:33:28.456870+02:00",
+  "generated_at_utc": "2026-07-30T08:00:22.538756+00:00",
+  "generated_at_paris": "2026-07-30T10:00:22.538756+02:00",
   "date_paris": "2026-07-30",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 19.71,
-    "change_24h_pct": -4.6,
+    "value": 19.76,
+    "change_24h_pct": -4.36,
     "date": "2026-07-30"
   },
   "macro_calendar_today": [
@@ -173,16 +173,16 @@
   ],
   "news_bbc": [
     {
-      "title": "Interest rates expected to be held again by Bank of England",
-      "summary": "It would be the fifth hold in a row, with the Bank rate standing at 3.75% - the lowest since February 2023.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 23:01:56 GMT"
-    },
-    {
       "title": "Shell profits double as oil prices rise due to Iran war",
       "summary": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
       "url": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 30 Jul 2026 07:11:44 GMT"
+    },
+    {
+      "title": "Interest rates expected to be held again by Bank of England",
+      "summary": "It would be the fifth hold in a row, with the Bank rate standing at 3.75% - the lowest since February 2023.",
+      "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 23:01:56 GMT"
     },
     {
       "title": "What happens here has a big impact on your money",
