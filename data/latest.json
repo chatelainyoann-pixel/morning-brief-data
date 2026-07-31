@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-31T07:49:14.511175+00:00",
-  "generated_at_paris": "2026-07-31T09:49:14.511175+02:00",
+  "generated_at_utc": "2026-07-31T08:24:24.669588+00:00",
+  "generated_at_paris": "2026-07-31T10:24:24.669588+02:00",
   "date_paris": "2026-07-31",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 16.88,
-    "change_24h_pct": -1.23,
+    "value": 16.86,
+    "change_24h_pct": -1.35,
     "date": "2026-07-31"
   },
   "macro_calendar_today": [
@@ -128,7 +128,13 @@
       "title": "Sainsbury's agrees to sell Argos for £120m",
       "summary": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
       "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 07:38:59 GMT"
+      "published": "Fri, 31 Jul 2026 08:08:23 GMT"
+    },
+    {
+      "title": "BP puts North Sea business up for sale",
+      "summary": "The decision follows a review of BP's operations and is set to end 60 years of production in the region by the oil giant.",
+      "url": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 31 Jul 2026 07:48:47 GMT"
     },
     {
       "title": "Thames Water boss says leakage targets 'not realistic'",
@@ -149,12 +155,6 @@
       "published": "Fri, 31 Jul 2026 06:56:02 GMT"
     },
     {
-      "title": "Anthropic's Claude AI escapes tests to hack three organisations",
-      "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 04:31:30 GMT"
-    },
-    {
       "title": "India wants to join the strawberry superpowers",
       "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
       "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
@@ -167,10 +167,10 @@
       "published": "Fri, 31 Jul 2026 01:31:50 GMT"
     },
     {
-      "title": "Apple warns of future 'supply constraints' for Mac, iPhone, iPad",
-      "summary": "Shares of Apple plunged on a warning of slower sales in the coming months.",
-      "url": "https://www.bbc.co.uk/news/articles/c204nw64xwno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 23:25:42 GMT"
+      "title": "Anthropic's Claude AI escapes tests to hack three organisations",
+      "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 31 Jul 2026 04:31:30 GMT"
     }
   ],
   "sources_status": {
