@@ -1,176 +1,152 @@
 {
-  "generated_at_utc": "2026-07-31T08:24:24.669588+00:00",
-  "generated_at_paris": "2026-07-31T10:24:24.669588+02:00",
-  "date_paris": "2026-07-31",
+  "generated_at_utc": "2026-08-03T08:27:36.634781+00:00",
+  "generated_at_paris": "2026-08-03T10:27:36.634781+02:00",
+  "date_paris": "2026-08-03",
   "indices": {
     "DAX": {
-      "open": 25487.4492,
-      "high": 25651.1602,
-      "low": 25303.1094,
-      "close": 25612.0293,
-      "date": "2026-07-30"
+      "open": 25709.3691,
+      "high": 25891.5098,
+      "low": 25549.5293,
+      "close": 25629.2402,
+      "date": "2026-07-31"
     },
     "CAC": {
-      "open": 8410.3301,
-      "high": 8515.3604,
-      "low": 8409.8896,
-      "close": 8485.6396,
-      "date": "2026-07-30"
+      "open": 8489.4404,
+      "high": 8576.5498,
+      "low": 8483.21,
+      "close": 8509.6396,
+      "date": "2026-07-31"
     },
     "FTSE": {
-      "open": 10907.4004,
-      "high": 10979.5996,
-      "low": 10865.4004,
-      "close": 10897.2998,
-      "date": "2026-07-30"
+      "open": 10897.0996,
+      "high": 10989.5,
+      "low": 10829.2998,
+      "close": 10868.0996,
+      "date": "2026-07-31"
     },
     "SPX": {
-      "open": 7390.4502,
-      "high": 7448.75,
-      "low": 7370.98,
-      "close": 7437.6299,
-      "date": "2026-07-30"
+      "open": 7462.1299,
+      "high": 7512.04,
+      "low": 7399.8301,
+      "close": 7489.7202,
+      "date": "2026-07-31"
     },
     "NDX": {
-      "open": 27755.4609,
-      "high": 28168.4199,
-      "low": 27686.3691,
-      "close": 28106.3496,
-      "date": "2026-07-30"
+      "open": 28446.9902,
+      "high": 28606.7793,
+      "low": 27954.2402,
+      "close": 28274.1992,
+      "date": "2026-07-31"
     },
     "DJI": {
-      "open": 52114.2695,
-      "high": 52266.4492,
-      "low": 51655.5195,
-      "close": 52208.0586,
-      "date": "2026-07-30"
+      "open": 52235.0312,
+      "high": 52623.1406,
+      "low": 51996.3203,
+      "close": 52485.0312,
+      "date": "2026-07-31"
     },
     "N225": {
-      "open": 61258.3398,
-      "high": 62924.8398,
-      "low": 61049.6992,
-      "close": 61867.4297,
-      "date": "2026-07-30"
+      "open": 61957.1016,
+      "high": 65364.7305,
+      "low": 61948.2305,
+      "close": 64362.0195,
+      "date": "2026-07-31"
     },
     "HSI": {
-      "open": 25875.8301,
-      "high": 25971.6309,
-      "low": 25657.3301,
-      "close": 25858.8809,
-      "date": "2026-07-30"
+      "open": 25837.7207,
+      "high": 25917.1992,
+      "low": 25622.9199,
+      "close": 25884.4297,
+      "date": "2026-07-31"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1468,
-      "high": 1.1535,
-      "low": 1.1435,
-      "close": 1.1467,
-      "date": "2026-07-30"
+      "open": 1.1526,
+      "high": 1.1526,
+      "low": 1.1459,
+      "close": 1.1524,
+      "date": "2026-07-31"
     },
     "GBPUSD": {
-      "open": 1.3369,
-      "high": 1.3463,
-      "low": 1.3333,
-      "close": 1.3367,
-      "date": "2026-07-30"
+      "open": 1.3461,
+      "high": 1.3472,
+      "low": 1.3404,
+      "close": 1.3461,
+      "date": "2026-07-31"
     }
   },
   "vix": {
-    "value": 16.86,
-    "change_24h_pct": -1.35,
-    "date": "2026-07-31"
+    "value": 16.12,
+    "change_24h_pct": 0.81,
+    "date": "2026-08-03"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "11:00",
-      "country": "EUR",
-      "indicator": "Core CPI Flash Estimate y/y",
-      "consensus": "2.4%",
-      "previous": "2.4%",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "11:00",
-      "country": "EUR",
-      "indicator": "CPI Flash Estimate y/y",
-      "consensus": "2.9%",
-      "previous": "2.8%",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "14:30",
+      "time_paris": "16:00",
       "country": "USD",
-      "indicator": "Employment Cost Index q/q",
-      "consensus": "0.8%",
-      "previous": "0.9%",
-      "impact": "Medium"
+      "indicator": "ISM Manufacturing PMI",
+      "consensus": "54.0",
+      "previous": "53.3",
+      "impact": "High"
     },
     {
       "time_paris": "16:00",
       "country": "USD",
-      "indicator": "Revised UoM Consumer Sentiment",
-      "consensus": "53.9",
-      "previous": "54.4",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Revised UoM Inflation Expectations",
-      "consensus": "",
-      "previous": "4.2%",
+      "indicator": "ISM Manufacturing Prices",
+      "consensus": "70.0",
+      "previous": "73.0",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Sainsbury's agrees to sell Argos for £120m",
-      "summary": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 08:08:23 GMT"
+      "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
+      "summary": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 01:04:23 GMT"
     },
     {
-      "title": "BP puts North Sea business up for sale",
-      "summary": "The decision follows a review of BP's operations and is set to end 60 years of production in the region by the oil giant.",
-      "url": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 07:48:47 GMT"
+      "title": "US and Japan take action to prop up yen in rare joint move",
+      "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 07:30:52 GMT"
     },
     {
-      "title": "Thames Water boss says leakage targets 'not realistic'",
-      "summary": "Chris Weston said Thames wanted \"to do better\" but some of its targets were not achievable.",
-      "url": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 23:06:37 GMT"
+      "title": "The change that may help you get a mortgage as a first-time buyer",
+      "summary": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 23:16:32 GMT"
     },
     {
-      "title": "'I pay £580 a month to live in a disused care home': Property guardians show us around",
-      "summary": "Could you live communally in a disused building in exchange for a heavily discounted rent? Property guardians show us around.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 23:05:41 GMT"
+      "title": "New Spider-Man film sees second-biggest ever global opening weekend",
+      "summary": "The strong box office performance gives a boost to Disney ahead of the much-anticipated Avengers: Doomsday.",
+      "url": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 04:10:16 GMT"
     },
     {
-      "title": "South Korean shares soar after chip stock rout",
-      "summary": "It comes after a three-day rout that wiped hundreds of billions of dollars off the value of the country's stock market.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 06:56:02 GMT"
+      "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
+      "summary": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
+      "url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 12:41:17 GMT"
     },
     {
-      "title": "India wants to join the strawberry superpowers",
-      "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
-      "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 22:04:09 GMT"
+      "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+      "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
+      "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 31 Jul 2026 21:57:59 GMT"
     },
     {
-      "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
-      "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
-      "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 01:31:50 GMT"
+      "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
+      "summary": "Edward Killiwick was on the flight that issued a distress call, before it landed safely at Heathrow earlier this month.",
+      "url": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 31 Jul 2026 12:19:20 GMT"
     },
     {
-      "title": "Anthropic's Claude AI escapes tests to hack three organisations",
-      "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 04:31:30 GMT"
+      "title": "AI firms must answer for rogue bots, says boss of hacked company",
+      "summary": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 31 Jul 2026 18:10:28 GMT"
     }
   ],
   "sources_status": {
