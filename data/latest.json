@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-03T08:52:45.156618+00:00",
-  "generated_at_paris": "2026-08-03T10:52:45.156618+02:00",
-  "date_paris": "2026-08-03",
+  "generated_at_utc": "2026-08-04T07:38:17.141880+00:00",
+  "generated_at_paris": "2026-08-04T09:38:17.141880+02:00",
+  "date_paris": "2026-08-04",
   "indices": {
     "DAX": {
       "open": 25709.3691,
@@ -25,25 +25,25 @@
       "date": "2026-07-31"
     },
     "SPX": {
-      "open": 7462.1299,
-      "high": 7512.04,
-      "low": 7399.8301,
-      "close": 7489.7202,
-      "date": "2026-07-31"
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
+      "date": "2026-08-03"
     },
     "NDX": {
-      "open": 28446.9902,
-      "high": 28606.7793,
-      "low": 27954.2402,
-      "close": 28274.1992,
-      "date": "2026-07-31"
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
+      "date": "2026-08-03"
     },
     "DJI": {
-      "open": 52235.0312,
-      "high": 52623.1406,
-      "low": 51996.3203,
-      "close": 52485.0312,
-      "date": "2026-07-31"
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
+      "date": "2026-08-03"
     },
     "N225": {
       "open": 61957.1016,
@@ -62,91 +62,83 @@
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1526,
-      "high": 1.1526,
-      "low": 1.1459,
-      "close": 1.1524,
-      "date": "2026-07-31"
+      "open": 1.154,
+      "high": 1.1555,
+      "low": 1.1503,
+      "close": 1.1544,
+      "date": "2026-08-03"
     },
     "GBPUSD": {
-      "open": 1.3461,
-      "high": 1.3472,
-      "low": 1.3404,
-      "close": 1.3461,
-      "date": "2026-07-31"
+      "open": 1.3489,
+      "high": 1.3501,
+      "low": 1.3425,
+      "close": 1.3492,
+      "date": "2026-08-03"
     }
   },
   "vix": {
-    "value": 16.11,
-    "change_24h_pct": 0.75,
-    "date": "2026-08-03"
+    "value": 15.73,
+    "change_24h_pct": -1.63,
+    "date": "2026-08-04"
   },
   "macro_calendar_today": [
     {
       "time_paris": "16:00",
       "country": "USD",
-      "indicator": "ISM Manufacturing PMI",
-      "consensus": "54.0",
-      "previous": "53.3",
-      "impact": "High"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "ISM Manufacturing Prices",
-      "consensus": "70.0",
-      "previous": "73.0",
+      "indicator": "JOLTS Job Openings",
+      "consensus": "7.44M",
+      "previous": "7.59M",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
+      "title": "Half-price rail travel extended to 18-year-olds",
+      "summary": "They'll be able to buy the 16-17 Saver railcard up until the day before they turn 18.",
+      "url": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 23:34:13 GMT"
+    },
+    {
+      "title": "US states sue to block Trump tariffs impacting dozens of countries",
+      "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 07:11:35 GMT"
+    },
+    {
+      "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
+      "summary": "The service reportedly costs up to $100,000 (£74,170) per month and offers access to posts from influential accounts milliseconds before they appear online.",
+      "url": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 00:17:48 GMT"
+    },
+    {
+      "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+      "summary": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 15:57:27 GMT"
+    },
+    {
+      "title": "Tokenomics: Why making AI pay is tricky",
+      "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 23:21:10 GMT"
+    },
+    {
+      "title": "Heatwaves are changing summer weddings - here's how to plan for one",
+      "summary": "The wedding industry is facing last-minute costs to cope with the heat and October bookings are up.",
+      "url": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 23:20:15 GMT"
+    },
+    {
       "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
       "summary": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
       "url": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 01:04:23 GMT"
+      "published": "Mon, 03 Aug 2026 11:49:41 GMT"
     },
     {
-      "title": "US and Japan take action to prop up yen in rare joint move",
-      "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
-      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 07:30:52 GMT"
-    },
-    {
-      "title": "The change that may help you get a mortgage as a first-time buyer",
+      "title": "It may be easier to get your first mortgage than you think - here's why",
       "summary": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
       "url": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 02 Aug 2026 23:16:32 GMT"
-    },
-    {
-      "title": "New Spider-Man film sees second-biggest ever global opening weekend",
-      "summary": "The strong box office performance gives a boost to Disney ahead of the much-anticipated Avengers: Doomsday.",
-      "url": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 04:10:16 GMT"
-    },
-    {
-      "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
-      "summary": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
-      "url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 12:41:17 GMT"
-    },
-    {
-      "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
-      "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
-      "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 21:57:59 GMT"
-    },
-    {
-      "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
-      "summary": "Edward Killiwick was on the flight that issued a distress call, before it landed safely at Heathrow earlier this month.",
-      "url": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 12:19:20 GMT"
-    },
-    {
-      "title": "AI firms must answer for rogue bots, says boss of hacked company",
-      "summary": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".",
-      "url": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 18:10:28 GMT"
+      "published": "Mon, 03 Aug 2026 09:55:36 GMT"
     }
   ],
   "sources_status": {
