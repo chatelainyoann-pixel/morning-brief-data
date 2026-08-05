@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-05T07:37:01.393952+00:00",
-  "generated_at_paris": "2026-08-05T09:37:01.393952+02:00",
+  "generated_at_utc": "2026-08-05T08:09:45.780176+00:00",
+  "generated_at_paris": "2026-08-05T10:09:45.780176+02:00",
   "date_paris": "2026-08-05",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 16.13,
-    "change_24h_pct": -2.24,
+    "value": 15.94,
+    "change_24h_pct": -3.39,
     "date": "2026-08-05"
   },
   "macro_calendar_today": [
@@ -127,7 +127,7 @@
       "published": "Tue, 04 Aug 2026 22:10:00 GMT"
     },
     {
-      "title": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
+      "title": "Fashion brand Jaded has ad banned for 'glamorising smoking'",
       "summary": "The advertising watchdog said Jaded London's marketing email made smoking seem appealing.",
       "url": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 04 Aug 2026 23:20:12 GMT"
@@ -139,7 +139,7 @@
       "published": "Wed, 05 Aug 2026 03:44:30 GMT"
     },
     {
-      "title": "How tech is helping firefighters in the battle against wildfires",
+      "title": "How tech is helping in the battle against wildfires",
       "summary": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
       "url": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 04 Aug 2026 23:21:47 GMT"
