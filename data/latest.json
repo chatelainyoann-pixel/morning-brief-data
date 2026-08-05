@@ -1,144 +1,160 @@
 {
-  "generated_at_utc": "2026-08-04T08:11:24.589939+00:00",
-  "generated_at_paris": "2026-08-04T10:11:24.589939+02:00",
-  "date_paris": "2026-08-04",
+  "generated_at_utc": "2026-08-05T07:37:01.393952+00:00",
+  "generated_at_paris": "2026-08-05T09:37:01.393952+02:00",
+  "date_paris": "2026-08-05",
   "indices": {
     "DAX": {
-      "open": 25709.3691,
-      "high": 25891.5098,
-      "low": 25549.5293,
-      "close": 25629.2402,
-      "date": "2026-07-31"
+      "open": 26189.6191,
+      "high": 26266.5,
+      "low": 26082.4297,
+      "close": 26202.3496,
+      "date": "2026-08-04"
     },
     "CAC": {
-      "open": 8489.4404,
-      "high": 8576.5498,
-      "low": 8483.21,
-      "close": 8509.6396,
-      "date": "2026-07-31"
+      "open": 8642.3398,
+      "high": 8669.6904,
+      "low": 8601.9199,
+      "close": 8666.6299,
+      "date": "2026-08-04"
     },
     "FTSE": {
-      "open": 10897.0996,
-      "high": 10989.5,
-      "low": 10829.2998,
-      "close": 10868.0996,
-      "date": "2026-07-31"
+      "open": 10857.5996,
+      "high": 10932.5,
+      "low": 10855.2002,
+      "close": 10879.4004,
+      "date": "2026-08-04"
     },
     "SPX": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "date": "2026-08-03"
+      "open": 7630.6201,
+      "high": 7758.21,
+      "low": 7629.1001,
+      "close": 7736.52,
+      "date": "2026-08-04"
     },
     "NDX": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "date": "2026-08-03"
+      "open": 29109.2598,
+      "high": 29831.4004,
+      "low": 29109.2598,
+      "close": 29733.1602,
+      "date": "2026-08-04"
     },
     "DJI": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "date": "2026-08-03"
+      "open": 53641.2109,
+      "high": 54272.6016,
+      "low": 53641.2109,
+      "close": 54085.8789,
+      "date": "2026-08-04"
     },
     "N225": {
-      "open": 61957.1016,
-      "high": 65364.7305,
-      "low": 61948.2305,
-      "close": 64362.0195,
-      "date": "2026-07-31"
+      "open": 63995.2812,
+      "high": 64240.5,
+      "low": 62864.4297,
+      "close": 63957.5312,
+      "date": "2026-08-04"
     },
     "HSI": {
-      "open": 25837.7207,
-      "high": 25917.1992,
-      "low": 25622.9199,
-      "close": 25884.4297,
-      "date": "2026-07-31"
+      "open": 25852.9199,
+      "high": 25852.9199,
+      "low": 25852.9199,
+      "close": 25852.9199,
+      "date": "2026-08-04"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.154,
-      "high": 1.1555,
-      "low": 1.1503,
-      "close": 1.1544,
-      "date": "2026-08-03"
+      "open": 1.1508,
+      "high": 1.1531,
+      "low": 1.1504,
+      "close": 1.1507,
+      "date": "2026-08-04"
     },
     "GBPUSD": {
-      "open": 1.3489,
-      "high": 1.3501,
-      "low": 1.3425,
-      "close": 1.3492,
-      "date": "2026-08-03"
+      "open": 1.3428,
+      "high": 1.3457,
+      "low": 1.342,
+      "close": 1.3427,
+      "date": "2026-08-04"
     }
   },
   "vix": {
-    "value": 15.7,
-    "change_24h_pct": -1.81,
-    "date": "2026-08-04"
+    "value": 16.13,
+    "change_24h_pct": -2.24,
+    "date": "2026-08-05"
   },
   "macro_calendar_today": [
     {
+      "time_paris": "14:15",
+      "country": "USD",
+      "indicator": "ADP Non-Farm Employment Change",
+      "consensus": "68K",
+      "previous": "98K",
+      "impact": "Medium"
+    },
+    {
       "time_paris": "16:00",
       "country": "USD",
-      "indicator": "JOLTS Job Openings",
-      "consensus": "7.44M",
-      "previous": "7.59M",
+      "indicator": "ISM Services PMI",
+      "consensus": "54.5",
+      "previous": "54.0",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "22:30",
+      "country": "USD",
+      "indicator": "President Trump Speaks",
+      "consensus": "",
+      "previous": "",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "US states sue to block Trump tariffs impacting dozens of countries",
-      "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 04 Aug 2026 07:11:35 GMT"
+      "title": "The cost of being single – and how friends are teaming up to beat it",
+      "summary": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden.",
+      "url": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 23:21:08 GMT"
     },
     {
-      "title": "Half-price rail travel extended to 18-year-olds",
-      "summary": "They'll be able to buy the 16-17 Saver railcard up until the day before they turn 18.",
-      "url": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 23:34:13 GMT"
+      "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
+      "summary": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 06:35:48 GMT"
     },
     {
-      "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
-      "summary": "The service reportedly costs up to $100,000 (£74,170) per month and offers access to posts from influential accounts milliseconds before they appear online.",
-      "url": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 04 Aug 2026 00:17:48 GMT"
+      "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+      "summary": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
+      "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 22:10:00 GMT"
     },
     {
-      "title": "Could heatwaves make your food shop more expensive?",
-      "summary": "As temperatures rise, the chillers might not be the only thing supermarkets are adjusting.",
-      "url": "https://www.bbc.co.uk/news/articles/cp879d2n3yno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 04 Aug 2026 05:46:25 GMT"
+      "title": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
+      "summary": "The advertising watchdog said Jaded London's marketing email made smoking seem appealing.",
+      "url": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 23:20:12 GMT"
     },
     {
-      "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
-      "summary": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 15:57:27 GMT"
+      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 03:44:30 GMT"
     },
     {
-      "title": "Heatwaves are changing summer weddings - here's how to plan for one",
-      "summary": "The wedding industry is facing last-minute costs to cope with the heat and October bookings are up.",
-      "url": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 23:20:15 GMT"
+      "title": "How tech is helping firefighters in the battle against wildfires",
+      "summary": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
+      "url": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 23:21:47 GMT"
     },
     {
-      "title": "Tokenomics: Why making AI pay is tricky",
-      "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
-      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 23:21:10 GMT"
+      "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+      "summary": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 00:02:18 GMT"
     },
     {
-      "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
-      "summary": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 11:49:41 GMT"
+      "title": "Paramount chief executive David Ellison breaks silence on Warner Bros mega merger",
+      "summary": "The chief executive of Paramount-Skydance says criticism of $110bn (£82m) merger with Warner Bros. relies on outdated Hollywood model.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvp2nkxd9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 19:48:06 GMT"
     }
   ],
   "sources_status": {
