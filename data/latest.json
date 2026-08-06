@@ -1,160 +1,144 @@
 {
-  "generated_at_utc": "2026-08-05T08:09:45.780176+00:00",
-  "generated_at_paris": "2026-08-05T10:09:45.780176+02:00",
-  "date_paris": "2026-08-05",
+  "generated_at_utc": "2026-08-06T07:37:35.848259+00:00",
+  "generated_at_paris": "2026-08-06T09:37:35.848259+02:00",
+  "date_paris": "2026-08-06",
   "indices": {
     "DAX": {
-      "open": 26189.6191,
-      "high": 26266.5,
-      "low": 26082.4297,
-      "close": 26202.3496,
-      "date": "2026-08-04"
+      "open": 26393.4297,
+      "high": 26403.8105,
+      "low": 26123.1797,
+      "close": 26126.3008,
+      "date": "2026-08-05"
     },
     "CAC": {
-      "open": 8642.3398,
-      "high": 8669.6904,
-      "low": 8601.9199,
-      "close": 8666.6299,
-      "date": "2026-08-04"
+      "open": 8684.2695,
+      "high": 8693.8896,
+      "low": 8656.7305,
+      "close": 8669.2998,
+      "date": "2026-08-05"
     },
     "FTSE": {
-      "open": 10857.5996,
-      "high": 10932.5,
-      "low": 10855.2002,
-      "close": 10879.4004,
-      "date": "2026-08-04"
+      "open": 10879.0,
+      "high": 10952.2998,
+      "low": 10836.9004,
+      "close": 10888.2998,
+      "date": "2026-08-05"
     },
     "SPX": {
-      "open": 7630.6201,
-      "high": 7758.21,
-      "low": 7629.1001,
-      "close": 7736.52,
-      "date": "2026-08-04"
+      "open": 7771.6201,
+      "high": 7793.6802,
+      "low": 7720.1699,
+      "close": 7723.5498,
+      "date": "2026-08-05"
     },
     "NDX": {
-      "open": 29109.2598,
-      "high": 29831.4004,
-      "low": 29109.2598,
-      "close": 29733.1602,
-      "date": "2026-08-04"
+      "open": 29863.2695,
+      "high": 29946.9395,
+      "low": 29468.3301,
+      "close": 29487.7891,
+      "date": "2026-08-05"
     },
     "DJI": {
-      "open": 53641.2109,
-      "high": 54272.6016,
-      "low": 53641.2109,
-      "close": 54085.8789,
-      "date": "2026-08-04"
+      "open": 54266.1211,
+      "high": 54744.3281,
+      "low": 54266.1211,
+      "close": 54349.1211,
+      "date": "2026-08-05"
     },
     "N225": {
-      "open": 63995.2812,
-      "high": 64240.5,
-      "low": 62864.4297,
-      "close": 63957.5312,
-      "date": "2026-08-04"
+      "open": 64565.2695,
+      "high": 66302.5234,
+      "low": 64555.5195,
+      "close": 66300.4375,
+      "date": "2026-08-05"
     },
     "HSI": {
-      "open": 25852.9199,
-      "high": 25852.9199,
-      "low": 25852.9199,
-      "close": 25852.9199,
-      "date": "2026-08-04"
+      "open": 25890.9902,
+      "high": 25973.9395,
+      "low": 25729.8594,
+      "close": 25915.8203,
+      "date": "2026-08-05"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1508,
-      "high": 1.1531,
-      "low": 1.1504,
-      "close": 1.1507,
-      "date": "2026-08-04"
+      "open": 1.1532,
+      "high": 1.1559,
+      "low": 1.1528,
+      "close": 1.1532,
+      "date": "2026-08-05"
     },
     "GBPUSD": {
-      "open": 1.3428,
-      "high": 1.3457,
-      "low": 1.342,
-      "close": 1.3427,
-      "date": "2026-08-04"
+      "open": 1.3452,
+      "high": 1.3485,
+      "low": 1.3444,
+      "close": 1.3451,
+      "date": "2026-08-05"
     }
   },
   "vix": {
-    "value": 15.94,
-    "change_24h_pct": -3.39,
-    "date": "2026-08-05"
+    "value": 15.83,
+    "change_24h_pct": 0.13,
+    "date": "2026-08-06"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "14:15",
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "ADP Non-Farm Employment Change",
-      "consensus": "68K",
-      "previous": "98K",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "ISM Services PMI",
-      "consensus": "54.5",
-      "previous": "54.0",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "22:30",
-      "country": "USD",
-      "indicator": "President Trump Speaks",
-      "consensus": "",
-      "previous": "",
+      "indicator": "Unemployment Claims",
+      "consensus": "203K",
+      "previous": "197K",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "The cost of being single – and how friends are teaming up to beat it",
-      "summary": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden.",
-      "url": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 04 Aug 2026 23:21:08 GMT"
+      "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+      "summary": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 05:00:54 GMT"
     },
     {
-      "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
-      "summary": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 06:35:48 GMT"
+      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 01:19:59 GMT"
     },
     {
-      "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
-      "summary": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
-      "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 04 Aug 2026 22:10:00 GMT"
+      "title": "Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?",
+      "summary": "Here's how to style for success while keeping your cool - and where you and your boss stand on your wardrobe.",
+      "url": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 23:22:17 GMT"
     },
     {
-      "title": "Fashion brand Jaded has ad banned for 'glamorising smoking'",
-      "summary": "The advertising watchdog said Jaded London's marketing email made smoking seem appealing.",
-      "url": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 04 Aug 2026 23:20:12 GMT"
+      "title": "Meta says AI model accessed the internet and hacked another firm",
+      "summary": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 05:53:58 GMT"
     },
     {
-      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 03:44:30 GMT"
+      "title": "Winemakers prosper but veg farms wilt in the drought",
+      "summary": "Growers in the West of England search for new crops to grow in a changing climate.",
+      "url": "https://www.bbc.co.uk/news/articles/c141vjlyjgko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 05:19:40 GMT"
     },
     {
-      "title": "How tech is helping in the battle against wildfires",
-      "summary": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
-      "url": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 04 Aug 2026 23:21:47 GMT"
+      "title": "What's causing record high US beef prices?",
+      "summary": "The meat has never been more expensive, due to supply shortages, but no-one is making more money.",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv0k0j662o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 23:23:05 GMT"
     },
     {
-      "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
-      "summary": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
-      "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 00:02:18 GMT"
+      "title": "Raleigh owner starts insolvency proceedings",
+      "summary": "Accell, based in the Netherlands, has owned the famous bike brand since 2012.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 07:00:25 GMT"
     },
     {
-      "title": "Paramount chief executive David Ellison breaks silence on Warner Bros mega merger",
-      "summary": "The chief executive of Paramount-Skydance says criticism of $110bn (£82m) merger with Warner Bros. relies on outdated Hollywood model.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvp2nkxd9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 04 Aug 2026 19:48:06 GMT"
+      "title": "'I've had to Botox my CV': Are AI recruitment tools affecting women's careers?",
+      "summary": "Are AI recruitment tools disadvantaging women who are seeking to return to the workplace?",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl8y141e4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 23:50:55 GMT"
     }
   ],
   "sources_status": {
