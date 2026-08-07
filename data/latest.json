@@ -1,144 +1,160 @@
 {
-  "generated_at_utc": "2026-08-06T08:08:31.290566+00:00",
-  "generated_at_paris": "2026-08-06T10:08:31.290566+02:00",
-  "date_paris": "2026-08-06",
+  "generated_at_utc": "2026-08-07T06:08:24.044749+00:00",
+  "generated_at_paris": "2026-08-07T08:08:24.044749+02:00",
+  "date_paris": "2026-08-07",
   "indices": {
     "DAX": {
-      "open": 26393.4297,
-      "high": 26403.8105,
-      "low": 26123.1797,
-      "close": 26126.3008,
-      "date": "2026-08-05"
+      "open": 26116.2695,
+      "high": 26229.3301,
+      "low": 26081.6895,
+      "close": 26140.1309,
+      "date": "2026-08-06"
     },
     "CAC": {
-      "open": 8684.2695,
-      "high": 8693.8896,
-      "low": 8656.7305,
-      "close": 8669.2998,
-      "date": "2026-08-05"
+      "open": 8721.1396,
+      "high": 8742.5303,
+      "low": 8699.71,
+      "close": 8699.71,
+      "date": "2026-08-06"
     },
     "FTSE": {
-      "open": 10879.0,
-      "high": 10952.2998,
-      "low": 10836.9004,
-      "close": 10888.2998,
-      "date": "2026-08-05"
+      "open": 10888.5,
+      "high": 10944.7998,
+      "low": 10865.2998,
+      "close": 10867.9004,
+      "date": "2026-08-06"
     },
     "SPX": {
-      "open": 7771.6201,
-      "high": 7793.6802,
-      "low": 7720.1699,
-      "close": 7723.5498,
-      "date": "2026-08-05"
+      "open": 7713.79,
+      "high": 7742.8501,
+      "low": 7698.1499,
+      "close": 7709.96,
+      "date": "2026-08-06"
     },
     "NDX": {
-      "open": 29863.2695,
-      "high": 29946.9395,
-      "low": 29468.3301,
-      "close": 29487.7891,
-      "date": "2026-08-05"
+      "open": 29224.3809,
+      "high": 29569.7598,
+      "low": 29123.3809,
+      "close": 29373.3301,
+      "date": "2026-08-06"
     },
     "DJI": {
-      "open": 54266.1211,
-      "high": 54744.3281,
-      "low": 54266.1211,
-      "close": 54349.1211,
-      "date": "2026-08-05"
+      "open": 54426.8516,
+      "high": 54502.8711,
+      "low": 53835.0195,
+      "close": 53885.1016,
+      "date": "2026-08-06"
     },
     "N225": {
-      "open": 64565.2695,
-      "high": 66302.5234,
-      "low": 64555.5195,
-      "close": 66300.4375,
-      "date": "2026-08-05"
+      "open": 65896.0,
+      "high": 65983.1328,
+      "low": 64942.0703,
+      "close": 65683.2578,
+      "date": "2026-08-06"
     },
     "HSI": {
-      "open": 25890.9902,
-      "high": 25973.9395,
-      "low": 25729.8594,
-      "close": 25915.8203,
-      "date": "2026-08-05"
+      "open": 25667.1406,
+      "high": 25667.1406,
+      "low": 25389.4199,
+      "close": 25530.2793,
+      "date": "2026-08-06"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1532,
-      "high": 1.1559,
-      "low": 1.1528,
-      "close": 1.1532,
-      "date": "2026-08-05"
+      "open": 1.1556,
+      "high": 1.1562,
+      "low": 1.152,
+      "close": 1.1557,
+      "date": "2026-08-06"
     },
     "GBPUSD": {
-      "open": 1.3452,
-      "high": 1.3485,
-      "low": 1.3444,
-      "close": 1.3451,
-      "date": "2026-08-05"
+      "open": 1.3468,
+      "high": 1.3479,
+      "low": 1.3452,
+      "close": 1.347,
+      "date": "2026-08-06"
     }
   },
   "vix": {
-    "value": 15.85,
-    "change_24h_pct": 0.25,
+    "value": 15.15,
+    "change_24h_pct": -4.17,
     "date": "2026-08-06"
   },
   "macro_calendar_today": [
     {
       "time_paris": "14:30",
       "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "203K",
-      "previous": "197K",
-      "impact": "Medium"
+      "indicator": "Average Hourly Earnings m/m",
+      "consensus": "0.3%",
+      "previous": "0.3%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Non-Farm Employment Change",
+      "consensus": "85K",
+      "previous": "57K",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Unemployment Rate",
+      "consensus": "4.2%",
+      "previous": "4.2%",
+      "impact": "High"
     }
   ],
   "news_bbc": [
     {
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 00:54:03 GMT"
+    },
+    {
+      "title": "Argos is getting a makeover - but can it attract new shoppers?",
+      "summary": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 23:03:48 GMT"
+    },
+    {
+      "title": "Trump imposes 15% tariff on key chip material to counter China",
+      "summary": "The move  aims to protect US firms as they face increasing competition from China's chip industry.",
+      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 01:03:35 GMT"
+    },
+    {
+      "title": "EasyJet agrees to £5.7bn takeover by US firm",
+      "summary": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
+      "url": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 16:35:32 GMT"
+    },
+    {
+      "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
+      "summary": "A flood of companies are revealing AI models gained access to the internet - with real consequences.",
+      "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 15:59:34 GMT"
+    },
+    {
+      "title": "Why airlines are warning over lithium-ion batteries",
+      "summary": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 23:04:40 GMT"
+    },
+    {
       "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
       "summary": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
       "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 05:00:54 GMT"
+      "published": "Thu, 06 Aug 2026 14:50:54 GMT"
     },
     {
       "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
       "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
       "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 06 Aug 2026 01:19:59 GMT"
-    },
-    {
-      "title": "Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?",
-      "summary": "Here's how to style for success while keeping your cool - and where you and your boss stand on your wardrobe.",
-      "url": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 23:22:17 GMT"
-    },
-    {
-      "title": "Meta says AI model accessed the internet and hacked another firm",
-      "summary": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 05:53:58 GMT"
-    },
-    {
-      "title": "Winemakers prosper but veg farms wilt in the drought",
-      "summary": "Growers in the West of England search for new crops to grow in a changing climate.",
-      "url": "https://www.bbc.co.uk/news/articles/c141vjlyjgko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 05:19:40 GMT"
-    },
-    {
-      "title": "What's causing record high US beef prices?",
-      "summary": "The meat has never been more expensive, due to supply shortages, but no-one is making more money.",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv0k0j662o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 23:23:05 GMT"
-    },
-    {
-      "title": "Raleigh owner starts insolvency proceedings",
-      "summary": "Accell, based in the Netherlands, has owned the famous bike brand since 2012.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 07:00:25 GMT"
-    },
-    {
-      "title": "'I've had to Botox my CV': Are AI recruitment tools affecting women's careers?",
-      "summary": "Are AI recruitment tools disadvantaging women who are seeking to return to the workplace?",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl8y141e4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 23:50:55 GMT"
     }
   ],
   "sources_status": {
