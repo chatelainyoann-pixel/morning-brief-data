@@ -1,160 +1,135 @@
 {
-  "generated_at_utc": "2026-08-07T06:55:18.942486+00:00",
-  "generated_at_paris": "2026-08-07T08:55:18.942486+02:00",
-  "date_paris": "2026-08-07",
+  "generated_at_utc": "2026-08-10T06:09:22.673672+00:00",
+  "generated_at_paris": "2026-08-10T08:09:22.673672+02:00",
+  "date_paris": "2026-08-10",
   "indices": {
     "DAX": {
-      "open": 26116.2695,
-      "high": 26229.3301,
-      "low": 26081.6895,
-      "close": 26140.1309,
-      "date": "2026-08-06"
+      "open": 26235.8008,
+      "high": 26445.1797,
+      "low": 26223.6406,
+      "close": 26319.4492,
+      "date": "2026-08-07"
     },
     "CAC": {
-      "open": 8721.1396,
-      "high": 8742.5303,
-      "low": 8699.71,
-      "close": 8699.71,
-      "date": "2026-08-06"
+      "open": 8712.29,
+      "high": 8755.0303,
+      "low": 8697.1904,
+      "close": 8714.9297,
+      "date": "2026-08-07"
     },
     "FTSE": {
-      "open": 10888.5,
-      "high": 10944.7998,
-      "low": 10865.2998,
-      "close": 10867.9004,
-      "date": "2026-08-06"
+      "open": 10867.9004,
+      "high": 10959.9004,
+      "low": 10855.2002,
+      "close": 10901.0996,
+      "date": "2026-08-07"
     },
     "SPX": {
-      "open": 7713.79,
-      "high": 7742.8501,
-      "low": 7698.1499,
-      "close": 7709.96,
-      "date": "2026-08-06"
+      "open": 7735.1802,
+      "high": 7763.0801,
+      "low": 7719.1899,
+      "close": 7757.6401,
+      "date": "2026-08-07"
     },
     "NDX": {
-      "open": 29224.3809,
-      "high": 29569.7598,
-      "low": 29123.3809,
-      "close": 29373.3301,
-      "date": "2026-08-06"
+      "open": 29596.4492,
+      "high": 29747.1504,
+      "low": 29452.7109,
+      "close": 29722.3008,
+      "date": "2026-08-07"
     },
     "DJI": {
-      "open": 54426.8516,
-      "high": 54502.8711,
-      "low": 53835.0195,
-      "close": 53885.1016,
-      "date": "2026-08-06"
+      "open": 53849.2617,
+      "high": 54094.6484,
+      "low": 53807.9414,
+      "close": 54036.9297,
+      "date": "2026-08-07"
     },
     "N225": {
-      "open": 65896.0,
-      "high": 65983.1328,
-      "low": 64942.0703,
-      "close": 65683.2578,
-      "date": "2026-08-06"
+      "open": 65746.1328,
+      "high": 65990.7188,
+      "low": 64651.4883,
+      "close": 65606.7109,
+      "date": "2026-08-07"
     },
     "HSI": {
-      "open": 25667.1406,
-      "high": 25667.1406,
-      "low": 25389.4199,
-      "close": 25530.2793,
-      "date": "2026-08-06"
+      "open": 25526.6504,
+      "high": 25669.5195,
+      "low": 25393.1309,
+      "close": 25668.0293,
+      "date": "2026-08-07"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1556,
-      "high": 1.1562,
-      "low": 1.152,
-      "close": 1.1557,
-      "date": "2026-08-06"
+      "open": 1.1523,
+      "high": 1.1579,
+      "low": 1.1518,
+      "close": 1.1525,
+      "date": "2026-08-07"
     },
     "GBPUSD": {
-      "open": 1.3468,
-      "high": 1.3479,
-      "low": 1.3452,
-      "close": 1.347,
-      "date": "2026-08-06"
+      "open": 1.3454,
+      "high": 1.3508,
+      "low": 1.3435,
+      "close": 1.3455,
+      "date": "2026-08-07"
     }
   },
   "vix": {
-    "value": 15.15,
-    "change_24h_pct": -4.17,
-    "date": "2026-08-06"
+    "value": 14.9,
+    "change_24h_pct": -1.65,
+    "date": "2026-08-07"
   },
-  "macro_calendar_today": [
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Average Hourly Earnings m/m",
-      "consensus": "0.3%",
-      "previous": "0.3%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Non-Farm Employment Change",
-      "consensus": "85K",
-      "previous": "57K",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Unemployment Rate",
-      "consensus": "4.2%",
-      "previous": "4.2%",
-      "impact": "High"
-    }
-  ],
+  "macro_calendar_today": [],
   "news_bbc": [
+    {
+      "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+      "summary": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
+      "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 09 Aug 2026 23:01:39 GMT"
+    },
+    {
+      "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
+      "summary": "Tech companies are not modelling their own claims of the technology giving people more free time.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 05:00:32 GMT"
+    },
+    {
+      "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+      "summary": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+      "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 08 Aug 2026 13:41:32 GMT"
+    },
+    {
+      "title": "You could be missing out on £150 off your energy bill - here's how to check",
+      "summary": "Some people need to ensure they are named on their energy bill before the deadline to qualify for help.",
+      "url": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 09 Aug 2026 23:47:30 GMT"
+    },
+    {
+      "title": "How a 90-second power outage sparked chaos for rail commuters",
+      "summary": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 16:11:32 GMT"
+    },
+    {
+      "title": "Goodwin considers selling part of defence business",
+      "summary": "The firm is a key supplier of components to UK and US frigate and submarine programmes.",
+      "url": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 15:22:51 GMT"
+    },
     {
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
       "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
       "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 00:54:03 GMT"
+      "published": "Fri, 07 Aug 2026 09:22:03 GMT"
     },
     {
-      "title": "Argos is getting a makeover - but can it attract new shoppers?",
-      "summary": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
-      "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 23:03:48 GMT"
-    },
-    {
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "summary": "The move  aims to protect US firms as they face increasing competition from China's chip industry.",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 01:03:35 GMT"
-    },
-    {
-      "title": "EasyJet agrees to £5.7bn takeover by US firm",
-      "summary": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
-      "url": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 16:35:32 GMT"
-    },
-    {
-      "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
-      "summary": "A flood of companies are revealing AI models gained access to the internet - with real consequences.",
-      "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 15:59:34 GMT"
-    },
-    {
-      "title": "Why airlines are warning over lithium-ion batteries",
-      "summary": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 23:04:40 GMT"
-    },
-    {
-      "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
-      "summary": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 14:50:54 GMT"
-    },
-    {
-      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 01:19:59 GMT"
+      "title": "Surprise fall in US jobs last month as slow summer continues",
+      "summary": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
+      "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 14:03:55 GMT"
     }
   ],
   "sources_status": {
@@ -163,7 +138,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": true,
+    "ff_macro_calendar_ok": false,
     "bbc_news_ok": true
   }
 }
