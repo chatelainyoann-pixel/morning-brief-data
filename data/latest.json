@@ -1,135 +1,135 @@
 {
-  "generated_at_utc": "2026-08-10T07:00:31.967376+00:00",
-  "generated_at_paris": "2026-08-10T09:00:31.967376+02:00",
-  "date_paris": "2026-08-10",
+  "generated_at_utc": "2026-08-11T05:52:43.442103+00:00",
+  "generated_at_paris": "2026-08-11T07:52:43.442103+02:00",
+  "date_paris": "2026-08-11",
   "indices": {
     "DAX": {
-      "open": 26235.8008,
-      "high": 26445.1797,
-      "low": 26223.6406,
-      "close": 26319.4492,
-      "date": "2026-08-07"
+      "open": 26360.4395,
+      "high": 26441.9102,
+      "low": 26302.1895,
+      "close": 26323.8809,
+      "date": "2026-08-10"
     },
     "CAC": {
-      "open": 8712.29,
-      "high": 8755.0303,
-      "low": 8697.1904,
-      "close": 8714.9297,
-      "date": "2026-08-07"
+      "open": 8710.4902,
+      "high": 8730.0303,
+      "low": 8692.3496,
+      "close": 8726.0303,
+      "date": "2026-08-10"
     },
     "FTSE": {
-      "open": 10867.9004,
-      "high": 10959.9004,
-      "low": 10855.2002,
-      "close": 10901.0996,
-      "date": "2026-08-07"
+      "open": 10901.0996,
+      "high": 10910.9004,
+      "low": 10829.0,
+      "close": 10862.5,
+      "date": "2026-08-10"
     },
     "SPX": {
-      "open": 7735.1802,
-      "high": 7763.0801,
-      "low": 7719.1899,
-      "close": 7757.6401,
-      "date": "2026-08-07"
+      "open": 7751.7402,
+      "high": 7773.7598,
+      "low": 7743.1099,
+      "close": 7753.1099,
+      "date": "2026-08-10"
     },
     "NDX": {
-      "open": 29596.4492,
-      "high": 29747.1504,
-      "low": 29452.7109,
-      "close": 29722.3008,
-      "date": "2026-08-07"
+      "open": 29709.4902,
+      "high": 29784.2109,
+      "low": 29606.4707,
+      "close": 29621.8008,
+      "date": "2026-08-10"
     },
     "DJI": {
-      "open": 53849.2617,
-      "high": 54094.6484,
-      "low": 53807.9414,
-      "close": 54036.9297,
-      "date": "2026-08-07"
+      "open": 54072.6602,
+      "high": 54072.6602,
+      "low": 53850.1914,
+      "close": 53975.9805,
+      "date": "2026-08-10"
     },
     "N225": {
-      "open": 65746.1328,
-      "high": 65990.7188,
-      "low": 64651.4883,
-      "close": 65606.7109,
-      "date": "2026-08-07"
+      "open": 65905.1016,
+      "high": 67006.8438,
+      "low": 65848.5781,
+      "close": 66970.2188,
+      "date": "2026-08-10"
     },
     "HSI": {
-      "open": 25526.6504,
-      "high": 25669.5195,
-      "low": 25393.1309,
-      "close": 25668.0293,
-      "date": "2026-08-07"
+      "open": 25937.4902,
+      "high": 25937.4902,
+      "low": 25937.4902,
+      "close": 25937.4902,
+      "date": "2026-08-10"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1523,
-      "high": 1.1579,
-      "low": 1.1518,
-      "close": 1.1525,
-      "date": "2026-08-07"
+      "open": 1.1556,
+      "high": 1.1566,
+      "low": 1.1545,
+      "close": 1.1556,
+      "date": "2026-08-10"
     },
     "GBPUSD": {
-      "open": 1.3454,
-      "high": 1.3508,
-      "low": 1.3435,
-      "close": 1.3455,
-      "date": "2026-08-07"
+      "open": 1.3489,
+      "high": 1.353,
+      "low": 1.3484,
+      "close": 1.3491,
+      "date": "2026-08-10"
     }
   },
   "vix": {
-    "value": 14.9,
-    "change_24h_pct": -1.65,
-    "date": "2026-08-07"
+    "value": 15.46,
+    "change_24h_pct": 3.76,
+    "date": "2026-08-10"
   },
   "macro_calendar_today": [],
   "news_bbc": [
     {
-      "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+      "title": "Trump Media reports $238m loss as crypto falls",
+      "summary": "The firm says it will refocus on social media, which includes a plan to sell faster access to Trump's posts.",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 11 Aug 2026 02:21:31 GMT"
+    },
+    {
+      "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+      "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 22:31:42 GMT"
+    },
+    {
+      "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+      "summary": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 21:33:51 GMT"
+    },
+    {
+      "title": "Thames Water gave finance boss a £1m signing-on fee",
+      "summary": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
+      "url": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 14:49:46 GMT"
+    },
+    {
+      "title": "Ban on 'subscription traps' brought forward by three months",
       "summary": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
       "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 10 Aug 2026 06:57:00 GMT"
+      "published": "Mon, 10 Aug 2026 09:57:54 GMT"
+    },
+    {
+      "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
+      "summary": "Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men.",
+      "url": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 23:32:10 GMT"
+    },
+    {
+      "title": "Consortium advances talks for stake in Liverpool",
+      "summary": "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 10 Aug 2026 13:16:51 GMT"
     },
     {
       "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
       "summary": "Tech companies are not modelling their own claims of the technology giving people more free time.",
       "url": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 10 Aug 2026 05:00:32 GMT"
-    },
-    {
-      "title": "You could be missing out on £150 off your energy bill - here's how to check",
-      "summary": "Some people need to ensure they are named on their energy bill before the deadline to qualify for help.",
-      "url": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 09 Aug 2026 23:47:30 GMT"
-    },
-    {
-      "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-      "summary": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
-      "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 08 Aug 2026 13:41:32 GMT"
-    },
-    {
-      "title": "How a 90-second power outage sparked chaos for rail commuters",
-      "summary": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 16:11:32 GMT"
-    },
-    {
-      "title": "Could your tattoo stop you from getting a job?",
-      "summary": "A quarter of the UK population – including the new prime minister – have at least one tattoo, but they still divide opinion in the workplace.",
-      "url": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 10 Aug 2026 00:40:48 GMT"
-    },
-    {
-      "title": "Goodwin considers selling part of defence business",
-      "summary": "The firm is a key supplier of components to UK and US frigate and submarine programmes.",
-      "url": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 15:22:51 GMT"
-    },
-    {
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 09:22:03 GMT"
     }
   ],
   "sources_status": {
