@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-13T06:15:01.388953+00:00",
-  "generated_at_paris": "2026-08-13T08:15:01.388953+02:00",
+  "generated_at_utc": "2026-08-13T07:04:23.230662+00:00",
+  "generated_at_paris": "2026-08-13T09:04:23.230662+02:00",
   "date_paris": "2026-08-13",
   "indices": {
     "DAX": {
@@ -125,10 +125,22 @@
   ],
   "news_bbc": [
     {
+      "title": "Sun and World Cup helped some UK businesses as economy grew in April to June",
+      "summary": "The UK economy grew by 0.4% with some firms reporting hot weather and sports helped growth in June.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 06:45:33 GMT"
+    },
+    {
       "title": "Trump sued over Truth Social's $100,000 early access service",
       "summary": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
       "url": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 12 Aug 2026 17:48:56 GMT"
+    },
+    {
+      "title": "Twitch users can block Amazon from using content for AI",
+      "summary": "Fans of the streaming platform criticised Twitch for letting Amazon use their content for AI training.",
+      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 06:44:53 GMT"
     },
     {
       "title": "Discord ordered to suspend livestreams in Brazil",
@@ -137,22 +149,16 @@
       "published": "Wed, 12 Aug 2026 17:10:31 GMT"
     },
     {
-      "title": "Burnham warned Iran war could hit UK growth next year",
-      "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 14:17:26 GMT"
-    },
-    {
-      "title": "Twitch users can now block Amazon from using their content to train AI",
-      "summary": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
-      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 02:46:04 GMT"
-    },
-    {
       "title": "Why Japanese firms are being so slow to use AI",
       "summary": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
       "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 12 Aug 2026 23:00:47 GMT"
+    },
+    {
+      "title": "Burnham warned Iran war could hit UK growth next year",
+      "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 12 Aug 2026 14:17:26 GMT"
     },
     {
       "title": "US inflation eases as food and fuel costs cool",
@@ -165,12 +171,6 @@
       "summary": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
       "url": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 11 Aug 2026 23:00:26 GMT"
-    },
-    {
-      "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
-      "summary": "Households living within 1,600ft of upgraded pylons will get £250 a year off their electricity bills.",
-      "url": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 07:30:16 GMT"
     }
   ],
   "sources_status": {
