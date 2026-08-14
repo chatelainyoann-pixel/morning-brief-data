@@ -1,152 +1,156 @@
 {
-  "generated_at_utc": "2026-08-13T07:04:23.230662+00:00",
-  "generated_at_paris": "2026-08-13T09:04:23.230662+02:00",
-  "date_paris": "2026-08-13",
+  "generated_at_utc": "2026-08-14T06:12:04.587092+00:00",
+  "generated_at_paris": "2026-08-14T08:12:04.587092+02:00",
+  "date_paris": "2026-08-14",
   "indices": {
     "DAX": {
-      "open": 26452.0,
-      "high": 26573.5,
-      "low": 26313.5801,
-      "close": 26331.0703,
-      "date": "2026-08-12"
+      "open": 26437.3496,
+      "high": 26489.7793,
+      "low": 26285.2305,
+      "close": 26299.7402,
+      "date": "2026-08-13"
     },
     "CAC": {
-      "open": 8714.2695,
-      "high": 8721.6904,
-      "low": 8658.9199,
-      "close": 8674.9404,
-      "date": "2026-08-12"
+      "open": 8702.54,
+      "high": 8707.3896,
+      "low": 8649.46,
+      "close": 8650.5596,
+      "date": "2026-08-13"
     },
     "FTSE": {
-      "open": 10844.2002,
-      "high": 10863.7998,
-      "low": 10809.5996,
-      "close": 10833.2002,
-      "date": "2026-08-12"
+      "open": 10833.5996,
+      "high": 10837.0,
+      "low": 10756.4004,
+      "close": 10772.7002,
+      "date": "2026-08-13"
     },
     "SPX": {
-      "open": 7765.46,
-      "high": 7766.0098,
-      "low": 7737.9502,
-      "close": 7748.5,
-      "date": "2026-08-12"
+      "open": 7763.1802,
+      "high": 7816.7002,
+      "low": 7763.1802,
+      "close": 7798.9902,
+      "date": "2026-08-13"
     },
     "NDX": {
-      "open": 29875.1797,
-      "high": 29881.5,
-      "low": 29715.8809,
-      "close": 29742.5996,
-      "date": "2026-08-12"
+      "open": 29784.0605,
+      "high": 30168.0508,
+      "low": 29757.6191,
+      "close": 30084.5,
+      "date": "2026-08-13"
     },
     "DJI": {
-      "open": 53797.4688,
-      "high": 53969.3594,
-      "low": 53731.9609,
-      "close": 53770.2695,
-      "date": "2026-08-12"
+      "open": 53828.5508,
+      "high": 54049.1406,
+      "low": 53622.4609,
+      "close": 53839.9883,
+      "date": "2026-08-13"
     },
     "N225": {
-      "open": 66994.0469,
-      "high": 67569.3594,
-      "low": 66735.7578,
-      "close": 67524.0625,
-      "date": "2026-08-12"
+      "open": 68033.1719,
+      "high": 68799.7109,
+      "low": 68006.1719,
+      "close": 68308.5938,
+      "date": "2026-08-13"
     },
     "HSI": {
-      "open": 25498.3906,
-      "high": 25498.3906,
-      "low": 25323.3301,
-      "close": 25440.1699,
-      "date": "2026-08-12"
+      "open": 25288.0703,
+      "high": 25519.3906,
+      "low": 25288.0703,
+      "close": 25396.5098,
+      "date": "2026-08-13"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1543,
-      "high": 1.1562,
-      "low": 1.1533,
-      "close": 1.1544,
-      "date": "2026-08-12"
+      "open": 1.1529,
+      "high": 1.1547,
+      "low": 1.1513,
+      "close": 1.153,
+      "date": "2026-08-13"
     },
     "GBPUSD": {
-      "open": 1.3509,
-      "high": 1.354,
-      "low": 1.3502,
-      "close": 1.351,
-      "date": "2026-08-12"
+      "open": 1.3499,
+      "high": 1.3513,
+      "low": 1.3476,
+      "close": 1.3498,
+      "date": "2026-08-13"
     }
   },
   "vix": {
-    "value": 14.55,
-    "change_24h_pct": -4.78,
-    "date": "2026-08-12"
+    "value": 14.63,
+    "change_24h_pct": 0.55,
+    "date": "2026-08-13"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "08:00",
-      "country": "GBP",
-      "indicator": "GDP m/m",
-      "consensus": "0.0%",
-      "previous": "0.1%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "08:00",
-      "country": "GBP",
-      "indicator": "Prelim GDP q/q",
-      "consensus": "0.4%",
-      "previous": "0.6%",
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Core Retail Sales m/m",
+      "consensus": "0.2%",
+      "previous": "-0.2%",
       "impact": "Medium"
     },
     {
       "time_paris": "14:30",
       "country": "USD",
-      "indicator": "Core PPI m/m",
-      "consensus": "0.3%",
+      "indicator": "Retail Sales m/m",
+      "consensus": "0.1%",
       "previous": "0.2%",
-      "impact": "High"
+      "impact": "Medium"
     },
     {
-      "time_paris": "14:30",
+      "time_paris": "16:00",
       "country": "USD",
-      "indicator": "PPI m/m",
-      "consensus": "0.2%",
-      "previous": "-0.3%",
-      "impact": "High"
+      "indicator": "Prelim UoM Consumer Sentiment",
+      "consensus": "54.7",
+      "previous": "54.4",
+      "impact": "Medium"
     },
     {
-      "time_paris": "14:30",
+      "time_paris": "16:00",
       "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "202K",
-      "previous": "199K",
+      "indicator": "Prelim UoM Inflation Expectations",
+      "consensus": "",
+      "previous": "4.2%",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Sun and World Cup helped some UK businesses as economy grew in April to June",
-      "summary": "The UK economy grew by 0.4% with some firms reporting hot weather and sports helped growth in June.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 06:45:33 GMT"
+      "title": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
+      "summary": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 23:03:07 GMT"
     },
     {
-      "title": "Trump sued over Truth Social's $100,000 early access service",
-      "summary": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
-      "url": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 17:48:56 GMT"
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 03:09:48 GMT"
     },
     {
-      "title": "Twitch users can block Amazon from using content for AI",
-      "summary": "Fans of the streaming platform criticised Twitch for letting Amazon use their content for AI training.",
-      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 06:44:53 GMT"
+      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+      "summary": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 22:00:10 GMT"
     },
     {
-      "title": "Discord ordered to suspend livestreams in Brazil",
-      "summary": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
-      "url": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 17:10:31 GMT"
+      "title": "Water bills set to rise for many after firms permitted extra funding",
+      "summary": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 13:38:30 GMT"
+    },
+    {
+      "title": "Harvey Nichols bought by owner of Sports Direct",
+      "summary": "The department store made famous by sitcom Absolutely Fabulous had warned it would cease trading.",
+      "url": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 14:27:43 GMT"
+    },
+    {
+      "title": "Flock boss admits surveillance firm took too long to act over police abuse",
+      "summary": "US police officers have quit after using licence plate-reading cameras to track romantic partners.",
+      "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 13:02:24 GMT"
     },
     {
       "title": "Why Japanese firms are being so slow to use AI",
@@ -155,22 +159,10 @@
       "published": "Wed, 12 Aug 2026 23:00:47 GMT"
     },
     {
-      "title": "Burnham warned Iran war could hit UK growth next year",
-      "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 14:17:26 GMT"
-    },
-    {
-      "title": "US inflation eases as food and fuel costs cool",
-      "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 12 Aug 2026 17:03:05 GMT"
-    },
-    {
-      "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
-      "summary": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 11 Aug 2026 23:00:26 GMT"
+      "title": "UK economy grows but experts warn of challenging months ahead",
+      "summary": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
+      "url": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 10:17:56 GMT"
     }
   ],
   "sources_status": {
