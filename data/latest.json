@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-17T05:33:26.407033+00:00",
-  "generated_at_paris": "2026-08-17T07:33:26.407033+02:00",
+  "generated_at_utc": "2026-08-17T06:24:23.235569+00:00",
+  "generated_at_paris": "2026-08-17T08:24:23.235569+02:00",
   "date_paris": "2026-08-17",
   "indices": {
     "DAX": {
@@ -84,14 +84,20 @@
   "macro_calendar_today": [],
   "news_bbc": [
     {
-      "title": "Ferrari's first ever electric car sold for record $40m at auction",
+      "title": "How switching your bank account could earn you up to £220",
+      "summary": "New research suggests staying put is costing British savers billions in missed interest every year.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 23:14:47 GMT"
+    },
+    {
+      "title": "Ferrari's first ever electric car sold for record $40m",
       "summary": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
       "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 17 Aug 2026 02:22:04 GMT"
     },
     {
       "title": "If Meta loses this trial, Instagram and Facebook could change forever",
-      "summary": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
+      "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
       "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 17 Aug 2026 05:00:25 GMT"
     },
@@ -108,28 +114,22 @@
       "published": "Sat, 15 Aug 2026 23:45:44 GMT"
     },
     {
-      "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
-      "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
-      "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 15 Aug 2026 03:58:31 GMT"
-    },
-    {
       "title": "Protein or pickled garlic? What's new in ice cream",
       "summary": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
       "url": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 14 Aug 2026 21:20:19 GMT"
     },
     {
+      "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+      "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+      "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 15 Aug 2026 03:58:31 GMT"
+    },
+    {
       "title": "Selena Gomez sued for alleged fraud over mental health company",
       "summary": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
       "url": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 14 Aug 2026 11:32:05 GMT"
-    },
-    {
-      "title": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
-      "summary": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 14 Aug 2026 07:45:51 GMT"
     }
   ],
   "sources_status": {
