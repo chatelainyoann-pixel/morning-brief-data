@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-17T06:24:23.235569+00:00",
-  "generated_at_paris": "2026-08-17T08:24:23.235569+02:00",
-  "date_paris": "2026-08-17",
+  "generated_at_utc": "2026-08-18T05:27:14.094641+00:00",
+  "generated_at_paris": "2026-08-18T07:27:14.094641+02:00",
+  "date_paris": "2026-08-18",
   "indices": {
     "DAX": {
       "open": 26445.9902,
@@ -25,25 +25,25 @@
       "date": "2026-08-14"
     },
     "SPX": {
-      "open": 7806.6001,
-      "high": 7810.0098,
-      "low": 7776.3101,
-      "close": 7785.7598,
-      "date": "2026-08-14"
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
+      "date": "2026-08-17"
     },
     "NDX": {
-      "open": 30167.1309,
-      "high": 30179.8203,
-      "low": 29934.6602,
-      "close": 30046.1406,
-      "date": "2026-08-14"
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
+      "date": "2026-08-17"
     },
     "DJI": {
-      "open": 53842.8008,
-      "high": 53890.8398,
-      "low": 53673.4688,
-      "close": 53732.4102,
-      "date": "2026-08-14"
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
+      "date": "2026-08-17"
     },
     "N225": {
       "open": 68811.1719,
@@ -62,18 +62,18 @@
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1534,
-      "high": 1.1586,
-      "low": 1.1533,
-      "close": 1.1535,
-      "date": "2026-08-14"
+      "open": 1.1576,
+      "high": 1.1614,
+      "low": 1.1576,
+      "close": 1.1574,
+      "date": "2026-08-17"
     },
     "GBPUSD": {
-      "open": 1.3492,
-      "high": 1.356,
-      "low": 1.3489,
-      "close": 1.3491,
-      "date": "2026-08-14"
+      "open": 1.3548,
+      "high": 1.3571,
+      "low": 1.3548,
+      "close": 1.3547,
+      "date": "2026-08-17"
     }
   },
   "vix": {
@@ -81,37 +81,54 @@
     "change_24h_pct": -2.6,
     "date": "2026-08-14"
   },
-  "macro_calendar_today": [],
+  "macro_calendar_today": [
+    {
+      "time_paris": "08:00",
+      "country": "GBP",
+      "indicator": "Claimant Count Change",
+      "consensus": "16.5K",
+      "previous": "6.7K",
+      "impact": "High"
+    },
+    {
+      "time_paris": "08:00",
+      "country": "GBP",
+      "indicator": "Average Earnings Index 3m/y",
+      "consensus": "4.0%",
+      "previous": "4.3%",
+      "impact": "Medium"
+    }
+  ],
   "news_bbc": [
     {
-      "title": "How switching your bank account could earn you up to £220",
-      "summary": "New research suggests staying put is costing British savers billions in missed interest every year.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 23:14:47 GMT"
+      "title": "To joke or not to joke?: How to write a good out-of-office message",
+      "summary": "As we hit peak holiday season, the BBC looks at the dos and don'ts of composing a good out-of-office message.",
+      "url": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 23:00:41 GMT"
     },
     {
-      "title": "Ferrari's first ever electric car sold for record $40m",
-      "summary": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
-      "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 02:22:04 GMT"
+      "title": "US-Canada trade talks 'intense' as new tariff deadline looms",
+      "summary": "Mark Carney will need to sell Canadians on any concessions made to the US as negotiators scramble to reach a deal to avoid Trump’s latest tariffs.",
+      "url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 00:02:31 GMT"
     },
     {
-      "title": "If Meta loses this trial, Instagram and Facebook could change forever",
-      "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
-      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 05:00:25 GMT"
+      "title": "Disabled people in England to get 24-hour free bus travel",
+      "summary": "The change, which has been welcomed by campaign groups, will come into effect in England from April.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 00:32:51 GMT"
     },
     {
-      "title": "Changing pubs into homes to be made harder under new rules",
-      "summary": "The rules will come into force on Monday along with other changes to planning policy.",
-      "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 15:04:13 GMT"
+      "title": "Film commission backs Amazon MGM expansion of studios",
+      "summary": "The Berkshire film studio was previously home to iconic horror studio Hammer Films.",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8wjvd2q4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 18:03:39 GMT"
     },
     {
-      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-      "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
-      "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 15 Aug 2026 23:45:44 GMT"
+      "title": "Fifa official sacked after Infantino plan criticism",
+      "summary": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 20:46:08 GMT"
     },
     {
       "title": "Protein or pickled garlic? What's new in ice cream",
@@ -120,16 +137,16 @@
       "published": "Fri, 14 Aug 2026 21:20:19 GMT"
     },
     {
-      "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
-      "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
-      "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 15 Aug 2026 03:58:31 GMT"
+      "title": "Virgin takes step towards running Channel Tunnel rail services",
+      "summary": "Firm wants to run up to 20 daily journeys to Europe but it must get additional approval for overseas tracks.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 12:46:25 GMT"
     },
     {
-      "title": "Selena Gomez sued for alleged fraud over mental health company",
-      "summary": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
-      "url": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 14 Aug 2026 11:32:05 GMT"
+      "title": "How switching your bank account could earn you up to £220",
+      "summary": "New research suggests staying put is costing British savers billions in missed interest every year.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 23:14:47 GMT"
     }
   ],
   "sources_status": {
@@ -138,7 +155,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": false,
+    "ff_macro_calendar_ok": true,
     "bbc_news_ok": true
   }
 }
