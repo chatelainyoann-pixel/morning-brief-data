@@ -1,176 +1,152 @@
 {
-  "generated_at_utc": "2026-08-19T06:19:32.158710+00:00",
-  "generated_at_paris": "2026-08-19T08:19:32.158710+02:00",
-  "date_paris": "2026-08-19",
+  "generated_at_utc": "2026-08-20T05:28:39.182839+00:00",
+  "generated_at_paris": "2026-08-20T07:28:39.182839+02:00",
+  "date_paris": "2026-08-20",
   "indices": {
     "DAX": {
-      "open": 26280.8594,
-      "high": 26292.9492,
-      "low": 26119.5391,
-      "close": 26128.3594,
-      "date": "2026-08-18"
+      "open": 26146.1191,
+      "high": 26187.8203,
+      "low": 26063.3691,
+      "close": 26091.3301,
+      "date": "2026-08-19"
     },
     "CAC": {
-      "open": 8563.0596,
-      "high": 8578.0996,
-      "low": 8509.3604,
-      "close": 8509.3604,
-      "date": "2026-08-18"
+      "open": 8523.25,
+      "high": 8558.2197,
+      "low": 8501.9102,
+      "close": 8501.9102,
+      "date": "2026-08-19"
     },
     "FTSE": {
-      "open": 10720.9004,
-      "high": 10779.9004,
-      "low": 10701.7002,
-      "close": 10728.0,
-      "date": "2026-08-18"
+      "open": 10727.7998,
+      "high": 10766.0,
+      "low": 10701.0996,
+      "close": 10743.4004,
+      "date": "2026-08-19"
     },
     "SPX": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "date": "2026-08-18"
+      "open": 7716.7402,
+      "high": 7743.9302,
+      "low": 7700.0698,
+      "close": 7707.98,
+      "date": "2026-08-19"
     },
     "NDX": {
-      "open": 29594.8906,
-      "high": 29677.2891,
-      "low": 29425.0898,
-      "close": 29490.9609,
-      "date": "2026-08-18"
+      "open": 29580.8496,
+      "high": 29652.3008,
+      "low": 29288.75,
+      "close": 29426.0195,
+      "date": "2026-08-19"
     },
     "DJI": {
-      "open": 53354.4297,
-      "high": 53478.7617,
-      "low": 53256.3398,
-      "close": 53343.3984,
-      "date": "2026-08-18"
+      "open": 53463.4688,
+      "high": 53710.0586,
+      "low": 53399.5312,
+      "close": 53463.0508,
+      "date": "2026-08-19"
     },
     "N225": {
-      "open": 68847.3516,
-      "high": 69093.2031,
-      "low": 67368.9609,
-      "close": 67460.7266,
-      "date": "2026-08-18"
+      "open": 66812.2734,
+      "high": 66833.5078,
+      "low": 65133.9805,
+      "close": 65326.4219,
+      "date": "2026-08-19"
     },
     "HSI": {
-      "open": 25368.8691,
-      "high": 25518.0293,
-      "low": 25240.6191,
-      "close": 25471.1504,
-      "date": "2026-08-18"
+      "open": 25346.9004,
+      "high": 25537.1895,
+      "low": 25315.3203,
+      "close": 25495.0703,
+      "date": "2026-08-19"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1585,
-      "high": 1.1589,
-      "low": 1.1567,
-      "close": 1.1583,
-      "date": "2026-08-18"
+      "open": 1.1577,
+      "high": 1.1678,
+      "low": 1.1572,
+      "close": 1.1579,
+      "date": "2026-08-19"
     },
     "GBPUSD": {
-      "open": 1.3551,
-      "high": 1.3554,
-      "low": 1.352,
-      "close": 1.355,
-      "date": "2026-08-18"
+      "open": 1.3537,
+      "high": 1.3629,
+      "low": 1.3525,
+      "close": 1.3537,
+      "date": "2026-08-19"
     }
   },
   "vix": {
-    "value": 15.84,
-    "change_24h_pct": 4.28,
-    "date": "2026-08-18"
+    "value": 14.89,
+    "change_24h_pct": -6.0,
+    "date": "2026-08-19"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "08:00",
-      "country": "GBP",
-      "indicator": "CPI y/y",
-      "consensus": "2.9%",
-      "previous": "2.6%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "09:10",
-      "country": "EUR",
-      "indicator": "ECB President Lagarde Speaks",
-      "consensus": "",
-      "previous": "",
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Philly Fed Manufacturing Index",
+      "consensus": "24.1",
+      "previous": "41.4",
       "impact": "Medium"
     },
     {
-      "time_paris": "12:15",
-      "country": "EUR",
-      "indicator": "ECB President Lagarde Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "20:00",
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "FOMC Meeting Minutes",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
-    },
-    {
-      "time_paris": "20:30",
-      "country": "USD",
-      "indicator": "President Trump Speaks",
-      "consensus": "",
-      "previous": "",
+      "indicator": "Unemployment Claims",
+      "consensus": "210K",
+      "previous": "209K",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
-      "summary": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 23:14:49 GMT"
+      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 03:22:57 GMT"
     },
     {
-      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-      "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 03:56:35 GMT"
+      "title": "US national debt passes $40tn after doubling in a decade",
+      "summary": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
+      "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 01:24:26 GMT"
     },
     {
-      "title": "Meta hooked children on Facebook and Instagram, US court hears",
-      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
-      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 22:11:07 GMT"
+      "title": "I quit my £80,000 job to make ice cream - here's how",
+      "summary": "The co-founder of Little Moons shares her advice for anyone thinking about starting a business of their own.",
+      "url": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 23:08:03 GMT"
     },
     {
-      "title": "Mobile payments on the rise but cash decline slows",
-      "summary": "Nine in 10 mobile wallet users have their debit card loaded as their default payment method, new data shows.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 23:04:53 GMT"
+      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+      "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 05:07:00 GMT"
     },
     {
-      "title": "The critical tech staying safe by going underground",
-      "summary": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
-      "url": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 23:25:21 GMT"
+      "title": "Canada and US say they are finalising a trade deal",
+      "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 03:10:48 GMT"
     },
     {
-      "title": "Chinese robotics giant Unitree soars in stock market debut",
-      "summary": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 03:26:27 GMT"
+      "title": "India's Gen Z are driving up a mega boom in its beauty market",
+      "summary": "E-commerce, rising income levels and the world's largest youth population are fuelling India's beauty boom.",
+      "url": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 23:31:24 GMT"
     },
     {
-      "title": "UK inflation rises to 2.9%",
-      "summary": "The cost of things is now rising at a faster pace compared with last month.",
+      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+      "summary": "A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.",
       "url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 06:12:49 GMT"
+      "published": "Wed, 19 Aug 2026 16:12:27 GMT"
     },
     {
-      "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
-      "summary": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
-      "url": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 18:20:08 GMT"
+      "title": "Inflation is heating up but don't expect another crisis",
+      "summary": "Rising living costs could heap pressure on PM Andy Burnham though it depends what happens in the coming months.",
+      "url": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 11:27:39 GMT"
     }
   ],
   "sources_status": {
