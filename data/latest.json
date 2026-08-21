@@ -1,152 +1,192 @@
 {
-  "generated_at_utc": "2026-08-20T06:20:43.333706+00:00",
-  "generated_at_paris": "2026-08-20T08:20:43.333706+02:00",
-  "date_paris": "2026-08-20",
+  "generated_at_utc": "2026-08-21T05:30:16.563081+00:00",
+  "generated_at_paris": "2026-08-21T07:30:16.563081+02:00",
+  "date_paris": "2026-08-21",
   "indices": {
     "DAX": {
-      "open": 26146.1191,
-      "high": 26187.8203,
-      "low": 26063.3691,
-      "close": 26091.3301,
-      "date": "2026-08-19"
+      "open": 26050.9492,
+      "high": 26062.1504,
+      "low": 25914.1094,
+      "close": 25983.0391,
+      "date": "2026-08-20"
     },
     "CAC": {
-      "open": 8523.25,
-      "high": 8558.2197,
-      "low": 8501.9102,
-      "close": 8501.9102,
-      "date": "2026-08-19"
+      "open": 8504.0703,
+      "high": 8514.6699,
+      "low": 8444.7598,
+      "close": 8453.0898,
+      "date": "2026-08-20"
     },
     "FTSE": {
-      "open": 10727.7998,
-      "high": 10766.0,
-      "low": 10701.0996,
-      "close": 10743.4004,
-      "date": "2026-08-19"
+      "open": 10743.2002,
+      "high": 10766.9004,
+      "low": 10684.4004,
+      "close": 10748.2002,
+      "date": "2026-08-20"
     },
     "SPX": {
-      "open": 7716.7402,
-      "high": 7743.9302,
-      "low": 7700.0698,
-      "close": 7707.98,
-      "date": "2026-08-19"
+      "open": 7690.4902,
+      "high": 7699.96,
+      "low": 7639.0098,
+      "close": 7641.1602,
+      "date": "2026-08-20"
     },
     "NDX": {
-      "open": 29580.8496,
-      "high": 29652.3008,
-      "low": 29288.75,
-      "close": 29426.0195,
-      "date": "2026-08-19"
+      "open": 29295.1504,
+      "high": 29378.8008,
+      "low": 29118.0703,
+      "close": 29213.1602,
+      "date": "2026-08-20"
     },
     "DJI": {
-      "open": 53463.4688,
-      "high": 53710.0586,
-      "low": 53399.5312,
-      "close": 53463.0508,
-      "date": "2026-08-19"
+      "open": 53381.2188,
+      "high": 53381.2188,
+      "low": 52754.8984,
+      "close": 52759.2109,
+      "date": "2026-08-20"
     },
     "N225": {
-      "open": 66812.2734,
-      "high": 66833.5078,
-      "low": 65133.9805,
-      "close": 65326.4219,
-      "date": "2026-08-19"
+      "open": 65732.7891,
+      "high": 66325.3203,
+      "low": 65652.25,
+      "close": 66216.7891,
+      "date": "2026-08-20"
     },
     "HSI": {
-      "open": 25346.9004,
-      "high": 25537.1895,
-      "low": 25315.3203,
-      "close": 25495.0703,
-      "date": "2026-08-19"
+      "open": 25779.0801,
+      "high": 25842.9102,
+      "low": 25632.3906,
+      "close": 25698.4902,
+      "date": "2026-08-20"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1577,
-      "high": 1.1678,
-      "low": 1.1572,
-      "close": 1.1579,
-      "date": "2026-08-19"
+      "open": 1.1675,
+      "high": 1.1711,
+      "low": 1.167,
+      "close": 1.1674,
+      "date": "2026-08-20"
     },
     "GBPUSD": {
-      "open": 1.3537,
-      "high": 1.3629,
-      "low": 1.3525,
-      "close": 1.3537,
-      "date": "2026-08-19"
+      "open": 1.3601,
+      "high": 1.3658,
+      "low": 1.3596,
+      "close": 1.36,
+      "date": "2026-08-20"
     }
   },
   "vix": {
-    "value": 14.89,
-    "change_24h_pct": -6.0,
-    "date": "2026-08-19"
+    "value": 16.01,
+    "change_24h_pct": 7.52,
+    "date": "2026-08-20"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Philly Fed Manufacturing Index",
-      "consensus": "24.1",
-      "previous": "41.4",
+      "time_paris": "08:00",
+      "country": "GBP",
+      "indicator": "Retail Sales m/m",
+      "consensus": "-0.5%",
+      "previous": "1.0%",
       "impact": "Medium"
     },
     {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "210K",
-      "previous": "209K",
+      "time_paris": "09:15",
+      "country": "EUR",
+      "indicator": "French Flash Manufacturing PMI",
+      "consensus": "50.1",
+      "previous": "50.0",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "09:15",
+      "country": "EUR",
+      "indicator": "French Flash Services PMI",
+      "consensus": "49.4",
+      "previous": "49.8",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "09:30",
+      "country": "EUR",
+      "indicator": "German Flash Manufacturing PMI",
+      "consensus": "52.1",
+      "previous": "52.2",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "09:30",
+      "country": "EUR",
+      "indicator": "German Flash Services PMI",
+      "consensus": "50.1",
+      "previous": "49.6",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "10:30",
+      "country": "GBP",
+      "indicator": "Flash Manufacturing PMI",
+      "consensus": "51.6",
+      "previous": "52.8",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "10:30",
+      "country": "GBP",
+      "indicator": "Flash Services PMI",
+      "consensus": "51.8",
+      "previous": "51.8",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 03:22:57 GMT"
+      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+      "summary": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
+      "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 22:59:35 GMT"
+    },
+    {
+      "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
+      "summary": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be turning a corner.",
+      "url": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 23:10:58 GMT"
+    },
+    {
+      "title": "Why the US economy is ringing alarm bells",
+      "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 23:15:15 GMT"
+    },
+    {
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 23:16:45 GMT"
+    },
+    {
+      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+      "summary": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 10:05:24 GMT"
+    },
+    {
+      "title": "How landscape gardening is being electrified",
+      "summary": "The switch to quieter electric equipment is not going as fast as some would like.",
+      "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 23:12:38 GMT"
+    },
+    {
+      "title": "Walmart sales under strain as US shoppers pull back",
+      "summary": "High gas prices and weaker pharmacy sales pushed Walmart's growth to its slowest pace in six years",
+      "url": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 17:59:59 GMT"
     },
     {
       "title": "US national debt passes $40tn after doubling in a decade",
       "summary": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
       "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 01:24:26 GMT"
-    },
-    {
-      "title": "I quit my £80,000 job to make ice cream - here's how",
-      "summary": "The co-founder of Little Moons shares her advice for anyone thinking about starting a business of their own.",
-      "url": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 23:08:03 GMT"
-    },
-    {
-      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-      "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
-      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 06:08:02 GMT"
-    },
-    {
-      "title": "Canada and US say they are finalising a trade deal",
-      "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 03:10:48 GMT"
-    },
-    {
-      "title": "India's Gen Z are driving up a mega boom in its beauty market",
-      "summary": "E-commerce, rising income levels and the world's largest youth population are fuelling India's beauty boom.",
-      "url": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 23:31:24 GMT"
-    },
-    {
-      "title": "US retail giant receives $1bn boost from tariff refunds",
-      "summary": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
-      "url": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 17:07:49 GMT"
-    },
-    {
-      "title": "Inflation is heating up but don't expect another crisis",
-      "summary": "Rising living costs could heap pressure on PM Andy Burnham though it depends what happens in the coming months.",
-      "url": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 11:27:39 GMT"
+      "published": "Thu, 20 Aug 2026 06:23:23 GMT"
     }
   ],
   "sources_status": {
