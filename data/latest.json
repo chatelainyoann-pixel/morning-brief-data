@@ -1,192 +1,144 @@
 {
-  "generated_at_utc": "2026-08-21T06:20:36.775590+00:00",
-  "generated_at_paris": "2026-08-21T08:20:36.775590+02:00",
-  "date_paris": "2026-08-21",
+  "generated_at_utc": "2026-08-24T05:36:29.775899+00:00",
+  "generated_at_paris": "2026-08-24T07:36:29.775899+02:00",
+  "date_paris": "2026-08-24",
   "indices": {
     "DAX": {
-      "open": 26050.9492,
-      "high": 26062.1504,
-      "low": 25914.1094,
-      "close": 25983.0391,
-      "date": "2026-08-20"
+      "open": 25998.9492,
+      "high": 26166.25,
+      "low": 25969.5195,
+      "close": 26136.5605,
+      "date": "2026-08-21"
     },
     "CAC": {
-      "open": 8504.0703,
-      "high": 8514.6699,
-      "low": 8444.7598,
-      "close": 8453.0898,
-      "date": "2026-08-20"
+      "open": 8445.6504,
+      "high": 8493.5498,
+      "low": 8441.1104,
+      "close": 8484.4297,
+      "date": "2026-08-21"
     },
     "FTSE": {
-      "open": 10743.2002,
-      "high": 10766.9004,
-      "low": 10684.4004,
-      "close": 10748.2002,
-      "date": "2026-08-20"
+      "open": 10748.0996,
+      "high": 10831.5996,
+      "low": 10734.9004,
+      "close": 10816.5996,
+      "date": "2026-08-21"
     },
     "SPX": {
-      "open": 7690.4902,
-      "high": 7699.96,
-      "low": 7639.0098,
-      "close": 7641.1602,
-      "date": "2026-08-20"
+      "open": 7665.6802,
+      "high": 7697.1099,
+      "low": 7660.0601,
+      "close": 7674.3701,
+      "date": "2026-08-21"
     },
     "NDX": {
-      "open": 29295.1504,
-      "high": 29378.8008,
-      "low": 29118.0703,
-      "close": 29213.1602,
-      "date": "2026-08-20"
+      "open": 29359.5996,
+      "high": 29405.1191,
+      "low": 29142.4395,
+      "close": 29308.8594,
+      "date": "2026-08-21"
     },
     "DJI": {
-      "open": 53381.2188,
-      "high": 53381.2188,
-      "low": 52754.8984,
-      "close": 52759.2109,
-      "date": "2026-08-20"
+      "open": 52768.8711,
+      "high": 53355.9219,
+      "low": 52768.8711,
+      "close": 53277.0117,
+      "date": "2026-08-21"
     },
     "N225": {
-      "open": 65732.7891,
-      "high": 66325.3203,
-      "low": 65652.25,
-      "close": 66216.7891,
-      "date": "2026-08-20"
+      "open": 65427.6914,
+      "high": 66125.8828,
+      "low": 65260.2188,
+      "close": 66016.3594,
+      "date": "2026-08-21"
     },
     "HSI": {
-      "open": 25779.0801,
-      "high": 25842.9102,
-      "low": 25632.3906,
-      "close": 25698.4902,
-      "date": "2026-08-20"
+      "open": 25807.6094,
+      "high": 26009.4609,
+      "low": 25807.6094,
+      "close": 26009.4609,
+      "date": "2026-08-21"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1675,
-      "high": 1.1711,
+      "open": 1.1688,
+      "high": 1.1712,
       "low": 1.167,
-      "close": 1.1674,
-      "date": "2026-08-20"
+      "close": 1.1688,
+      "date": "2026-08-21"
     },
     "GBPUSD": {
-      "open": 1.3601,
-      "high": 1.3658,
-      "low": 1.3596,
-      "close": 1.36,
-      "date": "2026-08-20"
+      "open": 1.3642,
+      "high": 1.3675,
+      "low": 1.362,
+      "close": 1.3643,
+      "date": "2026-08-21"
     }
   },
   "vix": {
-    "value": 16.01,
-    "change_24h_pct": 7.52,
-    "date": "2026-08-20"
+    "value": 15.13,
+    "change_24h_pct": -5.5,
+    "date": "2026-08-21"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "08:00",
-      "country": "GBP",
-      "indicator": "Retail Sales m/m",
-      "consensus": "-0.5%",
-      "previous": "1.0%",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:15",
-      "country": "EUR",
-      "indicator": "French Flash Manufacturing PMI",
-      "consensus": "50.1",
-      "previous": "50.0",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:15",
-      "country": "EUR",
-      "indicator": "French Flash Services PMI",
-      "consensus": "49.4",
-      "previous": "49.8",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:30",
-      "country": "EUR",
-      "indicator": "German Flash Manufacturing PMI",
-      "consensus": "52.1",
-      "previous": "52.2",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:30",
-      "country": "EUR",
-      "indicator": "German Flash Services PMI",
-      "consensus": "50.1",
-      "previous": "49.6",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "10:30",
-      "country": "GBP",
-      "indicator": "Flash Manufacturing PMI",
-      "consensus": "51.6",
-      "previous": "52.8",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "10:30",
-      "country": "GBP",
-      "indicator": "Flash Services PMI",
-      "consensus": "51.8",
-      "previous": "51.8",
+      "time_paris": "20:00",
+      "country": "USD",
+      "indicator": "Treasury Sec Bessent Speaks",
+      "consensus": "",
+      "previous": "",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-      "summary": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
-      "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 22:59:35 GMT"
+      "title": "Shein aims for almost $27bn valuation in stock market debut",
+      "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+      "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 05:09:22 GMT"
     },
     {
-      "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
-      "summary": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be turning a corner.",
-      "url": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 23:10:58 GMT"
+      "title": "Review launched into how pub and hotel business rates calculated",
+      "summary": "The review of how rates are calculated in England and Wales could lead to reform of the system.",
+      "url": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 23:26:15 GMT"
     },
     {
-      "title": "Why the US economy is ringing alarm bells",
-      "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 23:15:15 GMT"
+      "title": "Why students are being paid £2,000 to play computer games",
+      "summary": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
+      "url": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 23:23:55 GMT"
     },
     {
-      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
-      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 23:16:45 GMT"
+      "title": "'I didn't speak the Queen's English': Why people worry about their accents",
+      "summary": "A survey on attitudes towards accents suggests that so-called \"accent bias\" is still an issue in many workplaces.",
+      "url": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 23:25:44 GMT"
     },
     {
-      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
-      "summary": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 10:05:24 GMT"
+      "title": "Nearly three million Teslas recalled in China over hidden door handles",
+      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 05:01:17 GMT"
     },
     {
-      "title": "How landscape gardening is being electrified",
-      "summary": "The switch to quieter electric equipment is not going as fast as some would like.",
-      "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 23:12:38 GMT"
+      "title": "Struggling households need more help with bills, energy industry says",
+      "summary": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 10:11:21 GMT"
     },
     {
-      "title": "Walmart sales under strain as US shoppers pull back",
-      "summary": "High gas prices and weaker pharmacy sales pushed Walmart's growth to its slowest pace in six years",
-      "url": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 17:59:59 GMT"
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 19:11:30 GMT"
     },
     {
-      "title": "US national debt passes $40tn after doubling in a decade",
-      "summary": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
-      "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 06:23:23 GMT"
+      "title": "CrossCountry cancels 'almost all' UK services after power cut",
+      "summary": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 14:05:16 GMT"
     }
   ],
   "sources_status": {
