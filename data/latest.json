@@ -1,144 +1,144 @@
 {
-  "generated_at_utc": "2026-08-24T06:29:02.210662+00:00",
-  "generated_at_paris": "2026-08-24T08:29:02.210662+02:00",
-  "date_paris": "2026-08-24",
+  "generated_at_utc": "2026-08-25T05:30:01.848357+00:00",
+  "generated_at_paris": "2026-08-25T07:30:01.848357+02:00",
+  "date_paris": "2026-08-25",
   "indices": {
     "DAX": {
-      "open": 25998.9492,
-      "high": 26166.25,
-      "low": 25969.5195,
-      "close": 26136.5605,
-      "date": "2026-08-21"
+      "open": 26091.2891,
+      "high": 26171.6992,
+      "low": 26038.0703,
+      "close": 26106.5996,
+      "date": "2026-08-24"
     },
     "CAC": {
-      "open": 8445.6504,
-      "high": 8493.5498,
-      "low": 8441.1104,
-      "close": 8484.4297,
-      "date": "2026-08-21"
+      "open": 8481.79,
+      "high": 8490.2402,
+      "low": 8444.7998,
+      "close": 8453.0098,
+      "date": "2026-08-24"
     },
     "FTSE": {
-      "open": 10748.0996,
-      "high": 10831.5996,
-      "low": 10734.9004,
-      "close": 10816.5996,
-      "date": "2026-08-21"
+      "open": 10816.2998,
+      "high": 10864.7998,
+      "low": 10799.0,
+      "close": 10854.2998,
+      "date": "2026-08-24"
     },
     "SPX": {
-      "open": 7665.6802,
-      "high": 7697.1099,
-      "low": 7660.0601,
-      "close": 7674.3701,
-      "date": "2026-08-21"
+      "open": 7663.3799,
+      "high": 7670.2998,
+      "low": 7638.1699,
+      "close": 7652.8599,
+      "date": "2026-08-24"
     },
     "NDX": {
-      "open": 29359.5996,
-      "high": 29405.1191,
-      "low": 29142.4395,
-      "close": 29308.8594,
-      "date": "2026-08-21"
+      "open": 29094.7207,
+      "high": 29151.9707,
+      "low": 28875.9609,
+      "close": 29023.1797,
+      "date": "2026-08-24"
     },
     "DJI": {
-      "open": 52768.8711,
-      "high": 53355.9219,
-      "low": 52768.8711,
-      "close": 53277.0117,
-      "date": "2026-08-21"
+      "open": 53261.9492,
+      "high": 53508.1797,
+      "low": 53261.9492,
+      "close": 53417.1602,
+      "date": "2026-08-24"
     },
     "N225": {
-      "open": 65427.6914,
-      "high": 66125.8828,
-      "low": 65260.2188,
-      "close": 66016.3594,
-      "date": "2026-08-21"
+      "open": 65978.9531,
+      "high": 66257.7266,
+      "low": 65470.9492,
+      "close": 65528.0898,
+      "date": "2026-08-24"
     },
     "HSI": {
-      "open": 25807.6094,
-      "high": 26009.4609,
-      "low": 25807.6094,
-      "close": 26009.4609,
-      "date": "2026-08-21"
+      "open": 25780.1191,
+      "high": 25780.1191,
+      "low": 25430.9395,
+      "close": 25517.3301,
+      "date": "2026-08-24"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1688,
-      "high": 1.1712,
-      "low": 1.167,
-      "close": 1.1688,
-      "date": "2026-08-21"
+      "open": 1.1685,
+      "high": 1.1692,
+      "low": 1.1661,
+      "close": 1.1682,
+      "date": "2026-08-24"
     },
     "GBPUSD": {
-      "open": 1.3642,
-      "high": 1.3675,
-      "low": 1.362,
-      "close": 1.3643,
-      "date": "2026-08-21"
+      "open": 1.3655,
+      "high": 1.3657,
+      "low": 1.3624,
+      "close": 1.3654,
+      "date": "2026-08-24"
     }
   },
   "vix": {
-    "value": 15.13,
-    "change_24h_pct": -5.5,
-    "date": "2026-08-21"
+    "value": 15.85,
+    "change_24h_pct": 4.76,
+    "date": "2026-08-24"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "20:00",
+      "time_paris": "16:00",
       "country": "USD",
-      "indicator": "Treasury Sec Bessent Speaks",
-      "consensus": "",
-      "previous": "",
+      "indicator": "CB Consumer Confidence",
+      "consensus": "90.3",
+      "previous": "90.8",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Shein aims for almost $27bn valuation in stock market debut",
-      "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
-      "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 24 Aug 2026 06:13:32 GMT"
+      "title": "Burnham refuses to rule out tax rises in autumn Budget",
+      "summary": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 01:35:47 GMT"
     },
     {
-      "title": "Pubs and hotels could see business rates reformed after review",
-      "summary": "The review of how rates are calculated in England and Wales could lead to reform of the system.",
-      "url": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 23:26:15 GMT"
+      "title": "New 10p coin enters circulation - will you spot one?",
+      "summary": "The coin has been designed to feature King Charles III and a Scottish grouse close to extinction.",
+      "url": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 23:03:42 GMT"
     },
     {
-      "title": "Why students are being paid £2,000 to play computer games",
-      "summary": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
-      "url": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 23:23:55 GMT"
+      "title": "How Canada could hit back to hurt the US economy - and Trump",
+      "summary": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
+      "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 02:49:22 GMT"
     },
     {
-      "title": "'I didn't speak the Queen's English': Why people worry about their accents",
-      "summary": "A survey on attitudes towards accents suggests that so-called \"accent bias\" is still an issue in many workplaces.",
-      "url": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 23:25:44 GMT"
+      "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 03:50:06 GMT"
     },
     {
-      "title": "Nearly three million Teslas recalled in China over hidden door handles",
-      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 24 Aug 2026 05:01:17 GMT"
+      "title": "'What you see is what you pay' - why some US restaurants are banning tips",
+      "summary": "Tips are central to US dining culture but some eateries think that they are unfair.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 23:04:17 GMT"
     },
     {
-      "title": "CrossCountry to provide full service on Monday",
-      "summary": "CrossCountry says its \"key priority\" is now restoring as close to a normal service as possible.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 19:00:31 GMT"
+      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
+      "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
+      "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 02:51:53 GMT"
     },
     {
-      "title": "Struggling households need more help with bills, energy industry says",
-      "summary": "Industry body Energy UK says the current support for households most in need does not go far enough.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 10:11:21 GMT"
+      "title": "More than 70,000 social and affordable homes to be built across England as part of £39bn plan",
+      "summary": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
+      "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 00:32:20 GMT"
     },
     {
-      "title": "Economic adviser O'Neill rules out government job but backs PM's devolution plans",
-      "summary": "Lord O'Neill, former chief economist at Goldman Sachs, was tipped to become Andy Burnham's chief economic adviser.",
-      "url": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 08:37:16 GMT"
+      "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
+      "summary": "Job site Adzuna said the number of graduate vacancies was the lowest since 2016",
+      "url": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 16:50:47 GMT"
     }
   ],
   "sources_status": {
