@@ -1,144 +1,160 @@
 {
-  "generated_at_utc": "2026-08-25T06:20:52.092297+00:00",
-  "generated_at_paris": "2026-08-25T08:20:52.092297+02:00",
-  "date_paris": "2026-08-25",
+  "generated_at_utc": "2026-08-26T05:32:37.410138+00:00",
+  "generated_at_paris": "2026-08-26T07:32:37.410138+02:00",
+  "date_paris": "2026-08-26",
   "indices": {
     "DAX": {
-      "open": 26091.2891,
-      "high": 26171.6992,
-      "low": 26038.0703,
-      "close": 26106.5996,
-      "date": "2026-08-24"
+      "open": 26206.0098,
+      "high": 26341.5195,
+      "low": 26164.1094,
+      "close": 26266.1406,
+      "date": "2026-08-25"
     },
     "CAC": {
-      "open": 8481.79,
-      "high": 8490.2402,
-      "low": 8444.7998,
-      "close": 8453.0098,
-      "date": "2026-08-24"
+      "open": 8499.2002,
+      "high": 8501.5098,
+      "low": 8439.2002,
+      "close": 8439.2002,
+      "date": "2026-08-25"
     },
     "FTSE": {
-      "open": 10816.2998,
-      "high": 10864.7998,
-      "low": 10799.0,
-      "close": 10854.2998,
-      "date": "2026-08-24"
+      "open": 10854.5996,
+      "high": 10887.0,
+      "low": 10825.7998,
+      "close": 10886.2002,
+      "date": "2026-08-25"
     },
     "SPX": {
-      "open": 7663.3799,
-      "high": 7670.2998,
-      "low": 7638.1699,
-      "close": 7652.8599,
-      "date": "2026-08-24"
+      "open": 7676.6602,
+      "high": 7686.1099,
+      "low": 7650.9199,
+      "close": 7677.2798,
+      "date": "2026-08-25"
     },
     "NDX": {
-      "open": 29094.7207,
-      "high": 29151.9707,
-      "low": 28875.9609,
-      "close": 29023.1797,
-      "date": "2026-08-24"
+      "open": 29231.1797,
+      "high": 29338.7695,
+      "low": 29077.7207,
+      "close": 29209.2305,
+      "date": "2026-08-25"
     },
     "DJI": {
-      "open": 53261.9492,
-      "high": 53508.1797,
-      "low": 53261.9492,
-      "close": 53417.1602,
-      "date": "2026-08-24"
+      "open": 53594.9219,
+      "high": 53675.3203,
+      "low": 53386.3711,
+      "close": 53577.3984,
+      "date": "2026-08-25"
     },
     "N225": {
-      "open": 65978.9531,
-      "high": 66257.7266,
-      "low": 65470.9492,
-      "close": 65528.0898,
-      "date": "2026-08-24"
+      "open": 65195.2617,
+      "high": 65904.2422,
+      "low": 64609.4688,
+      "close": 65856.4297,
+      "date": "2026-08-25"
     },
     "HSI": {
-      "open": 25780.1191,
-      "high": 25780.1191,
-      "low": 25430.9395,
-      "close": 25517.3301,
-      "date": "2026-08-24"
+      "open": 25634.2207,
+      "high": 25676.7695,
+      "low": 25403.4395,
+      "close": 25511.0996,
+      "date": "2026-08-25"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1685,
-      "high": 1.1692,
-      "low": 1.1661,
-      "close": 1.1682,
-      "date": "2026-08-24"
+      "open": 1.1668,
+      "high": 1.1675,
+      "low": 1.1652,
+      "close": 1.1668,
+      "date": "2026-08-25"
     },
     "GBPUSD": {
-      "open": 1.3655,
-      "high": 1.3657,
-      "low": 1.3624,
-      "close": 1.3654,
-      "date": "2026-08-24"
+      "open": 1.3638,
+      "high": 1.3653,
+      "low": 1.3622,
+      "close": 1.3638,
+      "date": "2026-08-25"
     }
   },
   "vix": {
-    "value": 15.85,
-    "change_24h_pct": 4.76,
-    "date": "2026-08-24"
+    "value": 15.45,
+    "change_24h_pct": -2.52,
+    "date": "2026-08-25"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "16:00",
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "CB Consumer Confidence",
-      "consensus": "90.3",
-      "previous": "90.8",
+      "indicator": "Core PCE Price Index m/m",
+      "consensus": "0.2%",
+      "previous": "0.1%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Prelim GDP q/q",
+      "consensus": "1.5%",
+      "previous": "1.5%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Prelim GDP Price Index q/q",
+      "consensus": "6.2%",
+      "previous": "6.2%",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Burnham refuses to rule out tax rises in autumn Budget",
-      "summary": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
-      "url": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 01:35:47 GMT"
+      "title": "Winter energy prices expected to rise to three-year high",
+      "summary": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.",
+      "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 23:07:29 GMT"
     },
     {
-      "title": "New 10p coin enters circulation - will you spot one?",
-      "summary": "The coin has been designed to feature King Charles III and a Scottish grouse close to extinction.",
-      "url": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 24 Aug 2026 23:03:42 GMT"
+      "title": "Back to school: How to save on uniform costs",
+      "summary": "From baby banks to supermarket deals, there are many ways parents can ease the back-to-school burden.",
+      "url": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 23:08:31 GMT"
     },
     {
-      "title": "How Canada could hit back to hurt the US economy - and Trump",
-      "summary": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
-      "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 02:49:22 GMT"
+      "title": "Musk's rocket firm SpaceX to build $100bn launch facility",
+      "summary": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 01:32:07 GMT"
+    },
+    {
+      "title": "Why Tesla has been caught up in a massive car recall in China",
+      "summary": "The country's biggest ever car recall affects more than four million vehicles made by Tesla, XPeng, Xiaomi and other firms.",
+      "url": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 03:33:59 GMT"
+    },
+    {
+      "title": "AI gold rush draws crypto firms away from Bitcoin",
+      "summary": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.",
+      "url": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 23:11:02 GMT"
+    },
+    {
+      "title": "Firms scramble for battery power in Spain and Portugal",
+      "summary": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 23:09:31 GMT"
     },
     {
       "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
+      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
       "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 06:16:28 GMT"
+      "published": "Tue, 25 Aug 2026 08:08:26 GMT"
     },
     {
-      "title": "'What you see is what you pay' - why some US restaurants are banning tips",
-      "summary": "Tips are central to US dining culture but some eateries think that they are unfair.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 24 Aug 2026 23:04:17 GMT"
-    },
-    {
-      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-      "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
-      "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 02:51:53 GMT"
-    },
-    {
-      "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
-      "summary": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
-      "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 05:41:08 GMT"
-    },
-    {
-      "title": "Songs created by AI banned from Australia's music charts",
-      "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
-      "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 04:54:01 GMT"
+      "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
+      "summary": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
+      "url": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 25 Aug 2026 15:04:52 GMT"
     }
   ],
   "sources_status": {
