@@ -1,160 +1,144 @@
 {
-  "generated_at_utc": "2026-08-26T06:22:29.153948+00:00",
-  "generated_at_paris": "2026-08-26T08:22:29.153948+02:00",
-  "date_paris": "2026-08-26",
+  "generated_at_utc": "2026-08-27T16:05:49.872675+00:00",
+  "generated_at_paris": "2026-08-27T18:05:49.872675+02:00",
+  "date_paris": "2026-08-27",
   "indices": {
     "DAX": {
-      "open": 26206.0098,
-      "high": 26341.5195,
-      "low": 26164.1094,
-      "close": 26266.1406,
-      "date": "2026-08-25"
+      "open": 26255.4102,
+      "high": 26466.7598,
+      "low": 26196.9199,
+      "close": 26285.9609,
+      "date": "2026-08-26"
     },
     "CAC": {
-      "open": 8499.2002,
-      "high": 8501.5098,
-      "low": 8439.2002,
-      "close": 8439.2002,
-      "date": "2026-08-25"
+      "open": 8468.79,
+      "high": 8503.6504,
+      "low": 8462.3896,
+      "close": 8462.3896,
+      "date": "2026-08-26"
     },
     "FTSE": {
-      "open": 10854.5996,
-      "high": 10887.0,
-      "low": 10825.7998,
-      "close": 10886.2002,
-      "date": "2026-08-25"
+      "open": 10886.2002,
+      "high": 10920.5,
+      "low": 10855.5996,
+      "close": 10878.0996,
+      "date": "2026-08-26"
     },
     "SPX": {
-      "open": 7676.6602,
-      "high": 7686.1099,
-      "low": 7650.9199,
-      "close": 7677.2798,
-      "date": "2026-08-25"
+      "open": 7666.8799,
+      "high": 7690.73,
+      "low": 7657.4102,
+      "close": 7675.7002,
+      "date": "2026-08-26"
     },
     "NDX": {
-      "open": 29231.1797,
-      "high": 29338.7695,
-      "low": 29077.7207,
-      "close": 29209.2305,
-      "date": "2026-08-25"
+      "open": 29130.7695,
+      "high": 29296.7695,
+      "low": 29096.8398,
+      "close": 29224.5195,
+      "date": "2026-08-26"
     },
     "DJI": {
-      "open": 53594.9219,
-      "high": 53675.3203,
-      "low": 53386.3711,
-      "close": 53577.3984,
-      "date": "2026-08-25"
+      "open": 53547.6797,
+      "high": 53639.75,
+      "low": 53379.3984,
+      "close": 53463.8789,
+      "date": "2026-08-26"
     },
     "N225": {
-      "open": 65195.2617,
-      "high": 65904.2422,
-      "low": 64609.4688,
-      "close": 65856.4297,
-      "date": "2026-08-25"
+      "open": 65604.4922,
+      "high": 66442.3438,
+      "low": 65390.5508,
+      "close": 66262.1562,
+      "date": "2026-08-26"
     },
     "HSI": {
-      "open": 25634.2207,
-      "high": 25676.7695,
-      "low": 25403.4395,
-      "close": 25511.0996,
-      "date": "2026-08-25"
+      "open": 25635.2402,
+      "high": 25800.2207,
+      "low": 25615.9395,
+      "close": 25652.9707,
+      "date": "2026-08-26"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1668,
-      "high": 1.1675,
-      "low": 1.1652,
-      "close": 1.1668,
-      "date": "2026-08-25"
+      "open": 1.1675,
+      "high": 1.1678,
+      "low": 1.1643,
+      "close": 1.1675,
+      "date": "2026-08-26"
     },
     "GBPUSD": {
-      "open": 1.3638,
-      "high": 1.3653,
-      "low": 1.3622,
-      "close": 1.3638,
-      "date": "2026-08-25"
+      "open": 1.3646,
+      "high": 1.365,
+      "low": 1.3585,
+      "close": 1.3647,
+      "date": "2026-08-26"
     }
   },
   "vix": {
-    "value": 15.45,
-    "change_24h_pct": -2.52,
-    "date": "2026-08-25"
+    "value": 14.55,
+    "change_24h_pct": -4.34,
+    "date": "2026-08-27"
   },
   "macro_calendar_today": [
     {
       "time_paris": "14:30",
       "country": "USD",
-      "indicator": "Core PCE Price Index m/m",
-      "consensus": "0.2%",
-      "previous": "0.1%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Prelim GDP q/q",
-      "consensus": "1.5%",
-      "previous": "1.5%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Prelim GDP Price Index q/q",
-      "consensus": "6.2%",
-      "previous": "6.2%",
+      "indicator": "Unemployment Claims",
+      "consensus": "208K",
+      "previous": "206K",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
-      "summary": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem said.",
-      "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 26 Aug 2026 06:12:12 GMT"
+      "title": "Hackers steal data from millions of airport customers",
+      "summary": "About 8.7 million customers had their data accessed and a ransom was demanded.",
+      "url": "https://www.bbc.co.uk/news/articles/c7v4353rry7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 27 Aug 2026 14:41:00 GMT"
     },
     {
-      "title": "Back to school: How parents can save on costs",
-      "summary": "From baby banks to supermarket deals, there are many ways parents can ease the back-to-school burden.",
-      "url": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 23:08:31 GMT"
+      "title": "What the Meta settlement means for the UK, and other questions after the deal",
+      "summary": "Other social media firms are yet to respond, while the debate from campaigners is far from over.",
+      "url": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 27 Aug 2026 13:24:03 GMT"
     },
     {
-      "title": "Musk's rocket firm SpaceX to build $100bn launch facility",
-      "summary": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 26 Aug 2026 01:32:07 GMT"
+      "title": "Plug-in solar panels are coming to a shop near you - here's what to know",
+      "summary": "The UK government claimes panels could help homes \"significantly cut\" energy bills.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 27 Aug 2026 09:41:14 GMT"
     },
     {
-      "title": "Why Tesla has been caught up in a massive car recall in China",
-      "summary": "The country's biggest ever car recall affects more than four million vehicles made by Tesla, XPeng, Xiaomi and other firms.",
-      "url": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 26 Aug 2026 03:33:59 GMT"
+      "title": "One in eight young people still out of work or education ahead of major review",
+      "summary": "Just under one million young people in the UK are not in education, employment or training (Neet).",
+      "url": "https://www.bbc.co.uk/news/articles/c93epy2yev0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 27 Aug 2026 15:33:36 GMT"
     },
     {
-      "title": "AI gold rush draws crypto firms away from Bitcoin",
-      "summary": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.",
-      "url": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 23:11:02 GMT"
+      "title": "From lighting to vintage gems: Five ways to spruce up your rental",
+      "summary": "Experts share tips on how to make a flat or house feel like your own without annoying the landlord.",
+      "url": "https://www.bbc.co.uk/news/articles/c3w0972z5d8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 23:08:42 GMT"
     },
     {
-      "title": "Firms scramble for battery power in Spain and Portugal",
-      "summary": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 23:09:31 GMT"
+      "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
+      "summary": "While country music and films brought her fame, her entrepreneurial zeal brought her fortune.",
+      "url": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 23:03:46 GMT"
     },
     {
-      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 08:08:26 GMT"
+      "title": "Nvidia revenue doubles on continued AI demand",
+      "summary": "Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.",
+      "url": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 21:49:26 GMT"
     },
     {
-      "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
-      "summary": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 15:04:52 GMT"
+      "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
+      "summary": "Perhaps our days of doomscrolling are numbered, writes the BBC's technology editor Zoe Kleinman.",
+      "url": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 26 Aug 2026 23:04:24 GMT"
     }
   ],
   "sources_status": {
