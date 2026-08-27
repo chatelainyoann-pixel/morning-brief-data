@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-27T16:05:49.872675+00:00",
-  "generated_at_paris": "2026-08-27T18:05:49.872675+02:00",
+  "generated_at_utc": "2026-08-27T16:52:16.457003+00:00",
+  "generated_at_paris": "2026-08-27T18:52:16.457003+02:00",
   "date_paris": "2026-08-27",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 14.55,
-    "change_24h_pct": -4.34,
+    "value": 14.43,
+    "change_24h_pct": -5.13,
     "date": "2026-08-27"
   },
   "macro_calendar_today": [
@@ -96,7 +96,7 @@
       "title": "Hackers steal data from millions of airport customers",
       "summary": "About 8.7 million customers had their data accessed and a ransom was demanded.",
       "url": "https://www.bbc.co.uk/news/articles/c7v4353rry7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 27 Aug 2026 14:41:00 GMT"
+      "published": "Thu, 27 Aug 2026 16:07:26 GMT"
     },
     {
       "title": "What the Meta settlement means for the UK, and other questions after the deal",
