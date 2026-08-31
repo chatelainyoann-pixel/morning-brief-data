@@ -1,132 +1,132 @@
 {
-  "generated_at_utc": "2026-08-28T17:44:01.634839+00:00",
-  "generated_at_paris": "2026-08-28T19:44:01.634839+02:00",
-  "date_paris": "2026-08-28",
+  "generated_at_utc": "2026-08-31T11:21:22.672004+00:00",
+  "generated_at_paris": "2026-08-31T13:21:22.672004+02:00",
+  "date_paris": "2026-08-31",
   "indices": {
     "DAX": {
-      "open": 26354.3691,
-      "high": 26402.8105,
-      "low": 26241.7695,
-      "close": 26367.2402,
-      "date": "2026-08-27"
+      "open": 26494.6094,
+      "high": 26618.7402,
+      "low": 26467.3594,
+      "close": 26569.9902,
+      "date": "2026-08-28"
     },
     "CAC": {
-      "open": 8460.9102,
-      "high": 8460.9102,
-      "low": 8308.0996,
-      "close": 8319.8701,
-      "date": "2026-08-27"
+      "open": 8388.7695,
+      "high": 8421.5195,
+      "low": 8388.7695,
+      "close": 8401.1797,
+      "date": "2026-08-28"
     },
     "FTSE": {
-      "open": 10878.2002,
-      "high": 10878.5,
-      "low": 10772.5996,
-      "close": 10792.5,
-      "date": "2026-08-27"
+      "open": 10792.5,
+      "high": 10845.0,
+      "low": 10792.4004,
+      "close": 10824.2998,
+      "date": "2026-08-28"
     },
     "SPX": {
-      "open": 7710.3398,
-      "high": 7741.27,
-      "low": 7689.8901,
-      "close": 7730.9902,
-      "date": "2026-08-27"
+      "open": 7735.1699,
+      "high": 7771.48,
+      "low": 7700.9102,
+      "close": 7711.7598,
+      "date": "2026-08-28"
     },
     "NDX": {
-      "open": 29480.9902,
-      "high": 29643.5293,
-      "low": 29366.4199,
-      "close": 29641.5605,
-      "date": "2026-08-27"
+      "open": 29545.9004,
+      "high": 29752.7793,
+      "low": 29383.9199,
+      "close": 29433.4297,
+      "date": "2026-08-28"
     },
     "DJI": {
-      "open": 53613.6602,
-      "high": 53707.6211,
-      "low": 53345.6211,
-      "close": 53569.4414,
-      "date": "2026-08-27"
+      "open": 53611.9414,
+      "high": 53819.6484,
+      "low": 53489.4102,
+      "close": 53559.9883,
+      "date": "2026-08-28"
     },
     "N225": {
-      "open": 66775.7812,
-      "high": 66954.6875,
-      "low": 65782.5938,
-      "close": 66131.9766,
-      "date": "2026-08-27"
+      "open": 66104.4922,
+      "high": 66842.8203,
+      "low": 66012.2031,
+      "close": 66405.5625,
+      "date": "2026-08-28"
     },
     "HSI": {
-      "open": 25774.8691,
-      "high": 25792.0098,
-      "low": 25500.9609,
-      "close": 25565.7402,
-      "date": "2026-08-27"
+      "open": 25410.4609,
+      "high": 25699.0898,
+      "low": 25410.4609,
+      "close": 25584.7891,
+      "date": "2026-08-28"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1655,
-      "high": 1.1662,
-      "low": 1.1637,
-      "close": 1.1655,
-      "date": "2026-08-27"
+      "open": 1.1653,
+      "high": 1.1656,
+      "low": 1.1596,
+      "close": 1.1656,
+      "date": "2026-08-28"
     },
     "GBPUSD": {
-      "open": 1.36,
-      "high": 1.3604,
-      "low": 1.3571,
+      "open": 1.3597,
+      "high": 1.36,
+      "low": 1.3531,
       "close": 1.3597,
-      "date": "2026-08-27"
+      "date": "2026-08-28"
     }
   },
   "vix": {
-    "value": 14.63,
-    "change_24h_pct": 0.83,
-    "date": "2026-08-28"
+    "value": 15.21,
+    "change_24h_pct": 5.41,
+    "date": "2026-08-31"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Fed Chairman Warsh Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Prelim Benchmark Payrolls Revision",
-      "consensus": "",
-      "previous": "-911K",
-      "impact": "High"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Revised UoM Consumer Sentiment",
-      "consensus": "51.0",
-      "previous": "51.0",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Revised UoM Inflation Expectations",
-      "consensus": "",
-      "previous": "4.3%",
+      "time_paris": "08:29",
+      "country": "EUR",
+      "indicator": "German Prelim CPI m/m",
+      "consensus": "0.3%",
+      "previous": "0.8%",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "I was spending £700 a month: How I beat my late-night shopping addiction",
-      "summary": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
-      "url": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 27 Aug 2026 23:04:21 GMT"
+      "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+      "summary": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+      "url": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 23:22:24 GMT"
+    },
+    {
+      "title": "How the US-Canada trade war is being felt on both sides of the border",
+      "summary": "The US-Canada trade war is being felt on both sides of the border.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 31 Aug 2026 00:05:22 GMT"
+    },
+    {
+      "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 04:01:02 GMT"
     },
     {
       "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
       "summary": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
       "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 28 Aug 2026 15:15:26 GMT"
+    },
+    {
+      "title": "Wife of man who died after turbulence sues airline",
+      "summary": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 28 Aug 2026 17:47:00 GMT"
+    },
+    {
+      "title": "I was spending £700 a month: How I beat my late-night shopping addiction",
+      "summary": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
+      "url": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 27 Aug 2026 23:04:21 GMT"
     },
     {
       "title": "Trump administration illegally retaliated against Anthropic, judge rules",
@@ -139,30 +139,6 @@
       "summary": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong.",
       "url": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 28 Aug 2026 05:53:05 GMT"
-    },
-    {
-      "title": "Military veterans told they owe thousands of pounds over clerical error",
-      "summary": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 27 Aug 2026 23:06:22 GMT"
-    },
-    {
-      "title": "Overcooked? Why robotic pizza makers are failing",
-      "summary": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
-      "url": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 27 Aug 2026 23:16:02 GMT"
-    },
-    {
-      "title": "'Not far enough' - US parents and teens on Meta's new limits for young users",
-      "summary": "As part of an $18bn settlement in a child-safety lawsuit, Meta announced new restrictions on its apps. We asked families what they thought.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 09:32:14 GMT"
-    },
-    {
-      "title": "Gatwick Airport faced water outage after main burst",
-      "summary": "SES Water says it has repaired a burst main which was affecting supply to the airport.",
-      "url": "https://www.bbc.co.uk/news/articles/cjdvl93e10jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 17:38:37 GMT"
     }
   ],
   "sources_status": {
