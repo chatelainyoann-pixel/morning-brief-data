@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-01T09:45:17.096593+00:00",
-  "generated_at_paris": "2026-09-01T11:45:17.096593+02:00",
+  "generated_at_utc": "2026-09-01T10:33:20.282581+00:00",
+  "generated_at_paris": "2026-09-01T12:33:20.282581+02:00",
   "date_paris": "2026-09-01",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 15.89,
-    "change_24h_pct": 6.5,
+    "value": 15.88,
+    "change_24h_pct": 6.43,
     "date": "2026-09-01"
   },
   "macro_calendar_today": [
@@ -125,16 +125,16 @@
   ],
   "news_bbc": [
     {
-      "title": "Shein shares fall in long-awaited stock market debut",
+      "title": "Shein valued at $26bn after long-awaited stock market debut",
       "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
       "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 04:15:15 GMT"
+      "published": "Tue, 01 Sep 2026 10:01:26 GMT"
     },
     {
       "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
       "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
       "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 16:49:11 GMT"
+      "published": "Tue, 01 Sep 2026 10:18:47 GMT"
     },
     {
       "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
