@@ -1,176 +1,144 @@
 {
-  "generated_at_utc": "2026-09-01T10:33:20.282581+00:00",
-  "generated_at_paris": "2026-09-01T12:33:20.282581+02:00",
-  "date_paris": "2026-09-01",
+  "generated_at_utc": "2026-09-02T09:18:11.668184+00:00",
+  "generated_at_paris": "2026-09-02T11:18:11.668184+02:00",
+  "date_paris": "2026-09-02",
   "indices": {
     "DAX": {
-      "open": 26464.1406,
-      "high": 26471.7891,
-      "low": 26249.5898,
-      "close": 26258.1094,
-      "date": "2026-08-31"
+      "open": 26150.75,
+      "high": 26206.1309,
+      "low": 25916.7598,
+      "close": 25970.1094,
+      "date": "2026-09-01"
     },
     "CAC": {
-      "open": 8404.7305,
-      "high": 8427.0996,
-      "low": 8334.5,
-      "close": 8334.5,
-      "date": "2026-08-31"
+      "open": 8348.3496,
+      "high": 8372.5498,
+      "low": 8278.54,
+      "close": 8301.8496,
+      "date": "2026-09-01"
     },
     "FTSE": {
-      "open": 10878.2002,
-      "high": 10878.5,
-      "low": 10772.5996,
-      "close": 10792.5,
-      "date": "2026-08-27"
+      "open": 10824.5996,
+      "high": 10829.2002,
+      "low": 10689.5996,
+      "close": 10789.2998,
+      "date": "2026-09-01"
     },
     "SPX": {
-      "open": 7697.52,
-      "high": 7697.52,
-      "low": 7665.0601,
-      "close": 7686.1401,
-      "date": "2026-08-31"
+      "open": 7635.4702,
+      "high": 7663.6299,
+      "low": 7611.2002,
+      "close": 7631.4702,
+      "date": "2026-09-01"
     },
     "NDX": {
-      "open": 29404.2891,
-      "high": 29483.9004,
-      "low": 29304.4902,
-      "close": 29456.9707,
-      "date": "2026-08-31"
+      "open": 29056.5801,
+      "high": 29267.4199,
+      "low": 28953.2598,
+      "close": 29077.2207,
+      "date": "2026-09-01"
     },
     "DJI": {
-      "open": 53462.6016,
-      "high": 53462.6016,
-      "low": 53123.6211,
-      "close": 53185.8984,
-      "date": "2026-08-31"
+      "open": 53083.5781,
+      "high": 53176.6016,
+      "low": 52691.3086,
+      "close": 52766.8789,
+      "date": "2026-09-01"
     },
     "N225": {
-      "open": 65668.5078,
-      "high": 66311.9297,
-      "low": 64832.1016,
-      "close": 66311.9297,
-      "date": "2026-08-31"
+      "open": 65885.4688,
+      "high": 66525.7031,
+      "low": 65576.6094,
+      "close": 66215.3438,
+      "date": "2026-09-01"
     },
     "HSI": {
-      "open": 25420.6309,
-      "high": 25566.9902,
-      "low": 25290.6895,
-      "close": 25566.9902,
-      "date": "2026-08-31"
+      "open": 25415.7207,
+      "high": 25478.9805,
+      "low": 25240.1992,
+      "close": 25329.7305,
+      "date": "2026-09-01"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.159,
-      "high": 1.1623,
-      "low": 1.1585,
-      "close": 1.1589,
-      "date": "2026-08-31"
+      "open": 1.1617,
+      "high": 1.1625,
+      "low": 1.1589,
+      "close": 1.1618,
+      "date": "2026-09-01"
     },
     "GBPUSD": {
-      "open": 1.354,
-      "high": 1.3565,
-      "low": 1.3535,
-      "close": 1.354,
-      "date": "2026-08-31"
+      "open": 1.3548,
+      "high": 1.3561,
+      "low": 1.3525,
+      "close": 1.355,
+      "date": "2026-09-01"
     }
   },
   "vix": {
-    "value": 15.88,
-    "change_24h_pct": 6.43,
-    "date": "2026-09-01"
+    "value": 16.62,
+    "change_24h_pct": 1.71,
+    "date": "2026-09-02"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "11:00",
-      "country": "EUR",
-      "indicator": "Core CPI Flash Estimate y/y",
-      "consensus": "2.5%",
-      "previous": "2.5%",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "11:00",
-      "country": "EUR",
-      "indicator": "CPI Flash Estimate y/y",
-      "consensus": "3.3%",
-      "previous": "2.9%",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
+      "time_paris": "14:15",
       "country": "USD",
-      "indicator": "ISM Manufacturing PMI",
-      "consensus": "55.2",
-      "previous": "55.6",
-      "impact": "High"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "ISM Manufacturing Prices",
-      "consensus": "70.5",
-      "previous": "71.1",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "JOLTS Job Openings",
-      "consensus": "7.33M",
-      "previous": "7.36M",
+      "indicator": "ADP Non-Farm Employment Change",
+      "consensus": "47K",
+      "previous": "44K",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
+      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+      "summary": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 01:23:00 GMT"
+    },
+    {
+      "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+      "summary": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
+      "url": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 01:27:34 GMT"
+    },
+    {
+      "title": "Kids eat free and loyalty points - six ways to eat out but not break the bank",
+      "summary": "The cost of dining out is getting increasingly hard to swallow - but clever planning can get you cheaper deals.",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 23:26:38 GMT"
+    },
+    {
+      "title": "Range Rover launches first fully electric model",
+      "summary": "The vehicle is being built at JLR's manufacturing plant in Solihull, in the West Midlands.",
+      "url": "https://www.bbc.co.uk/news/articles/clyk5016mpyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 23:43:47 GMT"
+    },
+    {
+      "title": "Apple Maps renames Lake Ontario as Lake America after Trump order",
+      "summary": "The iPhone maker follows rival technology giant Google in relabelling the Great Lake.",
+      "url": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 01:32:24 GMT"
+    },
+    {
+      "title": "Will self-flying planes transform the skies?",
+      "summary": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
+      "url": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 23:27:35 GMT"
+    },
+    {
+      "title": "France targets Shein and Temu with fast fashion fees",
+      "summary": "The levy on \"ultra-fast fashion\" items could reach almost €20 per garment by 2030.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2792pendro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 01 Sep 2026 15:15:57 GMT"
+    },
+    {
       "title": "Shein valued at $26bn after long-awaited stock market debut",
       "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
       "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 01 Sep 2026 10:01:26 GMT"
-    },
-    {
-      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-      "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
-      "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 01 Sep 2026 10:18:47 GMT"
-    },
-    {
-      "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
-      "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 21:28:49 GMT"
-    },
-    {
-      "title": "Feeling nostalgic for summer? How to beat the back-to-work blues",
-      "summary": "Going back to work after a summer holiday can be tricky - here are a few tips to make it easier.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2d1vy0827o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 23:37:35 GMT"
-    },
-    {
-      "title": "Victoria Beckham's company makes its first profit after 18 years",
-      "summary": "Beckham's fashion and beauty business makes a £7.3m operating profit after years of losses.",
-      "url": "https://www.bbc.co.uk/news/articles/cj645yl6d6do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 17:28:19 GMT"
-    },
-    {
-      "title": "Kushner states regret over World Cup sell-off plan",
-      "summary": "Venture capitalist Joshua Kushner says he would not have got involved in Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup if he had known how the football world reacted.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c780w17lw02o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 18:38:55 GMT"
-    },
-    {
-      "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
-      "summary": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
-      "url": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 23:22:24 GMT"
-    },
-    {
-      "title": "Japan Inc is betting big on India as China risks deepen",
-      "summary": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
-      "url": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 31 Aug 2026 22:07:19 GMT"
     }
   ],
   "sources_status": {
