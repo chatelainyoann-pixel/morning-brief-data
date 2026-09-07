@@ -1,168 +1,135 @@
 {
-  "generated_at_utc": "2026-09-04T10:00:05.114625+00:00",
-  "generated_at_paris": "2026-09-04T12:00:05.114625+02:00",
-  "date_paris": "2026-09-04",
+  "generated_at_utc": "2026-09-07T09:57:21.812522+00:00",
+  "generated_at_paris": "2026-09-07T11:57:21.812522+02:00",
+  "date_paris": "2026-09-07",
   "indices": {
     "DAX": {
-      "open": 25840.9199,
-      "high": 26007.7891,
-      "low": 25784.8398,
-      "close": 26003.3203,
-      "date": "2026-09-03"
+      "open": 25985.8594,
+      "high": 26167.9297,
+      "low": 25958.6992,
+      "close": 26046.4004,
+      "date": "2026-09-04"
     },
     "CAC": {
-      "open": 8275.3701,
-      "high": 8288.8203,
-      "low": 8240.5,
-      "close": 8286.4004,
-      "date": "2026-09-03"
+      "open": 8266.6504,
+      "high": 8297.0703,
+      "low": 8254.6797,
+      "close": 8278.7695,
+      "date": "2026-09-04"
     },
     "FTSE": {
-      "open": 10756.7998,
-      "high": 10866.7998,
-      "low": 10742.7002,
-      "close": 10831.5,
-      "date": "2026-09-03"
+      "open": 10831.5,
+      "high": 10843.0996,
+      "low": 10791.4004,
+      "close": 10831.0996,
+      "date": "2026-09-04"
     },
     "SPX": {
-      "open": 7686.71,
-      "high": 7756.7598,
-      "low": 7686.71,
-      "close": 7747.71,
-      "date": "2026-09-03"
+      "open": 7750.1899,
+      "high": 7750.1899,
+      "low": 7706.1201,
+      "close": 7718.6001,
+      "date": "2026-09-04"
     },
     "NDX": {
-      "open": 29234.4199,
-      "high": 29538.7598,
-      "low": 29160.9609,
-      "close": 29482.3203,
-      "date": "2026-09-03"
+      "open": 29539.5703,
+      "high": 29655.2207,
+      "low": 29440.1504,
+      "close": 29544.1504,
+      "date": "2026-09-04"
     },
     "DJI": {
-      "open": 53309.1719,
-      "high": 53746.5,
-      "low": 53286.1484,
-      "close": 53686.1094,
-      "date": "2026-09-03"
+      "open": 53584.8906,
+      "high": 53635.3516,
+      "low": 53289.8789,
+      "close": 53414.25,
+      "date": "2026-09-04"
     },
     "N225": {
-      "open": 64724.8086,
-      "high": 64724.8086,
-      "low": 63772.8008,
-      "close": 64214.4805,
-      "date": "2026-09-03"
+      "open": 64498.9414,
+      "high": 65182.4492,
+      "low": 64228.4688,
+      "close": 65020.9414,
+      "date": "2026-09-04"
     },
     "HSI": {
-      "open": 25482.5605,
-      "high": 25538.1504,
-      "low": 25160.3809,
-      "close": 25213.3105,
-      "date": "2026-09-03"
+      "open": 25515.7402,
+      "high": 25791.3809,
+      "low": 25515.7402,
+      "close": 25650.8691,
+      "date": "2026-09-04"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1585,
-      "high": 1.1629,
-      "low": 1.1585,
-      "close": 1.1585,
-      "date": "2026-09-03"
+      "open": 1.1629,
+      "high": 1.1633,
+      "low": 1.1587,
+      "close": 1.1628,
+      "date": "2026-09-04"
     },
     "GBPUSD": {
-      "open": 1.3482,
-      "high": 1.3543,
-      "low": 1.3481,
-      "close": 1.3484,
-      "date": "2026-09-03"
+      "open": 1.3529,
+      "high": 1.3549,
+      "low": 1.349,
+      "close": 1.3532,
+      "date": "2026-09-04"
     }
   },
   "vix": {
-    "value": 14.24,
-    "change_24h_pct": -0.56,
-    "date": "2026-09-04"
+    "value": 15.04,
+    "change_24h_pct": 3.51,
+    "date": "2026-09-07"
   },
-  "macro_calendar_today": [
-    {
-      "time_paris": "10:50",
-      "country": "GBP",
-      "indicator": "BOE Gov Bailey Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Average Hourly Earnings m/m",
-      "consensus": "0.3%",
-      "previous": "0.1%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Non-Farm Employment Change",
-      "consensus": "55K",
-      "previous": "-23K",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Unemployment Rate",
-      "consensus": "4.1%",
-      "previous": "4.1%",
-      "impact": "High"
-    }
-  ],
+  "macro_calendar_today": [],
   "news_bbc": [
     {
-      "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
-      "summary": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-      "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 05:59:10 GMT"
+      "title": "Jaguar Land Rover to cut 4,000 jobs",
+      "summary": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
+      "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 09:39:17 GMT"
     },
     {
-      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-      "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 07:00:10 GMT"
+      "title": "The £70 refund letter that isn't a scam",
+      "summary": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+      "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 08:50:55 GMT"
     },
     {
-      "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
-      "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-      "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 06:52:29 GMT"
+      "title": "Officials investigating cause of deadly cargo plane crash at Miami airport",
+      "summary": "Five people are dead and five others injured after an aircraft overran the runway, hit vehicles and caught fire.",
+      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 09:54:40 GMT"
     },
     {
-      "title": "'I lost my savings after a job interview scam'",
-      "summary": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
-      "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 23:41:49 GMT"
+      "title": "China to pump $54bn into state banks and insurers to boost economy",
+      "summary": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 02:26:12 GMT"
     },
     {
-      "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
-      "summary": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 07:19:06 GMT"
+      "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
+      "summary": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 08:36:25 GMT"
     },
     {
-      "title": "From 'dog fruit' to darling: India's avocado boom",
-      "summary": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
-      "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 05:09:02 GMT"
+      "title": "Why are European countries moving their gold out of North America?",
+      "summary": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 01:42:09 GMT"
     },
     {
-      "title": "Is India's internet boom running into an undersea problem?",
-      "summary": "At least 13 of India's 18 intercontinental cables come ashore within six kilometres of Mumbai's Versova beach.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 23:40:08 GMT"
+      "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
+      "summary": "Middle East tensions have choked the production and transportation of oil, causing a surge in the price of car and jet fuels.",
+      "url": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 01:03:35 GMT"
     },
     {
-      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-      "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-      "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 16:32:05 GMT"
+      "title": "More funding needed to boost construction jobs for young people, housing boss says",
+      "summary": "Recent analysis showed the construction sector needs an extra 2,200 workers a year to meet demand.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzd53rq9jo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 05:05:24 GMT"
     }
   ],
   "sources_status": {
@@ -171,7 +138,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": true,
+    "ff_macro_calendar_ok": false,
     "bbc_news_ok": true
   }
 }
