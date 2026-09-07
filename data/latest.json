@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-07T09:57:21.812522+00:00",
-  "generated_at_paris": "2026-09-07T11:57:21.812522+02:00",
+  "generated_at_utc": "2026-09-07T10:46:40.693642+00:00",
+  "generated_at_paris": "2026-09-07T12:46:40.693642+02:00",
   "date_paris": "2026-09-07",
   "indices": {
     "DAX": {
@@ -77,17 +77,17 @@
     }
   },
   "vix": {
-    "value": 15.04,
-    "change_24h_pct": 3.51,
+    "value": 15.03,
+    "change_24h_pct": 3.44,
     "date": "2026-09-07"
   },
   "macro_calendar_today": [],
   "news_bbc": [
     {
-      "title": "Jaguar Land Rover to cut 4,000 jobs",
+      "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
       "summary": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
       "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 09:39:17 GMT"
+      "published": "Mon, 07 Sep 2026 10:41:11 GMT"
     },
     {
       "title": "The £70 refund letter that isn't a scam",
@@ -96,7 +96,7 @@
       "published": "Mon, 07 Sep 2026 08:50:55 GMT"
     },
     {
-      "title": "Officials investigating cause of deadly cargo plane crash at Miami airport",
+      "title": "Probe begins into why Amazon cargo plane overran Miami runway",
       "summary": "Five people are dead and five others injured after an aircraft overran the runway, hit vehicles and caught fire.",
       "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 07 Sep 2026 09:54:40 GMT"
@@ -108,10 +108,10 @@
       "published": "Mon, 07 Sep 2026 02:26:12 GMT"
     },
     {
-      "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
-      "summary": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
+      "title": "Chancellor says UK economy 'turning a corner' despite debt concerns",
+      "summary": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
       "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 08:36:25 GMT"
+      "published": "Mon, 07 Sep 2026 10:16:19 GMT"
     },
     {
       "title": "Why are European countries moving their gold out of North America?",
