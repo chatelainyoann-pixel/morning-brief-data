@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-08T09:22:32.043300+00:00",
-  "generated_at_paris": "2026-09-08T11:22:32.043300+02:00",
+  "generated_at_utc": "2026-09-08T10:07:25.568145+00:00",
+  "generated_at_paris": "2026-09-08T12:07:25.568145+02:00",
   "date_paris": "2026-09-08",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 15.87,
-    "change_24h_pct": 3.73,
+    "value": 15.54,
+    "change_24h_pct": 1.57,
     "date": "2026-09-08"
   },
   "macro_calendar_today": [
@@ -93,16 +93,22 @@
   ],
   "news_bbc": [
     {
-      "title": "The firms turning recruitment into X Factor-style competitions",
-      "summary": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
-      "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 07:43:15 GMT"
+      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+      "summary": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 09:17:48 GMT"
     },
     {
       "title": "UK's third-biggest taxpayer to leave for Greece",
       "summary": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
       "url": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 08:23:31 GMT"
+      "published": "Tue, 08 Sep 2026 09:33:35 GMT"
+    },
+    {
+      "title": "The firms turning recruitment into X Factor-style competitions",
+      "summary": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
+      "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 07:43:15 GMT"
     },
     {
       "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
@@ -111,16 +117,10 @@
       "published": "Tue, 08 Sep 2026 04:39:14 GMT"
     },
     {
-      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-      "summary": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
-      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 09:17:48 GMT"
-    },
-    {
-      "title": "'JLR job cuts a cause for uncertainty and worry'",
-      "summary": "Experts say they worry it could limit the company's ability to innovate in the future.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 04:57:54 GMT"
+      "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
+      "summary": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
+      "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 06:49:56 GMT"
     },
     {
       "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
@@ -129,16 +129,16 @@
       "published": "Tue, 08 Sep 2026 09:00:28 GMT"
     },
     {
+      "title": "'JLR job cuts a cause for uncertainty and worry'",
+      "summary": "Experts say they worry it could limit the company's ability to innovate in the future.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 04:57:54 GMT"
+    },
+    {
       "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
       "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
       "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 08 Sep 2026 00:48:43 GMT"
-    },
-    {
-      "title": "Next wins key appeal to overturn £30m equal pay ruling",
-      "summary": "A judge ruled Next can pay warehouse workers more because it is harder to recruit and retain them.",
-      "url": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 16:25:41 GMT"
     }
   ],
   "sources_status": {
