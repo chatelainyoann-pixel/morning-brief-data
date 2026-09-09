@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-09T09:24:04.475618+00:00",
-  "generated_at_paris": "2026-09-09T11:24:04.475618+02:00",
+  "generated_at_utc": "2026-09-09T10:09:44.912110+00:00",
+  "generated_at_paris": "2026-09-09T12:09:44.912110+02:00",
   "date_paris": "2026-09-09",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 15.88,
-    "change_24h_pct": 1.02,
+    "value": 16.13,
+    "change_24h_pct": 2.61,
     "date": "2026-09-09"
   },
   "macro_calendar_today": [],
@@ -87,7 +87,7 @@
       "title": "Learner drivers still waiting 20 weeks to book tests",
       "summary": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
       "url": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 09:05:54 GMT"
+      "published": "Wed, 09 Sep 2026 09:55:11 GMT"
     },
     {
       "title": "What are my rights if my flight is cancelled or delayed?",
@@ -96,10 +96,10 @@
       "published": "Wed, 09 Sep 2026 08:04:14 GMT"
     },
     {
-      "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
+      "title": "Antropic researcher believes more than 10% chance AI 'could kill all humans'",
       "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
       "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 08:59:52 GMT"
+      "published": "Wed, 09 Sep 2026 09:58:27 GMT"
     },
     {
       "title": "I'm 27 and I've already written my will - here's why",
