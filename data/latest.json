@@ -1,144 +1,135 @@
 {
-  "generated_at_utc": "2026-09-08T10:07:25.568145+00:00",
-  "generated_at_paris": "2026-09-08T12:07:25.568145+02:00",
-  "date_paris": "2026-09-08",
+  "generated_at_utc": "2026-09-09T09:24:04.475618+00:00",
+  "generated_at_paris": "2026-09-09T11:24:04.475618+02:00",
+  "date_paris": "2026-09-09",
   "indices": {
     "DAX": {
-      "open": 26039.5391,
-      "high": 26069.9902,
-      "low": 25919.6094,
-      "close": 26006.5293,
-      "date": "2026-09-07"
+      "open": 25897.2207,
+      "high": 26026.7793,
+      "low": 25799.6602,
+      "close": 26007.6309,
+      "date": "2026-09-08"
     },
     "CAC": {
-      "open": 8272.7598,
-      "high": 8317.3701,
-      "low": 8255.7197,
-      "close": 8306.1504,
-      "date": "2026-09-07"
+      "open": 8268.1201,
+      "high": 8320.0498,
+      "low": 8257.5996,
+      "close": 8317.9805,
+      "date": "2026-09-08"
     },
     "FTSE": {
-      "open": 10831.0,
-      "high": 10868.2998,
-      "low": 10794.2002,
-      "close": 10822.0996,
-      "date": "2026-09-07"
+      "open": 10822.2998,
+      "high": 10850.7002,
+      "low": 10778.0996,
+      "close": 10811.7002,
+      "date": "2026-09-08"
     },
     "SPX": {
-      "open": 7750.1899,
-      "high": 7750.1899,
-      "low": 7706.1201,
-      "close": 7718.6001,
-      "date": "2026-09-04"
+      "open": 7717.8101,
+      "high": 7717.8101,
+      "low": 7666.9902,
+      "close": 7673.52,
+      "date": "2026-09-08"
     },
     "NDX": {
-      "open": 29539.5703,
-      "high": 29655.2207,
-      "low": 29440.1504,
-      "close": 29544.1504,
-      "date": "2026-09-04"
+      "open": 29645.1797,
+      "high": 29655.7305,
+      "low": 29400.6992,
+      "close": 29507.6992,
+      "date": "2026-09-08"
     },
     "DJI": {
-      "open": 53584.8906,
-      "high": 53635.3516,
-      "low": 53289.8789,
-      "close": 53414.25,
-      "date": "2026-09-04"
+      "open": 53110.4492,
+      "high": 53110.4492,
+      "low": 52721.6211,
+      "close": 52786.0703,
+      "date": "2026-09-08"
     },
     "N225": {
-      "open": 65600.4219,
-      "high": 66668.7109,
-      "low": 65600.4219,
-      "close": 66399.8438,
-      "date": "2026-09-07"
+      "open": 65843.6875,
+      "high": 66791.8438,
+      "low": 65269.3281,
+      "close": 65269.3281,
+      "date": "2026-09-08"
     },
     "HSI": {
-      "open": 25652.9707,
-      "high": 25664.9805,
-      "low": 25362.9805,
-      "close": 25413.1191,
-      "date": "2026-09-07"
+      "open": 25252.0703,
+      "high": 25394.5996,
+      "low": 25225.6895,
+      "close": 25317.1797,
+      "date": "2026-09-08"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1614,
-      "high": 1.1635,
-      "low": 1.1608,
-      "close": 1.1614,
-      "date": "2026-09-07"
+      "open": 1.1628,
+      "high": 1.1636,
+      "low": 1.1609,
+      "close": 1.1628,
+      "date": "2026-09-08"
     },
     "GBPUSD": {
-      "open": 1.3518,
-      "high": 1.355,
-      "low": 1.3506,
-      "close": 1.3517,
-      "date": "2026-09-07"
+      "open": 1.3547,
+      "high": 1.3562,
+      "low": 1.3523,
+      "close": 1.3547,
+      "date": "2026-09-08"
     }
   },
   "vix": {
-    "value": 15.54,
-    "change_24h_pct": 1.57,
-    "date": "2026-09-08"
+    "value": 15.88,
+    "change_24h_pct": 1.02,
+    "date": "2026-09-09"
   },
-  "macro_calendar_today": [
-    {
-      "time_paris": "15:15",
-      "country": "GBP",
-      "indicator": "Monetary Policy Report Hearings",
-      "consensus": "",
-      "previous": "",
-      "impact": "Medium"
-    }
-  ],
+  "macro_calendar_today": [],
   "news_bbc": [
     {
-      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-      "summary": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
-      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 09:17:48 GMT"
+      "title": "Learner drivers still waiting 20 weeks to book tests",
+      "summary": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 09:05:54 GMT"
     },
     {
-      "title": "UK's third-biggest taxpayer to leave for Greece",
-      "summary": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 09:33:35 GMT"
+      "title": "What are my rights if my flight is cancelled or delayed?",
+      "summary": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
+      "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 08:04:14 GMT"
     },
     {
-      "title": "The firms turning recruitment into X Factor-style competitions",
-      "summary": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
-      "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 07:43:15 GMT"
+      "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
+      "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 08:59:52 GMT"
     },
     {
-      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-      "summary": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
-      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 04:39:14 GMT"
+      "title": "I'm 27 and I've already written my will - here's why",
+      "summary": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
+      "url": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 23:04:17 GMT"
     },
     {
-      "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
-      "summary": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
-      "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 06:49:56 GMT"
+      "title": "Should promotion depend on how workers use AI?",
+      "summary": "More companies are tying career progression to AI use: is that fair?",
+      "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 23:05:23 GMT"
     },
     {
-      "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
-      "summary": "The Balkan nation is aiming to become a new centre for medical tourism.",
-      "url": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 09:00:28 GMT"
+      "title": "Cowboy builder tore my home apart and disappeared off the face of the Earth with £14k",
+      "summary": "Victims of cowboy builders describe how they were exploited with one couple left \"scarred for life\".",
+      "url": "https://www.bbc.co.uk/news/articles/clykjmjm6m0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 05:00:30 GMT"
     },
     {
-      "title": "'JLR job cuts a cause for uncertainty and worry'",
-      "summary": "Experts say they worry it could limit the company's ability to innovate in the future.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 04:57:54 GMT"
+      "title": "Singaporean man pleads guilty in US to massive crypto heist",
+      "summary": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
+      "url": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 05:49:30 GMT"
     },
     {
-      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-      "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 00:48:43 GMT"
+      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+      "summary": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
+      "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 20:57:09 GMT"
     }
   ],
   "sources_status": {
@@ -147,7 +138,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": true,
+    "ff_macro_calendar_ok": false,
     "bbc_news_ok": true
   }
 }
