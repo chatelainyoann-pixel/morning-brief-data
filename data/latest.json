@@ -1,135 +1,192 @@
 {
-  "generated_at_utc": "2026-09-09T10:09:44.912110+00:00",
-  "generated_at_paris": "2026-09-09T12:09:44.912110+02:00",
-  "date_paris": "2026-09-09",
+  "generated_at_utc": "2026-09-10T09:23:28.444234+00:00",
+  "generated_at_paris": "2026-09-10T11:23:28.444234+02:00",
+  "date_paris": "2026-09-10",
   "indices": {
     "DAX": {
-      "open": 25897.2207,
-      "high": 26026.7793,
-      "low": 25799.6602,
-      "close": 26007.6309,
-      "date": "2026-09-08"
+      "open": 25870.9805,
+      "high": 25909.6602,
+      "low": 25512.3906,
+      "close": 25576.4492,
+      "date": "2026-09-09"
     },
     "CAC": {
-      "open": 8268.1201,
-      "high": 8320.0498,
-      "low": 8257.5996,
-      "close": 8317.9805,
-      "date": "2026-09-08"
+      "open": 8258.2402,
+      "high": 8277.2402,
+      "low": 8141.4199,
+      "close": 8156.6699,
+      "date": "2026-09-09"
     },
     "FTSE": {
-      "open": 10822.2998,
-      "high": 10850.7002,
-      "low": 10778.0996,
-      "close": 10811.7002,
-      "date": "2026-09-08"
+      "open": 10811.4004,
+      "high": 10811.5996,
+      "low": 10651.7002,
+      "close": 10670.0996,
+      "date": "2026-09-09"
     },
     "SPX": {
-      "open": 7717.8101,
-      "high": 7717.8101,
-      "low": 7666.9902,
-      "close": 7673.52,
-      "date": "2026-09-08"
+      "open": 7660.6802,
+      "high": 7660.6802,
+      "low": 7624.1602,
+      "close": 7636.3599,
+      "date": "2026-09-09"
     },
     "NDX": {
-      "open": 29645.1797,
-      "high": 29655.7305,
-      "low": 29400.6992,
-      "close": 29507.6992,
-      "date": "2026-09-08"
+      "open": 29431.9395,
+      "high": 29563.5996,
+      "low": 29334.4004,
+      "close": 29421.5508,
+      "date": "2026-09-09"
     },
     "DJI": {
-      "open": 53110.4492,
-      "high": 53110.4492,
-      "low": 52721.6211,
-      "close": 52786.0703,
-      "date": "2026-09-08"
+      "open": 52707.8984,
+      "high": 52707.8984,
+      "low": 52314.6094,
+      "close": 52380.6602,
+      "date": "2026-09-09"
     },
     "N225": {
-      "open": 65843.6875,
-      "high": 66791.8438,
-      "low": 65269.3281,
-      "close": 65269.3281,
-      "date": "2026-09-08"
+      "open": 65087.2188,
+      "high": 65794.0312,
+      "low": 65017.6797,
+      "close": 65142.7812,
+      "date": "2026-09-09"
     },
     "HSI": {
-      "open": 25252.0703,
-      "high": 25394.5996,
-      "low": 25225.6895,
-      "close": 25317.1797,
-      "date": "2026-09-08"
+      "open": 25328.1309,
+      "high": 25335.5195,
+      "low": 25161.6699,
+      "close": 25274.9609,
+      "date": "2026-09-09"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1628,
-      "high": 1.1636,
-      "low": 1.1609,
-      "close": 1.1628,
-      "date": "2026-09-08"
+      "open": 1.1629,
+      "high": 1.1654,
+      "low": 1.1622,
+      "close": 1.1627,
+      "date": "2026-09-09"
     },
     "GBPUSD": {
-      "open": 1.3547,
-      "high": 1.3562,
-      "low": 1.3523,
-      "close": 1.3547,
-      "date": "2026-09-08"
+      "open": 1.3545,
+      "high": 1.357,
+      "low": 1.3533,
+      "close": 1.3545,
+      "date": "2026-09-09"
     }
   },
   "vix": {
-    "value": 16.13,
-    "change_24h_pct": 2.61,
-    "date": "2026-09-09"
+    "value": 16.43,
+    "change_24h_pct": -0.18,
+    "date": "2026-09-10"
   },
-  "macro_calendar_today": [],
+  "macro_calendar_today": [
+    {
+      "time_paris": "03:15",
+      "country": "USD",
+      "indicator": "President Trump Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:15",
+      "country": "EUR",
+      "indicator": "Main Refinancing Rate",
+      "consensus": "2.65%",
+      "previous": "2.40%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:15",
+      "country": "EUR",
+      "indicator": "Monetary Policy Statement",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Core PPI m/m",
+      "consensus": "0.3%",
+      "previous": "0.2%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "PPI m/m",
+      "consensus": "0.4%",
+      "previous": "0.0%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Unemployment Claims",
+      "consensus": "205K",
+      "previous": "206K",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:45",
+      "country": "EUR",
+      "indicator": "ECB Press Conference",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    }
+  ],
   "news_bbc": [
     {
-      "title": "Learner drivers still waiting 20 weeks to book tests",
-      "summary": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 09:55:11 GMT"
+      "title": "Primark finally set to launch home deliveries",
+      "summary": "The retailer launches the service four years after making its first foray into internet shopping.",
+      "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 09:03:55 GMT"
+    },
+    {
+      "title": "The one thing you need to do to succeed - according to top bosses",
+      "summary": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
+      "url": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 23:02:20 GMT"
+    },
+    {
+      "title": "Air traffic failure was avoidable, says transport secretary",
+      "summary": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 18:21:16 GMT"
+    },
+    {
+      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+      "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+      "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 09:21:02 GMT"
+    },
+    {
+      "title": "England's mayors to be given power to introduce tourist tax",
+      "summary": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
+      "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 09:01:13 GMT"
+    },
+    {
+      "title": "Why some experts increasingly fear AI will take over",
+      "summary": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+      "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 23:17:33 GMT"
+    },
+    {
+      "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+      "summary": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
+      "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 00:06:33 GMT"
     },
     {
       "title": "What are my rights if my flight is cancelled or delayed?",
       "summary": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
       "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 09 Sep 2026 08:04:14 GMT"
-    },
-    {
-      "title": "Antropic researcher believes more than 10% chance AI 'could kill all humans'",
-      "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 09:58:27 GMT"
-    },
-    {
-      "title": "I'm 27 and I've already written my will - here's why",
-      "summary": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 23:04:17 GMT"
-    },
-    {
-      "title": "Should promotion depend on how workers use AI?",
-      "summary": "More companies are tying career progression to AI use: is that fair?",
-      "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 23:05:23 GMT"
-    },
-    {
-      "title": "Cowboy builder tore my home apart and disappeared off the face of the Earth with £14k",
-      "summary": "Victims of cowboy builders describe how they were exploited with one couple left \"scarred for life\".",
-      "url": "https://www.bbc.co.uk/news/articles/clykjmjm6m0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 05:00:30 GMT"
-    },
-    {
-      "title": "Singaporean man pleads guilty in US to massive crypto heist",
-      "summary": "Malone Lam and his associates used the proceeds of their crimes to fund a luxurious lifestyle, US authorities said.",
-      "url": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 05:49:30 GMT"
-    },
-    {
-      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-      "summary": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
-      "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 20:57:09 GMT"
     }
   ],
   "sources_status": {
@@ -138,7 +195,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": false,
+    "ff_macro_calendar_ok": true,
     "bbc_news_ok": true
   }
 }
