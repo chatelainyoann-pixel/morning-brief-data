@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-10T09:23:28.444234+00:00",
-  "generated_at_paris": "2026-09-10T11:23:28.444234+02:00",
+  "generated_at_utc": "2026-09-10T10:05:26.589510+00:00",
+  "generated_at_paris": "2026-09-10T12:05:26.589510+02:00",
   "date_paris": "2026-09-10",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 16.43,
-    "change_24h_pct": -0.18,
+    "value": 16.5,
+    "change_24h_pct": 0.24,
     "date": "2026-09-10"
   },
   "macro_calendar_today": [
@@ -141,10 +141,10 @@
   ],
   "news_bbc": [
     {
-      "title": "Primark finally set to launch home deliveries",
+      "title": "Primark finally set to launch home deliveries as UK sales struggle",
       "summary": "The retailer launches the service four years after making its first foray into internet shopping.",
       "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 09:03:55 GMT"
+      "published": "Thu, 10 Sep 2026 10:02:26 GMT"
     },
     {
       "title": "The one thing you need to do to succeed - according to top bosses",
@@ -162,13 +162,13 @@
       "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
       "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
       "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 09:21:02 GMT"
+      "published": "Thu, 10 Sep 2026 09:32:34 GMT"
     },
     {
       "title": "England's mayors to be given power to introduce tourist tax",
       "summary": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
       "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 09:01:13 GMT"
+      "published": "Thu, 10 Sep 2026 09:44:51 GMT"
     },
     {
       "title": "Why some experts increasingly fear AI will take over",
@@ -177,7 +177,7 @@
       "published": "Wed, 09 Sep 2026 23:17:33 GMT"
     },
     {
-      "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+      "title": "Tax banks to cut energy bills, unions tell Burnham",
       "summary": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
       "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 00:06:33 GMT"
