@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-11T09:21:42.222781+00:00",
-  "generated_at_paris": "2026-09-11T11:21:42.222781+02:00",
+  "generated_at_utc": "2026-09-11T10:02:45.841616+00:00",
+  "generated_at_paris": "2026-09-11T12:02:45.841616+02:00",
   "date_paris": "2026-09-11",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 17.24,
-    "change_24h_pct": -3.36,
+    "value": 17.2,
+    "change_24h_pct": -3.59,
     "date": "2026-09-11"
   },
   "macro_calendar_today": [
@@ -152,7 +152,7 @@
       "title": "AI boom helps drive surprise UK growth in July",
       "summary": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
       "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 08:04:22 GMT"
+      "published": "Fri, 11 Sep 2026 09:50:40 GMT"
     },
     {
       "title": "I asked my husband to pay into my pension when we had a child - here's why",
