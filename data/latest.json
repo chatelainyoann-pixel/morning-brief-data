@@ -1,200 +1,144 @@
 {
-  "generated_at_utc": "2026-09-11T10:02:45.841616+00:00",
-  "generated_at_paris": "2026-09-11T12:02:45.841616+02:00",
-  "date_paris": "2026-09-11",
+  "generated_at_utc": "2026-09-14T10:20:01.703901+00:00",
+  "generated_at_paris": "2026-09-14T12:20:01.703901+02:00",
+  "date_paris": "2026-09-14",
   "indices": {
     "DAX": {
-      "open": 25555.6602,
-      "high": 25612.0898,
-      "low": 25361.1504,
-      "close": 25361.1504,
-      "date": "2026-09-10"
+      "open": 25478.8398,
+      "high": 25581.2207,
+      "low": 25396.3809,
+      "close": 25568.5605,
+      "date": "2026-09-11"
     },
     "CAC": {
-      "open": 8169.6499,
-      "high": 8190.0801,
-      "low": 8114.0,
-      "close": 8116.7598,
-      "date": "2026-09-10"
+      "open": 8159.23,
+      "high": 8207.71,
+      "low": 8140.7998,
+      "close": 8179.77,
+      "date": "2026-09-11"
     },
     "FTSE": {
-      "open": 10669.9004,
-      "high": 10688.0,
-      "low": 10594.2998,
-      "close": 10608.9004,
-      "date": "2026-09-10"
+      "open": 10609.0,
+      "high": 10714.7002,
+      "low": 10602.0996,
+      "close": 10650.4004,
+      "date": "2026-09-11"
     },
     "SPX": {
-      "open": 7594.7402,
-      "high": 7612.8599,
-      "low": 7580.0601,
-      "close": 7591.7002,
-      "date": "2026-09-10"
+      "open": 7636.75,
+      "high": 7677.02,
+      "low": 7636.75,
+      "close": 7656.98,
+      "date": "2026-09-11"
     },
     "NDX": {
-      "open": 29097.3398,
-      "high": 29250.4102,
-      "low": 29038.2207,
-      "close": 29103.5098,
-      "date": "2026-09-10"
+      "open": 29331.4805,
+      "high": 29473.1191,
+      "low": 29313.5098,
+      "close": 29368.4395,
+      "date": "2026-09-11"
     },
     "DJI": {
-      "open": 52291.8516,
-      "high": 52291.8516,
-      "low": 51962.7109,
-      "close": 52064.1016,
-      "date": "2026-09-10"
+      "open": 52204.4609,
+      "high": 52720.2383,
+      "low": 52204.4609,
+      "close": 52573.2891,
+      "date": "2026-09-11"
     },
     "N225": {
-      "open": 64768.5312,
-      "high": 65270.9492,
-      "low": 64186.6797,
-      "close": 65270.9492,
-      "date": "2026-09-10"
+      "open": 64276.8203,
+      "high": 64312.0195,
+      "low": 63208.6289,
+      "close": 64011.3398,
+      "date": "2026-09-11"
     },
     "HSI": {
-      "open": 24985.1797,
-      "high": 25021.8105,
-      "low": 24889.6406,
-      "close": 24954.4707,
-      "date": "2026-09-10"
+      "open": 24718.1504,
+      "high": 24851.1797,
+      "low": 24570.2402,
+      "close": 24805.6309,
+      "date": "2026-09-11"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1636,
-      "high": 1.1643,
-      "low": 1.1593,
-      "close": 1.1634,
-      "date": "2026-09-10"
+      "open": 1.1612,
+      "high": 1.162,
+      "low": 1.1572,
+      "close": 1.161,
+      "date": "2026-09-11"
     },
     "GBPUSD": {
-      "open": 1.3548,
-      "high": 1.3561,
-      "low": 1.3493,
-      "close": 1.3552,
-      "date": "2026-09-10"
+      "open": 1.3511,
+      "high": 1.3533,
+      "low": 1.3485,
+      "close": 1.3509,
+      "date": "2026-09-11"
     }
   },
   "vix": {
-    "value": 17.2,
-    "change_24h_pct": -3.59,
-    "date": "2026-09-11"
+    "value": 18.04,
+    "change_24h_pct": 13.89,
+    "date": "2026-09-14"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "08:00",
-      "country": "GBP",
-      "indicator": "GDP m/m",
-      "consensus": "0.0%",
-      "previous": "0.3%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Core CPI m/m",
-      "consensus": "0.2%",
-      "previous": "0.2%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Core CPI y/y",
-      "consensus": "2.4%",
-      "previous": "2.5%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "CPI m/m",
-      "consensus": "0.4%",
-      "previous": "0.1%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "CPI y/y",
-      "consensus": "3.4%",
-      "previous": "3.4%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "16:00",
+      "time_paris": "17:15",
       "country": "EUR",
       "indicator": "ECB President Lagarde Speaks",
       "consensus": "",
       "previous": "",
       "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Prelim UoM Consumer Sentiment",
-      "consensus": "51.0",
-      "previous": "51.0",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Prelim UoM Inflation Expectations",
-      "consensus": "",
-      "previous": "4.3%",
-      "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "AI boom helps drive surprise UK growth in July",
-      "summary": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 09:50:40 GMT"
+      "title": "'Culture shift' needed in how UK does business, PM urges",
+      "summary": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+      "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 07:39:43 GMT"
     },
     {
-      "title": "I asked my husband to pay into my pension when we had a child - here's why",
-      "summary": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
-      "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 23:04:30 GMT"
+      "title": "Rent rises set to speed up in gloomy forecast for tenants",
+      "summary": "The cost of renting is expected to rise by 4% or 5% a year by December, says property website Zoopla.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 23:05:45 GMT"
     },
     {
-      "title": "Interest rates could rise again across the world – here's why",
-      "summary": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
-      "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 08:28:47 GMT"
+      "title": "Heading off to uni? Here's what to insure against theft",
+      "summary": "What should new students consider to keep your belongings safe and covered by insurance?",
+      "url": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 08:13:56 GMT"
     },
     {
-      "title": "Alstom to build new battery-electric train fleet",
-      "summary": "The government says the work will support thousands of jobs across the UK.",
-      "url": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 09:17:00 GMT"
+      "title": "Carney gambles on the world's biggest investors betting on Canada",
+      "summary": "In the midst of a trade war with the US, the prime minister leveraged his connections in global finance to invite some of the world's biggest investors to Canada.",
+      "url": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 23:03:06 GMT"
     },
     {
-      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-      "summary": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 17:38:31 GMT"
+      "title": "Amazon pauses work with cargo firm after fatal crash",
+      "summary": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 02:40:06 GMT"
     },
     {
-      "title": "Can Europe recharge its battery industry?",
-      "summary": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
-      "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 23:05:47 GMT"
+      "title": "MPs and Lords call for new law to address AI threat to human rights",
+      "summary": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 08:07:08 GMT"
     },
     {
-      "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
-      "summary": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
-      "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 13:34:17 GMT"
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 18:49:37 GMT"
     },
     {
-      "title": "Primark finally set to launch home deliveries",
-      "summary": "The retailer launches the service four years after making its first foray into internet shopping.",
-      "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 10:02:26 GMT"
+      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 14:53:40 GMT"
     }
   ],
   "sources_status": {
