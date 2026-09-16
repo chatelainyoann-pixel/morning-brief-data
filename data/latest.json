@@ -1,152 +1,192 @@
 {
-  "generated_at_utc": "2026-09-15T10:30:37.388577+00:00",
-  "generated_at_paris": "2026-09-15T12:30:37.388577+02:00",
-  "date_paris": "2026-09-15",
+  "generated_at_utc": "2026-09-16T09:40:53.636572+00:00",
+  "generated_at_paris": "2026-09-16T11:40:53.636572+02:00",
+  "date_paris": "2026-09-16",
   "indices": {
     "DAX": {
-      "open": 25498.7402,
-      "high": 25548.7793,
-      "low": 25325.5195,
-      "close": 25440.8105,
-      "date": "2026-09-14"
+      "open": 25360.3203,
+      "high": 25478.9805,
+      "low": 25172.8906,
+      "close": 25402.2793,
+      "date": "2026-09-15"
     },
     "CAC": {
-      "open": 8132.6299,
-      "high": 8165.1001,
-      "low": 8086.3999,
-      "close": 8117.7798,
-      "date": "2026-09-14"
+      "open": 8084.6099,
+      "high": 8110.5801,
+      "low": 8033.04,
+      "close": 8090.2798,
+      "date": "2026-09-15"
     },
     "FTSE": {
-      "open": 10650.9004,
-      "high": 10734.9004,
-      "low": 10650.9004,
-      "close": 10697.5996,
-      "date": "2026-09-14"
+      "open": 10697.7998,
+      "high": 10697.7998,
+      "low": 10586.4004,
+      "close": 10658.0996,
+      "date": "2026-09-15"
     },
     "SPX": {
-      "open": 7611.4399,
-      "high": 7647.9902,
-      "low": 7592.2798,
-      "close": 7619.98,
-      "date": "2026-09-14"
+      "open": 7612.2998,
+      "high": 7617.2598,
+      "low": 7572.6899,
+      "close": 7585.73,
+      "date": "2026-09-15"
     },
     "NDX": {
-      "open": 28890.9297,
-      "high": 29285.5,
-      "low": 28867.6699,
-      "close": 29127.1602,
-      "date": "2026-09-14"
+      "open": 29100.1602,
+      "high": 29142.8008,
+      "low": 28899.4297,
+      "close": 28937.8398,
+      "date": "2026-09-15"
     },
     "DJI": {
-      "open": 52750.8789,
-      "high": 52750.8789,
-      "low": 52278.8906,
-      "close": 52421.1992,
-      "date": "2026-09-14"
+      "open": 52303.2383,
+      "high": 52336.6094,
+      "low": 51875.6484,
+      "close": 52093.1094,
+      "date": "2026-09-15"
     },
     "N225": {
-      "open": 63659.5312,
-      "high": 63691.5312,
-      "low": 62726.1797,
-      "close": 63492.9883,
-      "date": "2026-09-14"
+      "open": 63190.3711,
+      "high": 64101.0,
+      "low": 63067.1797,
+      "close": 63484.1016,
+      "date": "2026-09-15"
     },
     "HSI": {
-      "open": 24701.1797,
-      "high": 24926.2402,
-      "low": 24662.1094,
-      "close": 24917.5996,
-      "date": "2026-09-14"
+      "open": 24934.0605,
+      "high": 24934.0605,
+      "low": 24657.0098,
+      "close": 24667.2402,
+      "date": "2026-09-15"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1595,
-      "high": 1.1596,
-      "low": 1.1524,
-      "close": 1.1594,
-      "date": "2026-09-14"
+      "open": 1.1548,
+      "high": 1.1553,
+      "low": 1.1528,
+      "close": 1.1549,
+      "date": "2026-09-15"
     },
     "GBPUSD": {
-      "open": 1.3526,
-      "high": 1.3528,
+      "open": 1.3501,
+      "high": 1.3503,
       "low": 1.3465,
-      "close": 1.3526,
-      "date": "2026-09-14"
+      "close": 1.3501,
+      "date": "2026-09-15"
     }
   },
   "vix": {
-    "value": 17.44,
-    "change_24h_pct": 1.99,
-    "date": "2026-09-15"
+    "value": 17.1,
+    "change_24h_pct": -0.58,
+    "date": "2026-09-16"
   },
   "macro_calendar_today": [
     {
       "time_paris": "08:00",
       "country": "GBP",
-      "indicator": "Claimant Count Change",
-      "consensus": "8.3K",
-      "previous": "-11.0K",
+      "indicator": "CPI y/y",
+      "consensus": "3.1%",
+      "previous": "2.9%",
       "impact": "High"
     },
     {
-      "time_paris": "08:00",
-      "country": "GBP",
-      "indicator": "Average Earnings Index 3m/y",
-      "consensus": "3.9%",
-      "previous": "4.1%",
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Core Retail Sales m/m",
+      "consensus": "0.6%",
+      "previous": "-0.3%",
       "impact": "Medium"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Retail Sales m/m",
+      "consensus": "0.8%",
+      "previous": "-0.6%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "20:00",
+      "country": "USD",
+      "indicator": "Federal Funds Rate",
+      "consensus": "4.00%",
+      "previous": "3.75%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "20:00",
+      "country": "USD",
+      "indicator": "FOMC Economic Projections",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    },
+    {
+      "time_paris": "20:00",
+      "country": "USD",
+      "indicator": "FOMC Statement",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    },
+    {
+      "time_paris": "20:30",
+      "country": "USD",
+      "indicator": "FOMC Press Conference",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
     }
   ],
   "news_bbc": [
     {
-      "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
-      "summary": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
-      "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 08:51:39 GMT"
+      "title": "Petrol and diesel price rises push UK inflation higher",
+      "summary": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
+      "url": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 08:49:17 GMT"
     },
     {
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-      "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
-      "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 08:49:31 GMT"
+      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 09:16:13 GMT"
     },
     {
-      "title": "I got paid $5,000 to move to a place I'd never heard of",
-      "summary": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
-      "url": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 23:08:28 GMT"
+      "title": "New job fresh out of uni? Here's how we survived the first few days",
+      "summary": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 08:36:37 GMT"
     },
     {
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-      "summary": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 00:32:21 GMT"
+      "title": "Complaints to watchdog about water firms soar",
+      "summary": "Many complaints were about affordability, after customers saw steep hikes to bills.",
+      "url": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 06:59:41 GMT"
     },
     {
-      "title": "Pubs in England and Wales to allow digital ID apps to prove age",
-      "summary": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 23:07:56 GMT"
+      "title": "UK in talks about joining global defence bank led by Canada",
+      "summary": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
+      "url": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 23:50:55 GMT"
     },
     {
-      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-      "summary": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
-      "url": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 02:50:36 GMT"
+      "title": "The extreme engineering of aircraft windows",
+      "summary": "Few companies have the technology to make aircraft windows which are getting harder to make.",
+      "url": "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 23:19:38 GMT"
     },
     {
-      "title": "Government set to nationalise troubled steel firm",
-      "summary": "Production at SSUK sites in South Yorkshire and the West Midlands was paused earlier this year.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 19:06:46 GMT"
+      "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
+      "summary": "The global AI race is being hit by very localised political and environmental concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 23:39:55 GMT"
     },
     {
-      "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
-      "summary": "The cuts comes into effect in April, but the largest businesses will pay higher rates to fund the changes.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 05:13:08 GMT"
+      "title": "How rising bond yields impact American consumers",
+      "summary": "The BBC’s Samira Hussain explains why some could see increased interest rates for mortgages and business loans.",
+      "url": "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 03:58:32 GMT"
     }
   ],
   "sources_status": {
