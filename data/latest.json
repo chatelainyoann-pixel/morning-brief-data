@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-16T09:40:53.636572+00:00",
-  "generated_at_paris": "2026-09-16T11:40:53.636572+02:00",
+  "generated_at_utc": "2026-09-16T10:20:02.693542+00:00",
+  "generated_at_paris": "2026-09-16T12:20:02.693542+02:00",
   "date_paris": "2026-09-16",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 17.1,
-    "change_24h_pct": -0.58,
+    "value": 17.0,
+    "change_24h_pct": -1.16,
     "date": "2026-09-16"
   },
   "macro_calendar_today": [
@@ -150,10 +150,10 @@
       "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
       "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
       "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 09:16:13 GMT"
+      "published": "Wed, 16 Sep 2026 10:02:05 GMT"
     },
     {
-      "title": "New job fresh out of uni? Here's how we survived the first few days",
+      "title": "We managed to get jobs after uni - here's how we're keeping them",
       "summary": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
       "url": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 08:36:37 GMT"
