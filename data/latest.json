@@ -1,192 +1,176 @@
 {
-  "generated_at_utc": "2026-09-16T10:20:02.693542+00:00",
-  "generated_at_paris": "2026-09-16T12:20:02.693542+02:00",
-  "date_paris": "2026-09-16",
+  "generated_at_utc": "2026-09-17T09:49:29.376705+00:00",
+  "generated_at_paris": "2026-09-17T11:49:29.376705+02:00",
+  "date_paris": "2026-09-17",
   "indices": {
     "DAX": {
-      "open": 25360.3203,
-      "high": 25478.9805,
-      "low": 25172.8906,
-      "close": 25402.2793,
-      "date": "2026-09-15"
+      "open": 25515.9609,
+      "high": 25599.0703,
+      "low": 25361.6992,
+      "close": 25537.75,
+      "date": "2026-09-16"
     },
     "CAC": {
-      "open": 8084.6099,
-      "high": 8110.5801,
-      "low": 8033.04,
-      "close": 8090.2798,
-      "date": "2026-09-15"
+      "open": 8105.54,
+      "high": 8155.5098,
+      "low": 8088.1299,
+      "close": 8140.5898,
+      "date": "2026-09-16"
     },
     "FTSE": {
-      "open": 10697.7998,
-      "high": 10697.7998,
-      "low": 10586.4004,
-      "close": 10658.0996,
-      "date": "2026-09-15"
+      "open": 10658.2002,
+      "high": 10735.2998,
+      "low": 10655.7998,
+      "close": 10688.5,
+      "date": "2026-09-16"
     },
     "SPX": {
-      "open": 7612.2998,
-      "high": 7617.2598,
-      "low": 7572.6899,
-      "close": 7585.73,
-      "date": "2026-09-15"
+      "open": 7601.25,
+      "high": 7626.79,
+      "low": 7507.77,
+      "close": 7551.8101,
+      "date": "2026-09-16"
     },
     "NDX": {
-      "open": 29100.1602,
-      "high": 29142.8008,
-      "low": 28899.4297,
-      "close": 28937.8398,
-      "date": "2026-09-15"
+      "open": 29110.0391,
+      "high": 29235.8906,
+      "low": 28753.2891,
+      "close": 28945.0605,
+      "date": "2026-09-16"
     },
     "DJI": {
-      "open": 52303.2383,
-      "high": 52336.6094,
-      "low": 51875.6484,
-      "close": 52093.1094,
-      "date": "2026-09-15"
+      "open": 52115.3984,
+      "high": 52173.6992,
+      "low": 51186.6719,
+      "close": 51461.8984,
+      "date": "2026-09-16"
     },
     "N225": {
-      "open": 63190.3711,
-      "high": 64101.0,
-      "low": 63067.1797,
-      "close": 63484.1016,
-      "date": "2026-09-15"
+      "open": 63672.1289,
+      "high": 63923.0,
+      "low": 63209.9219,
+      "close": 63923.0,
+      "date": "2026-09-16"
     },
     "HSI": {
-      "open": 24934.0605,
-      "high": 24934.0605,
-      "low": 24657.0098,
-      "close": 24667.2402,
-      "date": "2026-09-15"
+      "open": 24789.9102,
+      "high": 24789.9102,
+      "low": 24574.75,
+      "close": 24713.7793,
+      "date": "2026-09-16"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1548,
-      "high": 1.1553,
-      "low": 1.1528,
-      "close": 1.1549,
-      "date": "2026-09-15"
+      "open": 1.1537,
+      "high": 1.1556,
+      "low": 1.1531,
+      "close": 1.1538,
+      "date": "2026-09-16"
     },
     "GBPUSD": {
-      "open": 1.3501,
-      "high": 1.3503,
-      "low": 1.3465,
-      "close": 1.3501,
-      "date": "2026-09-15"
+      "open": 1.3471,
+      "high": 1.3495,
+      "low": 1.3446,
+      "close": 1.3473,
+      "date": "2026-09-16"
     }
   },
   "vix": {
-    "value": 17.0,
-    "change_24h_pct": -1.16,
-    "date": "2026-09-16"
+    "value": 16.03,
+    "change_24h_pct": -9.49,
+    "date": "2026-09-17"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "08:00",
+      "time_paris": "13:00",
       "country": "GBP",
-      "indicator": "CPI y/y",
-      "consensus": "3.1%",
-      "previous": "2.9%",
+      "indicator": "Monetary Policy Summary",
+      "consensus": "",
+      "previous": "",
       "impact": "High"
     },
     {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Core Retail Sales m/m",
-      "consensus": "0.6%",
-      "previous": "-0.3%",
-      "impact": "Medium"
+      "time_paris": "13:00",
+      "country": "GBP",
+      "indicator": "MPC Official Bank Rate Votes",
+      "consensus": "3-0-6",
+      "previous": "3-0-6",
+      "impact": "High"
     },
     {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Retail Sales m/m",
-      "consensus": "0.8%",
-      "previous": "-0.6%",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "20:00",
-      "country": "USD",
-      "indicator": "Federal Funds Rate",
-      "consensus": "4.00%",
+      "time_paris": "13:00",
+      "country": "GBP",
+      "indicator": "Official Bank Rate",
+      "consensus": "3.75%",
       "previous": "3.75%",
       "impact": "High"
     },
     {
-      "time_paris": "20:00",
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "FOMC Economic Projections",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
+      "indicator": "Philly Fed Manufacturing Index",
+      "consensus": "31.3",
+      "previous": "47.4",
+      "impact": "Medium"
     },
     {
-      "time_paris": "20:00",
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "FOMC Statement",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
-    },
-    {
-      "time_paris": "20:30",
-      "country": "USD",
-      "indicator": "FOMC Press Conference",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
+      "indicator": "Unemployment Claims",
+      "consensus": "207K",
+      "previous": "206K",
+      "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Petrol and diesel price rises push UK inflation higher",
-      "summary": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
-      "url": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 08:49:17 GMT"
+      "title": "Interest rates hold expected but Bank of England facing tough choices",
+      "summary": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 06:06:49 GMT"
     },
     {
-      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 10:02:05 GMT"
+      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+      "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 08:22:12 GMT"
     },
     {
-      "title": "We managed to get jobs after uni - here's how we're keeping them",
-      "summary": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 08:36:37 GMT"
+      "title": "US interest rates raised for first time in three years",
+      "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 00:40:17 GMT"
     },
     {
-      "title": "Complaints to watchdog about water firms soar",
-      "summary": "Many complaints were about affordability, after customers saw steep hikes to bills.",
-      "url": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 06:59:41 GMT"
+      "title": "I sent 200 DMs to companies - it was awkward but I got a job",
+      "summary": "From coffee chats to LinkedIn messages, here's how to network your way to your next job.",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 23:15:53 GMT"
     },
     {
-      "title": "UK in talks about joining global defence bank led by Canada",
-      "summary": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
-      "url": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 23:50:55 GMT"
+      "title": "Would you buy branded clothing from your favourite tech firm?",
+      "summary": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
+      "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 23:18:47 GMT"
     },
     {
-      "title": "The extreme engineering of aircraft windows",
-      "summary": "Few companies have the technology to make aircraft windows which are getting harder to make.",
-      "url": "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 23:19:38 GMT"
+      "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
+      "summary": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 03:09:21 GMT"
     },
     {
-      "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
-      "summary": "The global AI race is being hit by very localised political and environmental concerns",
-      "url": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 23:39:55 GMT"
+      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+      "summary": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 23:41:57 GMT"
     },
     {
-      "title": "How rising bond yields impact American consumers",
-      "summary": "The BBC’s Samira Hussain explains why some could see increased interest rates for mortgages and business loans.",
-      "url": "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 03:58:32 GMT"
+      "title": "EU chief backs plan for Canada to become 'associate member'",
+      "summary": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 00:32:05 GMT"
     }
   ],
   "sources_status": {
