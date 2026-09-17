@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-17T09:49:29.376705+00:00",
-  "generated_at_paris": "2026-09-17T11:49:29.376705+02:00",
+  "generated_at_utc": "2026-09-17T10:29:05.683122+00:00",
+  "generated_at_paris": "2026-09-17T12:29:05.683122+02:00",
   "date_paris": "2026-09-17",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 16.03,
-    "change_24h_pct": -9.49,
+    "value": 16.0,
+    "change_24h_pct": -9.66,
     "date": "2026-09-17"
   },
   "macro_calendar_today": [
@@ -143,7 +143,7 @@
       "published": "Thu, 17 Sep 2026 00:40:17 GMT"
     },
     {
-      "title": "I sent 200 DMs to companies - it was awkward but I got a job",
+      "title": "I sent 200 DMs and got a job: How to nail networking",
       "summary": "From coffee chats to LinkedIn messages, here's how to network your way to your next job.",
       "url": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 16 Sep 2026 23:15:53 GMT"
