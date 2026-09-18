@@ -1,176 +1,152 @@
 {
-  "generated_at_utc": "2026-09-17T10:29:05.683122+00:00",
-  "generated_at_paris": "2026-09-17T12:29:05.683122+02:00",
-  "date_paris": "2026-09-17",
+  "generated_at_utc": "2026-09-18T09:23:19.939384+00:00",
+  "generated_at_paris": "2026-09-18T11:23:19.939384+02:00",
+  "date_paris": "2026-09-18",
   "indices": {
     "DAX": {
-      "open": 25515.9609,
-      "high": 25599.0703,
-      "low": 25361.6992,
-      "close": 25537.75,
-      "date": "2026-09-16"
+      "open": 25681.5996,
+      "high": 25800.6191,
+      "low": 25596.0508,
+      "close": 25716.7109,
+      "date": "2026-09-17"
     },
     "CAC": {
-      "open": 8105.54,
-      "high": 8155.5098,
-      "low": 8088.1299,
-      "close": 8140.5898,
-      "date": "2026-09-16"
+      "open": 8176.9902,
+      "high": 8209.6699,
+      "low": 8142.1602,
+      "close": 8186.9302,
+      "date": "2026-09-17"
     },
     "FTSE": {
-      "open": 10658.2002,
-      "high": 10735.2998,
-      "low": 10655.7998,
-      "close": 10688.5,
-      "date": "2026-09-16"
+      "open": 10689.2998,
+      "high": 10823.0,
+      "low": 10688.9004,
+      "close": 10816.0996,
+      "date": "2026-09-17"
     },
     "SPX": {
-      "open": 7601.25,
-      "high": 7626.79,
-      "low": 7507.77,
-      "close": 7551.8101,
-      "date": "2026-09-16"
+      "open": 7631.4399,
+      "high": 7646.8599,
+      "low": 7611.8101,
+      "close": 7637.7598,
+      "date": "2026-09-17"
     },
     "NDX": {
-      "open": 29110.0391,
-      "high": 29235.8906,
-      "low": 28753.2891,
-      "close": 28945.0605,
-      "date": "2026-09-16"
+      "open": 29401.5391,
+      "high": 29494.9492,
+      "low": 29305.9004,
+      "close": 29446.9805,
+      "date": "2026-09-17"
     },
     "DJI": {
-      "open": 52115.3984,
-      "high": 52173.6992,
-      "low": 51186.6719,
-      "close": 51461.8984,
-      "date": "2026-09-16"
+      "open": 51882.5312,
+      "high": 51935.9688,
+      "low": 51607.6484,
+      "close": 51778.0391,
+      "date": "2026-09-17"
     },
     "N225": {
-      "open": 63672.1289,
-      "high": 63923.0,
-      "low": 63209.9219,
-      "close": 63923.0,
-      "date": "2026-09-16"
+      "open": 64643.5781,
+      "high": 64643.5781,
+      "low": 63824.5586,
+      "close": 64136.25,
+      "date": "2026-09-17"
     },
     "HSI": {
-      "open": 24789.9102,
-      "high": 24789.9102,
-      "low": 24574.75,
-      "close": 24713.7793,
-      "date": "2026-09-16"
+      "open": 24480.5703,
+      "high": 24606.1504,
+      "low": 24357.6895,
+      "close": 24604.2891,
+      "date": "2026-09-17"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1537,
-      "high": 1.1556,
-      "low": 1.1531,
-      "close": 1.1538,
-      "date": "2026-09-16"
+      "open": 1.1468,
+      "high": 1.1498,
+      "low": 1.1457,
+      "close": 1.147,
+      "date": "2026-09-17"
     },
     "GBPUSD": {
-      "open": 1.3471,
-      "high": 1.3495,
-      "low": 1.3446,
-      "close": 1.3473,
-      "date": "2026-09-16"
+      "open": 1.3382,
+      "high": 1.3407,
+      "low": 1.3338,
+      "close": 1.3383,
+      "date": "2026-09-17"
     }
   },
   "vix": {
-    "value": 16.0,
-    "change_24h_pct": -9.66,
-    "date": "2026-09-17"
+    "value": 15.22,
+    "change_24h_pct": -1.42,
+    "date": "2026-09-18"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "13:00",
+      "time_paris": "08:00",
       "country": "GBP",
-      "indicator": "Monetary Policy Summary",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
-    },
-    {
-      "time_paris": "13:00",
-      "country": "GBP",
-      "indicator": "MPC Official Bank Rate Votes",
-      "consensus": "3-0-6",
-      "previous": "3-0-6",
-      "impact": "High"
-    },
-    {
-      "time_paris": "13:00",
-      "country": "GBP",
-      "indicator": "Official Bank Rate",
-      "consensus": "3.75%",
-      "previous": "3.75%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Philly Fed Manufacturing Index",
-      "consensus": "31.3",
-      "previous": "47.4",
+      "indicator": "Retail Sales m/m",
+      "consensus": "-0.2%",
+      "previous": "-0.5%",
       "impact": "Medium"
     },
     {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "207K",
-      "previous": "206K",
+      "time_paris": "12:30",
+      "country": "EUR",
+      "indicator": "ECB President Lagarde Speaks",
+      "consensus": "",
+      "previous": "",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Interest rates hold expected but Bank of England facing tough choices",
-      "summary": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
+      "title": "We bought our £242,000 home without a deposit - here's how",
+      "summary": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
+      "url": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 23:00:53 GMT"
+    },
+    {
+      "title": "Healey to ask EU finance ministers to let UK into Made in Europe scheme",
+      "summary": "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\".",
+      "url": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 06:52:47 GMT"
+    },
+    {
+      "title": "Thames Water rescue deal should be rejected - MPs",
+      "summary": "A report on the future of Thames Water, urging the government to take action, has been published.",
+      "url": "https://www.bbc.co.uk/news/articles/c6qjk9q1wpqeo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 05:16:57 GMT"
+    },
+    {
+      "title": "Japan raises interest rate to new 31-year high to curb rising prices",
+      "summary": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 07:14:57 GMT"
+    },
+    {
+      "title": "Early Bowie music available to stream for first time",
+      "summary": "Previously unheard material from the start of the artist's career has been released for the first time.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 23:01:03 GMT"
+    },
+    {
+      "title": "The virtual worlds where robots are trained",
+      "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
+      "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 23:00:47 GMT"
+    },
+    {
+      "title": "Interest rates held but Bank signals rise if energy prices stay high",
+      "summary": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
       "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 06:06:49 GMT"
+      "published": "Thu, 17 Sep 2026 14:05:38 GMT"
     },
     {
-      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 08:22:12 GMT"
-    },
-    {
-      "title": "US interest rates raised for first time in three years",
-      "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 00:40:17 GMT"
-    },
-    {
-      "title": "I sent 200 DMs and got a job: How to nail networking",
-      "summary": "From coffee chats to LinkedIn messages, here's how to network your way to your next job.",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 23:15:53 GMT"
-    },
-    {
-      "title": "Would you buy branded clothing from your favourite tech firm?",
-      "summary": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
-      "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 23:18:47 GMT"
-    },
-    {
-      "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-      "summary": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
-      "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 03:09:21 GMT"
-    },
-    {
-      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
-      "summary": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 16 Sep 2026 23:41:57 GMT"
-    },
-    {
-      "title": "EU chief backs plan for Canada to become 'associate member'",
-      "summary": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
-      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 00:32:05 GMT"
+      "title": "Barclays workers ask for more money to return to the office",
+      "summary": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 14:20:27 GMT"
     }
   ],
   "sources_status": {
