@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-21T10:24:36.887599+00:00",
-  "generated_at_paris": "2026-09-21T12:24:36.887599+02:00",
+  "generated_at_utc": "2026-09-21T11:09:43.032586+00:00",
+  "generated_at_paris": "2026-09-21T13:09:43.032586+02:00",
   "date_paris": "2026-09-21",
   "indices": {
     "DAX": {
@@ -93,6 +93,18 @@
   ],
   "news_bbc": [
     {
+      "title": "What are my rights if my flight is cancelled or delayed?",
+      "summary": "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?",
+      "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 10:28:17 GMT"
+    },
+    {
+      "title": "Tories pledge to bring back tax-free shopping for tourists",
+      "summary": "The party says scrapping the scheme in 2021 left the UK less competitive than European destinations.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd68px5qqddo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 10:37:23 GMT"
+    },
+    {
       "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
       "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
       "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
@@ -105,16 +117,16 @@
       "published": "Mon, 21 Sep 2026 05:50:56 GMT"
     },
     {
-      "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
-      "summary": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction.",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 06:25:43 GMT"
-    },
-    {
       "title": "Will you get £13,000 a year when you stop working? Here's how to check",
       "summary": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
       "url": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 08:49:45 GMT"
+    },
+    {
+      "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+      "summary": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction.",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 06:25:43 GMT"
     },
     {
       "title": "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
@@ -127,18 +139,6 @@
       "summary": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
       "url": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 20 Sep 2026 14:42:42 GMT"
-    },
-    {
-      "title": "Not all AI workers think the tech could kill everyone",
-      "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 23:01:57 GMT"
-    },
-    {
-      "title": "Chiltern Railways renationalised after 30 years",
-      "summary": "It joins Great British Railways as part of government plans to save money and improve services.",
-      "url": "https://www.bbc.co.uk/news/articles/c68xk701d975o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 10:45:39 GMT"
     }
   ],
   "sources_status": {
