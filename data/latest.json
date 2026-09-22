@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-09-21T11:09:43.032586+00:00",
-  "generated_at_paris": "2026-09-21T13:09:43.032586+02:00",
-  "date_paris": "2026-09-21",
+  "generated_at_utc": "2026-09-22T09:38:07.788517+00:00",
+  "generated_at_paris": "2026-09-22T11:38:07.788517+02:00",
+  "date_paris": "2026-09-22",
   "indices": {
     "DAX": {
-      "open": 25596.4609,
-      "high": 25656.2207,
-      "low": 25285.9004,
-      "close": 25304.0605,
-      "date": "2026-09-18"
+      "open": 25491.3496,
+      "high": 25617.9902,
+      "low": 25434.1602,
+      "close": 25575.0098,
+      "date": "2026-09-21"
     },
     "CAC": {
-      "open": 8153.54,
-      "high": 8161.0698,
-      "low": 8046.04,
-      "close": 8065.02,
-      "date": "2026-09-18"
+      "open": 8103.8501,
+      "high": 8154.2402,
+      "low": 8102.0898,
+      "close": 8138.9399,
+      "date": "2026-09-21"
     },
     "FTSE": {
-      "open": 10815.7998,
-      "high": 10815.9004,
-      "low": 10650.2002,
-      "close": 10659.0996,
-      "date": "2026-09-18"
+      "open": 10659.0996,
+      "high": 10774.7002,
+      "low": 10656.7002,
+      "close": 10739.0,
+      "date": "2026-09-21"
     },
     "SPX": {
-      "open": 7657.1699,
-      "high": 7657.1699,
-      "low": 7610.52,
-      "close": 7650.5,
-      "date": "2026-09-18"
+      "open": 7692.8301,
+      "high": 7779.2202,
+      "low": 7691.1899,
+      "close": 7764.7002,
+      "date": "2026-09-21"
     },
     "NDX": {
-      "open": 29529.6406,
-      "high": 29647.8008,
-      "low": 29371.8906,
-      "close": 29644.1699,
-      "date": "2026-09-18"
+      "open": 29947.1602,
+      "high": 30557.3398,
+      "low": 29933.2207,
+      "close": 30482.3496,
+      "date": "2026-09-21"
     },
     "DJI": {
-      "open": 51826.7812,
-      "high": 51826.7812,
-      "low": 51497.4688,
-      "close": 51682.6406,
-      "date": "2026-09-18"
+      "open": 51936.7617,
+      "high": 52128.5781,
+      "low": 51747.6797,
+      "close": 52048.8281,
+      "date": "2026-09-21"
     },
     "N225": {
       "open": 64681.5508,
@@ -53,37 +53,37 @@
       "date": "2026-09-18"
     },
     "HSI": {
-      "open": 24723.8496,
-      "high": 24862.9805,
-      "low": 24703.9199,
-      "close": 24750.7793,
-      "date": "2026-09-18"
+      "open": 24748.4492,
+      "high": 25042.7109,
+      "low": 24736.9199,
+      "close": 25042.7109,
+      "date": "2026-09-21"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1475,
-      "high": 1.1494,
-      "low": 1.1456,
-      "close": 1.1476,
-      "date": "2026-09-18"
+      "open": 1.1479,
+      "high": 1.1495,
+      "low": 1.1467,
+      "close": 1.148,
+      "date": "2026-09-21"
     },
     "GBPUSD": {
-      "open": 1.3356,
-      "high": 1.3378,
-      "low": 1.3337,
-      "close": 1.3358,
-      "date": "2026-09-18"
+      "open": 1.3391,
+      "high": 1.3399,
+      "low": 1.3369,
+      "close": 1.3389,
+      "date": "2026-09-21"
     }
   },
   "vix": {
-    "value": 14.89,
-    "change_24h_pct": 0.54,
-    "date": "2026-09-21"
+    "value": 14.9,
+    "change_24h_pct": 0.2,
+    "date": "2026-09-22"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "17:00",
+      "time_paris": "13:00",
       "country": "EUR",
       "indicator": "ECB President Lagarde Speaks",
       "consensus": "",
@@ -93,52 +93,52 @@
   ],
   "news_bbc": [
     {
-      "title": "What are my rights if my flight is cancelled or delayed?",
-      "summary": "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?",
-      "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 10:28:17 GMT"
+      "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
+      "summary": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 08:52:12 GMT"
     },
     {
-      "title": "Tories pledge to bring back tax-free shopping for tourists",
-      "summary": "The party says scrapping the scheme in 2021 left the UK less competitive than European destinations.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd68px5qqddo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 10:37:23 GMT"
+      "title": "Vet prescription fees capped under rule changes",
+      "summary": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 07:39:35 GMT"
     },
     {
-      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-      "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 04:00:38 GMT"
+      "title": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
+      "summary": "British Columbia has accused the company of failing to report the shooter's troubling interactions with ChatGPT to law enforcement.",
+      "url": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 01:44:17 GMT"
     },
     {
-      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-      "summary": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 05:50:56 GMT"
+      "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+      "summary": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
+      "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 23:01:26 GMT"
     },
     {
-      "title": "Will you get £13,000 a year when you stop working? Here's how to check",
-      "summary": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
-      "url": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 08:49:45 GMT"
+      "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+      "summary": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 21:34:32 GMT"
     },
     {
-      "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
-      "summary": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction.",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 06:25:43 GMT"
+      "title": "Spain battles climate change on several fronts",
+      "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 09:11:48 GMT"
     },
     {
-      "title": "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
-      "summary": "The billionaire businessman told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration.",
-      "url": "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 11:22:21 GMT"
+      "title": "Repeated air traffic control failures leave us in worrying territory",
+      "summary": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 16:39:01 GMT"
     },
     {
-      "title": "Ed Davey calls for immediate 10p cut to fuel duty",
-      "summary": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
-      "url": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 14:42:42 GMT"
+      "title": "Airlines criticise air traffic control as second glitch causes more disruption",
+      "summary": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
+      "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 20:21:18 GMT"
     }
   ],
   "sources_status": {
