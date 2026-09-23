@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-23T09:44:56.458315+00:00",
-  "generated_at_paris": "2026-09-23T11:44:56.458315+02:00",
+  "generated_at_utc": "2026-09-23T10:18:53.450390+00:00",
+  "generated_at_paris": "2026-09-23T12:18:53.450390+02:00",
   "date_paris": "2026-09-23",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 14.14,
-    "change_24h_pct": -4.91,
+    "value": 14.17,
+    "change_24h_pct": -4.71,
     "date": "2026-09-23"
   },
   "macro_calendar_today": [
@@ -136,7 +136,7 @@
       "title": "UK economy will grow by less than expected next year, OECD says",
       "summary": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
       "url": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 09:18:12 GMT"
+      "published": "Wed, 23 Sep 2026 09:58:49 GMT"
     },
     {
       "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
@@ -145,7 +145,7 @@
       "published": "Tue, 22 Sep 2026 23:11:33 GMT"
     },
     {
-      "title": "Trump wants AI to be called 'super intelligence'. Will it work?",
+      "title": "Trump wants AI to be called super intelligence. Will it work?",
       "summary": "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
       "url": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 03:20:30 GMT"
