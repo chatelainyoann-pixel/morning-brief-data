@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-22T10:24:13.016292+00:00",
-  "generated_at_paris": "2026-09-22T12:24:13.016292+02:00",
-  "date_paris": "2026-09-22",
+  "generated_at_utc": "2026-09-23T09:44:56.458315+00:00",
+  "generated_at_paris": "2026-09-23T11:44:56.458315+02:00",
+  "date_paris": "2026-09-23",
   "indices": {
     "DAX": {
       "open": 25491.3496,
@@ -25,25 +25,25 @@
       "date": "2026-09-21"
     },
     "SPX": {
-      "open": 7692.8301,
-      "high": 7779.2202,
-      "low": 7691.1899,
-      "close": 7764.7002,
-      "date": "2026-09-21"
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
+      "date": "2026-09-22"
     },
     "NDX": {
-      "open": 29947.1602,
-      "high": 30557.3398,
-      "low": 29933.2207,
-      "close": 30482.3496,
-      "date": "2026-09-21"
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
+      "date": "2026-09-22"
     },
     "DJI": {
-      "open": 51936.7617,
-      "high": 52128.5781,
-      "low": 51747.6797,
-      "close": 52048.8281,
-      "date": "2026-09-21"
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
+      "date": "2026-09-22"
     },
     "N225": {
       "open": 64681.5508,
@@ -62,83 +62,123 @@
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1479,
-      "high": 1.1495,
-      "low": 1.1467,
-      "close": 1.148,
-      "date": "2026-09-21"
+      "open": 1.1464,
+      "high": 1.1481,
+      "low": 1.1431,
+      "close": 1.1465,
+      "date": "2026-09-22"
     },
     "GBPUSD": {
-      "open": 1.3391,
-      "high": 1.3399,
-      "low": 1.3369,
-      "close": 1.3389,
-      "date": "2026-09-21"
+      "open": 1.337,
+      "high": 1.3389,
+      "low": 1.3324,
+      "close": 1.3371,
+      "date": "2026-09-22"
     }
   },
   "vix": {
-    "value": 14.8,
-    "change_24h_pct": -0.47,
-    "date": "2026-09-22"
+    "value": 14.14,
+    "change_24h_pct": -4.91,
+    "date": "2026-09-23"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "13:00",
+      "time_paris": "09:15",
       "country": "EUR",
-      "indicator": "ECB President Lagarde Speaks",
-      "consensus": "",
-      "previous": "",
+      "indicator": "French Flash Manufacturing PMI",
+      "consensus": "50.9",
+      "previous": "51.5",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "09:15",
+      "country": "EUR",
+      "indicator": "French Flash Services PMI",
+      "consensus": "48.3",
+      "previous": "48.4",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "09:30",
+      "country": "EUR",
+      "indicator": "German Flash Manufacturing PMI",
+      "consensus": "54.1",
+      "previous": "54.1",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "09:30",
+      "country": "EUR",
+      "indicator": "German Flash Services PMI",
+      "consensus": "49.9",
+      "previous": "48.5",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "10:30",
+      "country": "GBP",
+      "indicator": "Flash Manufacturing PMI",
+      "consensus": "51.5",
+      "previous": "51.5",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "10:30",
+      "country": "GBP",
+      "indicator": "Flash Services PMI",
+      "consensus": "52.0",
+      "previous": "52.8",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
-      "summary": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
-      "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 08:52:12 GMT"
+      "title": "UK economy will grow by less than expected next year, OECD says",
+      "summary": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
+      "url": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 09:18:12 GMT"
     },
     {
-      "title": "Vet prescription fees capped under rule changes",
-      "summary": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 07:39:35 GMT"
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "summary": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 23:11:33 GMT"
     },
     {
-      "title": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
-      "summary": "British Columbia has accused the company of failing to report the shooter's troubling interactions with ChatGPT to law enforcement.",
-      "url": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 01:44:17 GMT"
+      "title": "Trump wants AI to be called 'super intelligence'. Will it work?",
+      "summary": "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
+      "url": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 03:20:30 GMT"
     },
     {
-      "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
-      "summary": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
-      "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 23:01:26 GMT"
+      "title": "UK and US warned to take action on spiralling debt costs by IMF",
+      "summary": "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
+      "url": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 08:31:16 GMT"
     },
     {
-      "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
-      "summary": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 21:34:32 GMT"
+      "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
+      "summary": "Three 20-somethings tell BBC News how they are navigating life without parental support.",
+      "url": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 23:20:31 GMT"
     },
     {
-      "title": "Spain battles climate change on several fronts",
-      "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
-      "url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 09:11:48 GMT"
+      "title": "Will a switch to light speed cut power use at data centres?",
+      "summary": "To save power and add capacity,  data centres are switching from copper wires to tech using light.",
+      "url": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 23:03:48 GMT"
     },
     {
-      "title": "Repeated air traffic control failures leave us in worrying territory",
-      "summary": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
-      "url": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 16:39:01 GMT"
+      "title": "Trump says he would back ban on diesel exports",
+      "summary": "Republicans lawmakers have put pressure on the president to curb exports as diesel prices soar to record highs in the US.",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 20:41:13 GMT"
     },
     {
-      "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-      "summary": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
-      "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 20:21:18 GMT"
+      "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+      "summary": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+      "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 15:43:14 GMT"
     }
   ],
   "sources_status": {
