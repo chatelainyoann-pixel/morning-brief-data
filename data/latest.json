@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-24T09:42:36.422177+00:00",
-  "generated_at_paris": "2026-09-24T11:42:36.422177+02:00",
+  "generated_at_utc": "2026-09-24T10:33:11.601394+00:00",
+  "generated_at_paris": "2026-09-24T12:33:11.601394+02:00",
   "date_paris": "2026-09-24",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 16.26,
-    "change_24h_pct": 7.11,
+    "value": 16.28,
+    "change_24h_pct": 7.25,
     "date": "2026-09-24"
   },
   "macro_calendar_today": [
@@ -129,16 +129,16 @@
       "published": "Wed, 23 Sep 2026 22:35:14 GMT"
     },
     {
+      "title": "Rolls-Royce signs 'multi-million' engine deal",
+      "summary": "The order will see 18 engines built and maintained by the company from its Derby aerospace centre.",
+      "url": "https://www.bbc.co.uk/news/articles/cmpwle47zxgyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 10:14:47 GMT"
+    },
+    {
       "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
       "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
       "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 24 Sep 2026 07:10:58 GMT"
-    },
-    {
-      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-      "summary": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 16:42:47 GMT"
     }
   ],
   "sources_status": {
