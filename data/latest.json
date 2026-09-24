@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-09-23T10:18:53.450390+00:00",
-  "generated_at_paris": "2026-09-23T12:18:53.450390+02:00",
-  "date_paris": "2026-09-23",
+  "generated_at_utc": "2026-09-24T09:42:36.422177+00:00",
+  "generated_at_paris": "2026-09-24T11:42:36.422177+02:00",
+  "date_paris": "2026-09-24",
   "indices": {
     "DAX": {
-      "open": 25491.3496,
-      "high": 25617.9902,
-      "low": 25434.1602,
-      "close": 25575.0098,
-      "date": "2026-09-21"
+      "open": 25724.1309,
+      "high": 25729.0508,
+      "low": 25365.2109,
+      "close": 25410.6309,
+      "date": "2026-09-23"
     },
     "CAC": {
-      "open": 8103.8501,
-      "high": 8154.2402,
-      "low": 8102.0898,
-      "close": 8138.9399,
-      "date": "2026-09-21"
+      "open": 8190.2202,
+      "high": 8199.6602,
+      "low": 8112.2202,
+      "close": 8123.4102,
+      "date": "2026-09-23"
     },
     "FTSE": {
-      "open": 10659.0996,
-      "high": 10774.7002,
-      "low": 10656.7002,
-      "close": 10739.0,
-      "date": "2026-09-21"
+      "open": 10708.7998,
+      "high": 10762.5,
+      "low": 10682.7002,
+      "close": 10705.2998,
+      "date": "2026-09-23"
     },
     "SPX": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "date": "2026-09-22"
+      "open": 7761.9399,
+      "high": 7761.9399,
+      "low": 7694.8901,
+      "close": 7706.0298,
+      "date": "2026-09-23"
     },
     "NDX": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "date": "2026-09-22"
+      "open": 30706.2305,
+      "high": 30706.2305,
+      "low": 30353.8809,
+      "close": 30470.2891,
+      "date": "2026-09-23"
     },
     "DJI": {
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "date": "2026-09-22"
+      "open": 51771.4102,
+      "high": 51846.8086,
+      "low": 51477.5312,
+      "close": 51511.5898,
+      "date": "2026-09-23"
     },
     "N225": {
       "open": 64681.5508,
@@ -53,132 +53,92 @@
       "date": "2026-09-18"
     },
     "HSI": {
-      "open": 24748.4492,
-      "high": 25042.7109,
-      "low": 24736.9199,
-      "close": 25042.7109,
-      "date": "2026-09-21"
+      "open": 25064.8398,
+      "high": 25072.25,
+      "low": 24811.8496,
+      "close": 24834.1191,
+      "date": "2026-09-23"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1464,
-      "high": 1.1481,
-      "low": 1.1431,
-      "close": 1.1465,
-      "date": "2026-09-22"
+      "open": 1.1447,
+      "high": 1.1451,
+      "low": 1.1385,
+      "close": 1.1448,
+      "date": "2026-09-23"
     },
     "GBPUSD": {
-      "open": 1.337,
-      "high": 1.3389,
-      "low": 1.3324,
-      "close": 1.3371,
-      "date": "2026-09-22"
+      "open": 1.3343,
+      "high": 1.3344,
+      "low": 1.3249,
+      "close": 1.3343,
+      "date": "2026-09-23"
     }
   },
   "vix": {
-    "value": 14.17,
-    "change_24h_pct": -4.71,
-    "date": "2026-09-23"
+    "value": 16.26,
+    "change_24h_pct": 7.11,
+    "date": "2026-09-24"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "09:15",
-      "country": "EUR",
-      "indicator": "French Flash Manufacturing PMI",
-      "consensus": "50.9",
-      "previous": "51.5",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:15",
-      "country": "EUR",
-      "indicator": "French Flash Services PMI",
-      "consensus": "48.3",
-      "previous": "48.4",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:30",
-      "country": "EUR",
-      "indicator": "German Flash Manufacturing PMI",
-      "consensus": "54.1",
-      "previous": "54.1",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:30",
-      "country": "EUR",
-      "indicator": "German Flash Services PMI",
-      "consensus": "49.9",
-      "previous": "48.5",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "10:30",
-      "country": "GBP",
-      "indicator": "Flash Manufacturing PMI",
-      "consensus": "51.5",
-      "previous": "51.5",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "10:30",
-      "country": "GBP",
-      "indicator": "Flash Services PMI",
-      "consensus": "52.0",
-      "previous": "52.8",
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Unemployment Claims",
+      "consensus": "201K",
+      "previous": "196K",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "UK economy will grow by less than expected next year, OECD says",
-      "summary": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-      "url": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 09:58:49 GMT"
+      "title": "£170 a bag? Protein users squeezed as prices soar",
+      "summary": "Consumers are feeling the pinch from the rising cost of protein.",
+      "url": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 23:12:01 GMT"
     },
     {
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-      "summary": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 23:11:33 GMT"
+      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+      "summary": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
+      "url": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 00:50:24 GMT"
     },
     {
-      "title": "Trump wants AI to be called super intelligence. Will it work?",
-      "summary": "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
-      "url": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 03:20:30 GMT"
+      "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
+      "summary": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
+      "url": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 21:25:01 GMT"
     },
     {
-      "title": "UK and US warned to take action on spiralling debt costs by IMF",
-      "summary": "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
-      "url": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 08:31:16 GMT"
+      "title": "Trump and Xi come face-to-face as US and China jostle for dominance over AI",
+      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 22:01:17 GMT"
     },
     {
-      "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
-      "summary": "Three 20-somethings tell BBC News how they are navigating life without parental support.",
-      "url": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 23:20:31 GMT"
+      "title": "How the oil capital of the US welcomed a solar power boom",
+      "summary": "Texas is now the country's biggest producer of solar-farmed electricity.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 23:12:22 GMT"
     },
     {
-      "title": "Will a switch to light speed cut power use at data centres?",
-      "summary": "To save power and add capacity,  data centres are switching from copper wires to tech using light.",
-      "url": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 23:03:48 GMT"
+      "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
+      "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
+      "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 22:35:14 GMT"
     },
     {
-      "title": "Trump says he would back ban on diesel exports",
-      "summary": "Republicans lawmakers have put pressure on the president to curb exports as diesel prices soar to record highs in the US.",
-      "url": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 20:41:13 GMT"
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 07:10:58 GMT"
     },
     {
-      "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
-      "summary": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
-      "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 15:43:14 GMT"
+      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+      "summary": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 16:42:47 GMT"
     }
   ],
   "sources_status": {
