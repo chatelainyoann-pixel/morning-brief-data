@@ -1,144 +1,168 @@
 {
-  "generated_at_utc": "2026-09-24T10:33:11.601394+00:00",
-  "generated_at_paris": "2026-09-24T12:33:11.601394+02:00",
-  "date_paris": "2026-09-24",
+  "generated_at_utc": "2026-09-25T09:59:48.295119+00:00",
+  "generated_at_paris": "2026-09-25T11:59:48.295119+02:00",
+  "date_paris": "2026-09-25",
   "indices": {
     "DAX": {
-      "open": 25724.1309,
-      "high": 25729.0508,
-      "low": 25365.2109,
-      "close": 25410.6309,
-      "date": "2026-09-23"
+      "open": 25263.1094,
+      "high": 25424.2109,
+      "low": 25164.1992,
+      "close": 25266.5293,
+      "date": "2026-09-24"
     },
     "CAC": {
-      "open": 8190.2202,
-      "high": 8199.6602,
-      "low": 8112.2202,
-      "close": 8123.4102,
-      "date": "2026-09-23"
+      "open": 8088.8198,
+      "high": 8123.1099,
+      "low": 8049.5601,
+      "close": 8081.4302,
+      "date": "2026-09-24"
     },
     "FTSE": {
-      "open": 10708.7998,
-      "high": 10762.5,
-      "low": 10682.7002,
-      "close": 10705.2998,
-      "date": "2026-09-23"
+      "open": 10705.5,
+      "high": 10741.0996,
+      "low": 10666.9004,
+      "close": 10680.0,
+      "date": "2026-09-24"
     },
     "SPX": {
-      "open": 7761.9399,
-      "high": 7761.9399,
-      "low": 7694.8901,
-      "close": 7706.0298,
-      "date": "2026-09-23"
+      "open": 7666.9902,
+      "high": 7719.0098,
+      "low": 7662.5698,
+      "close": 7704.1299,
+      "date": "2026-09-24"
     },
     "NDX": {
-      "open": 30706.2305,
-      "high": 30706.2305,
-      "low": 30353.8809,
-      "close": 30470.2891,
-      "date": "2026-09-23"
+      "open": 30225.1895,
+      "high": 30529.3496,
+      "low": 30204.1602,
+      "close": 30478.8594,
+      "date": "2026-09-24"
     },
     "DJI": {
-      "open": 51771.4102,
-      "high": 51846.8086,
-      "low": 51477.5312,
-      "close": 51511.5898,
-      "date": "2026-09-23"
+      "open": 51415.75,
+      "high": 51485.9688,
+      "low": 51124.0195,
+      "close": 51349.9805,
+      "date": "2026-09-24"
     },
     "N225": {
-      "open": 64681.5508,
-      "high": 65436.5703,
-      "low": 64403.8516,
-      "close": 65018.9492,
-      "date": "2026-09-18"
+      "open": 65476.4414,
+      "high": 66249.1094,
+      "low": 65407.3711,
+      "close": 65513.9883,
+      "date": "2026-09-24"
     },
     "HSI": {
-      "open": 25064.8398,
-      "high": 25072.25,
-      "low": 24811.8496,
-      "close": 24834.1191,
-      "date": "2026-09-23"
+      "open": 24649.4492,
+      "high": 24791.1992,
+      "low": 24648.2891,
+      "close": 24761.1309,
+      "date": "2026-09-24"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1447,
-      "high": 1.1451,
-      "low": 1.1385,
-      "close": 1.1448,
-      "date": "2026-09-23"
+      "open": 1.1383,
+      "high": 1.14,
+      "low": 1.136,
+      "close": 1.1382,
+      "date": "2026-09-24"
     },
     "GBPUSD": {
-      "open": 1.3343,
-      "high": 1.3344,
-      "low": 1.3249,
-      "close": 1.3343,
-      "date": "2026-09-23"
+      "open": 1.324,
+      "high": 1.3256,
+      "low": 1.3211,
+      "close": 1.3242,
+      "date": "2026-09-24"
     }
   },
   "vix": {
-    "value": 16.28,
-    "change_24h_pct": 7.25,
-    "date": "2026-09-24"
+    "value": 15.33,
+    "change_24h_pct": -2.17,
+    "date": "2026-09-25"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "14:30",
+      "time_paris": "01:55",
       "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "201K",
-      "previous": "196K",
+      "indicator": "President Trump Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "11:15",
+      "country": "GBP",
+      "indicator": "BOE Gov Bailey Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    },
+    {
+      "time_paris": "16:00",
+      "country": "USD",
+      "indicator": "Revised UoM Consumer Sentiment",
+      "consensus": "47.4",
+      "previous": "47.8",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "16:00",
+      "country": "USD",
+      "indicator": "Revised UoM Inflation Expectations",
+      "consensus": "",
+      "previous": "4.6%",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "£170 a bag? Protein users squeezed as prices soar",
-      "summary": "Consumers are feeling the pinch from the rising cost of protein.",
-      "url": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 23:12:01 GMT"
+      "title": "'We're all broke': Would you chase a friend for £5?",
+      "summary": "What's the smallest amount of money you would ask a friend to pay you back?",
+      "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 23:00:45 GMT"
     },
     {
-      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-      "summary": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
-      "url": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 00:50:24 GMT"
+      "title": "Farmers down 240 million litres of milk after heat",
+      "summary": "Milk yield was affected by a series of extreme heatwaves which led to poor grazing conditions, researchers say.",
+      "url": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 05:30:13 GMT"
     },
     {
-      "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
-      "summary": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
-      "url": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 21:25:01 GMT"
+      "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+      "summary": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
+      "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 08:09:26 GMT"
     },
     {
-      "title": "Trump and Xi come face-to-face as US and China jostle for dominance over AI",
-      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 22:01:17 GMT"
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 18:06:40 GMT"
     },
     {
-      "title": "How the oil capital of the US welcomed a solar power boom",
-      "summary": "Texas is now the country's biggest producer of solar-farmed electricity.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 23:12:22 GMT"
+      "title": "Scam hotel booking sent family to Wetherspoon pub",
+      "summary": "Which? says staff are turning away up to 20 tourists a day after scammers used the pub's address.",
+      "url": "https://www.bbc.co.uk/news/articles/c3zxzqyj24xeo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 05:02:48 GMT"
     },
     {
-      "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
-      "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
-      "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 22:35:14 GMT"
+      "title": "X-planes: Are they needed in the new era of drones?",
+      "summary": "Where do America's X-plane projects fit in an era of cheap drones?",
+      "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 23:03:53 GMT"
     },
     {
-      "title": "Rolls-Royce signs 'multi-million' engine deal",
-      "summary": "The order will see 18 engines built and maintained by the company from its Derby aerospace centre.",
-      "url": "https://www.bbc.co.uk/news/articles/cmpwle47zxgyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 10:14:47 GMT"
+      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+      "summary": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
+      "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 06:48:07 GMT"
     },
     {
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 07:10:58 GMT"
+      "title": "We've proven people wrong - and now ship our gym equipment all over the world",
+      "summary": "Northern Ireland's economic output, which is broadly equivalent to UK GDP, rose by 2.3% in the year to June.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgywjxv14po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 05:24:57 GMT"
     }
   ],
   "sources_status": {
