@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-28T11:26:48.627693+00:00",
-  "generated_at_paris": "2026-09-28T13:26:48.627693+02:00",
+  "generated_at_utc": "2026-09-28T12:03:23.913347+00:00",
+  "generated_at_paris": "2026-09-28T14:03:23.913347+02:00",
   "date_paris": "2026-09-28",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 16.36,
-    "change_24h_pct": 10.02,
+    "value": 16.27,
+    "change_24h_pct": 9.41,
     "date": "2026-09-28"
   },
   "macro_calendar_today": [
@@ -93,6 +93,18 @@
   ],
   "news_bbc": [
     {
+      "title": "UK diesel price hits all-time high, RAC says",
+      "summary": "The US-Israel war with Iran has caused fuel prices to soar.",
+      "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 10:00:18 GMT"
+    },
+    {
+      "title": "Why UK diesel prices have hit an all-time high",
+      "summary": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 11:50:18 GMT"
+    },
+    {
       "title": "Why the PM could finally drop the triple lock pension pledge",
       "summary": "Andy Burnham said that he would make tough decisions to fund a new national care service.",
       "url": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
@@ -105,28 +117,16 @@
       "published": "Mon, 28 Sep 2026 07:19:48 GMT"
     },
     {
-      "title": "My hometown shows that high streets have to change or die",
-      "summary": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
-      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 23:05:53 GMT"
-    },
-    {
       "title": "Tourism tax needs to be more flexible in Wales, warns expert",
       "summary": "Anglesey, Conwy and Gwynedd councils have all put a pause on introducing the nightly tourist tax.",
       "url": "https://www.bbc.co.uk/news/articles/cm4glxn32zypo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 28 Sep 2026 10:49:31 GMT"
     },
     {
-      "title": "Avanti West Coast services to be nationalised from March",
-      "summary": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
-      "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 09:07:52 GMT"
-    },
-    {
-      "title": "OpenAI bots meddled with multiple US government agency sites",
-      "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 02:50:56 GMT"
+      "title": "My hometown shows that high streets have to change or die",
+      "summary": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 23:05:53 GMT"
     },
     {
       "title": "You need £17,000 for a first home - here's how to save it",
@@ -135,10 +135,10 @@
       "published": "Mon, 28 Sep 2026 08:21:54 GMT"
     },
     {
-      "title": "Andy Burnham refuses to back third runway at Heathrow",
-      "summary": "Andy Burnham said he would wait for the results of a consultation on a scheme estimated to cost £33bn",
-      "url": "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 11:22:32 GMT"
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 02:50:56 GMT"
     }
   ],
   "sources_status": {
