@@ -1,144 +1,160 @@
 {
-  "generated_at_utc": "2026-09-28T12:03:23.913347+00:00",
-  "generated_at_paris": "2026-09-28T14:03:23.913347+02:00",
-  "date_paris": "2026-09-28",
+  "generated_at_utc": "2026-09-29T11:06:57.540118+00:00",
+  "generated_at_paris": "2026-09-29T13:06:57.540118+02:00",
+  "date_paris": "2026-09-29",
   "indices": {
     "DAX": {
-      "open": 25441.7891,
-      "high": 25529.3301,
-      "low": 25347.3008,
-      "close": 25408.6406,
-      "date": "2026-09-25"
+      "open": 25443.9805,
+      "high": 25575.6602,
+      "low": 25360.3203,
+      "close": 25374.4199,
+      "date": "2026-09-28"
     },
     "CAC": {
-      "open": 8134.0601,
-      "high": 8136.29,
-      "low": 8057.1499,
-      "close": 8077.7998,
-      "date": "2026-09-25"
+      "open": 8110.9199,
+      "high": 8137.4199,
+      "low": 8071.5898,
+      "close": 8078.48,
+      "date": "2026-09-28"
     },
     "FTSE": {
-      "open": 10679.9004,
-      "high": 10753.4004,
-      "low": 10667.0,
-      "close": 10695.2998,
-      "date": "2026-09-25"
+      "open": 10695.2002,
+      "high": 10758.7002,
+      "low": 10684.9004,
+      "close": 10684.9004,
+      "date": "2026-09-28"
     },
     "SPX": {
-      "open": 7709.8599,
-      "high": 7752.0698,
-      "low": 7693.0801,
-      "close": 7743.4102,
-      "date": "2026-09-25"
+      "open": 7721.7002,
+      "high": 7724.1499,
+      "low": 7666.6001,
+      "close": 7683.6899,
+      "date": "2026-09-28"
     },
     "NDX": {
-      "open": 30517.4609,
-      "high": 30667.5605,
-      "low": 30413.5898,
-      "close": 30608.1309,
-      "date": "2026-09-25"
+      "open": 30426.6309,
+      "high": 30480.4004,
+      "low": 30081.0605,
+      "close": 30276.8105,
+      "date": "2026-09-28"
     },
     "DJI": {
-      "open": 51359.6992,
-      "high": 51874.9414,
-      "low": 51339.2383,
-      "close": 51828.6211,
-      "date": "2026-09-25"
+      "open": 51648.4805,
+      "high": 51780.5,
+      "low": 51409.6484,
+      "close": 51481.5117,
+      "date": "2026-09-28"
     },
     "N225": {
-      "open": 65639.6172,
-      "high": 66410.2734,
-      "low": 65639.6172,
-      "close": 66364.2031,
-      "date": "2026-09-25"
+      "open": 66505.9375,
+      "high": 67034.7422,
+      "low": 65877.6172,
+      "close": 65877.6172,
+      "date": "2026-09-28"
     },
     "HSI": {
-      "open": 24523.5,
-      "high": 24537.1406,
-      "low": 24275.5605,
-      "close": 24510.0898,
-      "date": "2026-09-25"
+      "open": 24554.5801,
+      "high": 24767.2207,
+      "low": 24554.5801,
+      "close": 24642.5098,
+      "date": "2026-09-28"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1374,
-      "high": 1.1412,
-      "low": 1.1369,
-      "close": 1.1375,
-      "date": "2026-09-25"
+      "open": 1.1378,
+      "high": 1.1392,
+      "low": 1.1354,
+      "close": 1.1378,
+      "date": "2026-09-28"
     },
     "GBPUSD": {
-      "open": 1.321,
-      "high": 1.3263,
-      "low": 1.321,
-      "close": 1.3211,
-      "date": "2026-09-25"
+      "open": 1.3229,
+      "high": 1.3274,
+      "low": 1.3228,
+      "close": 1.3229,
+      "date": "2026-09-28"
     }
   },
   "vix": {
-    "value": 16.27,
-    "change_24h_pct": 9.41,
-    "date": "2026-09-28"
+    "value": 16.04,
+    "change_24h_pct": -0.19,
+    "date": "2026-09-29"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "15:30",
+      "time_paris": "13:00",
       "country": "EUR",
       "indicator": "ECB President Lagarde Speaks",
       "consensus": "",
       "previous": "",
       "impact": "Medium"
+    },
+    {
+      "time_paris": "16:00",
+      "country": "USD",
+      "indicator": "CB Consumer Confidence",
+      "consensus": "89.2",
+      "previous": "89.4",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "16:00",
+      "country": "USD",
+      "indicator": "JOLTS Job Openings",
+      "consensus": "7.23M",
+      "previous": "7.27M",
+      "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "UK diesel price hits all-time high, RAC says",
-      "summary": "The US-Israel war with Iran has caused fuel prices to soar.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 10:00:18 GMT"
+      "title": "Burnham to unveil public body to invest in electricity grid",
+      "summary": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 06:54:10 GMT"
     },
     {
-      "title": "Why UK diesel prices have hit an all-time high",
-      "summary": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
-      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 11:50:18 GMT"
+      "title": "Warning more homes will be uninsurable due to flood risk",
+      "summary": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
+      "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 09:42:48 GMT"
     },
     {
-      "title": "Why the PM could finally drop the triple lock pension pledge",
-      "summary": "Andy Burnham said that he would make tough decisions to fund a new national care service.",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 07:38:21 GMT"
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 09:14:13 GMT"
     },
     {
-      "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
-      "summary": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
-      "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 07:19:48 GMT"
+      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+      "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 04:10:33 GMT"
     },
     {
-      "title": "Tourism tax needs to be more flexible in Wales, warns expert",
-      "summary": "Anglesey, Conwy and Gwynedd councils have all put a pause on introducing the nightly tourist tax.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4glxn32zypo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 10:49:31 GMT"
+      "title": "I paid £30,000 for an 'influencer' degree. Here's why",
+      "summary": "Content creation degrees aim to help people make money from social media, but are they worth the money?",
+      "url": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 07:02:07 GMT"
     },
     {
-      "title": "My hometown shows that high streets have to change or die",
-      "summary": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
-      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 23:05:53 GMT"
+      "title": "UK tries to stop Trump's diesel export ban",
+      "summary": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 07:19:04 GMT"
     },
     {
-      "title": "You need £17,000 for a first home - here's how to save it",
-      "summary": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 08:21:54 GMT"
+      "title": "What a US diesel export ban could mean for you",
+      "summary": "The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen.",
+      "url": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 18:18:30 GMT"
     },
     {
-      "title": "OpenAI bots meddled with multiple US government agency sites",
-      "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 02:50:56 GMT"
+      "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
+      "summary": "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 17:45:52 GMT"
     }
   ],
   "sources_status": {
