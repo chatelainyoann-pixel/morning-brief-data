@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-30T10:54:14.660165+00:00",
-  "generated_at_paris": "2026-09-30T12:54:14.660165+02:00",
+  "generated_at_utc": "2026-09-30T11:25:00.350861+00:00",
+  "generated_at_paris": "2026-09-30T13:25:00.350861+02:00",
   "date_paris": "2026-09-30",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 16.08,
-    "change_24h_pct": 0.25,
+    "value": 16.23,
+    "change_24h_pct": 1.18,
     "date": "2026-09-30"
   },
   "macro_calendar_today": [
@@ -157,7 +157,7 @@
       "published": "Wed, 30 Sep 2026 04:01:52 GMT"
     },
     {
-      "title": "People troll my DIY but they just spur me on",
+      "title": "Doubters spur me on: why female DIY is booming",
       "summary": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
       "url": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Sep 2026 07:27:11 GMT"
