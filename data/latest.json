@@ -1,160 +1,184 @@
 {
-  "generated_at_utc": "2026-09-29T11:37:17.084025+00:00",
-  "generated_at_paris": "2026-09-29T13:37:17.084025+02:00",
-  "date_paris": "2026-09-29",
+  "generated_at_utc": "2026-09-30T10:54:14.660165+00:00",
+  "generated_at_paris": "2026-09-30T12:54:14.660165+02:00",
+  "date_paris": "2026-09-30",
   "indices": {
     "DAX": {
-      "open": 25443.9805,
-      "high": 25575.6602,
-      "low": 25360.3203,
-      "close": 25374.4199,
-      "date": "2026-09-28"
+      "open": 25374.3398,
+      "high": 25617.3105,
+      "low": 25338.0293,
+      "close": 25399.2109,
+      "date": "2026-09-29"
     },
     "CAC": {
-      "open": 8110.9199,
-      "high": 8137.4199,
-      "low": 8071.5898,
-      "close": 8078.48,
-      "date": "2026-09-28"
+      "open": 8086.1602,
+      "high": 8107.2798,
+      "low": 8023.98,
+      "close": 8035.8701,
+      "date": "2026-09-29"
     },
     "FTSE": {
-      "open": 10695.2002,
-      "high": 10758.7002,
-      "low": 10684.9004,
-      "close": 10684.9004,
-      "date": "2026-09-28"
+      "open": 10685.2002,
+      "high": 10756.2002,
+      "low": 10622.0,
+      "close": 10636.7002,
+      "date": "2026-09-29"
     },
     "SPX": {
-      "open": 7721.7002,
-      "high": 7724.1499,
-      "low": 7666.6001,
-      "close": 7683.6899,
-      "date": "2026-09-28"
+      "open": 7699.6001,
+      "high": 7699.6001,
+      "low": 7653.5498,
+      "close": 7670.8398,
+      "date": "2026-09-29"
     },
     "NDX": {
-      "open": 30426.6309,
-      "high": 30480.4004,
-      "low": 30081.0605,
-      "close": 30276.8105,
-      "date": "2026-09-28"
+      "open": 30412.2891,
+      "high": 30429.9707,
+      "low": 30235.6602,
+      "close": 30339.3301,
+      "date": "2026-09-29"
     },
     "DJI": {
-      "open": 51648.4805,
-      "high": 51780.5,
-      "low": 51409.6484,
-      "close": 51481.5117,
-      "date": "2026-09-28"
+      "open": 51416.9609,
+      "high": 51505.1914,
+      "low": 51129.1797,
+      "close": 51349.9219,
+      "date": "2026-09-29"
     },
     "N225": {
-      "open": 66505.9375,
-      "high": 67034.7422,
-      "low": 65877.6172,
-      "close": 65877.6172,
-      "date": "2026-09-28"
+      "open": 65557.9922,
+      "high": 65805.0781,
+      "low": 64699.4883,
+      "close": 65481.2695,
+      "date": "2026-09-29"
     },
     "HSI": {
-      "open": 24554.5801,
-      "high": 24767.2207,
-      "low": 24554.5801,
-      "close": 24642.5098,
-      "date": "2026-09-28"
+      "open": 24648.6406,
+      "high": 24648.6406,
+      "low": 24444.1504,
+      "close": 24523.5703,
+      "date": "2026-09-29"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1378,
-      "high": 1.1392,
-      "low": 1.1354,
-      "close": 1.1378,
-      "date": "2026-09-28"
+      "open": 1.1371,
+      "high": 1.1373,
+      "low": 1.1328,
+      "close": 1.1373,
+      "date": "2026-09-29"
     },
     "GBPUSD": {
-      "open": 1.3229,
-      "high": 1.3274,
-      "low": 1.3228,
-      "close": 1.3229,
-      "date": "2026-09-28"
+      "open": 1.3255,
+      "high": 1.3256,
+      "low": 1.3203,
+      "close": 1.3254,
+      "date": "2026-09-29"
     }
   },
   "vix": {
-    "value": 15.86,
-    "change_24h_pct": -1.31,
-    "date": "2026-09-29"
+    "value": 16.08,
+    "change_24h_pct": 0.25,
+    "date": "2026-09-30"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "13:00",
+      "time_paris": "08:29",
       "country": "EUR",
-      "indicator": "ECB President Lagarde Speaks",
+      "indicator": "German Prelim CPI m/m",
+      "consensus": "0.5%",
+      "previous": "0.2%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:15",
+      "country": "USD",
+      "indicator": "ADP Non-Farm Employment Change",
+      "consensus": "73K",
+      "previous": "38K",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Core PCE Price Index m/m",
+      "consensus": "0.3%",
+      "previous": "0.2%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Final GDP q/q",
+      "consensus": "1.5%",
+      "previous": "1.5%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Final GDP Price Index q/q",
+      "consensus": "6.4%",
+      "previous": "6.4%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "21:30",
+      "country": "USD",
+      "indicator": "President Trump Speaks",
       "consensus": "",
       "previous": "",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "CB Consumer Confidence",
-      "consensus": "89.2",
-      "previous": "89.4",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "JOLTS Job Openings",
-      "consensus": "7.23M",
-      "previous": "7.27M",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Burnham to unveil public body to invest in electricity grid",
-      "summary": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 06:54:10 GMT"
+      "title": "Household energy bills forecast to see biggest rise in four years",
+      "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 10:47:49 GMT"
     },
     {
-      "title": "Warning more homes will be uninsurable due to flood risk",
-      "summary": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
-      "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 09:42:48 GMT"
+      "title": "Regulating AI 'not the right place to start' says Bailey",
+      "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
+      "url": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 10:20:20 GMT"
     },
     {
-      "title": "OpenAI scraps rollout of new model over safety concerns",
-      "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 09:14:13 GMT"
+      "title": "Greggs to shut four factories and cut 740 jobs",
+      "summary": "The company says it needs to \"keep evolving alongside changing customer expectations\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 08:59:14 GMT"
     },
     {
-      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-      "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 04:10:33 GMT"
+      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+      "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+      "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 04:01:52 GMT"
     },
     {
-      "title": "I paid £30,000 for an 'influencer' degree. Here's why",
-      "summary": "Content creation degrees aim to help people make money from social media, but are they worth the money?",
-      "url": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 07:02:07 GMT"
+      "title": "People troll my DIY but they just spur me on",
+      "summary": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
+      "url": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 07:27:11 GMT"
     },
     {
-      "title": "UK tries to stop Trump's diesel export ban",
-      "summary": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 07:19:04 GMT"
+      "title": "The start-ups hoping to return battery making to the US",
+      "summary": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 23:06:50 GMT"
     },
     {
-      "title": "What a US diesel export ban could mean for you",
-      "summary": "The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen.",
-      "url": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 18:18:30 GMT"
+      "title": "Huel ad banned for suggesting its products could replace all meals",
+      "summary": "The advertising watchdog said that viewers could assume from the ad that replacing all normal food with Huel was \"nutritionally appropriate\".",
+      "url": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 23:06:06 GMT"
     },
     {
-      "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
-      "summary": "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 17:45:52 GMT"
+      "title": "Africa's richest man to launch Kenya oil refinery despite land protests",
+      "summary": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 09:49:53 GMT"
     }
   ],
   "sources_status": {
