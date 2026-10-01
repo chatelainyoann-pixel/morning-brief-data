@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-01T11:23:18.697616+00:00",
-  "generated_at_paris": "2026-10-01T13:23:18.697616+02:00",
+  "generated_at_utc": "2026-10-01T11:52:11.799284+00:00",
+  "generated_at_paris": "2026-10-01T13:52:11.799284+02:00",
   "date_paris": "2026-10-01",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 16.3,
-    "change_24h_pct": -0.24,
+    "value": 16.46,
+    "change_24h_pct": 0.73,
     "date": "2026-10-01"
   },
   "macro_calendar_today": [
@@ -139,10 +139,16 @@
       "published": "Thu, 01 Oct 2026 10:05:25 GMT"
     },
     {
-      "title": "Employers should teach primary-age children about work, says Milburn",
-      "summary": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
-      "url": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 07:07:08 GMT"
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 11:37:46 GMT"
+    },
+    {
+      "title": "Travelodge failed sex assault victim 'at every stage'",
+      "summary": "Room intrusions were still being reported at one-in-10 Travelodge hotels this summer, a review finds.",
+      "url": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 11:44:40 GMT"
     },
     {
       "title": "Vape tax comes into effect - but prices won't rise yet",
@@ -151,16 +157,10 @@
       "published": "Wed, 30 Sep 2026 23:02:11 GMT"
     },
     {
-      "title": "Energy bills are rising by £60 a year - here's how you can bring that down",
-      "summary": "Household energy bills have risen again but there are ways to keep a lid on your expenditure.",
-      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 07:08:22 GMT"
-    },
-    {
-      "title": "Travelodge failed sex assault victim 'at every stage'",
-      "summary": "Room intrusions were still being reported at one-in-10 Travelodge hotels this summer, a review finds.",
-      "url": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:20:26 GMT"
+      "title": "Employers should teach primary-age children about work, says Milburn",
+      "summary": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
+      "url": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 07:07:08 GMT"
     },
     {
       "title": "The AI telling farmers when to harvest",
@@ -169,16 +169,16 @@
       "published": "Wed, 30 Sep 2026 23:02:21 GMT"
     },
     {
+      "title": "Energy bills are rising by £60 a year - here's how you can bring that down",
+      "summary": "Household energy bills have risen again but there are ways to keep a lid on your expenditure.",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 07:08:22 GMT"
+    },
+    {
       "title": "Household energy bills forecast to see biggest rise in four years",
       "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
       "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Sep 2026 14:36:45 GMT"
-    },
-    {
-      "title": "Greggs to shut four factories and cut 740 jobs",
-      "summary": "The company says it needs to \"keep evolving alongside changing customer expectations\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 15:03:22 GMT"
     }
   ],
   "sources_status": {
