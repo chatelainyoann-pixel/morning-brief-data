@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-02T10:53:15.771542+00:00",
-  "generated_at_paris": "2026-10-02T12:53:15.771542+02:00",
+  "generated_at_utc": "2026-10-02T11:24:19.579934+00:00",
+  "generated_at_paris": "2026-10-02T13:24:19.579934+02:00",
   "date_paris": "2026-10-02",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 15.98,
-    "change_24h_pct": -2.5,
+    "value": 15.97,
+    "change_24h_pct": -2.56,
     "date": "2026-10-02"
   },
   "macro_calendar_today": [
@@ -137,10 +137,10 @@
       "published": "Thu, 01 Oct 2026 23:32:59 GMT"
     },
     {
-      "title": "UK diesel price hits £2 a litre for first time, RAC says",
-      "summary": "The motoring body says diesel price rises are showing no signs of slowing, \"heaping more misery\" onto drivers.",
+      "title": "UK diesel price hits £2 a litre as US calls for EU to release more stocks",
+      "summary": "The RAC says diesel price rises are showing no signs of slowing, \"heaping more misery\" onto drivers.",
       "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 10:44:39 GMT"
+      "published": "Fri, 02 Oct 2026 11:17:31 GMT"
     },
     {
       "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
