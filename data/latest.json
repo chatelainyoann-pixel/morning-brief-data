@@ -1,56 +1,56 @@
 {
-  "generated_at_utc": "2026-10-01T11:52:11.799284+00:00",
-  "generated_at_paris": "2026-10-01T13:52:11.799284+02:00",
-  "date_paris": "2026-10-01",
+  "generated_at_utc": "2026-10-02T10:53:15.771542+00:00",
+  "generated_at_paris": "2026-10-02T12:53:15.771542+02:00",
+  "date_paris": "2026-10-02",
   "indices": {
     "DAX": {
-      "open": 25490.6699,
-      "high": 25584.5,
-      "low": 25190.3301,
-      "close": 25199.1895,
-      "date": "2026-09-30"
+      "open": 25058.0801,
+      "high": 25232.1797,
+      "low": 24831.5996,
+      "close": 24939.3496,
+      "date": "2026-10-01"
     },
     "CAC": {
-      "open": 8034.2202,
-      "high": 8068.5098,
-      "low": 7950.4902,
-      "close": 7964.5098,
-      "date": "2026-09-30"
+      "open": 7913.71,
+      "high": 7935.8501,
+      "low": 7820.98,
+      "close": 7835.3101,
+      "date": "2026-10-01"
     },
     "FTSE": {
-      "open": 10635.7998,
-      "high": 10725.2998,
-      "low": 10599.2002,
-      "close": 10606.0,
-      "date": "2026-09-30"
+      "open": 10606.4004,
+      "high": 10606.4004,
+      "low": 10390.7002,
+      "close": 10428.2998,
+      "date": "2026-10-01"
     },
     "SPX": {
-      "open": 7688.9902,
-      "high": 7722.8799,
-      "low": 7651.54,
-      "close": 7651.54,
-      "date": "2026-09-30"
+      "open": 7666.4702,
+      "high": 7684.75,
+      "low": 7616.7798,
+      "close": 7666.4502,
+      "date": "2026-10-01"
     },
     "NDX": {
-      "open": 30421.6797,
-      "high": 30630.4492,
-      "low": 30408.5,
-      "close": 30408.5,
-      "date": "2026-09-30"
+      "open": 30533.5996,
+      "high": 30616.2402,
+      "low": 30274.6504,
+      "close": 30501.5605,
+      "date": "2026-10-01"
     },
     "DJI": {
-      "open": 51424.8398,
-      "high": 51473.9297,
-      "low": 50906.0508,
-      "close": 50906.0508,
-      "date": "2026-09-30"
+      "open": 51008.3594,
+      "high": 51179.7812,
+      "low": 50546.5391,
+      "close": 50926.5586,
+      "date": "2026-10-01"
     },
     "N225": {
-      "open": 66128.5938,
-      "high": 66946.1406,
-      "low": 66014.4766,
-      "close": 66753.7188,
-      "date": "2026-09-30"
+      "open": 67106.5234,
+      "high": 68995.2969,
+      "low": 67081.6562,
+      "close": 68956.7188,
+      "date": "2026-10-01"
     },
     "HSI": {
       "open": 24393.8809,
@@ -62,123 +62,115 @@
   },
   "forex": {
     "EURUSD": {
-      "open": 1.134,
-      "high": 1.1378,
-      "low": 1.1329,
-      "close": 1.1341,
-      "date": "2026-09-30"
+      "open": 1.1327,
+      "high": 1.1339,
+      "low": 1.1219,
+      "close": 1.1327,
+      "date": "2026-10-01"
     },
     "GBPUSD": {
-      "open": 1.3231,
-      "high": 1.3307,
-      "low": 1.3224,
-      "close": 1.3233,
-      "date": "2026-09-30"
+      "open": 1.3264,
+      "high": 1.3273,
+      "low": 1.3185,
+      "close": 1.3264,
+      "date": "2026-10-01"
     }
   },
   "vix": {
-    "value": 16.46,
-    "change_24h_pct": 0.73,
-    "date": "2026-10-01"
+    "value": 15.98,
+    "change_24h_pct": -2.5,
+    "date": "2026-10-02"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "00:00",
-      "country": "USD",
-      "indicator": "FOMC Member Kashkari Speaks",
-      "consensus": "",
-      "previous": "",
+      "time_paris": "11:00",
+      "country": "EUR",
+      "indicator": "Core CPI Flash Estimate y/y",
+      "consensus": "2.5%",
+      "previous": "2.4%",
       "impact": "Medium"
     },
     {
-      "time_paris": "10:00",
-      "country": "GBP",
-      "indicator": "BOE Gov Bailey Speaks",
-      "consensus": "",
-      "previous": "",
+      "time_paris": "11:00",
+      "country": "EUR",
+      "indicator": "CPI Flash Estimate y/y",
+      "consensus": "3.7%",
+      "previous": "3.3%",
       "impact": "Medium"
     },
     {
       "time_paris": "14:30",
       "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "201K",
-      "previous": "197K",
-      "impact": "Medium"
+      "indicator": "Average Hourly Earnings m/m",
+      "consensus": "0.3%",
+      "previous": "0.3%",
+      "impact": "High"
     },
     {
-      "time_paris": "15:30",
-      "country": "EUR",
-      "indicator": "ECB President Lagarde Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "FOMC Member Waller Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "Medium"
+      "indicator": "Non-Farm Employment Change",
+      "consensus": "89K",
+      "previous": "162K",
+      "impact": "High"
     },
     {
-      "time_paris": "16:00",
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "ISM Manufacturing PMI",
-      "consensus": "54.8",
-      "previous": "54.6",
-      "impact": "Medium"
+      "indicator": "Unemployment Rate",
+      "consensus": "4.1%",
+      "previous": "4.1%",
+      "impact": "High"
     }
   ],
   "news_bbc": [
     {
-      "title": "AI boom could trigger market shocks, Bank of England boss warns",
-      "summary": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
-      "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 10:05:25 GMT"
+      "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
+      "summary": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
+      "url": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 23:00:06 GMT"
     },
     {
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:37:46 GMT"
+      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+      "summary": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
+      "url": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 23:32:59 GMT"
     },
     {
-      "title": "Travelodge failed sex assault victim 'at every stage'",
-      "summary": "Room intrusions were still being reported at one-in-10 Travelodge hotels this summer, a review finds.",
-      "url": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:44:40 GMT"
+      "title": "UK diesel price hits £2 a litre for first time, RAC says",
+      "summary": "The motoring body says diesel price rises are showing no signs of slowing, \"heaping more misery\" onto drivers.",
+      "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 10:44:39 GMT"
     },
     {
-      "title": "Vape tax comes into effect - but prices won't rise yet",
-      "summary": "Vaping is about to becoming more expensive due to a new tax on products.",
-      "url": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 23:02:11 GMT"
+      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+      "summary": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 23:45:06 GMT"
     },
     {
-      "title": "Employers should teach primary-age children about work, says Milburn",
-      "summary": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
-      "url": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 07:07:08 GMT"
+      "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+      "summary": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
+      "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 23:00:05 GMT"
     },
     {
-      "title": "The AI telling farmers when to harvest",
-      "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-      "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 23:02:21 GMT"
+      "title": "OpenAI fires workers for 'mishandling sensitive information'",
+      "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 08:20:32 GMT"
     },
     {
-      "title": "Energy bills are rising by £60 a year - here's how you can bring that down",
-      "summary": "Household energy bills have risen again but there are ways to keep a lid on your expenditure.",
-      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 07:08:22 GMT"
+      "title": "Thames Water apologises after £145,000 customer billing mistake",
+      "summary": "The firm has apologised to the family.",
+      "url": "https://www.bbc.co.uk/news/articles/ck24j46424veo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 18:09:16 GMT"
     },
     {
-      "title": "Household energy bills forecast to see biggest rise in four years",
-      "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 14:36:45 GMT"
+      "title": "PM warned Rosebank oil field could breach West Bank sanctions",
+      "summary": "Campaigners and Green Party leader Zack Polanski raise concerns about Rosebank's ties to an Israeli firm.",
+      "url": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 18:38:22 GMT"
     }
   ],
   "sources_status": {
