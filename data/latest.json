@@ -1,144 +1,135 @@
 {
-  "generated_at_utc": "2026-10-05T12:44:11.216073+00:00",
-  "generated_at_paris": "2026-10-05T14:44:11.216073+02:00",
-  "date_paris": "2026-10-05",
+  "generated_at_utc": "2026-10-06T11:48:23.392436+00:00",
+  "generated_at_paris": "2026-10-06T13:48:23.392436+02:00",
+  "date_paris": "2026-10-06",
   "indices": {
     "DAX": {
-      "open": 24995.2891,
-      "high": 25303.5996,
-      "low": 24970.9102,
-      "close": 25231.1992,
-      "date": "2026-10-02"
+      "open": 25251.3906,
+      "high": 25324.6992,
+      "low": 25143.2598,
+      "close": 25254.2109,
+      "date": "2026-10-05"
     },
     "CAC": {
-      "open": 7847.96,
-      "high": 7927.8799,
-      "low": 7836.27,
-      "close": 7897.1899,
-      "date": "2026-10-02"
+      "open": 7847.9102,
+      "high": 7866.7998,
+      "low": 7796.5801,
+      "close": 7834.1001,
+      "date": "2026-10-05"
     },
     "FTSE": {
-      "open": 10428.2002,
-      "high": 10503.2002,
-      "low": 10413.4004,
-      "close": 10462.0,
-      "date": "2026-10-02"
+      "open": 10462.4004,
+      "high": 10527.5,
+      "low": 10451.7002,
+      "close": 10497.9004,
+      "date": "2026-10-05"
     },
     "SPX": {
-      "open": 7726.2402,
-      "high": 7754.6699,
-      "low": 7700.5098,
-      "close": 7722.7202,
-      "date": "2026-10-02"
+      "open": 7730.8599,
+      "high": 7794.3501,
+      "low": 7727.5898,
+      "close": 7773.9502,
+      "date": "2026-10-05"
     },
     "NDX": {
-      "open": 30869.1406,
-      "high": 31017.5293,
-      "low": 30737.0703,
-      "close": 30807.9297,
-      "date": "2026-10-02"
+      "open": 30812.7598,
+      "high": 31117.3594,
+      "low": 30798.4199,
+      "close": 31076.4395,
+      "date": "2026-10-05"
     },
     "DJI": {
-      "open": 51241.1797,
-      "high": 51382.8789,
-      "low": 50950.6094,
-      "close": 51176.9609,
-      "date": "2026-10-02"
+      "open": 51199.25,
+      "high": 51404.8594,
+      "low": 50862.8516,
+      "close": 51267.8984,
+      "date": "2026-10-05"
     },
     "N225": {
-      "open": 68313.4609,
-      "high": 68741.4922,
-      "low": 68132.1562,
-      "close": 68309.4609,
-      "date": "2026-10-02"
+      "open": 69113.7422,
+      "high": 70072.1328,
+      "low": 69050.2266,
+      "close": 69946.8594,
+      "date": "2026-10-05"
     },
     "HSI": {
-      "open": 24099.7305,
-      "high": 24099.7305,
-      "low": 23865.3301,
-      "close": 23972.2891,
-      "date": "2026-10-02"
+      "open": 23963.4102,
+      "high": 24040.3398,
+      "low": 23835.6797,
+      "close": 24040.3398,
+      "date": "2026-10-05"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1249,
-      "high": 1.1285,
-      "low": 1.1223,
-      "close": 1.125,
-      "date": "2026-10-02"
+      "open": 1.1255,
+      "high": 1.1257,
+      "low": 1.1162,
+      "close": 1.1255,
+      "date": "2026-10-05"
     },
     "GBPUSD": {
-      "open": 1.3199,
-      "high": 1.3256,
-      "low": 1.3182,
-      "close": 1.32,
-      "date": "2026-10-02"
+      "open": 1.3242,
+      "high": 1.3245,
+      "low": 1.3192,
+      "close": 1.3243,
+      "date": "2026-10-05"
     }
   },
   "vix": {
-    "value": 16.12,
-    "change_24h_pct": 5.29,
-    "date": "2026-10-05"
+    "value": 15.32,
+    "change_24h_pct": -1.29,
+    "date": "2026-10-06"
   },
-  "macro_calendar_today": [
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "ISM Services PMI",
-      "consensus": "55.1",
-      "previous": "55.4",
-      "impact": "Medium"
-    }
-  ],
+  "macro_calendar_today": [],
   "news_bbc": [
     {
-      "title": "Average five-year mortgage rate hits 6% for first time in three years",
-      "summary": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
-      "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 09:54:57 GMT"
+      "title": "ASOS app users receive push notifications apparently sent by hackers",
+      "summary": "Dozens of people appear to have received a strange message from the clothing and beauty store's app.",
+      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 10:37:50 GMT"
     },
     {
-      "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
-      "summary": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
-      "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 10:25:36 GMT"
+      "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
+      "summary": "Why a growing number of parents are opening pensions for their children.",
+      "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 08:16:11 GMT"
     },
     {
-      "title": "The job interview question you don't have to answer",
-      "summary": "Experts explain what you should do if you are asked for your current salary during a job interview.",
-      "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 23:22:07 GMT"
+      "title": "Lego fraudster among last year's most high-profile insurance scammers",
+      "summary": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
+      "url": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 07:03:35 GMT"
     },
     {
-      "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
-      "summary": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 10:44:51 GMT"
+      "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+      "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 06:53:17 GMT"
     },
     {
-      "title": "Trump chooses top spy boss to run new AI taskforce",
-      "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 10:03:38 GMT"
+      "title": "Last call for the mall? How shopping centres are reinventing themselves",
+      "summary": "In the internet age, medium-sized retail hubs are looking for new ways to survive and thrive.",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 05:28:37 GMT"
     },
     {
-      "title": "UK diesel prices top £2 a litre for first time, RAC says",
-      "summary": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
-      "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 15:50:05 GMT"
+      "title": "Wood Group offshore workers launch 48-hour strike in row over pay",
+      "summary": "The Unite union said workers had faced the threat of fire and rehire notices and of having their pay cut.",
+      "url": "https://www.bbc.co.uk/news/articles/cm79pn0y8257o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 04:57:20 GMT"
     },
     {
-      "title": "Why are data centres such a big deal in Scotland?",
-      "summary": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners.",
-      "url": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 10:04:08 GMT"
+      "title": "Five reasons India's stock market is sinking even when its economy is growing",
+      "summary": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 23:13:11 GMT"
     },
     {
-      "title": "How India became dangerously addicted to Chinese imports",
-      "summary": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
-      "url": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 01:42:11 GMT"
+      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+      "summary": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+      "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 16:13:21 GMT"
     }
   ],
   "sources_status": {
@@ -147,7 +138,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": true,
+    "ff_macro_calendar_ok": false,
     "bbc_news_ok": true
   }
 }
