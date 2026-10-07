@@ -1,135 +1,152 @@
 {
-  "generated_at_utc": "2026-10-06T12:15:17.462937+00:00",
-  "generated_at_paris": "2026-10-06T14:15:17.462937+02:00",
-  "date_paris": "2026-10-06",
+  "generated_at_utc": "2026-10-07T11:31:33.949124+00:00",
+  "generated_at_paris": "2026-10-07T13:31:33.949124+02:00",
+  "date_paris": "2026-10-07",
   "indices": {
     "DAX": {
-      "open": 25251.3906,
-      "high": 25324.6992,
-      "low": 25143.2598,
-      "close": 25254.2109,
-      "date": "2026-10-05"
+      "open": 25390.75,
+      "high": 25522.0898,
+      "low": 25354.8398,
+      "close": 25449.1895,
+      "date": "2026-10-06"
     },
     "CAC": {
-      "open": 7847.9102,
-      "high": 7866.7998,
-      "low": 7796.5801,
-      "close": 7834.1001,
-      "date": "2026-10-05"
+      "open": 7857.9502,
+      "high": 7916.71,
+      "low": 7837.9502,
+      "close": 7865.0698,
+      "date": "2026-10-06"
     },
     "FTSE": {
-      "open": 10462.4004,
-      "high": 10527.5,
-      "low": 10451.7002,
-      "close": 10497.9004,
-      "date": "2026-10-05"
+      "open": 10498.0996,
+      "high": 10602.5996,
+      "low": 10498.0,
+      "close": 10541.7002,
+      "date": "2026-10-06"
     },
     "SPX": {
-      "open": 7730.8599,
-      "high": 7794.3501,
-      "low": 7727.5898,
-      "close": 7773.9502,
-      "date": "2026-10-05"
+      "open": 7805.96,
+      "high": 7844.52,
+      "low": 7805.96,
+      "close": 7818.9302,
+      "date": "2026-10-06"
     },
     "NDX": {
-      "open": 30812.7598,
-      "high": 31117.3594,
-      "low": 30798.4199,
-      "close": 31076.4395,
-      "date": "2026-10-05"
+      "open": 31255.4004,
+      "high": 31361.3691,
+      "low": 31208.1992,
+      "close": 31224.4707,
+      "date": "2026-10-06"
     },
     "DJI": {
-      "open": 51199.25,
-      "high": 51404.8594,
-      "low": 50862.8516,
-      "close": 51267.8984,
-      "date": "2026-10-05"
+      "open": 51444.1016,
+      "high": 51672.25,
+      "low": 51422.8984,
+      "close": 51521.2812,
+      "date": "2026-10-06"
     },
     "N225": {
-      "open": 69113.7422,
-      "high": 70072.1328,
-      "low": 69050.2266,
-      "close": 69946.8594,
-      "date": "2026-10-05"
+      "open": 69954.6094,
+      "high": 70798.6172,
+      "low": 69813.1562,
+      "close": 70683.9766,
+      "date": "2026-10-06"
     },
     "HSI": {
-      "open": 23963.4102,
-      "high": 24040.3398,
-      "low": 23835.6797,
-      "close": 24040.3398,
-      "date": "2026-10-05"
+      "open": 24279.6309,
+      "high": 24354.1094,
+      "low": 24179.3809,
+      "close": 24280.5605,
+      "date": "2026-10-06"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1255,
-      "high": 1.1257,
-      "low": 1.1162,
-      "close": 1.1255,
-      "date": "2026-10-05"
+      "open": 1.1217,
+      "high": 1.1276,
+      "low": 1.1204,
+      "close": 1.1217,
+      "date": "2026-10-06"
     },
     "GBPUSD": {
-      "open": 1.3242,
-      "high": 1.3245,
-      "low": 1.3192,
-      "close": 1.3243,
-      "date": "2026-10-05"
+      "open": 1.3219,
+      "high": 1.3287,
+      "low": 1.3203,
+      "close": 1.3219,
+      "date": "2026-10-06"
     }
   },
   "vix": {
-    "value": 15.32,
-    "change_24h_pct": -1.29,
-    "date": "2026-10-06"
+    "value": 15.8,
+    "change_24h_pct": 5.26,
+    "date": "2026-10-07"
   },
-  "macro_calendar_today": [],
+  "macro_calendar_today": [
+    {
+      "time_paris": "19:00",
+      "country": "USD",
+      "indicator": "President Trump Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "20:00",
+      "country": "USD",
+      "indicator": "FOMC Meeting Minutes",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    }
+  ],
   "news_bbc": [
     {
-      "title": "ASOS app users receive push notifications apparently sent by hackers",
-      "summary": "Dozens of people appear to have received a strange message from the clothing and beauty store's app.",
-      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 10:37:50 GMT"
+      "title": "Royal Mail plans to cut 2,500 jobs",
+      "summary": "The postal service firm wants to cut head office and other non-frontline jobs by the end of 2027.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 11:12:39 GMT"
     },
     {
-      "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
-      "summary": "Why a growing number of parents are opening pensions for their children.",
-      "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 08:16:11 GMT"
+      "title": "Jaguar unveils new electric car after 'woke' ridicule",
+      "summary": "Two years after JLR relaunched Jaguar into a blizzard of controversy, it has launched its new EV.",
+      "url": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 07:57:10 GMT"
     },
     {
-      "title": "Lego fraudster among last year's most high-profile insurance scammers",
-      "summary": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
-      "url": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 07:03:35 GMT"
+      "title": "Half the harvest, twice the bills: how drought hit farms",
+      "summary": "Farmers gathered much less wheat in 2026 and dairy farmers' costs rose.",
+      "url": "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 05:22:52 GMT"
     },
     {
-      "title": "OpenAI admits response to Australian government hacks 'not good enough'",
-      "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 06:53:17 GMT"
+      "title": "Froyo's made a comeback. But at £12 a tub will it last?",
+      "summary": "Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has made its return with multiple chains popping up across the wider UK.",
+      "url": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 23:01:31 GMT"
     },
     {
-      "title": "Last call for the mall? How shopping centres are reinventing themselves",
-      "summary": "In the internet age, medium-sized retail hubs are looking for new ways to survive and thrive.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 05:28:37 GMT"
+      "title": "Equinor says it may stop investing in UK if oil and gas fields do not get go-ahead",
+      "summary": "The boss of the Norwegian state company says further investment in the UK could be at risk if Rosebank and Jackdaw are not approved.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 23:01:13 GMT"
     },
     {
-      "title": "Wood Group offshore workers launch 48-hour strike in row over pay",
-      "summary": "The Unite union said workers had faced the threat of fire and rehire notices and of having their pay cut.",
-      "url": "https://www.bbc.co.uk/news/articles/cm79pn0y8257o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 04:57:20 GMT"
+      "title": "Rainmakers: The drones used to seed clouds",
+      "summary": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
+      "url": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 07:09:32 GMT"
     },
     {
-      "title": "Five reasons India's stock market is sinking even when its economy is growing",
-      "summary": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 23:13:11 GMT"
+      "title": "Japan beer giants raided over alleged price-fixing cartel",
+      "summary": "Asahi and Kirin confirmed their premises were searched by Japanese competition authorities.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 09:45:56 GMT"
     },
     {
-      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-      "summary": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
-      "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 16:13:21 GMT"
+      "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+      "summary": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 23:01:22 GMT"
     }
   ],
   "sources_status": {
@@ -138,7 +155,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": false,
+    "ff_macro_calendar_ok": true,
     "bbc_news_ok": true
   }
 }
