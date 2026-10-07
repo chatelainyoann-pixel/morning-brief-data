@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-07T11:31:33.949124+00:00",
-  "generated_at_paris": "2026-10-07T13:31:33.949124+02:00",
+  "generated_at_utc": "2026-10-07T12:06:24.596867+00:00",
+  "generated_at_paris": "2026-10-07T14:06:24.596867+02:00",
   "date_paris": "2026-10-07",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 15.8,
-    "change_24h_pct": 5.26,
+    "value": 15.98,
+    "change_24h_pct": 6.46,
     "date": "2026-10-07"
   },
   "macro_calendar_today": [
@@ -100,6 +100,12 @@
     }
   ],
   "news_bbc": [
+    {
+      "title": "Ex-bankers jailed for rigging rates have convictions quashed",
+      "summary": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham had their convictions overturned by the Court of Appeal.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 11:46:05 GMT"
+    },
     {
       "title": "Royal Mail plans to cut 2,500 jobs",
       "summary": "The postal service firm wants to cut head office and other non-frontline jobs by the end of 2027.",
@@ -125,28 +131,22 @@
       "published": "Tue, 06 Oct 2026 23:01:31 GMT"
     },
     {
-      "title": "Equinor says it may stop investing in UK if oil and gas fields do not get go-ahead",
-      "summary": "The boss of the Norwegian state company says further investment in the UK could be at risk if Rosebank and Jackdaw are not approved.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 23:01:13 GMT"
-    },
-    {
       "title": "Rainmakers: The drones used to seed clouds",
       "summary": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
       "url": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 07:09:32 GMT"
     },
     {
+      "title": "Equinor says it may stop investing in UK if oil and gas fields do not get go-ahead",
+      "summary": "The boss of the Norwegian state company says further investment in the UK could be at risk if Rosebank and Jackdaw are not approved.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 23:01:13 GMT"
+    },
+    {
       "title": "Japan beer giants raided over alleged price-fixing cartel",
       "summary": "Asahi and Kirin confirmed their premises were searched by Japanese competition authorities.",
       "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 09:45:56 GMT"
-    },
-    {
-      "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
-      "summary": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 23:01:22 GMT"
     }
   ],
   "sources_status": {
