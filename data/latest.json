@@ -1,152 +1,160 @@
 {
-  "generated_at_utc": "2026-10-07T12:06:24.596867+00:00",
-  "generated_at_paris": "2026-10-07T14:06:24.596867+02:00",
-  "date_paris": "2026-10-07",
+  "generated_at_utc": "2026-10-08T11:46:58.804829+00:00",
+  "generated_at_paris": "2026-10-08T13:46:58.804829+02:00",
+  "date_paris": "2026-10-08",
   "indices": {
     "DAX": {
-      "open": 25390.75,
-      "high": 25522.0898,
-      "low": 25354.8398,
-      "close": 25449.1895,
-      "date": "2026-10-06"
+      "open": 25280.6699,
+      "high": 25347.0898,
+      "low": 25038.5098,
+      "close": 25104.3594,
+      "date": "2026-10-07"
     },
     "CAC": {
-      "open": 7857.9502,
-      "high": 7916.71,
-      "low": 7837.9502,
-      "close": 7865.0698,
-      "date": "2026-10-06"
+      "open": 7813.0801,
+      "high": 7840.3501,
+      "low": 7743.5498,
+      "close": 7769.21,
+      "date": "2026-10-07"
     },
     "FTSE": {
-      "open": 10498.0996,
-      "high": 10602.5996,
-      "low": 10498.0,
-      "close": 10541.7002,
-      "date": "2026-10-06"
+      "open": 10542.2002,
+      "high": 10542.2002,
+      "low": 10445.4004,
+      "close": 10458.5,
+      "date": "2026-10-07"
     },
     "SPX": {
-      "open": 7805.96,
-      "high": 7844.52,
-      "low": 7805.96,
-      "close": 7818.9302,
-      "date": "2026-10-06"
+      "open": 7792.98,
+      "high": 7807.02,
+      "low": 7763.3398,
+      "close": 7801.77,
+      "date": "2026-10-07"
     },
     "NDX": {
-      "open": 31255.4004,
-      "high": 31361.3691,
-      "low": 31208.1992,
-      "close": 31224.4707,
-      "date": "2026-10-06"
+      "open": 30976.25,
+      "high": 31170.1191,
+      "low": 30904.4609,
+      "close": 31160.0801,
+      "date": "2026-10-07"
     },
     "DJI": {
-      "open": 51444.1016,
-      "high": 51672.25,
-      "low": 51422.8984,
-      "close": 51521.2812,
-      "date": "2026-10-06"
+      "open": 51406.4414,
+      "high": 51406.4414,
+      "low": 50917.4219,
+      "close": 51179.8711,
+      "date": "2026-10-07"
     },
     "N225": {
-      "open": 69954.6094,
-      "high": 70798.6172,
-      "low": 69813.1562,
-      "close": 70683.9766,
-      "date": "2026-10-06"
+      "open": 70582.1094,
+      "high": 70793.2891,
+      "low": 70017.1875,
+      "close": 70035.7109,
+      "date": "2026-10-07"
     },
     "HSI": {
-      "open": 24279.6309,
-      "high": 24354.1094,
-      "low": 24179.3809,
-      "close": 24280.5605,
-      "date": "2026-10-06"
+      "open": 24172.2891,
+      "high": 24266.9199,
+      "low": 24071.4102,
+      "close": 24130.5,
+      "date": "2026-10-07"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1217,
-      "high": 1.1276,
-      "low": 1.1204,
-      "close": 1.1217,
-      "date": "2026-10-06"
+      "open": 1.1253,
+      "high": 1.1256,
+      "low": 1.1166,
+      "close": 1.1254,
+      "date": "2026-10-07"
     },
     "GBPUSD": {
-      "open": 1.3219,
-      "high": 1.3287,
-      "low": 1.3203,
-      "close": 1.3219,
-      "date": "2026-10-06"
+      "open": 1.3266,
+      "high": 1.327,
+      "low": 1.3195,
+      "close": 1.3267,
+      "date": "2026-10-07"
     }
   },
   "vix": {
-    "value": 15.98,
-    "change_24h_pct": 6.46,
-    "date": "2026-10-07"
+    "value": 15.85,
+    "change_24h_pct": 5.11,
+    "date": "2026-10-08"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "19:00",
+      "time_paris": "10:30",
       "country": "USD",
-      "indicator": "President Trump Speaks",
+      "indicator": "FOMC Member Waller Speaks",
       "consensus": "",
       "previous": "",
       "impact": "Medium"
     },
     {
-      "time_paris": "20:00",
-      "country": "USD",
-      "indicator": "FOMC Meeting Minutes",
+      "time_paris": "14:15",
+      "country": "GBP",
+      "indicator": "BOE Gov Bailey Speaks",
       "consensus": "",
       "previous": "",
       "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Unemployment Claims",
+      "consensus": "200K",
+      "previous": "197K",
+      "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Ex-bankers jailed for rigging rates have convictions quashed",
-      "summary": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham had their convictions overturned by the Court of Appeal.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 11:46:05 GMT"
+      "title": "'Come all the way' back to EU, French finance minister tells UK",
+      "summary": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 04:02:26 GMT"
     },
     {
-      "title": "Royal Mail plans to cut 2,500 jobs",
-      "summary": "The postal service firm wants to cut head office and other non-frontline jobs by the end of 2027.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 11:12:39 GMT"
+      "title": "Asos hackers took more personal details than first revealed, BBC finds",
+      "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
+      "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 11:01:29 GMT"
     },
     {
-      "title": "Jaguar unveils new electric car after 'woke' ridicule",
-      "summary": "Two years after JLR relaunched Jaguar into a blizzard of controversy, it has launched its new EV.",
-      "url": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 07:57:10 GMT"
+      "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
+      "summary": "Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead.",
+      "url": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 07:11:14 GMT"
     },
     {
-      "title": "Half the harvest, twice the bills: how drought hit farms",
-      "summary": "Farmers gathered much less wheat in 2026 and dairy farmers' costs rose.",
-      "url": "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 05:22:52 GMT"
+      "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
+      "summary": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
+      "url": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 23:00:55 GMT"
     },
     {
-      "title": "Froyo's made a comeback. But at £12 a tub will it last?",
-      "summary": "Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has made its return with multiple chains popping up across the wider UK.",
-      "url": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 23:01:31 GMT"
+      "title": "The wildlife winners set to appear on your banknotes revealed",
+      "summary": "The decision comes after nearly half a million people voted on a shortlist of 18 creatures.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 23:01:30 GMT"
     },
     {
-      "title": "Rainmakers: The drones used to seed clouds",
-      "summary": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
-      "url": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 07:09:32 GMT"
+      "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
+      "summary": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
+      "url": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 23:10:13 GMT"
     },
     {
-      "title": "Equinor says it may stop investing in UK if oil and gas fields do not get go-ahead",
-      "summary": "The boss of the Norwegian state company says further investment in the UK could be at risk if Rosebank and Jackdaw are not approved.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 23:01:13 GMT"
+      "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
+      "summary": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 23:50:29 GMT"
     },
     {
-      "title": "Japan beer giants raided over alleged price-fixing cartel",
-      "summary": "Asahi and Kirin confirmed their premises were searched by Japanese competition authorities.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 09:45:56 GMT"
+      "title": "New electric car 'make or break for Jaguar'",
+      "summary": "Prof David Bailey says there is a lot riding on the Type 01 in terms of jobs and investment.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgrx5ner6go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 05:08:56 GMT"
     }
   ],
   "sources_status": {
