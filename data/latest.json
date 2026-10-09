@@ -1,160 +1,152 @@
 {
-  "generated_at_utc": "2026-10-08T12:16:43.621457+00:00",
-  "generated_at_paris": "2026-10-08T14:16:43.621457+02:00",
-  "date_paris": "2026-10-08",
+  "generated_at_utc": "2026-10-09T11:39:27.087642+00:00",
+  "generated_at_paris": "2026-10-09T13:39:27.087642+02:00",
+  "date_paris": "2026-10-09",
   "indices": {
     "DAX": {
-      "open": 25280.6699,
-      "high": 25347.0898,
-      "low": 25038.5098,
-      "close": 25104.3594,
-      "date": "2026-10-07"
+      "open": 24884.6191,
+      "high": 24997.2598,
+      "low": 24792.7891,
+      "close": 24806.9707,
+      "date": "2026-10-08"
     },
     "CAC": {
-      "open": 7813.0801,
-      "high": 7840.3501,
-      "low": 7743.5498,
-      "close": 7769.21,
-      "date": "2026-10-07"
+      "open": 7713.3901,
+      "high": 7768.8999,
+      "low": 7679.3599,
+      "close": 7729.6899,
+      "date": "2026-10-08"
     },
     "FTSE": {
-      "open": 10542.2002,
-      "high": 10542.2002,
-      "low": 10445.4004,
-      "close": 10458.5,
-      "date": "2026-10-07"
+      "open": 10459.0,
+      "high": 10498.5996,
+      "low": 10367.2998,
+      "close": 10441.5996,
+      "date": "2026-10-08"
     },
     "SPX": {
-      "open": 7792.98,
-      "high": 7807.02,
-      "low": 7763.3398,
-      "close": 7801.77,
-      "date": "2026-10-07"
+      "open": 7778.4502,
+      "high": 7797.79,
+      "low": 7731.2598,
+      "close": 7765.3599,
+      "date": "2026-10-08"
     },
     "NDX": {
-      "open": 30976.25,
-      "high": 31170.1191,
-      "low": 30904.4609,
-      "close": 31160.0801,
-      "date": "2026-10-07"
+      "open": 30985.2305,
+      "high": 31125.1309,
+      "low": 30556.4004,
+      "close": 30725.8105,
+      "date": "2026-10-08"
     },
     "DJI": {
-      "open": 51406.4414,
-      "high": 51406.4414,
-      "low": 50917.4219,
-      "close": 51179.8711,
-      "date": "2026-10-07"
+      "open": 51105.0391,
+      "high": 51245.2812,
+      "low": 50939.0,
+      "close": 51231.6406,
+      "date": "2026-10-08"
     },
     "N225": {
-      "open": 70582.1094,
-      "high": 70793.2891,
-      "low": 70017.1875,
-      "close": 70035.7109,
-      "date": "2026-10-07"
+      "open": 69840.6406,
+      "high": 69918.2031,
+      "low": 69042.1094,
+      "close": 69042.1094,
+      "date": "2026-10-08"
     },
     "HSI": {
-      "open": 24172.2891,
-      "high": 24266.9199,
-      "low": 24071.4102,
-      "close": 24130.5,
-      "date": "2026-10-07"
+      "open": 24031.6602,
+      "high": 24146.0098,
+      "low": 23737.1406,
+      "close": 23785.7891,
+      "date": "2026-10-08"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1253,
-      "high": 1.1256,
-      "low": 1.1166,
-      "close": 1.1254,
-      "date": "2026-10-07"
+      "open": 1.1201,
+      "high": 1.1223,
+      "low": 1.1173,
+      "close": 1.1201,
+      "date": "2026-10-08"
     },
     "GBPUSD": {
-      "open": 1.3266,
-      "high": 1.327,
-      "low": 1.3195,
-      "close": 1.3267,
-      "date": "2026-10-07"
+      "open": 1.3214,
+      "high": 1.3247,
+      "low": 1.3186,
+      "close": 1.3215,
+      "date": "2026-10-08"
     }
   },
   "vix": {
-    "value": 15.76,
-    "change_24h_pct": 4.51,
-    "date": "2026-10-08"
+    "value": 15.24,
+    "change_24h_pct": -1.1,
+    "date": "2026-10-09"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "10:30",
+      "time_paris": "16:00",
       "country": "USD",
-      "indicator": "FOMC Member Waller Speaks",
-      "consensus": "",
-      "previous": "",
+      "indicator": "Prelim UoM Consumer Sentiment",
+      "consensus": "47.5",
+      "previous": "47.8",
       "impact": "Medium"
     },
     {
-      "time_paris": "14:15",
-      "country": "GBP",
-      "indicator": "BOE Gov Bailey Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
+      "time_paris": "16:00",
       "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "200K",
-      "previous": "197K",
+      "indicator": "Prelim UoM Inflation Expectations",
+      "consensus": "",
+      "previous": "4.6%",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "'Come all the way' back to EU, French finance minister tells UK",
-      "summary": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
-      "url": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 04:02:26 GMT"
+      "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+      "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
+      "url": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 04:55:14 GMT"
     },
     {
-      "title": "Asos hackers took more personal details than first revealed, BBC finds",
-      "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
-      "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 11:01:29 GMT"
+      "title": "'Add me on WhatsApp' scam calls to be investigated",
+      "summary": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 23:05:09 GMT"
     },
     {
-      "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
-      "summary": "Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 07:11:14 GMT"
+      "title": "I've been with my boyfriend for two years and don't know his salary",
+      "summary": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
+      "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 09:37:38 GMT"
     },
     {
-      "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
-      "summary": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
-      "url": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 23:00:55 GMT"
+      "title": "White House blocks Microsoft from foreign worker hiring programme",
+      "summary": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 21:37:35 GMT"
     },
     {
-      "title": "The wildlife winners set to appear on your banknotes revealed",
-      "summary": "The decision comes after nearly half a million people voted on a shortlist of 18 creatures.",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 23:01:30 GMT"
+      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+      "summary": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 23:14:02 GMT"
     },
     {
-      "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
-      "summary": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
-      "url": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 23:10:13 GMT"
+      "title": "Why are more roofs not made of solar tiles?",
+      "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
+      "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 23:09:56 GMT"
     },
     {
-      "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
-      "summary": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 23:50:29 GMT"
+      "title": "'You cannot build this car anywhere else in the world'",
+      "summary": "Car maker Longbow, which hopes to build thousands of cars, says the region has the talent and know-how.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2q7rlxxw8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 05:11:49 GMT"
     },
     {
-      "title": "New electric car 'make or break for Jaguar'",
-      "summary": "Prof David Bailey says there is a lot riding on the Type 01 in terms of jobs and investment.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgrx5ner6go?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 05:08:56 GMT"
+      "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+      "summary": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 07:14:30 GMT"
     }
   ],
   "sources_status": {
