@@ -1,135 +1,200 @@
 {
-  "generated_at_utc": "2026-10-13T12:59:16.012136+00:00",
-  "generated_at_paris": "2026-10-13T14:59:16.012136+02:00",
-  "date_paris": "2026-10-13",
+  "generated_at_utc": "2026-10-14T09:55:29.505934+00:00",
+  "generated_at_paris": "2026-10-14T11:55:29.505934+02:00",
+  "date_paris": "2026-10-14",
   "indices": {
     "DAX": {
-      "open": 25206.9492,
-      "high": 25315.75,
-      "low": 25166.5703,
-      "close": 25277.6797,
-      "date": "2026-10-12"
+      "open": 25316.7109,
+      "high": 25453.2891,
+      "low": 25229.9805,
+      "close": 25259.9004,
+      "date": "2026-10-13"
     },
     "CAC": {
-      "open": 7826.73,
-      "high": 7850.3301,
-      "low": 7806.4902,
-      "close": 7832.8799,
-      "date": "2026-10-12"
+      "open": 7853.5,
+      "high": 7878.1602,
+      "low": 7812.0601,
+      "close": 7827.6299,
+      "date": "2026-10-13"
     },
     "FTSE": {
-      "open": 10551.5996,
-      "high": 10656.2998,
-      "low": 10549.5996,
-      "close": 10656.2998,
-      "date": "2026-10-12"
+      "open": 10656.2002,
+      "high": 10762.0,
+      "low": 10642.0,
+      "close": 10650.2998,
+      "date": "2026-10-13"
     },
     "SPX": {
-      "open": 7813.04,
-      "high": 7821.6699,
-      "low": 7796.9399,
-      "close": 7807.2402,
-      "date": "2026-10-12"
+      "open": 7795.27,
+      "high": 7814.1499,
+      "low": 7786.1099,
+      "close": 7805.4502,
+      "date": "2026-10-13"
     },
     "NDX": {
-      "open": 30796.0391,
-      "high": 30813.9609,
-      "low": 30618.6406,
-      "close": 30664.6992,
-      "date": "2026-10-12"
+      "open": 30404.1992,
+      "high": 30595.8008,
+      "low": 30372.3008,
+      "close": 30569.4805,
+      "date": "2026-10-13"
     },
     "DJI": {
-      "open": 51765.3516,
-      "high": 51928.1016,
-      "low": 51718.6016,
-      "close": 51850.5508,
-      "date": "2026-10-12"
+      "open": 52092.9883,
+      "high": 52317.3203,
+      "low": 51587.6719,
+      "close": 51670.1016,
+      "date": "2026-10-13"
     },
     "N225": {
-      "open": 68648.5,
-      "high": 69143.4531,
-      "low": 68150.0234,
-      "close": 69030.9219,
-      "date": "2026-10-09"
+      "open": 68564.8516,
+      "high": 68710.9922,
+      "low": 67058.5625,
+      "close": 67777.5234,
+      "date": "2026-10-13"
     },
     "HSI": {
-      "open": 24434.9297,
-      "high": 24455.9492,
-      "low": 24193.3008,
-      "close": 24271.1992,
-      "date": "2026-10-12"
+      "open": 24172.0898,
+      "high": 24345.2207,
+      "low": 23987.7695,
+      "close": 24345.2207,
+      "date": "2026-10-13"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1213,
-      "high": 1.1244,
-      "low": 1.1191,
-      "close": 1.1213,
-      "date": "2026-10-09"
+      "open": 1.116,
+      "high": 1.1206,
+      "low": 1.1155,
+      "close": 1.116,
+      "date": "2026-10-13"
     },
     "GBPUSD": {
-      "open": 1.3229,
-      "high": 1.3252,
-      "low": 1.3208,
-      "close": 1.3229,
-      "date": "2026-10-09"
+      "open": 1.321,
+      "high": 1.3254,
+      "low": 1.3205,
+      "close": 1.321,
+      "date": "2026-10-13"
     }
   },
   "vix": {
-    "value": 15.29,
-    "change_24h_pct": 0.53,
-    "date": "2026-10-13"
+    "value": 15.18,
+    "change_24h_pct": -0.59,
+    "date": "2026-10-14"
   },
-  "macro_calendar_today": [],
+  "macro_calendar_today": [
+    {
+      "time_paris": "04:10",
+      "country": "EUR",
+      "indicator": "ECB President Lagarde Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "07:30",
+      "country": "GBP",
+      "indicator": "BOE Gov Bailey Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "10:30",
+      "country": "EUR",
+      "indicator": "ECB President Lagarde Speaks",
+      "consensus": "",
+      "previous": "",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "12:15",
+      "country": "EUR",
+      "indicator": "EU Economic Summit",
+      "consensus": "",
+      "previous": "",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Core CPI m/m",
+      "consensus": "0.2%",
+      "previous": "0.3%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Core CPI y/y",
+      "consensus": "2.5%",
+      "previous": "2.4%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "CPI m/m",
+      "consensus": "0.6%",
+      "previous": "0.4%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "CPI y/y",
+      "consensus": "3.6%",
+      "previous": "3.4%",
+      "impact": "High"
+    }
+  ],
   "news_bbc": [
     {
-      "title": "Three things we've learnt about the UK economy from the IMF",
-      "summary": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
-      "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 11:58:43 GMT"
+      "title": "Wayfair among firms fined millions for misleading sales tactics",
+      "summary": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 09:42:04 GMT"
     },
     {
-      "title": "Poundland in rescue talks as owners seek buyer",
-      "summary": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 12:17:17 GMT"
+      "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
+      "summary": "Thomas Woldbye tells the Today progamme it would be \"good to know\" the government's position on the project, after comments made by the prime minister.",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 04:59:06 GMT"
     },
     {
-      "title": "BA flight forced to turn back over cracked window",
-      "summary": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
-      "url": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 11:48:07 GMT"
+      "title": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
+      "summary": "The CWU says more posties are leaving since a new delivery system was brought in that it claims is not working in hundreds of offices.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 07:18:08 GMT"
     },
     {
-      "title": "Heating oil customers face tough winter despite shake-up promise",
-      "summary": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 23:02:24 GMT"
+      "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+      "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 08:27:17 GMT"
     },
     {
-      "title": "UK growth forecast upgraded but higher energy prices to hit economy next year",
-      "summary": "The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.",
-      "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 09:38:54 GMT"
+      "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+      "summary": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 02:05:32 GMT"
     },
     {
-      "title": "I earn £120,000 a year making social media videos go viral",
-      "summary": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
-      "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 23:01:45 GMT"
+      "title": "How long will humans be needed for translation?",
+      "summary": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 23:05:29 GMT"
     },
     {
-      "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
-      "summary": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
-      "url": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 09:34:43 GMT"
+      "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+      "summary": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 15:59:07 GMT"
     },
     {
-      "title": "Publicly owned rail is popular. But is it making the trains run on time?",
-      "summary": "Meeting travellers' expectations could be challenging, experts warn.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 23:37:00 GMT"
+      "title": "Saudi employee charged with planting recording device in OpenAI office",
+      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 21:42:49 GMT"
     }
   ],
   "sources_status": {
@@ -138,7 +203,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": false,
+    "ff_macro_calendar_ok": true,
     "bbc_news_ok": true
   }
 }
