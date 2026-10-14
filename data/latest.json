@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-14T09:55:29.505934+00:00",
-  "generated_at_paris": "2026-10-14T11:55:29.505934+02:00",
+  "generated_at_utc": "2026-10-14T10:39:49.943509+00:00",
+  "generated_at_paris": "2026-10-14T12:39:49.943509+02:00",
   "date_paris": "2026-10-14",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 15.18,
-    "change_24h_pct": -0.59,
+    "value": 15.21,
+    "change_24h_pct": -0.39,
     "date": "2026-10-14"
   },
   "macro_calendar_today": [
@@ -152,7 +152,7 @@
       "title": "Wayfair among firms fined millions for misleading sales tactics",
       "summary": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
       "url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 09:42:04 GMT"
+      "published": "Wed, 14 Oct 2026 10:28:53 GMT"
     },
     {
       "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
