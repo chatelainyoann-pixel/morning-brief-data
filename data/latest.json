@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-16T09:29:57.477665+00:00",
-  "generated_at_paris": "2026-10-16T11:29:57.477665+02:00",
+  "generated_at_utc": "2026-10-16T10:10:57.064459+00:00",
+  "generated_at_paris": "2026-10-16T12:10:57.064459+02:00",
   "date_paris": "2026-10-16",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 16.0,
-    "change_24h_pct": -2.79,
+    "value": 16.09,
+    "change_24h_pct": -2.25,
     "date": "2026-10-16"
   },
   "macro_calendar_today": [
@@ -113,16 +113,16 @@
       "published": "Thu, 15 Oct 2026 23:16:12 GMT"
     },
     {
+      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 05:00:17 GMT"
+    },
+    {
       "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
       "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
       "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 14:55:21 GMT"
-    },
-    {
-      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
-      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 11:34:55 GMT"
     },
     {
       "title": "'I paid thousands to a company for jobs that never came'",
@@ -143,10 +143,10 @@
       "published": "Wed, 14 Oct 2026 23:02:57 GMT"
     },
     {
-      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-      "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
-      "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 13:25:17 GMT"
+      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 11:34:55 GMT"
     }
   ],
   "sources_status": {
