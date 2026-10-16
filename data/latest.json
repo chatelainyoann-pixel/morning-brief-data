@@ -1,172 +1,140 @@
 {
-  "generated_at_utc": "2026-10-15T10:23:32.925287+00:00",
-  "generated_at_paris": "2026-10-15T12:23:32.925287+02:00",
-  "date_paris": "2026-10-15",
+  "generated_at_utc": "2026-10-16T09:29:57.477665+00:00",
+  "generated_at_paris": "2026-10-16T11:29:57.477665+02:00",
+  "date_paris": "2026-10-16",
   "indices": {
     "DAX": {
-      "open": 25322.0801,
-      "high": 25448.7305,
-      "low": 25276.8203,
-      "close": 25298.6094,
-      "date": "2026-10-14"
+      "open": 25145.0703,
+      "high": 25420.6191,
+      "low": 25133.7109,
+      "close": 25382.6191,
+      "date": "2026-10-15"
     },
     "CAC": {
-      "open": 7852.7402,
-      "high": 7893.48,
-      "low": 7844.29,
-      "close": 7873.1099,
-      "date": "2026-10-14"
+      "open": 7853.3999,
+      "high": 7937.29,
+      "low": 7853.3999,
+      "close": 7934.7002,
+      "date": "2026-10-15"
     },
     "FTSE": {
-      "open": 10650.0,
-      "high": 10731.2998,
-      "low": 10641.2002,
-      "close": 10724.9004,
-      "date": "2026-10-14"
+      "open": 10723.4004,
+      "high": 10868.5,
+      "low": 10695.7998,
+      "close": 10840.4004,
+      "date": "2026-10-15"
     },
     "SPX": {
-      "open": 7774.1802,
-      "high": 7789.1499,
-      "low": 7693.3101,
-      "close": 7718.9399,
-      "date": "2026-10-14"
+      "open": 7687.3101,
+      "high": 7754.1499,
+      "low": 7669.6602,
+      "close": 7744.0601,
+      "date": "2026-10-15"
     },
     "NDX": {
-      "open": 30316.0293,
-      "high": 30436.5996,
-      "low": 29861.0605,
-      "close": 29950.8203,
-      "date": "2026-10-14"
+      "open": 29526.7109,
+      "high": 29985.6191,
+      "low": 29408.4102,
+      "close": 29935.5996,
+      "date": "2026-10-15"
     },
     "DJI": {
-      "open": 51684.75,
-      "high": 51869.75,
-      "low": 51365.4219,
-      "close": 51621.4805,
-      "date": "2026-10-14"
+      "open": 51858.0586,
+      "high": 52250.1797,
+      "low": 51681.3711,
+      "close": 52177.6914,
+      "date": "2026-10-15"
     },
     "N225": {
-      "open": 67942.2266,
-      "high": 68408.1406,
-      "low": 67533.1016,
-      "close": 67744.2891,
-      "date": "2026-10-14"
+      "open": 66880.3672,
+      "high": 66929.2969,
+      "low": 64092.7383,
+      "close": 64425.9492,
+      "date": "2026-10-15"
     },
     "HSI": {
-      "open": 24282.25,
-      "high": 24524.6309,
-      "low": 24115.0,
-      "close": 24314.1699,
-      "date": "2026-10-14"
+      "open": 24119.1406,
+      "high": 24162.7109,
+      "low": 23945.8398,
+      "close": 24062.7207,
+      "date": "2026-10-15"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1203,
-      "high": 1.1215,
-      "low": 1.1114,
-      "close": 1.1204,
-      "date": "2026-10-14"
+      "open": 1.1196,
+      "high": 1.1239,
+      "low": 1.1187,
+      "close": 1.1195,
+      "date": "2026-10-15"
     },
     "GBPUSD": {
-      "open": 1.3259,
-      "high": 1.3277,
-      "low": 1.3139,
-      "close": 1.3257,
-      "date": "2026-10-14"
+      "open": 1.3233,
+      "high": 1.3275,
+      "low": 1.3224,
+      "close": 1.323,
+      "date": "2026-10-15"
     }
   },
   "vix": {
-    "value": 17.58,
-    "change_24h_pct": 4.21,
-    "date": "2026-10-15"
+    "value": 16.0,
+    "change_24h_pct": -2.79,
+    "date": "2026-10-16"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "08:00",
-      "country": "GBP",
-      "indicator": "GDP m/m",
-      "consensus": "-0.1%",
-      "previous": "0.4%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "09:30",
+      "time_paris": "04:00",
       "country": "GBP",
       "indicator": "BOE Gov Bailey Speaks",
       "consensus": "",
       "previous": "",
-      "impact": "Medium"
+      "impact": "High"
     },
     {
-      "time_paris": "12:15",
-      "country": "EUR",
-      "indicator": "EU Economic Summit",
+      "time_paris": "05:30",
+      "country": "USD",
+      "indicator": "Fed Chairman Warsh Speaks",
       "consensus": "",
       "previous": "",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Core PPI m/m",
-      "consensus": "0.3%",
-      "previous": "0.2%",
       "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Core Retail Sales m/m",
-      "consensus": "0.6%",
-      "previous": "1.4%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "PPI m/m",
-      "consensus": "0.6%",
-      "previous": "0.4%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Retail Sales m/m",
-      "consensus": "0.3%",
-      "previous": "1.2%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Philly Fed Manufacturing Index",
-      "consensus": "28.2",
-      "previous": "37.8",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "199K",
-      "previous": "197K",
-      "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-      "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
-      "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 09:29:54 GMT"
+      "title": "Banks expect to be hit with higher taxes in Budget",
+      "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+      "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 08:54:43 GMT"
     },
     {
-      "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+      "title": "I find it quite demoralising in store - why I do all my shopping online",
+      "summary": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+      "url": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 23:16:12 GMT"
+    },
+    {
+      "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+      "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
+      "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 14:55:21 GMT"
+    },
+    {
+      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
       "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
       "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 07:20:45 GMT"
+      "published": "Thu, 15 Oct 2026 11:34:55 GMT"
+    },
+    {
+      "title": "'I paid thousands to a company for jobs that never came'",
+      "summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 17:19:49 GMT"
+    },
+    {
+      "title": "Living with a stink? Technology might help",
+      "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+      "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 23:18:21 GMT"
     },
     {
       "title": "How backlash against data centres could shape the US midterm elections",
@@ -175,34 +143,10 @@
       "published": "Wed, 14 Oct 2026 23:02:57 GMT"
     },
     {
-      "title": "'I paid thousands to a company for jobs that never came'",
-      "summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
-      "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 05:02:37 GMT"
-    },
-    {
-      "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
-      "summary": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
-      "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 17:46:30 GMT"
-    },
-    {
-      "title": "How a Chinese-made toy gets to a US retailer",
-      "summary": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
-      "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 23:01:28 GMT"
-    },
-    {
-      "title": "How much is the minimum wage?",
-      "summary": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
-      "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 23:01:11 GMT"
-    },
-    {
-      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-      "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 16:47:32 GMT"
+      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+      "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+      "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 13:25:17 GMT"
     }
   ],
   "sources_status": {
