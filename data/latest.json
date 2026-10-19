@@ -1,152 +1,135 @@
 {
-  "generated_at_utc": "2026-10-16T10:10:57.064459+00:00",
-  "generated_at_paris": "2026-10-16T12:10:57.064459+02:00",
-  "date_paris": "2026-10-16",
+  "generated_at_utc": "2026-10-19T10:30:49.645739+00:00",
+  "generated_at_paris": "2026-10-19T12:30:49.645739+02:00",
+  "date_paris": "2026-10-19",
   "indices": {
     "DAX": {
-      "open": 25145.0703,
-      "high": 25420.6191,
-      "low": 25133.7109,
-      "close": 25382.6191,
-      "date": "2026-10-15"
+      "open": 25495.2793,
+      "high": 25693.8906,
+      "low": 25466.0898,
+      "close": 25622.6094,
+      "date": "2026-10-16"
     },
     "CAC": {
-      "open": 7853.3999,
-      "high": 7937.29,
-      "low": 7853.3999,
-      "close": 7934.7002,
-      "date": "2026-10-15"
+      "open": 7960.6099,
+      "high": 7980.9902,
+      "low": 7916.98,
+      "close": 7956.7002,
+      "date": "2026-10-16"
     },
     "FTSE": {
-      "open": 10723.4004,
-      "high": 10868.5,
-      "low": 10695.7998,
-      "close": 10840.4004,
-      "date": "2026-10-15"
+      "open": 10839.2002,
+      "high": 10892.4004,
+      "low": 10796.7002,
+      "close": 10881.9004,
+      "date": "2026-10-16"
     },
     "SPX": {
-      "open": 7687.3101,
-      "high": 7754.1499,
-      "low": 7669.6602,
-      "close": 7744.0601,
-      "date": "2026-10-15"
+      "open": 7745.3198,
+      "high": 7756.8398,
+      "low": 7631.77,
+      "close": 7659.4399,
+      "date": "2026-10-16"
     },
     "NDX": {
-      "open": 29526.7109,
-      "high": 29985.6191,
-      "low": 29408.4102,
-      "close": 29935.5996,
-      "date": "2026-10-15"
+      "open": 29797.0996,
+      "high": 29822.9102,
+      "low": 29073.2891,
+      "close": 29187.5508,
+      "date": "2026-10-16"
     },
     "DJI": {
-      "open": 51858.0586,
-      "high": 52250.1797,
-      "low": 51681.3711,
-      "close": 52177.6914,
-      "date": "2026-10-15"
+      "open": 52308.2812,
+      "high": 52582.3203,
+      "low": 51847.9414,
+      "close": 52002.4102,
+      "date": "2026-10-16"
     },
     "N225": {
-      "open": 66880.3672,
-      "high": 66929.2969,
-      "low": 64092.7383,
-      "close": 64425.9492,
-      "date": "2026-10-15"
+      "open": 64925.2891,
+      "high": 65712.2969,
+      "low": 64800.8984,
+      "close": 65324.2891,
+      "date": "2026-10-16"
     },
     "HSI": {
-      "open": 24119.1406,
-      "high": 24162.7109,
-      "low": 23945.8398,
-      "close": 24062.7207,
-      "date": "2026-10-15"
+      "open": 24321.4492,
+      "high": 24392.3008,
+      "low": 24087.2305,
+      "close": 24186.8301,
+      "date": "2026-10-16"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1196,
-      "high": 1.1239,
-      "low": 1.1187,
-      "close": 1.1195,
-      "date": "2026-10-15"
+      "open": 1.1212,
+      "high": 1.127,
+      "low": 1.1209,
+      "close": 1.1213,
+      "date": "2026-10-16"
     },
     "GBPUSD": {
-      "open": 1.3233,
-      "high": 1.3275,
-      "low": 1.3224,
-      "close": 1.323,
-      "date": "2026-10-15"
+      "open": 1.3271,
+      "high": 1.3371,
+      "low": 1.3268,
+      "close": 1.3273,
+      "date": "2026-10-16"
     }
   },
   "vix": {
-    "value": 16.09,
-    "change_24h_pct": -2.25,
-    "date": "2026-10-16"
+    "value": 18.63,
+    "change_24h_pct": -6.8,
+    "date": "2026-10-19"
   },
-  "macro_calendar_today": [
-    {
-      "time_paris": "04:00",
-      "country": "GBP",
-      "indicator": "BOE Gov Bailey Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
-    },
-    {
-      "time_paris": "05:30",
-      "country": "USD",
-      "indicator": "Fed Chairman Warsh Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
-    }
-  ],
+  "macro_calendar_today": [],
   "news_bbc": [
     {
-      "title": "Banks expect to be hit with higher taxes in Budget",
-      "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
-      "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 08:54:43 GMT"
+      "title": "Home sellers cut asking prices on 3,000 properties a day",
+      "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+      "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 23:00:45 GMT"
     },
     {
-      "title": "I find it quite demoralising in store - why I do all my shopping online",
-      "summary": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
-      "url": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 23:16:12 GMT"
+      "title": "Musk and Anthropic pledge public share giveaways",
+      "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 09:38:25 GMT"
     },
     {
-      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-      "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
-      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 05:00:17 GMT"
+      "title": "Don't fall for this - how to protect yourself from AI scams",
+      "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 23:24:59 GMT"
     },
     {
-      "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
-      "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
-      "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 14:55:21 GMT"
+      "title": "People playing loud music on buses could face £100 fine",
+      "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains.\nA national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
+      "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 09:49:58 GMT"
     },
     {
-      "title": "'I paid thousands to a company for jobs that never came'",
-      "summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
-      "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 17:19:49 GMT"
+      "title": "Microsoft pulls out of UK's largest AI data centre",
+      "summary": "Tech firm Nscale says it is still committed to building the site in Essex.",
+      "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 16:46:42 GMT"
     },
     {
-      "title": "Living with a stink? Technology might help",
-      "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
-      "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 23:18:21 GMT"
+      "title": "China's growth accelerates as AI boom helps boost exports",
+      "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 06:08:02 GMT"
     },
     {
-      "title": "How backlash against data centres could shape the US midterm elections",
-      "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
-      "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 23:02:57 GMT"
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 23:28:45 GMT"
     },
     {
-      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
-      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 11:34:55 GMT"
+      "title": "What is the Budget and what could be in it?",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 09:01:40 GMT"
     }
   ],
   "sources_status": {
@@ -155,7 +138,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": true,
+    "ff_macro_calendar_ok": false,
     "bbc_news_ok": true
   }
 }
