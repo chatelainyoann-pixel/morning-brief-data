@@ -1,144 +1,152 @@
 {
-  "generated_at_utc": "2026-10-20T10:28:06.803408+00:00",
-  "generated_at_paris": "2026-10-20T12:28:06.803408+02:00",
-  "date_paris": "2026-10-20",
+  "generated_at_utc": "2026-10-21T09:49:36.354465+00:00",
+  "generated_at_paris": "2026-10-21T11:49:36.354465+02:00",
+  "date_paris": "2026-10-21",
   "indices": {
     "DAX": {
-      "open": 25540.7695,
-      "high": 25540.8809,
-      "low": 25198.9707,
-      "close": 25319.7695,
-      "date": "2026-10-19"
+      "open": 25219.7109,
+      "high": 25407.1406,
+      "low": 25050.1094,
+      "close": 25304.4199,
+      "date": "2026-10-20"
     },
     "CAC": {
-      "open": 7885.3799,
-      "high": 7894.3101,
-      "low": 7821.29,
-      "close": 7868.0498,
-      "date": "2026-10-19"
+      "open": 7842.3301,
+      "high": 7871.3198,
+      "low": 7783.2202,
+      "close": 7838.4902,
+      "date": "2026-10-20"
     },
     "FTSE": {
-      "open": 10882.2998,
-      "high": 10889.9004,
-      "low": 10730.2002,
-      "close": 10764.7002,
-      "date": "2026-10-19"
+      "open": 10764.0996,
+      "high": 10768.0,
+      "low": 10673.0,
+      "close": 10733.0,
+      "date": "2026-10-20"
     },
     "SPX": {
-      "open": 7702.77,
-      "high": 7731.1802,
-      "low": 7684.79,
-      "close": 7690.73,
-      "date": "2026-10-19"
+      "open": 7679.0098,
+      "high": 7748.4199,
+      "low": 7668.0298,
+      "close": 7712.5698,
+      "date": "2026-10-20"
     },
     "NDX": {
-      "open": 29539.3105,
-      "high": 29788.7598,
-      "low": 29461.3203,
-      "close": 29529.3496,
-      "date": "2026-10-19"
+      "open": 29393.9609,
+      "high": 29711.5293,
+      "low": 29208.8301,
+      "close": 29490.2793,
+      "date": "2026-10-20"
     },
     "DJI": {
-      "open": 51978.5781,
-      "high": 52134.5781,
-      "low": 51863.8008,
-      "close": 51966.0312,
-      "date": "2026-10-19"
+      "open": 51959.2109,
+      "high": 52689.8086,
+      "low": 51910.9219,
+      "close": 52495.8789,
+      "date": "2026-10-20"
     },
     "N225": {
-      "open": 64819.5586,
-      "high": 65067.8008,
-      "low": 63831.7812,
-      "close": 64916.6992,
-      "date": "2026-10-19"
+      "open": 64755.4883,
+      "high": 64822.2188,
+      "low": 63807.1484,
+      "close": 64075.4219,
+      "date": "2026-10-20"
     },
     "HSI": {
-      "open": 24321.4492,
-      "high": 24392.3008,
-      "low": 24087.2305,
-      "close": 24186.8301,
-      "date": "2026-10-16"
+      "open": 23990.0508,
+      "high": 24035.0,
+      "low": 23846.9902,
+      "close": 23867.7402,
+      "date": "2026-10-20"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1229,
-      "high": 1.1236,
-      "low": 1.1188,
-      "close": 1.1225,
-      "date": "2026-10-19"
+      "open": 1.1214,
+      "high": 1.1259,
+      "low": 1.1206,
+      "close": 1.1216,
+      "date": "2026-10-20"
     },
     "GBPUSD": {
-      "open": 1.3338,
-      "high": 1.3342,
-      "low": 1.3305,
-      "close": 1.3336,
-      "date": "2026-10-19"
+      "open": 1.331,
+      "high": 1.3408,
+      "low": 1.331,
+      "close": 1.3308,
+      "date": "2026-10-20"
     }
   },
   "vix": {
-    "value": 18.64,
-    "change_24h_pct": 1.08,
-    "date": "2026-10-20"
+    "value": 17.33,
+    "change_24h_pct": 0.12,
+    "date": "2026-10-21"
   },
   "macro_calendar_today": [
     {
       "time_paris": "08:00",
       "country": "GBP",
-      "indicator": "Average Earnings Index 3m/y",
-      "consensus": "3.8%",
-      "previous": "3.9%",
+      "indicator": "CPI y/y",
+      "consensus": "3.4%",
+      "previous": "3.1%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "15:00",
+      "country": "GBP",
+      "indicator": "BOE Gov Bailey Speaks",
+      "consensus": "",
+      "previous": "",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Jobless rate falls but small firms cut back hiring",
-      "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 09:31:29 GMT"
+      "title": "What is happening to UK prices?",
+      "summary": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
+      "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 08:35:47 GMT"
     },
     {
-      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-      "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
-      "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 10:06:34 GMT"
+      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 08:42:49 GMT"
     },
     {
-      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-      "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
-      "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 08:55:02 GMT"
+      "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+      "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 09:45:31 GMT"
     },
     {
-      "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
-      "summary": "The BBC hears from people who think dating events are better value for money than dating apps.",
-      "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 23:00:21 GMT"
+      "title": "The tech helping crack decades-old cold cases",
+      "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+      "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 23:13:24 GMT"
     },
     {
-      "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
-      "summary": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday.",
+      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 06:36:39 GMT"
+    },
+    {
+      "title": "Google resolves cloud outage affecting UK banks and websites",
+      "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
       "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 08:46:00 GMT"
+      "published": "Tue, 20 Oct 2026 18:03:19 GMT"
     },
     {
-      "title": "How is the US economy really doing under President Trump?",
-      "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
-      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 05:00:45 GMT"
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 19:30:05 GMT"
     },
     {
-      "title": "What is the Budget and what could be in it?",
-      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 08:31:36 GMT"
-    },
-    {
-      "title": "Vinted blocks French looters listing stolen goods for sale",
-      "summary": "The platform said since the weekend it had \"taken immediate action to identify and remove listings linked to looting\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 16:46:35 GMT"
+      "title": "Audit regulator looking into Manchester City accounting",
+      "summary": "No formal investigation has started, but the regulator is making inquiries into the case.",
+      "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 20:56:53 GMT"
     }
   ],
   "sources_status": {
