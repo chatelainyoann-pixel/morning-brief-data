@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-21T09:49:36.354465+00:00",
-  "generated_at_paris": "2026-10-21T11:49:36.354465+02:00",
+  "generated_at_utc": "2026-10-21T10:39:01.295569+00:00",
+  "generated_at_paris": "2026-10-21T12:39:01.295569+02:00",
   "date_paris": "2026-10-21",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 17.33,
-    "change_24h_pct": 0.12,
+    "value": 17.46,
+    "change_24h_pct": 0.87,
     "date": "2026-10-21"
   },
   "macro_calendar_today": [
@@ -101,6 +101,18 @@
   ],
   "news_bbc": [
     {
+      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+      "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 10:20:15 GMT"
+    },
+    {
+      "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+      "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 10:16:17 GMT"
+    },
+    {
       "title": "What is happening to UK prices?",
       "summary": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
       "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
@@ -111,12 +123,6 @@
       "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
       "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 08:42:49 GMT"
-    },
-    {
-      "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
-      "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
-      "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 09:45:31 GMT"
     },
     {
       "title": "The tech helping crack decades-old cold cases",
@@ -141,12 +147,6 @@
       "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
       "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 19:30:05 GMT"
-    },
-    {
-      "title": "Audit regulator looking into Manchester City accounting",
-      "summary": "No formal investigation has started, but the regulator is making inquiries into the case.",
-      "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 20:56:53 GMT"
     }
   ],
   "sources_status": {
