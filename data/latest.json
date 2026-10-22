@@ -1,152 +1,144 @@
 {
-  "generated_at_utc": "2026-10-21T10:39:01.295569+00:00",
-  "generated_at_paris": "2026-10-21T12:39:01.295569+02:00",
-  "date_paris": "2026-10-21",
+  "generated_at_utc": "2026-10-22T09:50:25.204952+00:00",
+  "generated_at_paris": "2026-10-22T11:50:25.204952+02:00",
+  "date_paris": "2026-10-22",
   "indices": {
     "DAX": {
-      "open": 25219.7109,
-      "high": 25407.1406,
-      "low": 25050.1094,
-      "close": 25304.4199,
-      "date": "2026-10-20"
+      "open": 25295.7598,
+      "high": 25706.1895,
+      "low": 25249.9609,
+      "close": 25645.0391,
+      "date": "2026-10-21"
     },
     "CAC": {
-      "open": 7842.3301,
-      "high": 7871.3198,
-      "low": 7783.2202,
-      "close": 7838.4902,
-      "date": "2026-10-20"
+      "open": 7834.5098,
+      "high": 7926.3799,
+      "low": 7830.8999,
+      "close": 7921.6802,
+      "date": "2026-10-21"
     },
     "FTSE": {
-      "open": 10764.0996,
-      "high": 10768.0,
-      "low": 10673.0,
-      "close": 10733.0,
-      "date": "2026-10-20"
+      "open": 10733.2998,
+      "high": 10775.9004,
+      "low": 10704.0,
+      "close": 10752.9004,
+      "date": "2026-10-21"
     },
     "SPX": {
-      "open": 7679.0098,
-      "high": 7748.4199,
-      "low": 7668.0298,
-      "close": 7712.5698,
-      "date": "2026-10-20"
+      "open": 7736.4302,
+      "high": 7770.3999,
+      "low": 7709.3398,
+      "close": 7757.1699,
+      "date": "2026-10-21"
     },
     "NDX": {
-      "open": 29393.9609,
-      "high": 29711.5293,
-      "low": 29208.8301,
-      "close": 29490.2793,
-      "date": "2026-10-20"
+      "open": 29707.0,
+      "high": 29928.3105,
+      "low": 29593.6992,
+      "close": 29822.5195,
+      "date": "2026-10-21"
     },
     "DJI": {
-      "open": 51959.2109,
-      "high": 52689.8086,
-      "low": 51910.9219,
-      "close": 52495.8789,
-      "date": "2026-10-20"
+      "open": 52652.8516,
+      "high": 52860.1094,
+      "low": 52392.2812,
+      "close": 52856.0898,
+      "date": "2026-10-21"
     },
     "N225": {
-      "open": 64755.4883,
-      "high": 64822.2188,
-      "low": 63807.1484,
-      "close": 64075.4219,
-      "date": "2026-10-20"
+      "open": 64885.9492,
+      "high": 65404.6289,
+      "low": 64558.6016,
+      "close": 64621.2383,
+      "date": "2026-10-21"
     },
     "HSI": {
-      "open": 23990.0508,
-      "high": 24035.0,
-      "low": 23846.9902,
-      "close": 23867.7402,
-      "date": "2026-10-20"
+      "open": 24139.1094,
+      "high": 24139.1094,
+      "low": 23620.0996,
+      "close": 23651.8691,
+      "date": "2026-10-21"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1214,
-      "high": 1.1259,
-      "low": 1.1206,
-      "close": 1.1216,
-      "date": "2026-10-20"
+      "open": 1.1226,
+      "high": 1.1238,
+      "low": 1.1214,
+      "close": 1.1227,
+      "date": "2026-10-21"
     },
     "GBPUSD": {
-      "open": 1.331,
-      "high": 1.3408,
-      "low": 1.331,
-      "close": 1.3308,
-      "date": "2026-10-20"
+      "open": 1.3372,
+      "high": 1.3405,
+      "low": 1.3366,
+      "close": 1.3373,
+      "date": "2026-10-21"
     }
   },
   "vix": {
-    "value": 17.46,
-    "change_24h_pct": 0.87,
-    "date": "2026-10-21"
+    "value": 18.49,
+    "change_24h_pct": 10.85,
+    "date": "2026-10-22"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "08:00",
-      "country": "GBP",
-      "indicator": "CPI y/y",
-      "consensus": "3.4%",
-      "previous": "3.1%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "15:00",
-      "country": "GBP",
-      "indicator": "BOE Gov Bailey Speaks",
-      "consensus": "",
-      "previous": "",
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Unemployment Claims",
+      "consensus": "200K",
+      "previous": "199K",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
-      "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 10:20:15 GMT"
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 09:37:58 GMT"
     },
     {
-      "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
-      "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
-      "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 10:16:17 GMT"
+      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+      "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 23:27:05 GMT"
     },
     {
-      "title": "What is happening to UK prices?",
-      "summary": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
-      "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 08:35:47 GMT"
+      "title": "Is an 'AI war' complicating your job search?",
+      "summary": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 05:01:31 GMT"
     },
     {
-      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 08:42:49 GMT"
+      "title": "Websites taken down worldwide as critical cyber-security update issued",
+      "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 19:54:57 GMT"
     },
     {
-      "title": "The tech helping crack decades-old cold cases",
-      "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
-      "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 23:13:24 GMT"
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 06:24:59 GMT"
     },
     {
-      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-      "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 06:36:39 GMT"
+      "title": "No order, no seat: Starbucks China rolls out new store policy",
+      "summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 04:02:29 GMT"
     },
     {
-      "title": "Google resolves cloud outage affecting UK banks and websites",
-      "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 18:03:19 GMT"
+      "title": "The grads ditching the UK for a fresh start abroad",
+      "summary": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 23:12:06 GMT"
     },
     {
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 19:30:05 GMT"
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 21:49:07 GMT"
     }
   ],
   "sources_status": {
