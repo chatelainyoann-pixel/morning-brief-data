@@ -1,224 +1,135 @@
 {
-  "generated_at_utc": "2026-10-23T10:34:12.953367+00:00",
-  "generated_at_paris": "2026-10-23T12:34:12.953367+02:00",
-  "date_paris": "2026-10-23",
+  "generated_at_utc": "2026-10-26T10:45:56.785077+00:00",
+  "generated_at_paris": "2026-10-26T11:45:56.785077+01:00",
+  "date_paris": "2026-10-26",
   "indices": {
     "DAX": {
-      "open": 25497.9395,
-      "high": 25563.1309,
-      "low": 25318.1797,
-      "close": 25371.75,
-      "date": "2026-10-22"
+      "open": 25325.5801,
+      "high": 25329.3203,
+      "low": 25013.5391,
+      "close": 25181.6504,
+      "date": "2026-10-23"
     },
     "CAC": {
-      "open": 7857.0098,
-      "high": 7859.6602,
-      "low": 7791.6299,
-      "close": 7811.2598,
-      "date": "2026-10-22"
+      "open": 7812.23,
+      "high": 7812.7598,
+      "low": 7728.4502,
+      "close": 7782.8198,
+      "date": "2026-10-23"
     },
     "FTSE": {
-      "open": 10752.5996,
-      "high": 10757.9004,
-      "low": 10669.4004,
-      "close": 10725.0,
-      "date": "2026-10-22"
+      "open": 10724.7002,
+      "high": 10748.4004,
+      "low": 10630.0,
+      "close": 10690.4004,
+      "date": "2026-10-23"
     },
     "SPX": {
-      "open": 7694.6201,
-      "high": 7702.9399,
-      "low": 7637.3599,
-      "close": 7663.4302,
-      "date": "2026-10-22"
+      "open": 7637.1802,
+      "high": 7660.1499,
+      "low": 7612.0698,
+      "close": 7623.6802,
+      "date": "2026-10-23"
     },
     "NDX": {
-      "open": 29304.3008,
-      "high": 29411.7598,
-      "low": 28855.0996,
-      "close": 28958.6895,
-      "date": "2026-10-22"
+      "open": 28847.8203,
+      "high": 29161.0293,
+      "low": 28825.7207,
+      "close": 28957.5293,
+      "date": "2026-10-23"
     },
     "DJI": {
-      "open": 52788.4102,
-      "high": 52927.8789,
-      "low": 52508.3789,
-      "close": 52867.9805,
-      "date": "2026-10-22"
+      "open": 52696.6992,
+      "high": 52696.6992,
+      "low": 52055.1016,
+      "close": 52215.1602,
+      "date": "2026-10-23"
     },
     "N225": {
-      "open": 64539.3594,
-      "high": 64866.4414,
-      "low": 62907.8398,
-      "close": 62907.8398,
-      "date": "2026-10-22"
+      "open": 62667.0508,
+      "high": 62786.8906,
+      "low": 61462.6094,
+      "close": 62693.1602,
+      "date": "2026-10-23"
     },
     "HSI": {
-      "open": 23513.7891,
-      "high": 23513.7891,
-      "low": 22879.1094,
-      "close": 22934.6797,
-      "date": "2026-10-22"
+      "open": 23027.9805,
+      "high": 23231.6309,
+      "low": 22803.7695,
+      "close": 23093.3691,
+      "date": "2026-10-23"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1234,
-      "high": 1.1257,
-      "low": 1.1191,
-      "close": 1.1235,
-      "date": "2026-10-22"
+      "open": 1.1222,
+      "high": 1.1226,
+      "low": 1.1187,
+      "close": 1.1221,
+      "date": "2026-10-23"
     },
     "GBPUSD": {
-      "open": 1.3395,
-      "high": 1.3417,
-      "low": 1.3356,
-      "close": 1.3396,
-      "date": "2026-10-22"
+      "open": 1.3404,
+      "high": 1.3408,
+      "low": 1.3366,
+      "close": 1.3404,
+      "date": "2026-10-23"
     }
   },
   "vix": {
-    "value": 19.55,
-    "change_24h_pct": 2.73,
-    "date": "2026-10-23"
+    "value": 19.53,
+    "change_24h_pct": 0.41,
+    "date": "2026-10-26"
   },
-  "macro_calendar_today": [
-    {
-      "time_paris": "08:00",
-      "country": "GBP",
-      "indicator": "Retail Sales m/m",
-      "consensus": "-0.1%",
-      "previous": "0.5%",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:15",
-      "country": "EUR",
-      "indicator": "French Flash Manufacturing PMI",
-      "consensus": "50.5",
-      "previous": "50.3",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:15",
-      "country": "EUR",
-      "indicator": "French Flash Services PMI",
-      "consensus": "50.7",
-      "previous": "51.4",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:30",
-      "country": "EUR",
-      "indicator": "German Flash Manufacturing PMI",
-      "consensus": "53.5",
-      "previous": "53.8",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:30",
-      "country": "EUR",
-      "indicator": "German Flash Services PMI",
-      "consensus": "52.5",
-      "previous": "52.9",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "10:30",
-      "country": "GBP",
-      "indicator": "Flash Manufacturing PMI",
-      "consensus": "51.8",
-      "previous": "52.0",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "10:30",
-      "country": "GBP",
-      "indicator": "Flash Services PMI",
-      "consensus": "51.8",
-      "previous": "51.7",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "15:45",
-      "country": "USD",
-      "indicator": "Flash Manufacturing PMI",
-      "consensus": "55.4",
-      "previous": "57.0",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "15:45",
-      "country": "USD",
-      "indicator": "Flash Services PMI",
-      "consensus": "57.9",
-      "previous": "58.7",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Revised UoM Consumer Sentiment",
-      "consensus": "46.3",
-      "previous": "46.3",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Revised UoM Inflation Expectations",
-      "consensus": "",
-      "previous": "4.7%",
-      "impact": "Medium"
-    }
-  ],
+  "macro_calendar_today": [],
   "news_bbc": [
     {
-      "title": "Lights will stay on this winter, grid operator says after concerns",
-      "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 06:47:10 GMT"
+      "title": "Healey to shield low-income pensioners from income tax in the Budget",
+      "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
+      "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 10:28:12 GMT"
     },
     {
-      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-      "summary": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
-      "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 23:20:38 GMT"
+      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "summary": "The economic is positive now but come January things could become trickier for the Labour government",
+      "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 00:26:49 GMT"
     },
     {
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 18:26:56 GMT"
+      "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
+      "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 25 Oct 2026 23:44:34 GMT"
     },
     {
-      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
-      "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
-      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 22:27:53 GMT"
+      "title": "What is the Budget and what could be in it?",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 02:16:37 GMT"
     },
     {
-      "title": "'I wasn't thinking straight' says five jobs civil servant",
-      "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 15:05:47 GMT"
+      "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
+      "summary": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
+      "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 06:14:11 GMT"
     },
     {
-      "title": "The Indian workers filming their work to train AI",
-      "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-      "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 08:04:17 GMT"
+      "title": "Will a new code end 'rip-off parking charges'?",
+      "summary": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 25 Oct 2026 07:05:30 GMT"
     },
     {
-      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-      "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 14:28:59 GMT"
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 25 Oct 2026 07:15:38 GMT"
     },
     {
-      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
-      "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 23:27:05 GMT"
+      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+      "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 23:11:31 GMT"
     }
   ],
   "sources_status": {
@@ -227,7 +138,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": true,
+    "ff_macro_calendar_ok": false,
     "bbc_news_ok": true
   }
 }
