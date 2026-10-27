@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-27T10:12:24.452864+00:00",
-  "generated_at_paris": "2026-10-27T11:12:24.452864+01:00",
+  "generated_at_utc": "2026-10-27T11:06:14.768078+00:00",
+  "generated_at_paris": "2026-10-27T12:06:14.768078+01:00",
   "date_paris": "2026-10-27",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 18.21,
-    "change_24h_pct": -0.98,
+    "value": 17.97,
+    "change_24h_pct": -2.28,
     "date": "2026-10-27"
   },
   "macro_calendar_today": [
@@ -99,8 +99,8 @@
       "published": "Tue, 27 Oct 2026 06:48:50 GMT"
     },
     {
-      "title": "Budget measures to include fuel duty freeze and food tariff cuts",
-      "summary": "The BBC understands the government will also freeze fuel duty again in the Budget.",
+      "title": "Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space'",
+      "summary": "A series of small announcements are part of John Healey's pledge to give households help with the cost of living.",
       "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 10:10:31 GMT"
     },
@@ -117,13 +117,13 @@
       "published": "Tue, 27 Oct 2026 06:33:11 GMT"
     },
     {
-      "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
-      "summary": "He allegedly said his \"favourite meme\" is \"the one where they put my face on a Chinese dictator\".",
+      "title": "Mbappé dropped by major Chinese brands as backlash grows over Mao joke",
+      "summary": "He allegedly said the funniest \"meme\" about him is the one where they put his face on \"a Chinese dictator\".",
       "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 07:15:08 GMT"
+      "published": "Tue, 27 Oct 2026 10:19:13 GMT"
     },
     {
-      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+      "title": "Apple to replace iPhone Duos affected by screen problem",
       "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
       "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 09:37:55 GMT"
