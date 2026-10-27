@@ -1,135 +1,144 @@
 {
-  "generated_at_utc": "2026-10-26T11:35:23.577221+00:00",
-  "generated_at_paris": "2026-10-26T12:35:23.577221+01:00",
-  "date_paris": "2026-10-26",
+  "generated_at_utc": "2026-10-27T10:12:24.452864+00:00",
+  "generated_at_paris": "2026-10-27T11:12:24.452864+01:00",
+  "date_paris": "2026-10-27",
   "indices": {
     "DAX": {
-      "open": 25325.5801,
-      "high": 25329.3203,
-      "low": 25013.5391,
-      "close": 25181.6504,
-      "date": "2026-10-23"
+      "open": 25235.8398,
+      "high": 25509.8008,
+      "low": 25217.1504,
+      "close": 25410.8398,
+      "date": "2026-10-26"
     },
     "CAC": {
-      "open": 7812.23,
-      "high": 7812.7598,
-      "low": 7728.4502,
-      "close": 7782.8198,
-      "date": "2026-10-23"
+      "open": 7816.5098,
+      "high": 7873.6401,
+      "low": 7814.4102,
+      "close": 7847.3198,
+      "date": "2026-10-26"
     },
     "FTSE": {
-      "open": 10724.7002,
-      "high": 10748.4004,
-      "low": 10630.0,
-      "close": 10690.4004,
-      "date": "2026-10-23"
+      "open": 10690.9004,
+      "high": 10774.5,
+      "low": 10689.9004,
+      "close": 10767.2998,
+      "date": "2026-10-26"
     },
     "SPX": {
-      "open": 7637.1802,
-      "high": 7660.1499,
-      "low": 7612.0698,
-      "close": 7623.6802,
-      "date": "2026-10-23"
+      "open": 7639.7002,
+      "high": 7702.1299,
+      "low": 7639.7002,
+      "close": 7676.77,
+      "date": "2026-10-26"
     },
     "NDX": {
-      "open": 28847.8203,
-      "high": 29161.0293,
-      "low": 28825.7207,
-      "close": 28957.5293,
-      "date": "2026-10-23"
+      "open": 29051.5801,
+      "high": 29404.4395,
+      "low": 29011.9102,
+      "close": 29273.4004,
+      "date": "2026-10-26"
     },
     "DJI": {
-      "open": 52696.6992,
-      "high": 52696.6992,
-      "low": 52055.1016,
-      "close": 52215.1602,
-      "date": "2026-10-23"
+      "open": 52320.4492,
+      "high": 52620.1914,
+      "low": 52263.25,
+      "close": 52361.5781,
+      "date": "2026-10-26"
     },
     "N225": {
-      "open": 62667.0508,
-      "high": 62786.8906,
-      "low": 61462.6094,
-      "close": 62693.1602,
-      "date": "2026-10-23"
+      "open": 62449.9609,
+      "high": 62902.9492,
+      "low": 62094.3398,
+      "close": 62189.6484,
+      "date": "2026-10-26"
     },
     "HSI": {
-      "open": 23027.9805,
-      "high": 23231.6309,
-      "low": 22803.7695,
-      "close": 23093.3691,
-      "date": "2026-10-23"
+      "open": 23156.9609,
+      "high": 23259.1309,
+      "low": 23009.7891,
+      "close": 23211.8105,
+      "date": "2026-10-26"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1222,
-      "high": 1.1226,
-      "low": 1.1187,
-      "close": 1.1221,
-      "date": "2026-10-23"
+      "open": 1.1218,
+      "high": 1.1227,
+      "low": 1.1175,
+      "close": 1.1218,
+      "date": "2026-10-26"
     },
     "GBPUSD": {
-      "open": 1.3404,
-      "high": 1.3408,
-      "low": 1.3366,
-      "close": 1.3404,
-      "date": "2026-10-23"
+      "open": 1.3379,
+      "high": 1.3389,
+      "low": 1.333,
+      "close": 1.3378,
+      "date": "2026-10-26"
     }
   },
   "vix": {
-    "value": 19.69,
-    "change_24h_pct": 1.23,
-    "date": "2026-10-26"
+    "value": 18.21,
+    "change_24h_pct": -0.98,
+    "date": "2026-10-27"
   },
-  "macro_calendar_today": [],
+  "macro_calendar_today": [
+    {
+      "time_paris": "15:00",
+      "country": "USD",
+      "indicator": "CB Consumer Confidence",
+      "consensus": "81.2",
+      "previous": "81.9",
+      "impact": "Medium"
+    }
+  ],
   "news_bbc": [
     {
-      "title": "Healey to shield low-income pensioners from income tax in the Budget",
-      "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
-      "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 26 Oct 2026 10:28:12 GMT"
+      "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
+      "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 06:48:50 GMT"
     },
     {
-      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-      "summary": "The economic is positive now but come January things could become trickier for the Labour government",
-      "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 26 Oct 2026 00:26:49 GMT"
+      "title": "Budget measures to include fuel duty freeze and food tariff cuts",
+      "summary": "The BBC understands the government will also freeze fuel duty again in the Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 10:10:31 GMT"
     },
     {
-      "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
-      "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
-      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 23:44:34 GMT"
+      "title": "Donald Trump's biggest economic problem looks strangely familiar",
+      "summary": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 06:01:11 GMT"
+    },
+    {
+      "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+      "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 06:33:11 GMT"
+    },
+    {
+      "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+      "summary": "He allegedly said his \"favourite meme\" is \"the one where they put my face on a Chinese dictator\".",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 07:15:08 GMT"
+    },
+    {
+      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+      "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+      "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 09:37:55 GMT"
+    },
+    {
+      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+      "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 19:57:23 GMT"
     },
     {
       "title": "What is the Budget and what could be in it?",
       "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
       "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 26 Oct 2026 02:16:37 GMT"
-    },
-    {
-      "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
-      "summary": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
-      "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 26 Oct 2026 10:48:46 GMT"
-    },
-    {
-      "title": "Will a new code end 'rip-off parking charges'?",
-      "summary": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 07:05:30 GMT"
-    },
-    {
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
-      "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
-      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 07:15:38 GMT"
-    },
-    {
-      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
-      "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
-      "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 23:11:31 GMT"
     }
   ],
   "sources_status": {
@@ -138,7 +147,7 @@
     "yfinance_forex_ok_count": 2,
     "yfinance_forex_total": 2,
     "yfinance_vix_ok": true,
-    "ff_macro_calendar_ok": false,
+    "ff_macro_calendar_ok": true,
     "bbc_news_ok": true
   }
 }
