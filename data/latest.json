@@ -1,144 +1,176 @@
 {
-  "generated_at_utc": "2026-10-27T11:06:14.768078+00:00",
-  "generated_at_paris": "2026-10-27T12:06:14.768078+01:00",
-  "date_paris": "2026-10-27",
+  "generated_at_utc": "2026-10-28T10:59:21.547677+00:00",
+  "generated_at_paris": "2026-10-28T11:59:21.547677+01:00",
+  "date_paris": "2026-10-28",
   "indices": {
     "DAX": {
-      "open": 25235.8398,
-      "high": 25509.8008,
-      "low": 25217.1504,
-      "close": 25410.8398,
-      "date": "2026-10-26"
+      "open": 25369.8105,
+      "high": 25647.4902,
+      "low": 25340.2109,
+      "close": 25590.7695,
+      "date": "2026-10-27"
     },
     "CAC": {
-      "open": 7816.5098,
-      "high": 7873.6401,
-      "low": 7814.4102,
-      "close": 7847.3198,
-      "date": "2026-10-26"
+      "open": 7816.1499,
+      "high": 7909.7402,
+      "low": 7810.9199,
+      "close": 7887.1401,
+      "date": "2026-10-27"
     },
     "FTSE": {
-      "open": 10690.9004,
-      "high": 10774.5,
-      "low": 10689.9004,
-      "close": 10767.2998,
-      "date": "2026-10-26"
+      "open": 10767.7998,
+      "high": 10767.7998,
+      "low": 10649.7002,
+      "close": 10686.5,
+      "date": "2026-10-27"
     },
     "SPX": {
-      "open": 7639.7002,
-      "high": 7702.1299,
-      "low": 7639.7002,
-      "close": 7676.77,
-      "date": "2026-10-26"
+      "open": 7699.4702,
+      "high": 7736.2402,
+      "low": 7677.1602,
+      "close": 7722.6001,
+      "date": "2026-10-27"
     },
     "NDX": {
-      "open": 29051.5801,
-      "high": 29404.4395,
-      "low": 29011.9102,
-      "close": 29273.4004,
-      "date": "2026-10-26"
+      "open": 29407.1895,
+      "high": 29719.6309,
+      "low": 29340.5391,
+      "close": 29651.4395,
+      "date": "2026-10-27"
     },
     "DJI": {
-      "open": 52320.4492,
-      "high": 52620.1914,
-      "low": 52263.25,
-      "close": 52361.5781,
-      "date": "2026-10-26"
+      "open": 52277.4883,
+      "high": 52477.9102,
+      "low": 52231.8398,
+      "close": 52377.5703,
+      "date": "2026-10-27"
     },
     "N225": {
-      "open": 62449.9609,
-      "high": 62902.9492,
-      "low": 62094.3398,
-      "close": 62189.6484,
-      "date": "2026-10-26"
+      "open": 62569.0781,
+      "high": 63684.6914,
+      "low": 62389.4688,
+      "close": 63268.3711,
+      "date": "2026-10-27"
     },
     "HSI": {
-      "open": 23156.9609,
-      "high": 23259.1309,
-      "low": 23009.7891,
-      "close": 23211.8105,
-      "date": "2026-10-26"
+      "open": 23260.1406,
+      "high": 23313.9199,
+      "low": 22983.9902,
+      "close": 23041.3203,
+      "date": "2026-10-27"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1218,
-      "high": 1.1227,
-      "low": 1.1175,
-      "close": 1.1218,
-      "date": "2026-10-26"
+      "open": 1.1175,
+      "high": 1.1178,
+      "low": 1.1136,
+      "close": 1.1174,
+      "date": "2026-10-27"
     },
     "GBPUSD": {
-      "open": 1.3379,
-      "high": 1.3389,
-      "low": 1.333,
-      "close": 1.3378,
-      "date": "2026-10-26"
+      "open": 1.3346,
+      "high": 1.3349,
+      "low": 1.3308,
+      "close": 1.3345,
+      "date": "2026-10-27"
     }
   },
   "vix": {
-    "value": 17.97,
-    "change_24h_pct": -2.28,
-    "date": "2026-10-27"
+    "value": 17.45,
+    "change_24h_pct": -0.4,
+    "date": "2026-10-28"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "15:00",
-      "country": "USD",
-      "indicator": "CB Consumer Confidence",
-      "consensus": "81.2",
-      "previous": "81.9",
+      "time_paris": "13:30",
+      "country": "GBP",
+      "indicator": "Annual Budget Release",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    },
+    {
+      "time_paris": "13:30",
+      "country": "GBP",
+      "indicator": "Autumn Forecast Statement",
+      "consensus": "",
+      "previous": "",
       "impact": "Medium"
+    },
+    {
+      "time_paris": "19:00",
+      "country": "USD",
+      "indicator": "Federal Funds Rate",
+      "consensus": "4.00%",
+      "previous": "4.00%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "19:00",
+      "country": "USD",
+      "indicator": "FOMC Statement",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
+    },
+    {
+      "time_paris": "19:30",
+      "country": "USD",
+      "indicator": "FOMC Press Conference",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
     }
   ],
   "news_bbc": [
     {
-      "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
-      "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+      "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+      "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
       "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 06:48:50 GMT"
+      "published": "Wed, 28 Oct 2026 00:03:05 GMT"
     },
     {
-      "title": "Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space'",
-      "summary": "A series of small announcements are part of John Healey's pledge to give households help with the cost of living.",
+      "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 09:25:19 GMT"
+    },
+    {
+      "title": "Workers should be able to know colleagues' salaries, rights body says",
+      "summary": "Employees should legally be able to find out what their co-workers are earning, the UK's equality watchdog says",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 10:42:39 GMT"
+    },
+    {
+      "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+      "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
       "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 10:10:31 GMT"
+      "published": "Tue, 27 Oct 2026 15:01:27 GMT"
+    },
+    {
+      "title": "'An annoying buzz': The search for stealthier drones",
+      "summary": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 00:01:10 GMT"
+    },
+    {
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 10:31:22 GMT"
+    },
+    {
+      "title": "China's families are now supporting more old people than kids",
+      "summary": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 23:16:08 GMT"
     },
     {
       "title": "Donald Trump's biggest economic problem looks strangely familiar",
       "summary": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
       "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 06:01:11 GMT"
-    },
-    {
-      "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
-      "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
-      "url": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 06:33:11 GMT"
-    },
-    {
-      "title": "Mbappé dropped by major Chinese brands as backlash grows over Mao joke",
-      "summary": "He allegedly said the funniest \"meme\" about him is the one where they put his face on \"a Chinese dictator\".",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 10:19:13 GMT"
-    },
-    {
-      "title": "Apple to replace iPhone Duos affected by screen problem",
-      "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
-      "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 09:37:55 GMT"
-    },
-    {
-      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-      "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
-      "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 26 Oct 2026 19:57:23 GMT"
-    },
-    {
-      "title": "What is the Budget and what could be in it?",
-      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 26 Oct 2026 02:16:37 GMT"
     }
   ],
   "sources_status": {
