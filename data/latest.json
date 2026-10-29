@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-29T11:18:20.284010+00:00",
-  "generated_at_paris": "2026-10-29T12:18:20.284010+01:00",
+  "generated_at_utc": "2026-10-29T11:49:56.467451+00:00",
+  "generated_at_paris": "2026-10-29T12:49:56.467451+01:00",
   "date_paris": "2026-10-29",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 16.99,
-    "change_24h_pct": 0.47,
+    "value": 17.1,
+    "change_24h_pct": 1.12,
     "date": "2026-10-29"
   },
   "macro_calendar_today": [
@@ -142,9 +142,9 @@
   "news_bbc": [
     {
       "title": "Poundland's future hangs in the balance as chain edges towards collapse",
-      "summary": "Poundland's bosses have filed a notice of intention to appoint administrators to the business.",
+      "summary": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
       "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 11:05:34 GMT"
+      "published": "Thu, 29 Oct 2026 11:19:10 GMT"
     },
     {
       "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
