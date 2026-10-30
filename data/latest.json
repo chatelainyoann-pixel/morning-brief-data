@@ -1,192 +1,160 @@
 {
-  "generated_at_utc": "2026-10-29T11:49:56.467451+00:00",
-  "generated_at_paris": "2026-10-29T12:49:56.467451+01:00",
-  "date_paris": "2026-10-29",
+  "generated_at_utc": "2026-10-30T11:10:55.549986+00:00",
+  "generated_at_paris": "2026-10-30T12:10:55.549986+01:00",
+  "date_paris": "2026-10-30",
   "indices": {
     "DAX": {
-      "open": 25577.3594,
-      "high": 25716.8301,
-      "low": 25534.4199,
-      "close": 25704.0195,
-      "date": "2026-10-28"
+      "open": 25724.0195,
+      "high": 26106.1895,
+      "low": 25720.6895,
+      "close": 26039.6797,
+      "date": "2026-10-29"
     },
     "CAC": {
-      "open": 7916.4102,
-      "high": 7918.7402,
-      "low": 7870.75,
-      "close": 7886.96,
-      "date": "2026-10-28"
+      "open": 7931.9102,
+      "high": 7998.1201,
+      "low": 7923.2202,
+      "close": 7970.0,
+      "date": "2026-10-29"
     },
     "FTSE": {
-      "open": 10687.0,
-      "high": 10722.7998,
-      "low": 10643.2998,
-      "close": 10694.5,
-      "date": "2026-10-28"
+      "open": 10694.0,
+      "high": 10773.7002,
+      "low": 10694.0,
+      "close": 10722.0996,
+      "date": "2026-10-29"
     },
     "SPX": {
-      "open": 7735.5601,
-      "high": 7758.4302,
-      "low": 7718.3701,
-      "close": 7743.98,
-      "date": "2026-10-28"
+      "open": 7699.6099,
+      "high": 7732.21,
+      "low": 7690.9399,
+      "close": 7720.3901,
+      "date": "2026-10-29"
     },
     "NDX": {
-      "open": 29732.0391,
-      "high": 29848.7109,
-      "low": 29618.4199,
-      "close": 29813.1602,
-      "date": "2026-10-28"
+      "open": 29421.1797,
+      "high": 29517.8008,
+      "low": 29257.0508,
+      "close": 29402.5098,
+      "date": "2026-10-29"
     },
     "DJI": {
-      "open": 52335.4297,
-      "high": 52634.3203,
-      "low": 52335.4297,
-      "close": 52475.1016,
-      "date": "2026-10-28"
+      "open": 52086.1289,
+      "high": 52405.8789,
+      "low": 52086.1289,
+      "close": 52342.5586,
+      "date": "2026-10-29"
     },
     "N225": {
-      "open": 63738.9805,
-      "high": 64308.7109,
-      "low": 63660.3008,
-      "close": 63954.1914,
-      "date": "2026-10-28"
+      "open": 64126.25,
+      "high": 64831.2891,
+      "low": 63749.1992,
+      "close": 64659.4688,
+      "date": "2026-10-29"
     },
     "HSI": {
-      "open": 23083.9902,
-      "high": 23157.4004,
-      "low": 23023.0391,
-      "close": 23094.8301,
-      "date": "2026-10-28"
+      "open": 23088.1406,
+      "high": 23184.0898,
+      "low": 22928.2695,
+      "close": 22958.6504,
+      "date": "2026-10-29"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1131,
-      "high": 1.1141,
-      "low": 1.1113,
-      "close": 1.113,
-      "date": "2026-10-28"
+      "open": 1.1154,
+      "high": 1.1174,
+      "low": 1.111,
+      "close": 1.1156,
+      "date": "2026-10-29"
     },
     "GBPUSD": {
-      "open": 1.3307,
-      "high": 1.3312,
-      "low": 1.3273,
-      "close": 1.3306,
-      "date": "2026-10-28"
+      "open": 1.3324,
+      "high": 1.3378,
+      "low": 1.3296,
+      "close": 1.3328,
+      "date": "2026-10-29"
     }
   },
   "vix": {
-    "value": 17.1,
-    "change_24h_pct": 1.12,
-    "date": "2026-10-29"
+    "value": 18.54,
+    "change_24h_pct": 7.79,
+    "date": "2026-10-30"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "13:30",
-      "country": "USD",
-      "indicator": "Advance GDP q/q",
-      "consensus": "3.2%",
-      "previous": "1.5%",
-      "impact": "High"
+      "time_paris": "08:29",
+      "country": "EUR",
+      "indicator": "German Prelim CPI m/m",
+      "consensus": "0.1%",
+      "previous": "0.6%",
+      "impact": "Medium"
     },
     {
-      "time_paris": "13:30",
-      "country": "USD",
-      "indicator": "Core PCE Price Index m/m",
-      "consensus": "0.3%",
+      "time_paris": "10:00",
+      "country": "EUR",
+      "indicator": "German Prelim GDP q/q",
+      "consensus": "0.1%",
       "previous": "0.2%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "13:30",
-      "country": "USD",
-      "indicator": "Advance GDP Price Index q/q",
-      "consensus": "3.2%",
-      "previous": "6.2%",
       "impact": "Medium"
     },
     {
       "time_paris": "13:30",
       "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "198K",
-      "previous": "194K",
+      "indicator": "Employment Cost Index q/q",
+      "consensus": "0.8%",
+      "previous": "0.9%",
       "impact": "Medium"
-    },
-    {
-      "time_paris": "14:15",
-      "country": "EUR",
-      "indicator": "Main Refinancing Rate",
-      "consensus": "2.65%",
-      "previous": "2.65%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:15",
-      "country": "EUR",
-      "indicator": "Monetary Policy Statement",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:45",
-      "country": "EUR",
-      "indicator": "ECB Press Conference",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
     }
   ],
   "news_bbc": [
     {
-      "title": "Poundland's future hangs in the balance as chain edges towards collapse",
-      "summary": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
+      "title": "From Levi's to Primark - the fashion chains selling mended clothes",
+      "summary": "A new generation is embracing eye-catching patching and visible mends.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 00:00:35 GMT"
+    },
+    {
+      "title": "Yorkshire Water boss resigns after firm downgraded",
+      "summary": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 07:54:08 GMT"
+    },
+    {
+      "title": "Streeting denies 'kicking can down the road' in defence spending row",
+      "summary": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
+      "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 10:49:21 GMT"
+    },
+    {
+      "title": "Google value plunges by $500bn as AI search hits ad sales",
+      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 22:17:52 GMT"
+    },
+    {
+      "title": "How video game remakes tap the power of nostalgia",
+      "summary": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 07:45:00 GMT"
+    },
+    {
+      "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+      "summary": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
       "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 11:19:10 GMT"
+      "published": "Thu, 29 Oct 2026 19:11:10 GMT"
     },
     {
-      "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-      "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 00:00:25 GMT"
+      "title": "Faisal Islam: This Budget was micro and that was deliberate",
+      "summary": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
+      "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 15:48:44 GMT"
     },
     {
-      "title": "What we now know about the UK economy in four charts",
-      "summary": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
-      "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 20:08:45 GMT"
-    },
-    {
-      "title": "What the Budget offers for under 25s - and what it leaves out",
-      "summary": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
-      "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 20:02:38 GMT"
-    },
-    {
-      "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-      "summary": "Properties where someone has died in tragic circumstances can have big reductions in price.",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 09:30:03 GMT"
-    },
-    {
-      "title": "Your pay, energy bills and savings: How the Budget affects you",
-      "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-      "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 16:43:35 GMT"
-    },
-    {
-      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-      "summary": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 18:45:09 GMT"
-    },
-    {
-      "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-      "summary": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 19:51:01 GMT"
+      "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+      "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 09:33:51 GMT"
     }
   ],
   "sources_status": {
