@@ -1,160 +1,144 @@
 {
-  "generated_at_utc": "2026-10-30T11:42:40.752762+00:00",
-  "generated_at_paris": "2026-10-30T12:42:40.752762+01:00",
-  "date_paris": "2026-10-30",
+  "generated_at_utc": "2026-11-02T13:06:27.952348+00:00",
+  "generated_at_paris": "2026-11-02T14:06:27.952348+01:00",
+  "date_paris": "2026-11-02",
   "indices": {
     "DAX": {
-      "open": 25724.0195,
-      "high": 26106.1895,
-      "low": 25720.6895,
-      "close": 26039.6797,
-      "date": "2026-10-29"
+      "open": 25948.6094,
+      "high": 26026.1992,
+      "low": 25779.1504,
+      "close": 25818.2109,
+      "date": "2026-10-30"
     },
     "CAC": {
-      "open": 7931.9102,
-      "high": 7998.1201,
-      "low": 7923.2202,
-      "close": 7970.0,
-      "date": "2026-10-29"
+      "open": 7973.8599,
+      "high": 7992.1699,
+      "low": 7952.3901,
+      "close": 7969.4199,
+      "date": "2026-10-30"
     },
     "FTSE": {
-      "open": 10694.0,
-      "high": 10773.7002,
-      "low": 10694.0,
-      "close": 10722.0996,
-      "date": "2026-10-29"
+      "open": 10721.5,
+      "high": 10778.7002,
+      "low": 10715.9004,
+      "close": 10729.7998,
+      "date": "2026-10-30"
     },
     "SPX": {
-      "open": 7699.6099,
-      "high": 7732.21,
-      "low": 7690.9399,
-      "close": 7720.3901,
-      "date": "2026-10-29"
+      "open": 7631.0698,
+      "high": 7637.48,
+      "low": 7527.5601,
+      "close": 7580.0698,
+      "date": "2026-10-30"
     },
     "NDX": {
-      "open": 29421.1797,
-      "high": 29517.8008,
-      "low": 29257.0508,
-      "close": 29402.5098,
-      "date": "2026-10-29"
+      "open": 28604.9102,
+      "high": 28713.4492,
+      "low": 28093.2402,
+      "close": 28384.8496,
+      "date": "2026-10-30"
     },
     "DJI": {
-      "open": 52086.1289,
-      "high": 52405.8789,
-      "low": 52086.1289,
-      "close": 52342.5586,
-      "date": "2026-10-29"
+      "open": 52383.8984,
+      "high": 52383.8984,
+      "low": 51563.7617,
+      "close": 51770.3086,
+      "date": "2026-10-30"
     },
     "N225": {
-      "open": 64126.25,
-      "high": 64831.2891,
-      "low": 63749.1992,
-      "close": 64659.4688,
-      "date": "2026-10-29"
+      "open": 64344.3711,
+      "high": 64589.0391,
+      "low": 62711.4219,
+      "close": 63290.1094,
+      "date": "2026-10-30"
     },
     "HSI": {
-      "open": 23088.1406,
-      "high": 23184.0898,
-      "low": 22928.2695,
-      "close": 22958.6504,
-      "date": "2026-10-29"
+      "open": 23011.2891,
+      "high": 23400.0195,
+      "low": 22947.9609,
+      "close": 23294.4199,
+      "date": "2026-10-30"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1154,
-      "high": 1.1174,
-      "low": 1.111,
-      "close": 1.1156,
-      "date": "2026-10-29"
+      "open": 1.1184,
+      "high": 1.1215,
+      "low": 1.1137,
+      "close": 1.1183,
+      "date": "2026-10-30"
     },
     "GBPUSD": {
-      "open": 1.3324,
-      "high": 1.3378,
-      "low": 1.3296,
-      "close": 1.3328,
-      "date": "2026-10-29"
+      "open": 1.3381,
+      "high": 1.3434,
+      "low": 1.3375,
+      "close": 1.3379,
+      "date": "2026-10-30"
     }
   },
   "vix": {
-    "value": 18.43,
-    "change_24h_pct": 7.15,
-    "date": "2026-10-30"
+    "value": 19.38,
+    "change_24h_pct": -0.21,
+    "date": "2026-11-02"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "08:29",
-      "country": "EUR",
-      "indicator": "German Prelim CPI m/m",
-      "consensus": "0.1%",
-      "previous": "0.6%",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "10:00",
-      "country": "EUR",
-      "indicator": "German Prelim GDP q/q",
-      "consensus": "0.1%",
-      "previous": "0.2%",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "13:30",
+      "time_paris": "16:00",
       "country": "USD",
-      "indicator": "Employment Cost Index q/q",
-      "consensus": "0.8%",
-      "previous": "0.9%",
+      "indicator": "ISM Manufacturing PMI",
+      "consensus": "54.5",
+      "previous": "54.5",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "From Levi's to Primark - the fashion chains selling mended clothes",
-      "summary": "A new generation is embracing eye-catching patching and visible mends.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 00:00:35 GMT"
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 12:22:10 GMT"
     },
     {
-      "title": "Yorkshire Water boss resigns after firm downgraded",
-      "summary": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 07:54:08 GMT"
+      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 07:42:33 GMT"
     },
     {
-      "title": "Streeting denies 'kicking can down the road' in defence spending row",
-      "summary": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 11:23:38 GMT"
+      "title": "Don't get caught out by new Buy Now Pay Later rules",
+      "summary": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 23:34:49 GMT"
     },
     {
-      "title": "Google value plunges by $500bn as AI search hits ad sales",
-      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 22:17:52 GMT"
+      "title": "Shop freezers in six European countries hit by suspected cyber-attack",
+      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 12:54:33 GMT"
     },
     {
-      "title": "How video game remakes tap the power of nostalgia",
-      "summary": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 07:45:00 GMT"
+      "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
+      "summary": "The broadband firm has not finalised numbers but it is likely be a sizeable chunk of staff, the BBC understands.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 16:57:14 GMT"
     },
     {
-      "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-      "summary": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 19:11:10 GMT"
+      "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+      "summary": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 00:17:05 GMT"
     },
     {
-      "title": "Faisal Islam: This Budget was micro and that was deliberate",
-      "summary": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
-      "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 15:48:44 GMT"
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 31 Oct 2026 02:12:19 GMT"
     },
     {
-      "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-      "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 09:33:51 GMT"
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 20:34:46 GMT"
     }
   ],
   "sources_status": {
