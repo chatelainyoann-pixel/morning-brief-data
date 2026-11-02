@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-02T13:06:27.952348+00:00",
-  "generated_at_paris": "2026-11-02T14:06:27.952348+01:00",
+  "generated_at_utc": "2026-11-02T13:54:30.534787+00:00",
+  "generated_at_paris": "2026-11-02T14:54:30.534787+01:00",
   "date_paris": "2026-11-02",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 19.38,
-    "change_24h_pct": -0.21,
+    "value": 19.0,
+    "change_24h_pct": -2.16,
     "date": "2026-11-02"
   },
   "macro_calendar_today": [
@@ -114,7 +114,7 @@
       "title": "Shop freezers in six European countries hit by suspected cyber-attack",
       "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
       "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 12:54:33 GMT"
+      "published": "Mon, 02 Nov 2026 13:19:56 GMT"
     },
     {
       "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
