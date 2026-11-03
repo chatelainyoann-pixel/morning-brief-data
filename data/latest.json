@@ -1,144 +1,152 @@
 {
-  "generated_at_utc": "2026-11-02T13:54:30.534787+00:00",
-  "generated_at_paris": "2026-11-02T14:54:30.534787+01:00",
-  "date_paris": "2026-11-02",
+  "generated_at_utc": "2026-11-03T12:37:22.237181+00:00",
+  "generated_at_paris": "2026-11-03T13:37:22.237181+01:00",
+  "date_paris": "2026-11-03",
   "indices": {
     "DAX": {
-      "open": 25948.6094,
-      "high": 26026.1992,
-      "low": 25779.1504,
-      "close": 25818.2109,
-      "date": "2026-10-30"
+      "open": 25802.7402,
+      "high": 26022.2598,
+      "low": 25741.5703,
+      "close": 25981.0898,
+      "date": "2026-11-02"
     },
     "CAC": {
-      "open": 7973.8599,
-      "high": 7992.1699,
-      "low": 7952.3901,
-      "close": 7969.4199,
-      "date": "2026-10-30"
+      "open": 7958.8901,
+      "high": 8054.23,
+      "low": 7944.7202,
+      "close": 8047.6899,
+      "date": "2026-11-02"
     },
     "FTSE": {
-      "open": 10721.5,
-      "high": 10778.7002,
-      "low": 10715.9004,
-      "close": 10729.7998,
-      "date": "2026-10-30"
+      "open": 10729.5,
+      "high": 10775.9004,
+      "low": 10684.7002,
+      "close": 10761.2998,
+      "date": "2026-11-02"
     },
     "SPX": {
-      "open": 7631.0698,
-      "high": 7637.48,
-      "low": 7527.5601,
-      "close": 7580.0698,
-      "date": "2026-10-30"
+      "open": 7610.8301,
+      "high": 7662.23,
+      "low": 7539.3799,
+      "close": 7541.3999,
+      "date": "2026-11-02"
     },
     "NDX": {
-      "open": 28604.9102,
-      "high": 28713.4492,
-      "low": 28093.2402,
-      "close": 28384.8496,
-      "date": "2026-10-30"
+      "open": 28561.1699,
+      "high": 28753.3906,
+      "low": 27967.4395,
+      "close": 27989.8203,
+      "date": "2026-11-02"
     },
     "DJI": {
-      "open": 52383.8984,
-      "high": 52383.8984,
-      "low": 51563.7617,
-      "close": 51770.3086,
-      "date": "2026-10-30"
+      "open": 52008.2305,
+      "high": 52424.9102,
+      "low": 51981.6602,
+      "close": 51983.9805,
+      "date": "2026-11-02"
     },
     "N225": {
-      "open": 64344.3711,
-      "high": 64589.0391,
-      "low": 62711.4219,
-      "close": 63290.1094,
-      "date": "2026-10-30"
+      "open": 62972.0195,
+      "high": 63615.3203,
+      "low": 62712.9102,
+      "close": 63081.8594,
+      "date": "2026-11-02"
     },
     "HSI": {
-      "open": 23011.2891,
-      "high": 23400.0195,
-      "low": 22947.9609,
-      "close": 23294.4199,
-      "date": "2026-10-30"
+      "open": 23301.7402,
+      "high": 23543.3008,
+      "low": 23271.2598,
+      "close": 23393.3203,
+      "date": "2026-11-02"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1184,
-      "high": 1.1215,
-      "low": 1.1137,
-      "close": 1.1183,
-      "date": "2026-10-30"
+      "open": 1.1157,
+      "high": 1.1237,
+      "low": 1.1157,
+      "close": 1.1157,
+      "date": "2026-11-02"
     },
     "GBPUSD": {
-      "open": 1.3381,
-      "high": 1.3434,
-      "low": 1.3375,
-      "close": 1.3379,
-      "date": "2026-10-30"
+      "open": 1.3386,
+      "high": 1.345,
+      "low": 1.338,
+      "close": 1.3386,
+      "date": "2026-11-02"
     }
   },
   "vix": {
-    "value": 19.0,
-    "change_24h_pct": -2.16,
-    "date": "2026-11-02"
+    "value": 21.5,
+    "change_24h_pct": 1.65,
+    "date": "2026-11-03"
   },
   "macro_calendar_today": [
     {
       "time_paris": "16:00",
       "country": "USD",
-      "indicator": "ISM Manufacturing PMI",
-      "consensus": "54.5",
-      "previous": "54.5",
+      "indicator": "JOLTS Job Openings",
+      "consensus": "7.15M",
+      "previous": "7.08M",
       "impact": "Medium"
+    },
+    {
+      "time_paris": "16:16",
+      "country": "USD",
+      "indicator": "Congressional Elections",
+      "consensus": "",
+      "previous": "",
+      "impact": "High"
     }
   ],
   "news_bbc": [
     {
-      "title": "Ryanair says it may freeze workers' pay and raise airfares",
-      "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 12:22:10 GMT"
+      "title": "Drivers may get compensation offers before car finance saga ends",
+      "summary": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 11:56:31 GMT"
     },
     {
-      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-      "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
-      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 07:42:33 GMT"
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 12:07:59 GMT"
     },
     {
-      "title": "Don't get caught out by new Buy Now Pay Later rules",
-      "summary": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 23:34:49 GMT"
+      "title": "'Quiet quitting' could be hitting the economy - here's why",
+      "summary": "Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found.",
+      "url": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 11:15:51 GMT"
     },
     {
-      "title": "Shop freezers in six European countries hit by suspected cyber-attack",
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
       "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
       "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 13:19:56 GMT"
+      "published": "Mon, 02 Nov 2026 17:38:11 GMT"
     },
     {
-      "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
-      "summary": "The broadband firm has not finalised numbers but it is likely be a sizeable chunk of staff, the BBC understands.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 16:57:14 GMT"
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 08:33:20 GMT"
     },
     {
-      "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-      "summary": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 00:17:05 GMT"
+      "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+      "summary": "The men and women who rummage through commercial bins to take clothes and other items.",
+      "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 07:50:14 GMT"
     },
     {
-      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 02:12:19 GMT"
+      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+      "summary": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 11:10:37 GMT"
     },
     {
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 20:34:46 GMT"
+      "title": "Christmas 2026 stamps unveiled by Royal Mail",
+      "summary": "The annual Christmas collection of five stamps feature scenes from the Nativity.",
+      "url": "https://www.bbc.co.uk/news/articles/cw62yeq7958ro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 02:27:50 GMT"
     }
   ],
   "sources_status": {
