@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-11-03T13:03:12.221677+00:00",
-  "generated_at_paris": "2026-11-03T14:03:12.221677+01:00",
-  "date_paris": "2026-11-03",
+  "generated_at_utc": "2026-11-04T12:46:48.934329+00:00",
+  "generated_at_paris": "2026-11-04T13:46:48.934329+01:00",
+  "date_paris": "2026-11-04",
   "indices": {
     "DAX": {
-      "open": 25802.7402,
-      "high": 26022.2598,
-      "low": 25741.5703,
-      "close": 25981.0898,
-      "date": "2026-11-02"
+      "open": 25730.0605,
+      "high": 26037.2793,
+      "low": 25677.8594,
+      "close": 25864.6191,
+      "date": "2026-11-03"
     },
     "CAC": {
-      "open": 7958.8901,
-      "high": 8054.23,
-      "low": 7944.7202,
-      "close": 8047.6899,
-      "date": "2026-11-02"
+      "open": 7997.9102,
+      "high": 8107.2598,
+      "low": 7986.5498,
+      "close": 8020.3101,
+      "date": "2026-11-03"
     },
     "FTSE": {
-      "open": 10729.5,
-      "high": 10775.9004,
-      "low": 10684.7002,
-      "close": 10761.2998,
-      "date": "2026-11-02"
+      "open": 10761.2998,
+      "high": 10761.2998,
+      "low": 10638.4004,
+      "close": 10638.4004,
+      "date": "2026-11-03"
     },
     "SPX": {
-      "open": 7610.8301,
-      "high": 7662.23,
-      "low": 7539.3799,
-      "close": 7541.3999,
-      "date": "2026-11-02"
+      "open": 7552.9199,
+      "high": 7594.6099,
+      "low": 7545.3901,
+      "close": 7568.9199,
+      "date": "2026-11-03"
     },
     "NDX": {
-      "open": 28561.1699,
-      "high": 28753.3906,
-      "low": 27967.4395,
-      "close": 27989.8203,
-      "date": "2026-11-02"
+      "open": 28085.5,
+      "high": 28307.9004,
+      "low": 28085.5,
+      "close": 28180.2598,
+      "date": "2026-11-03"
     },
     "DJI": {
-      "open": 52008.2305,
-      "high": 52424.9102,
-      "low": 51981.6602,
-      "close": 51983.9805,
-      "date": "2026-11-02"
+      "open": 51932.6289,
+      "high": 51932.6289,
+      "low": 51593.1602,
+      "close": 51786.7188,
+      "date": "2026-11-03"
     },
     "N225": {
       "open": 62972.0195,
@@ -53,53 +53,97 @@
       "date": "2026-11-02"
     },
     "HSI": {
-      "open": 23301.7402,
-      "high": 23543.3008,
-      "low": 23271.2598,
-      "close": 23393.3203,
-      "date": "2026-11-02"
+      "open": 23469.6406,
+      "high": 23549.3105,
+      "low": 23347.0293,
+      "close": 23525.9707,
+      "date": "2026-11-03"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1157,
-      "high": 1.1237,
-      "low": 1.1157,
-      "close": 1.1157,
-      "date": "2026-11-02"
+      "open": 1.1193,
+      "high": 1.1206,
+      "low": 1.1176,
+      "close": 1.1192,
+      "date": "2026-11-03"
     },
     "GBPUSD": {
-      "open": 1.3386,
-      "high": 1.345,
-      "low": 1.338,
-      "close": 1.3386,
-      "date": "2026-11-02"
+      "open": 1.3411,
+      "high": 1.3432,
+      "low": 1.3397,
+      "close": 1.341,
+      "date": "2026-11-03"
     }
   },
   "vix": {
-    "value": 21.28,
-    "change_24h_pct": 0.61,
-    "date": "2026-11-03"
+    "value": 18.23,
+    "change_24h_pct": -12.48,
+    "date": "2026-11-04"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "JOLTS Job Openings",
-      "consensus": "7.15M",
-      "previous": "7.08M",
+      "time_paris": "11:00",
+      "country": "EUR",
+      "indicator": "Core CPI Flash Estimate y/y",
+      "consensus": "2.5%",
+      "previous": "2.5%",
       "impact": "Medium"
     },
     {
-      "time_paris": "16:16",
+      "time_paris": "11:00",
+      "country": "EUR",
+      "indicator": "CPI Flash Estimate y/y",
+      "consensus": "4.0%",
+      "previous": "3.8%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "16:00",
       "country": "USD",
-      "indicator": "Congressional Elections",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
+      "indicator": "ISM Services PMI",
+      "consensus": "54.8",
+      "previous": "54.9",
+      "impact": "Medium"
     }
   ],
   "news_bbc": [
+    {
+      "title": "Poundland owner in crunch talks with business secretary as retailer's collapse looms",
+      "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 12:20:42 GMT"
+    },
+    {
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 20:53:03 GMT"
+    },
+    {
+      "title": "Uproar over missing 'pop' as Rice Krispies changes its recipe",
+      "summary": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 11:36:44 GMT"
+    },
+    {
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 16:19:29 GMT"
+    },
+    {
+      "title": "Canva announces major job cuts after 'our hardest year yet'",
+      "summary": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
+      "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 00:09:35 GMT"
+    },
+    {
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 00:04:35 GMT"
+    },
     {
       "title": "Drivers may get compensation offers before car finance saga ends",
       "summary": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
@@ -107,46 +151,10 @@
       "published": "Tue, 03 Nov 2026 11:56:31 GMT"
     },
     {
-      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 12:07:59 GMT"
-    },
-    {
-      "title": "'Quiet quitting' could be hitting the economy - here's why",
-      "summary": "Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found.",
-      "url": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 11:15:51 GMT"
-    },
-    {
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 17:38:11 GMT"
-    },
-    {
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 08:33:20 GMT"
-    },
-    {
-      "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
-      "summary": "The men and women who rummage through commercial bins to take clothes and other items.",
-      "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 07:50:14 GMT"
-    },
-    {
-      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-      "summary": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 11:10:37 GMT"
-    },
-    {
-      "title": "Christmas 2026 stamps unveiled by Royal Mail",
-      "summary": "The annual Christmas collection of five stamps feature scenes from the Nativity.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62yeq7958ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 02:27:50 GMT"
+      "title": "Asda hires ex-Morrisons boss in bid to grow firm",
+      "summary": "David Potts takes charge of Asda, which is based in Leeds, with immediate effect.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 15:12:35 GMT"
     }
   ],
   "sources_status": {
