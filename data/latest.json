@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-04T12:46:48.934329+00:00",
-  "generated_at_paris": "2026-11-04T13:46:48.934329+01:00",
+  "generated_at_utc": "2026-11-04T13:18:42.259666+00:00",
+  "generated_at_paris": "2026-11-04T14:18:42.259666+01:00",
   "date_paris": "2026-11-04",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 18.23,
-    "change_24h_pct": -12.48,
+    "value": 18.5,
+    "change_24h_pct": -11.19,
     "date": "2026-11-04"
   },
   "macro_calendar_today": [
@@ -109,7 +109,7 @@
   ],
   "news_bbc": [
     {
-      "title": "Poundland owner in crunch talks with business secretary as retailer's collapse looms",
+      "title": "Poundland owner in crunch talks with as retailer's collapse looms",
       "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
       "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 04 Nov 2026 12:20:42 GMT"
@@ -124,7 +124,7 @@
       "title": "Uproar over missing 'pop' as Rice Krispies changes its recipe",
       "summary": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
       "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 11:36:44 GMT"
+      "published": "Wed, 04 Nov 2026 13:15:41 GMT"
     },
     {
       "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
