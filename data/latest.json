@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-05T12:56:07.611972+00:00",
-  "generated_at_paris": "2026-11-05T13:56:07.611972+01:00",
+  "generated_at_utc": "2026-11-05T13:31:25.228852+00:00",
+  "generated_at_paris": "2026-11-05T14:31:25.228852+01:00",
   "date_paris": "2026-11-05",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 17.01,
-    "change_24h_pct": 2.41,
+    "value": 16.9,
+    "change_24h_pct": 1.75,
     "date": "2026-11-05"
   },
   "macro_calendar_today": [
@@ -144,13 +144,13 @@
       "title": "Faisal Islam: How high will interest rates go?",
       "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
       "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 12:53:57 GMT"
+      "published": "Thu, 05 Nov 2026 13:17:10 GMT"
     },
     {
       "title": "Three ways the interest rate rise could affect you",
       "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
       "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 12:11:04 GMT"
+      "published": "Thu, 05 Nov 2026 13:08:30 GMT"
     },
     {
       "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
@@ -174,7 +174,7 @@
       "title": "Interest rates hiked to 4% in first increase in over three years",
       "summary": "Most analysts expected the increase from 3.75% to 4%.",
       "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 12:17:47 GMT"
+      "published": "Thu, 05 Nov 2026 13:04:36 GMT"
     },
     {
       "title": "Pound rises to its highest level since the Brexit referendum",
