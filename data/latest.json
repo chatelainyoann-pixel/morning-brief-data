@@ -1,145 +1,165 @@
 {
-  "generated_at_utc": "2026-11-05T13:31:25.228852+00:00",
-  "generated_at_paris": "2026-11-05T14:31:25.228852+01:00",
-  "date_paris": "2026-11-05",
+  "generated_at_utc": "2026-11-06T12:43:04.072271+00:00",
+  "generated_at_paris": "2026-11-06T13:43:04.072271+01:00",
+  "date_paris": "2026-11-06",
   "indices": {
     "DAX": {
-      "open": 25888.9297,
-      "high": 26541.6406,
-      "low": 25876.8203,
-      "close": 26437.6699,
-      "date": "2026-11-04"
+      "open": 26449.7891,
+      "high": 26692.9004,
+      "low": 26223.3398,
+      "close": 26325.0098,
+      "date": "2026-11-05"
     },
     "CAC": {
-      "open": 8034.5298,
-      "high": 8215.8604,
-      "low": 8030.6899,
-      "close": 8177.8901,
-      "date": "2026-11-04"
+      "open": 8248.9004,
+      "high": 8286.4297,
+      "low": 8182.4902,
+      "close": 8205.3701,
+      "date": "2026-11-05"
     },
     "FTSE": {
-      "open": 10637.2998,
-      "high": 10857.7002,
-      "low": 10632.0,
-      "close": 10829.2002,
-      "date": "2026-11-04"
+      "open": 10829.2998,
+      "high": 10948.2002,
+      "low": 10770.5,
+      "close": 10782.7002,
+      "date": "2026-11-05"
     },
     "SPX": {
-      "open": 7635.8101,
-      "high": 7715.5698,
-      "low": 7635.8101,
-      "close": 7688.6201,
-      "date": "2026-11-04"
+      "open": 7678.7202,
+      "high": 7681.29,
+      "low": 7350.3501,
+      "close": 7353.73,
+      "date": "2026-11-05"
     },
     "NDX": {
-      "open": 28346.8105,
-      "high": 28829.6602,
-      "low": 28276.2207,
-      "close": 28437.1699,
-      "date": "2026-11-04"
+      "open": 28078.1895,
+      "high": 28078.1895,
+      "low": 26606.4297,
+      "close": 26629.8105,
+      "date": "2026-11-05"
     },
     "DJI": {
-      "open": 52410.2305,
-      "high": 53492.3984,
-      "low": 52410.2305,
-      "close": 53356.1211,
-      "date": "2026-11-04"
+      "open": 53679.0117,
+      "high": 53710.6094,
+      "low": 51486.8203,
+      "close": 51523.0586,
+      "date": "2026-11-05"
     },
     "N225": {
-      "open": 62973.1602,
-      "high": 63105.4688,
-      "low": 60030.1016,
-      "close": 62188.6289,
-      "date": "2026-11-04"
+      "open": 62384.7305,
+      "high": 62653.9805,
+      "low": 60786.1914,
+      "close": 61077.8984,
+      "date": "2026-11-05"
     },
     "HSI": {
-      "open": 23451.7891,
-      "high": 23919.5,
-      "low": 23385.2891,
-      "close": 23919.5,
-      "date": "2026-11-04"
+      "open": 24316.9395,
+      "high": 24871.9199,
+      "low": 24281.7695,
+      "close": 24796.9805,
+      "date": "2026-11-05"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1207,
-      "high": 1.1275,
-      "low": 1.12,
-      "close": 1.1207,
-      "date": "2026-11-04"
+      "open": 1.1237,
+      "high": 1.1271,
+      "low": 1.1206,
+      "close": 1.1235,
+      "date": "2026-11-05"
     },
     "GBPUSD": {
-      "open": 1.3433,
-      "high": 1.3502,
-      "low": 1.3428,
-      "close": 1.3434,
-      "date": "2026-11-04"
+      "open": 1.3477,
+      "high": 1.35,
+      "low": 1.3449,
+      "close": 1.3477,
+      "date": "2026-11-05"
     }
   },
   "vix": {
-    "value": 16.9,
-    "change_24h_pct": 1.75,
-    "date": "2026-11-05"
+    "value": 26.55,
+    "change_24h_pct": -5.78,
+    "date": "2026-11-06"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "13:00",
-      "country": "GBP",
-      "indicator": "BOE Monetary Policy Report",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
-    },
-    {
-      "time_paris": "13:00",
-      "country": "GBP",
-      "indicator": "Monetary Policy Summary",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
-    },
-    {
-      "time_paris": "13:00",
-      "country": "GBP",
-      "indicator": "MPC Official Bank Rate Votes",
-      "consensus": "7-0-2",
-      "previous": "3-0-6",
-      "impact": "High"
-    },
-    {
-      "time_paris": "13:00",
-      "country": "GBP",
-      "indicator": "Official Bank Rate",
-      "consensus": "4.00%",
-      "previous": "3.75%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "13:30",
-      "country": "GBP",
-      "indicator": "BOE Gov Bailey Speaks",
-      "consensus": "",
-      "previous": "",
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Average Hourly Earnings m/m",
+      "consensus": "0.3%",
+      "previous": "0.1%",
       "impact": "High"
     },
     {
       "time_paris": "14:30",
       "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "197K",
-      "previous": "194K",
+      "indicator": "Non-Farm Employment Change",
+      "consensus": "65K",
+      "previous": "29K",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Unemployment Rate",
+      "consensus": "4.2%",
+      "previous": "4.2%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "16:00",
+      "country": "USD",
+      "indicator": "Prelim UoM Consumer Sentiment",
+      "consensus": "48.1",
+      "previous": "46.3",
       "impact": "Medium"
     },
     {
-      "time_paris": "19:00",
-      "country": "EUR",
-      "indicator": "ECB President Lagarde Speaks",
+      "time_paris": "16:00",
+      "country": "USD",
+      "indicator": "Prelim UoM Inflation Expectations",
       "consensus": "",
-      "previous": "",
+      "previous": "4.7%",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
+    {
+      "title": "How does it affect me if share prices fall?",
+      "summary": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
+      "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 09:21:50 GMT"
+    },
+    {
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 09:57:04 GMT"
+    },
+    {
+      "title": "PM tells firms to publish salaries in job adverts ahead of new law",
+      "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 12:42:29 GMT"
+    },
+    {
+      "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+      "summary": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 00:02:52 GMT"
+    },
+    {
+      "title": "The engine parts that 'fight the laws of the universe'",
+      "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 00:06:06 GMT"
+    },
+    {
+      "title": "Interest rates hiked to 4% in first increase in over three years",
+      "summary": "Most analysts expected the increase from 3.75% to 4%.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 17:09:55 GMT"
+    },
     {
       "title": "Faisal Islam: How high will interest rates go?",
       "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
@@ -147,46 +167,10 @@
       "published": "Thu, 05 Nov 2026 13:17:10 GMT"
     },
     {
-      "title": "Three ways the interest rate rise could affect you",
-      "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
-      "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 13:08:30 GMT"
-    },
-    {
-      "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-      "summary": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
-      "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 10:04:51 GMT"
-    },
-    {
-      "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
-      "summary": "A little-known investment group has made a bid to buy the business.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 09:46:32 GMT"
-    },
-    {
-      "title": "Graduates are managing AI - but are they learning much else?",
-      "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
-      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 00:04:35 GMT"
-    },
-    {
-      "title": "Interest rates hiked to 4% in first increase in over three years",
-      "summary": "Most analysts expected the increase from 3.75% to 4%.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 13:04:36 GMT"
-    },
-    {
-      "title": "Pound rises to its highest level since the Brexit referendum",
-      "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 04:21:35 GMT"
-    },
-    {
-      "title": "Welsh aviation firm AerFin bought in £475m deal",
-      "summary": "The company, which was majority owned by a private equity firm, said it was beginning a \"new chapter\".",
-      "url": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 11:01:06 GMT"
+      "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 11:20:10 GMT"
     }
   ],
   "sources_status": {
