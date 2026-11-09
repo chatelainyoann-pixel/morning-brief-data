@@ -1,176 +1,144 @@
 {
-  "generated_at_utc": "2026-11-06T13:16:33.567906+00:00",
-  "generated_at_paris": "2026-11-06T14:16:33.567906+01:00",
-  "date_paris": "2026-11-06",
+  "generated_at_utc": "2026-11-09T13:37:27.598054+00:00",
+  "generated_at_paris": "2026-11-09T14:37:27.598054+01:00",
+  "date_paris": "2026-11-09",
   "indices": {
     "DAX": {
-      "open": 26449.7891,
-      "high": 26692.9004,
-      "low": 26223.3398,
-      "close": 26325.0098,
-      "date": "2026-11-05"
+      "open": 25919.4805,
+      "high": 26061.6406,
+      "low": 25617.5391,
+      "close": 25820.3594,
+      "date": "2026-11-06"
     },
     "CAC": {
-      "open": 8248.9004,
-      "high": 8286.4297,
-      "low": 8182.4902,
-      "close": 8205.3701,
-      "date": "2026-11-05"
+      "open": 8105.0601,
+      "high": 8140.54,
+      "low": 8049.6401,
+      "close": 8139.0,
+      "date": "2026-11-06"
     },
     "FTSE": {
-      "open": 10829.2998,
-      "high": 10948.2002,
-      "low": 10770.5,
-      "close": 10782.7002,
-      "date": "2026-11-05"
+      "open": 10784.2002,
+      "high": 10784.2002,
+      "low": 10528.0996,
+      "close": 10673.9004,
+      "date": "2026-11-06"
     },
     "SPX": {
-      "open": 7678.7202,
-      "high": 7681.29,
-      "low": 7350.3501,
-      "close": 7353.73,
-      "date": "2026-11-05"
+      "open": 7377.6499,
+      "high": 7444.2002,
+      "low": 7369.5498,
+      "close": 7376.8599,
+      "date": "2026-11-06"
     },
     "NDX": {
-      "open": 28078.1895,
-      "high": 28078.1895,
-      "low": 26606.4297,
-      "close": 26629.8105,
-      "date": "2026-11-05"
+      "open": 27045.2598,
+      "high": 27316.0898,
+      "low": 26887.6895,
+      "close": 26989.9902,
+      "date": "2026-11-06"
     },
     "DJI": {
-      "open": 53679.0117,
-      "high": 53710.6094,
-      "low": 51486.8203,
-      "close": 51523.0586,
-      "date": "2026-11-05"
+      "open": 51078.8516,
+      "high": 51662.2617,
+      "low": 50992.6094,
+      "close": 51285.7305,
+      "date": "2026-11-06"
     },
     "N225": {
-      "open": 62384.7305,
-      "high": 62653.9805,
-      "low": 60786.1914,
-      "close": 61077.8984,
-      "date": "2026-11-05"
+      "open": 60374.3516,
+      "high": 60374.3516,
+      "low": 56745.8086,
+      "close": 57434.7695,
+      "date": "2026-11-06"
     },
     "HSI": {
-      "open": 24316.9395,
-      "high": 24871.9199,
-      "low": 24281.7695,
-      "close": 24796.9805,
-      "date": "2026-11-05"
+      "open": 24404.6191,
+      "high": 24740.1797,
+      "low": 24349.3008,
+      "close": 24481.8594,
+      "date": "2026-11-06"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1237,
-      "high": 1.1271,
-      "low": 1.1206,
-      "close": 1.1235,
-      "date": "2026-11-05"
+      "open": 1.1228,
+      "high": 1.1235,
+      "low": 1.1133,
+      "close": 1.1228,
+      "date": "2026-11-06"
     },
     "GBPUSD": {
-      "open": 1.3477,
-      "high": 1.35,
-      "low": 1.3449,
-      "close": 1.3477,
-      "date": "2026-11-05"
+      "open": 1.3455,
+      "high": 1.3464,
+      "low": 1.3344,
+      "close": 1.3456,
+      "date": "2026-11-06"
     }
   },
   "vix": {
-    "value": 27.38,
-    "change_24h_pct": -2.84,
-    "date": "2026-11-06"
+    "value": 23.44,
+    "change_24h_pct": -8.58,
+    "date": "2026-11-09"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Average Hourly Earnings m/m",
-      "consensus": "0.3%",
-      "previous": "0.1%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Non-Farm Employment Change",
-      "consensus": "65K",
-      "previous": "29K",
-      "impact": "High"
-    },
-    {
-      "time_paris": "14:30",
-      "country": "USD",
-      "indicator": "Unemployment Rate",
-      "consensus": "4.2%",
-      "previous": "4.2%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Prelim UoM Consumer Sentiment",
-      "consensus": "48.1",
-      "previous": "46.3",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Prelim UoM Inflation Expectations",
+      "time_paris": "18:25",
+      "country": "GBP",
+      "indicator": "BOE Gov Bailey Speaks",
       "consensus": "",
-      "previous": "4.7%",
+      "previous": "",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "How does it affect me if share prices fall?",
-      "summary": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
-      "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 09:21:50 GMT"
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 13:10:32 GMT"
     },
     {
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 09:57:04 GMT"
+      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+      "summary": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+      "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 07:10:11 GMT"
     },
     {
-      "title": "PM tells firms to publish salaries in job adverts ahead of new law",
-      "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 12:42:29 GMT"
+      "title": "Doing these things now will help you save money at Christmas",
+      "summary": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+      "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 00:09:14 GMT"
     },
     {
-      "title": "'I was asked if I was a crier': Your worst job interviews revealed",
-      "summary": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
-      "url": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 00:02:52 GMT"
+      "title": "Government's EV targets expected to be reduced this week",
+      "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 12:06:22 GMT"
     },
     {
-      "title": "The engine parts that 'fight the laws of the universe'",
-      "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 00:06:06 GMT"
+      "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+      "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 01:41:36 GMT"
     },
     {
-      "title": "Interest rates hiked to 4% in first increase in over three years",
-      "summary": "Most analysts expected the increase from 3.75% to 4%.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 17:09:55 GMT"
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 08:10:25 GMT"
     },
     {
-      "title": "Faisal Islam: How high will interest rates go?",
-      "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 13:17:10 GMT"
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 15:37:25 GMT"
     },
     {
-      "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
-      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 11:20:10 GMT"
+      "title": "He spent $50,000 on Labubus but now the craze is dying",
+      "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 23:02:35 GMT"
     }
   ],
   "sources_status": {
