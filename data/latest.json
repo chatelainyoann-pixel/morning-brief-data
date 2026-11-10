@@ -1,144 +1,160 @@
 {
-  "generated_at_utc": "2026-11-09T14:25:23.568626+00:00",
-  "generated_at_paris": "2026-11-09T15:25:23.568626+01:00",
-  "date_paris": "2026-11-09",
+  "generated_at_utc": "2026-11-10T13:15:27.542379+00:00",
+  "generated_at_paris": "2026-11-10T14:15:27.542379+01:00",
+  "date_paris": "2026-11-10",
   "indices": {
     "DAX": {
-      "open": 25919.4805,
-      "high": 26061.6406,
-      "low": 25617.5391,
-      "close": 25820.3594,
-      "date": "2026-11-06"
+      "open": 25815.3008,
+      "high": 26276.0898,
+      "low": 25793.0605,
+      "close": 26267.1895,
+      "date": "2026-11-09"
     },
     "CAC": {
-      "open": 8105.0601,
-      "high": 8140.54,
-      "low": 8049.6401,
-      "close": 8139.0,
-      "date": "2026-11-06"
+      "open": 8107.0801,
+      "high": 8244.6104,
+      "low": 8107.0801,
+      "close": 8233.2998,
+      "date": "2026-11-09"
     },
     "FTSE": {
-      "open": 10784.2002,
-      "high": 10784.2002,
-      "low": 10528.0996,
-      "close": 10673.9004,
-      "date": "2026-11-06"
+      "open": 10673.4004,
+      "high": 10785.2002,
+      "low": 10654.2998,
+      "close": 10782.9004,
+      "date": "2026-11-09"
     },
     "SPX": {
-      "open": 7377.6499,
-      "high": 7444.2002,
-      "low": 7369.5498,
-      "close": 7376.8599,
-      "date": "2026-11-06"
+      "open": 7422.2402,
+      "high": 7577.3901,
+      "low": 7422.2402,
+      "close": 7549.9399,
+      "date": "2026-11-09"
     },
     "NDX": {
-      "open": 27045.2598,
-      "high": 27316.0898,
-      "low": 26887.6895,
-      "close": 26989.9902,
-      "date": "2026-11-06"
+      "open": 27263.4297,
+      "high": 28025.7695,
+      "low": 27227.5293,
+      "close": 27907.6309,
+      "date": "2026-11-09"
     },
     "DJI": {
-      "open": 51078.8516,
-      "high": 51662.2617,
-      "low": 50992.6094,
-      "close": 51285.7305,
-      "date": "2026-11-06"
+      "open": 51643.0117,
+      "high": 52574.3398,
+      "low": 51643.0117,
+      "close": 52389.75,
+      "date": "2026-11-09"
     },
     "N225": {
-      "open": 60374.3516,
-      "high": 60374.3516,
-      "low": 56745.8086,
-      "close": 57434.7695,
-      "date": "2026-11-06"
+      "open": 57960.6992,
+      "high": 59440.1797,
+      "low": 57775.1602,
+      "close": 58775.5,
+      "date": "2026-11-09"
     },
     "HSI": {
-      "open": 24404.6191,
-      "high": 24740.1797,
-      "low": 24349.3008,
-      "close": 24481.8594,
-      "date": "2026-11-06"
+      "open": 24625.7109,
+      "high": 24738.8809,
+      "low": 24421.1094,
+      "close": 24448.9492,
+      "date": "2026-11-09"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1228,
-      "high": 1.1235,
-      "low": 1.1133,
-      "close": 1.1228,
-      "date": "2026-11-06"
+      "open": 1.1149,
+      "high": 1.1206,
+      "low": 1.1147,
+      "close": 1.1147,
+      "date": "2026-11-09"
     },
     "GBPUSD": {
-      "open": 1.3455,
-      "high": 1.3464,
-      "low": 1.3344,
-      "close": 1.3456,
-      "date": "2026-11-06"
+      "open": 1.3363,
+      "high": 1.3425,
+      "low": 1.3361,
+      "close": 1.336,
+      "date": "2026-11-09"
     }
   },
   "vix": {
-    "value": 23.2,
-    "change_24h_pct": -9.52,
-    "date": "2026-11-09"
+    "value": 20.05,
+    "change_24h_pct": 0.65,
+    "date": "2026-11-10"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "18:25",
-      "country": "GBP",
-      "indicator": "BOE Gov Bailey Speaks",
+      "time_paris": "10:00",
+      "country": "USD",
+      "indicator": "FOMC Member Waller Speaks",
       "consensus": "",
       "previous": "",
       "impact": "Medium"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Core CPI m/m",
+      "consensus": "0.2%",
+      "previous": "0.3%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "CPI m/m",
+      "consensus": "0.3%",
+      "previous": "0.6%",
+      "impact": "High"
     }
   ],
   "news_bbc": [
     {
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 13:10:32 GMT"
+      "title": "Anthropic to raise $64bn in major stock market listing",
+      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 13:01:03 GMT"
     },
     {
-      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-      "summary": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
-      "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 07:10:11 GMT"
+      "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+      "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 11:43:06 GMT"
     },
     {
-      "title": "Doing these things now will help you save money at Christmas",
-      "summary": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
-      "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 00:09:14 GMT"
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 08:23:21 GMT"
     },
     {
-      "title": "Government's EV targets expected to be reduced this week",
-      "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 12:06:22 GMT"
+      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+      "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 09:57:49 GMT"
     },
     {
-      "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
-      "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
-      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 01:41:36 GMT"
+      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+      "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 09:23:55 GMT"
     },
     {
-      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 08:10:25 GMT"
+      "title": "I took Vinted to court to get my money back",
+      "summary": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
+      "url": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 00:27:37 GMT"
     },
     {
-      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 15:37:25 GMT"
+      "title": "The superpower battle over energy – and what it means for your bills",
+      "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 00:08:28 GMT"
     },
     {
-      "title": "He spent $50,000 on Labubus but now the craze is dying",
-      "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 23:02:35 GMT"
+      "title": "How a civil servant got away with juggling five jobs for so long",
+      "summary": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 18:40:31 GMT"
     }
   ],
   "sources_status": {
