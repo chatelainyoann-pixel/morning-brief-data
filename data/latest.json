@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-12T13:31:47.732993+00:00",
-  "generated_at_paris": "2026-11-12T14:31:47.732993+01:00",
+  "generated_at_utc": "2026-11-12T14:01:20.141865+00:00",
+  "generated_at_paris": "2026-11-12T15:01:20.141865+01:00",
   "date_paris": "2026-11-12",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 19.33,
-    "change_24h_pct": 10.52,
+    "value": 18.83,
+    "change_24h_pct": 7.66,
     "date": "2026-11-12"
   },
   "macro_calendar_today": [
@@ -117,10 +117,10 @@
   ],
   "news_bbc": [
     {
-      "title": "UK economy grows at fastest rate for more than two years",
-      "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
-      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 11:20:25 GMT"
+      "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+      "summary": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 11:21:25 GMT"
     },
     {
       "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
@@ -129,10 +129,10 @@
       "published": "Thu, 12 Nov 2026 13:27:09 GMT"
     },
     {
-      "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
-      "summary": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 11:21:25 GMT"
+      "title": "UK economy grows at fastest rate for more than two years",
+      "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 11:20:25 GMT"
     },
     {
       "title": "Some under-25s should get fewer benefits, Milburn review to say",
