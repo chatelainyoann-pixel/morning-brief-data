@@ -1,168 +1,152 @@
 {
-  "generated_at_utc": "2026-11-12T14:01:20.141865+00:00",
-  "generated_at_paris": "2026-11-12T15:01:20.141865+01:00",
-  "date_paris": "2026-11-12",
+  "generated_at_utc": "2026-11-13T12:51:58.700794+00:00",
+  "generated_at_paris": "2026-11-13T13:51:58.700794+01:00",
+  "date_paris": "2026-11-13",
   "indices": {
     "DAX": {
-      "open": 26623.3398,
-      "high": 26662.7695,
-      "low": 26491.7695,
-      "close": 26662.7695,
-      "date": "2026-11-11"
+      "open": 26910.5703,
+      "high": 27001.6699,
+      "low": 26671.4492,
+      "close": 26771.8809,
+      "date": "2026-11-12"
     },
     "CAC": {
-      "open": 8326.2695,
-      "high": 8349.9902,
-      "low": 8295.5703,
-      "close": 8332.8701,
-      "date": "2026-11-11"
+      "open": 8366.0703,
+      "high": 8401.7197,
+      "low": 8339.0596,
+      "close": 8361.3604,
+      "date": "2026-11-12"
     },
     "FTSE": {
-      "open": 10751.7002,
-      "high": 10842.0996,
-      "low": 10751.7002,
-      "close": 10835.5,
-      "date": "2026-11-11"
+      "open": 10835.7002,
+      "high": 10886.0996,
+      "low": 10820.5996,
+      "close": 10863.0996,
+      "date": "2026-11-12"
     },
     "SPX": {
-      "open": 7586.6499,
-      "high": 7647.2002,
-      "low": 7571.8799,
-      "close": 7619.3799,
-      "date": "2026-11-11"
+      "open": 7550.8398,
+      "high": 7652.7598,
+      "low": 7550.8398,
+      "close": 7592.3999,
+      "date": "2026-11-12"
     },
     "NDX": {
-      "open": 28267.3301,
-      "high": 28593.5195,
-      "low": 28102.75,
-      "close": 28374.25,
-      "date": "2026-11-11"
+      "open": 27953.9102,
+      "high": 28548.5508,
+      "low": 27940.5801,
+      "close": 28289.1895,
+      "date": "2026-11-12"
     },
     "DJI": {
-      "open": 52196.3516,
-      "high": 52512.7188,
-      "low": 52055.1406,
-      "close": 52486.4883,
-      "date": "2026-11-11"
+      "open": 52427.9414,
+      "high": 52751.2188,
+      "low": 52271.1602,
+      "close": 52297.0898,
+      "date": "2026-11-12"
     },
     "N225": {
-      "open": 60525.3008,
-      "high": 61390.7891,
-      "low": 60318.0781,
-      "close": 61248.5898,
-      "date": "2026-11-11"
+      "open": 61475.1094,
+      "high": 61788.4414,
+      "low": 60643.7891,
+      "close": 60819.3594,
+      "date": "2026-11-12"
     },
     "HSI": {
-      "open": 24354.1895,
-      "high": 24430.6895,
-      "low": 24268.9609,
-      "close": 24315.9199,
-      "date": "2026-11-11"
+      "open": 24121.4004,
+      "high": 24132.1992,
+      "low": 23942.7402,
+      "close": 24008.5508,
+      "date": "2026-11-12"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1168,
-      "high": 1.1171,
-      "low": 1.1084,
-      "close": 1.1169,
-      "date": "2026-11-11"
+      "open": 1.1096,
+      "high": 1.1104,
+      "low": 1.1054,
+      "close": 1.1095,
+      "date": "2026-11-12"
     },
     "GBPUSD": {
-      "open": 1.3349,
-      "high": 1.3356,
-      "low": 1.3268,
-      "close": 1.3349,
-      "date": "2026-11-11"
+      "open": 1.3276,
+      "high": 1.3282,
+      "low": 1.3222,
+      "close": 1.3277,
+      "date": "2026-11-12"
     }
   },
   "vix": {
-    "value": 18.83,
-    "change_24h_pct": 7.66,
-    "date": "2026-11-12"
+    "value": 18.3,
+    "change_24h_pct": -2.14,
+    "date": "2026-11-13"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "08:00",
-      "country": "GBP",
-      "indicator": "GDP m/m",
-      "consensus": "0.0%",
-      "previous": "0.1%",
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Core PPI m/m",
+      "consensus": "0.3%",
+      "previous": "0.7%",
       "impact": "High"
-    },
-    {
-      "time_paris": "08:00",
-      "country": "GBP",
-      "indicator": "Prelim GDP q/q",
-      "consensus": "0.7%",
-      "previous": "0.5%",
-      "impact": "Medium"
     },
     {
       "time_paris": "14:30",
       "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "194K",
-      "previous": "189K",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "20:30",
-      "country": "EUR",
-      "indicator": "ECB President Lagarde Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "Medium"
+      "indicator": "PPI m/m",
+      "consensus": "0.4%",
+      "previous": "1.3%",
+      "impact": "High"
     }
   ],
   "news_bbc": [
     {
-      "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
-      "summary": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
+      "title": "What we know about the global Microsoft outage",
+      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 12:31:49 GMT"
+    },
+    {
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 12:22:30 GMT"
+    },
+    {
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:13:35 GMT"
+    },
+    {
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 03:57:01 GMT"
+    },
+    {
+      "title": "Heat pumps: How much heat does your home really need?",
+      "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 09:29:25 GMT"
+    },
+    {
+      "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+      "summary": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 01:17:58 GMT"
+    },
+    {
+      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+      "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
       "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 11:21:25 GMT"
+      "published": "Thu, 12 Nov 2026 15:10:32 GMT"
     },
     {
       "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
       "summary": "The UK is seeing impressive growth, but will it last?",
       "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 12 Nov 2026 13:27:09 GMT"
-    },
-    {
-      "title": "UK economy grows at fastest rate for more than two years",
-      "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
-      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 11:20:25 GMT"
-    },
-    {
-      "title": "Some under-25s should get fewer benefits, Milburn review to say",
-      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 13:16:59 GMT"
-    },
-    {
-      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-      "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 00:49:05 GMT"
-    },
-    {
-      "title": "Christmas toy rush being driven by squishies and building sets",
-      "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-      "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 07:52:05 GMT"
-    },
-    {
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 22:52:15 GMT"
-    },
-    {
-      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 17:56:12 GMT"
     }
   ],
   "sources_status": {
