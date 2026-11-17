@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-17T14:06:41.886992+00:00",
-  "generated_at_paris": "2026-11-17T15:06:41.886992+01:00",
+  "generated_at_utc": "2026-11-17T14:56:48.906216+00:00",
+  "generated_at_paris": "2026-11-17T15:56:48.906216+01:00",
   "date_paris": "2026-11-17",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 23.1,
-    "change_24h_pct": 0.83,
+    "value": 22.81,
+    "change_24h_pct": -0.44,
     "date": "2026-11-17"
   },
   "macro_calendar_today": [
@@ -127,16 +127,16 @@
       "published": "Tue, 17 Nov 2026 12:43:07 GMT"
     },
     {
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 14:25:45 GMT"
+    },
+    {
       "title": "US government confirms investigation into tech firm Megaspeed",
       "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
       "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 17 Nov 2026 11:17:32 GMT"
-    },
-    {
-      "title": "OpenAI sued by California over Hugging Face attack",
-      "summary": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 23:12:24 GMT"
     },
     {
       "title": "We couldn't afford a house alone, so we bought one with strangers",
@@ -145,16 +145,16 @@
       "published": "Tue, 17 Nov 2026 00:00:02 GMT"
     },
     {
+      "title": "OpenAI sued by California over Hugging Face attack",
+      "summary": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 23:12:24 GMT"
+    },
+    {
       "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
       "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
       "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 17 Nov 2026 02:37:53 GMT"
-    },
-    {
-      "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-      "summary": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
-      "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 13:19:33 GMT"
     }
   ],
   "sources_status": {
