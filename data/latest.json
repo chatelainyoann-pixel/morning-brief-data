@@ -1,144 +1,160 @@
 {
-  "generated_at_utc": "2026-11-16T14:02:33.429628+00:00",
-  "generated_at_paris": "2026-11-16T15:02:33.429628+01:00",
-  "date_paris": "2026-11-16",
+  "generated_at_utc": "2026-11-17T14:06:41.886992+00:00",
+  "generated_at_paris": "2026-11-17T15:06:41.886992+01:00",
+  "date_paris": "2026-11-17",
   "indices": {
     "DAX": {
-      "open": 26697.0293,
-      "high": 26832.8203,
-      "low": 26678.3496,
-      "close": 26749.9492,
-      "date": "2026-11-13"
+      "open": 26772.1094,
+      "high": 26797.1895,
+      "low": 26598.6406,
+      "close": 26598.6406,
+      "date": "2026-11-16"
     },
     "CAC": {
-      "open": 8343.5303,
-      "high": 8378.21,
-      "low": 8337.9004,
-      "close": 8368.9102,
-      "date": "2026-11-13"
+      "open": 8385.4805,
+      "high": 8401.8604,
+      "low": 8352.0,
+      "close": 8352.0,
+      "date": "2026-11-16"
     },
     "FTSE": {
-      "open": 10863.2998,
-      "high": 10910.5996,
-      "low": 10836.5996,
-      "close": 10902.5996,
-      "date": "2026-11-13"
+      "open": 10902.9004,
+      "high": 10963.0,
+      "low": 10881.5996,
+      "close": 10881.5996,
+      "date": "2026-11-16"
     },
     "SPX": {
-      "open": 7616.8501,
-      "high": 7621.7798,
-      "low": 7499.3999,
-      "close": 7561.6699,
-      "date": "2026-11-13"
+      "open": 7513.98,
+      "high": 7515.6001,
+      "low": 7400.1499,
+      "close": 7416.5898,
+      "date": "2026-11-16"
     },
     "NDX": {
-      "open": 28265.5391,
-      "high": 28295.8008,
-      "low": 27609.7109,
-      "close": 27943.7402,
-      "date": "2026-11-13"
+      "open": 27543.6406,
+      "high": 27621.6406,
+      "low": 27149.1504,
+      "close": 27197.1504,
+      "date": "2026-11-16"
     },
     "DJI": {
-      "open": 52490.6797,
-      "high": 52521.4805,
-      "low": 52017.8594,
-      "close": 52347.5508,
-      "date": "2026-11-13"
+      "open": 52267.0586,
+      "high": 52324.0,
+      "low": 51511.5586,
+      "close": 51608.1719,
+      "date": "2026-11-16"
     },
     "N225": {
-      "open": 61223.4102,
-      "high": 61902.5,
-      "low": 61082.2305,
-      "close": 61142.3516,
-      "date": "2026-11-13"
+      "open": 61348.2109,
+      "high": 61389.3516,
+      "low": 59630.5117,
+      "close": 59662.0195,
+      "date": "2026-11-16"
     },
     "HSI": {
-      "open": 23871.9102,
-      "high": 23930.1309,
-      "low": 23595.3594,
-      "close": 23637.5996,
-      "date": "2026-11-13"
+      "open": 23708.5996,
+      "high": 23894.0098,
+      "low": 23649.0996,
+      "close": 23753.8398,
+      "date": "2026-11-16"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.1049,
-      "high": 1.1072,
-      "low": 1.1027,
-      "close": 1.105,
-      "date": "2026-11-13"
+      "open": 1.1026,
+      "high": 1.1031,
+      "low": 1.1001,
+      "close": 1.1025,
+      "date": "2026-11-16"
     },
     "GBPUSD": {
-      "open": 1.3231,
-      "high": 1.325,
-      "low": 1.3209,
-      "close": 1.3231,
-      "date": "2026-11-13"
+      "open": 1.3218,
+      "high": 1.3224,
+      "low": 1.3181,
+      "close": 1.3216,
+      "date": "2026-11-16"
     }
   },
   "vix": {
-    "value": 20.64,
-    "change_24h_pct": 6.94,
-    "date": "2026-11-16"
+    "value": 23.1,
+    "change_24h_pct": 0.83,
+    "date": "2026-11-17"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "18:00",
+      "time_paris": "08:00",
+      "country": "GBP",
+      "indicator": "Average Earnings Index 3m/y",
+      "consensus": "3.5%",
+      "previous": "3.7%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "Fed Chairman Warsh Speaks",
-      "consensus": "",
-      "previous": "",
+      "indicator": "Core Retail Sales m/m",
+      "consensus": "0.4%",
+      "previous": "0.9%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Retail Sales m/m",
+      "consensus": "0.1%",
+      "previous": "0.8%",
       "impact": "High"
     }
   ],
   "news_bbc": [
     {
-      "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
-      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "title": "Speed camera fault may have allowed drivers to escape fines",
+      "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 13:03:30 GMT"
+    },
+    {
+      "title": "Where are the most jobs for 18-24 year-olds?",
+      "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+      "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 12:35:53 GMT"
+    },
+    {
+      "title": "Government must act now or lose Royal Mail, former minister warns",
+      "summary": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
+      "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 12:43:07 GMT"
+    },
+    {
+      "title": "US government confirms investigation into tech firm Megaspeed",
+      "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 11:17:32 GMT"
+    },
+    {
+      "title": "OpenAI sued by California over Hugging Face attack",
+      "summary": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 23:12:24 GMT"
+    },
+    {
+      "title": "We couldn't afford a house alone, so we bought one with strangers",
+      "summary": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
+      "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 00:00:02 GMT"
+    },
+    {
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
       "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 12:20:49 GMT"
+      "published": "Tue, 17 Nov 2026 02:37:53 GMT"
     },
     {
       "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
       "summary": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
       "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 16 Nov 2026 13:19:33 GMT"
-    },
-    {
-      "title": "Intel sued by investors after PC sales slump hits share price",
-      "summary": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 03:04:01 GMT"
-    },
-    {
-      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-      "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 22:00:24 GMT"
-    },
-    {
-      "title": "Gas starts flowing from Jackdaw after government green light",
-      "summary": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 06:24:08 GMT"
-    },
-    {
-      "title": "Avoid this Black Friday scam - how to check it's a real deal",
-      "summary": "Sales and the looming tax deadline mean more scams - here's how to make sure you don't get caught out.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 09:58:52 GMT"
-    },
-    {
-      "title": "Beauty advent calendars can cost hundreds but are they value for money?",
-      "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 00:01:07 GMT"
-    },
-    {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 01:47:57 GMT"
     }
   ],
   "sources_status": {
