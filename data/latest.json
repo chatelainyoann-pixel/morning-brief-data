@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-18T13:39:51.531186+00:00",
-  "generated_at_paris": "2026-11-18T14:39:51.531186+01:00",
+  "generated_at_utc": "2026-11-18T14:37:05.597082+00:00",
+  "generated_at_paris": "2026-11-18T15:37:05.597082+01:00",
   "date_paris": "2026-11-18",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 24.61,
-    "change_24h_pct": -3.34,
+    "value": 24.33,
+    "change_24h_pct": -4.44,
     "date": "2026-11-18"
   },
   "macro_calendar_today": [
@@ -145,6 +145,12 @@
       "published": "Wed, 18 Nov 2026 13:10:01 GMT"
     },
     {
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 13:55:14 GMT"
+    },
+    {
       "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
       "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
       "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
@@ -173,12 +179,6 @@
       "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
       "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 00:00:24 GMT"
-    },
-    {
-      "title": "Speed camera fault may have allowed drivers to escape fines",
-      "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 20:04:54 GMT"
     }
   ],
   "sources_status": {
