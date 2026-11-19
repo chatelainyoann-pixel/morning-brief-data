@@ -1,113 +1,89 @@
 {
-  "generated_at_utc": "2026-11-18T14:37:05.597082+00:00",
-  "generated_at_paris": "2026-11-18T15:37:05.597082+01:00",
-  "date_paris": "2026-11-18",
+  "generated_at_utc": "2026-11-19T14:07:28.904273+00:00",
+  "generated_at_paris": "2026-11-19T15:07:28.904273+01:00",
+  "date_paris": "2026-11-19",
   "indices": {
     "DAX": {
-      "open": 26387.4395,
-      "high": 26440.6094,
-      "low": 26024.2109,
-      "close": 26045.3691,
-      "date": "2026-11-17"
+      "open": 26082.6309,
+      "high": 26139.1602,
+      "low": 25723.6699,
+      "close": 25736.2402,
+      "date": "2026-11-18"
     },
     "CAC": {
-      "open": 8317.3203,
-      "high": 8317.9102,
-      "low": 8212.2695,
-      "close": 8216.7803,
-      "date": "2026-11-17"
+      "open": 8216.0801,
+      "high": 8229.5898,
+      "low": 8136.7998,
+      "close": 8146.8301,
+      "date": "2026-11-18"
     },
     "FTSE": {
-      "open": 10881.5,
-      "high": 10881.5,
-      "low": 10688.0996,
-      "close": 10689.9004,
-      "date": "2026-11-17"
+      "open": 10690.5996,
+      "high": 10692.2998,
+      "low": 10537.5,
+      "close": 10551.2002,
+      "date": "2026-11-18"
     },
     "SPX": {
-      "open": 7411.02,
-      "high": 7415.3701,
-      "low": 7288.3398,
-      "close": 7340.5298,
-      "date": "2026-11-17"
+      "open": 7355.6899,
+      "high": 7367.6802,
+      "low": 7285.7598,
+      "close": 7323.6299,
+      "date": "2026-11-18"
     },
     "NDX": {
-      "open": 27229.9492,
-      "high": 27258.8398,
-      "low": 26580.8594,
-      "close": 27001.7793,
-      "date": "2026-11-17"
+      "open": 27177.4102,
+      "high": 27236.1191,
+      "low": 26848.9199,
+      "close": 27116.2598,
+      "date": "2026-11-18"
     },
     "DJI": {
-      "open": 51386.9805,
-      "high": 51463.5312,
-      "low": 50566.9805,
-      "close": 50759.4219,
-      "date": "2026-11-17"
+      "open": 50627.3594,
+      "high": 50637.6992,
+      "low": 50029.3516,
+      "close": 50198.1719,
+      "date": "2026-11-18"
     },
     "N225": {
-      "open": 59295.8008,
-      "high": 59369.1406,
-      "low": 58691.1094,
-      "close": 58860.4297,
-      "date": "2026-11-17"
+      "open": 59007.3984,
+      "high": 59630.9492,
+      "low": 58279.2617,
+      "close": 59024.2812,
+      "date": "2026-11-18"
     },
     "HSI": {
-      "open": 23521.1602,
-      "high": 23626.0195,
-      "low": 23369.3203,
-      "close": 23508.1699,
-      "date": "2026-11-17"
+      "open": 23428.7207,
+      "high": 23436.9707,
+      "low": 23208.1309,
+      "close": 23294.75,
+      "date": "2026-11-18"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.0999,
-      "high": 1.102,
-      "low": 1.097,
-      "close": 1.0998,
-      "date": "2026-11-17"
+      "open": 1.0991,
+      "high": 1.0997,
+      "low": 1.0954,
+      "close": 1.0993,
+      "date": "2026-11-18"
     },
     "GBPUSD": {
-      "open": 1.3185,
-      "high": 1.3224,
-      "low": 1.317,
-      "close": 1.3185,
-      "date": "2026-11-17"
+      "open": 1.3204,
+      "high": 1.3208,
+      "low": 1.3137,
+      "close": 1.3205,
+      "date": "2026-11-18"
     }
   },
   "vix": {
-    "value": 24.33,
-    "change_24h_pct": -4.44,
-    "date": "2026-11-18"
+    "value": 22.63,
+    "change_24h_pct": -7.86,
+    "date": "2026-11-19"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "08:00",
-      "country": "GBP",
-      "indicator": "CPI y/y",
-      "consensus": "3.6%",
-      "previous": "3.5%",
-      "impact": "High"
-    },
-    {
-      "time_paris": "08:30",
-      "country": "GBP",
-      "indicator": "BOE Gov Bailey Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "10:00",
-      "country": "EUR",
-      "indicator": "ECB Financial Stability Review",
-      "consensus": "",
-      "previous": "",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "15:25",
+      "time_paris": "14:30",
       "country": "EUR",
       "indicator": "ECB President Lagarde Speaks",
       "consensus": "",
@@ -115,70 +91,70 @@
       "impact": "Medium"
     },
     {
-      "time_paris": "16:00",
-      "country": "GBP",
-      "indicator": "BOE Gov Bailey Speaks",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Philly Fed Manufacturing Index",
+      "consensus": "20.6",
+      "previous": "20.9",
+      "impact": "Medium"
     },
     {
-      "time_paris": "20:00",
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "FOMC Meeting Minutes",
-      "consensus": "",
-      "previous": "",
-      "impact": "High"
+      "indicator": "Unemployment Claims",
+      "consensus": "198K",
+      "previous": "200K",
+      "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-      "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 13:17:06 GMT"
-    },
-    {
-      "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-      "summary": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
-      "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 13:10:01 GMT"
+      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 21:28:08 GMT"
     },
     {
       "title": "The seven Anthropic founders who are about to become multi-billionaires",
       "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
       "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 13:55:14 GMT"
+      "published": "Wed, 18 Nov 2026 23:42:07 GMT"
     },
     {
-      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 01:18:18 GMT"
+      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+      "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 00:00:59 GMT"
     },
     {
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 06:04:21 GMT"
-    },
-    {
-      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
-      "summary": "The Amazon chairman says he was originally \"biased against\" Pattinson \"because he's already so famous\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 04:00:54 GMT"
-    },
-    {
-      "title": "Government backs welfare shake-up to prevent 'lost generation'",
-      "summary": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
-      "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 18:43:05 GMT"
+      "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+      "summary": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 13:35:52 GMT"
     },
     {
       "title": "Europe plans to catch the next computer chip wave",
       "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
       "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 00:00:24 GMT"
+    },
+    {
+      "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+      "summary": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
+      "url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 00:05:31 GMT"
+    },
+    {
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 02:59:06 GMT"
+    },
+    {
+      "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+      "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 06:15:57 GMT"
     }
   ],
   "sources_status": {
