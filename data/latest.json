@@ -1,89 +1,97 @@
 {
-  "generated_at_utc": "2026-11-19T14:43:49.660119+00:00",
-  "generated_at_paris": "2026-11-19T15:43:49.660119+01:00",
-  "date_paris": "2026-11-19",
+  "generated_at_utc": "2026-11-20T13:49:58.982753+00:00",
+  "generated_at_paris": "2026-11-20T14:49:58.982753+01:00",
+  "date_paris": "2026-11-20",
   "indices": {
     "DAX": {
-      "open": 26082.6309,
-      "high": 26139.1602,
-      "low": 25723.6699,
-      "close": 25736.2402,
-      "date": "2026-11-18"
+      "open": 25887.0898,
+      "high": 25945.5195,
+      "low": 25463.8105,
+      "close": 25463.8105,
+      "date": "2026-11-19"
     },
     "CAC": {
-      "open": 8216.0801,
-      "high": 8229.5898,
-      "low": 8136.7998,
-      "close": 8146.8301,
-      "date": "2026-11-18"
+      "open": 8193.7598,
+      "high": 8200.1104,
+      "low": 8080.7402,
+      "close": 8080.7402,
+      "date": "2026-11-19"
     },
     "FTSE": {
-      "open": 10690.5996,
-      "high": 10692.2998,
-      "low": 10537.5,
-      "close": 10551.2002,
-      "date": "2026-11-18"
+      "open": 10551.0996,
+      "high": 10563.0996,
+      "low": 10452.7002,
+      "close": 10452.7002,
+      "date": "2026-11-19"
     },
     "SPX": {
-      "open": 7355.6899,
-      "high": 7367.6802,
-      "low": 7285.7598,
-      "close": 7323.6299,
-      "date": "2026-11-18"
+      "open": 7389.2598,
+      "high": 7415.6401,
+      "low": 7173.6299,
+      "close": 7175.8301,
+      "date": "2026-11-19"
     },
     "NDX": {
-      "open": 27177.4102,
-      "high": 27236.1191,
-      "low": 26848.9199,
-      "close": 27116.2598,
-      "date": "2026-11-18"
+      "open": 27574.2305,
+      "high": 27749.3496,
+      "low": 26481.8203,
+      "close": 26517.0508,
+      "date": "2026-11-19"
     },
     "DJI": {
-      "open": 50627.3594,
-      "high": 50637.6992,
-      "low": 50029.3516,
-      "close": 50198.1719,
-      "date": "2026-11-18"
+      "open": 50432.3203,
+      "high": 50454.8086,
+      "low": 49091.9219,
+      "close": 49097.0586,
+      "date": "2026-11-19"
     },
     "N225": {
-      "open": 59007.3984,
-      "high": 59630.9492,
-      "low": 58279.2617,
-      "close": 59024.2812,
-      "date": "2026-11-18"
+      "open": 59025.1914,
+      "high": 59660.6094,
+      "low": 58750.5312,
+      "close": 59444.2109,
+      "date": "2026-11-19"
     },
     "HSI": {
-      "open": 23428.7207,
-      "high": 23436.9707,
-      "low": 23208.1309,
-      "close": 23294.75,
-      "date": "2026-11-18"
+      "open": 23049.6504,
+      "high": 23049.6504,
+      "low": 22772.2109,
+      "close": 22841.6191,
+      "date": "2026-11-19"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.0991,
-      "high": 1.0997,
-      "low": 1.0954,
-      "close": 1.0993,
-      "date": "2026-11-18"
+      "open": 1.0972,
+      "high": 1.1012,
+      "low": 1.0956,
+      "close": 1.0972,
+      "date": "2026-11-19"
     },
     "GBPUSD": {
-      "open": 1.3204,
-      "high": 1.3208,
-      "low": 1.3137,
-      "close": 1.3205,
-      "date": "2026-11-18"
+      "open": 1.3146,
+      "high": 1.3173,
+      "low": 1.3106,
+      "close": 1.3147,
+      "date": "2026-11-19"
     }
   },
   "vix": {
-    "value": 22.5,
-    "change_24h_pct": -8.39,
-    "date": "2026-11-19"
+    "value": 31.4,
+    "change_24h_pct": 10.41,
+    "date": "2026-11-20"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "14:30",
+      "time_paris": "08:00",
+      "country": "GBP",
+      "indicator": "Retail Sales m/m",
+      "consensus": "0.0%",
+      "previous": "-0.4%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "09:15",
       "country": "EUR",
       "indicator": "ECB President Lagarde Speaks",
       "consensus": "",
@@ -91,70 +99,78 @@
       "impact": "Medium"
     },
     {
-      "time_paris": "14:30",
+      "time_paris": "16:00",
       "country": "USD",
-      "indicator": "Philly Fed Manufacturing Index",
-      "consensus": "20.6",
-      "previous": "20.9",
+      "indicator": "Revised UoM Consumer Sentiment",
+      "consensus": "51.7",
+      "previous": "51.0",
       "impact": "Medium"
     },
     {
-      "time_paris": "14:30",
+      "time_paris": "16:00",
       "country": "USD",
-      "indicator": "Unemployment Claims",
-      "consensus": "198K",
-      "previous": "200K",
+      "indicator": "Revised UoM Inflation Expectations",
+      "consensus": "",
+      "previous": "4.3%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "18:00",
+      "country": "USD",
+      "indicator": "President Trump Speaks",
+      "consensus": "",
+      "previous": "",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-      "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 21:28:08 GMT"
+      "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+      "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
+      "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 09:44:56 GMT"
     },
     {
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 23:42:07 GMT"
+      "title": "Airbnb's divisive new house rules come into force",
+      "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 09:55:20 GMT"
     },
     {
-      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-      "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 00:00:59 GMT"
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 23:33:51 GMT"
     },
     {
-      "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-      "summary": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 13:35:52 GMT"
+      "title": "Fish and eggs al desko? The dos and don'ts of lunch at work",
+      "summary": "Eating at your desk? The dos and don'ts of lunch at work",
+      "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 00:08:37 GMT"
     },
     {
-      "title": "Europe plans to catch the next computer chip wave",
-      "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
-      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 00:00:24 GMT"
+      "title": "Should AI be judging our credit worthiness?",
+      "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+      "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 07:32:19 GMT"
     },
     {
-      "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
-      "summary": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
-      "url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 00:05:31 GMT"
+      "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
+      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 13:08:30 GMT"
     },
     {
-      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 02:59:06 GMT"
+      "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+      "summary": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
+      "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 06:00:33 GMT"
     },
     {
-      "title": "Gilts v kilts: What is happening with Scottish government bonds?",
-      "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 06:15:57 GMT"
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 00:02:07 GMT"
     }
   ],
   "sources_status": {
