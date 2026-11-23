@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-23T15:41:02.935887+00:00",
-  "generated_at_paris": "2026-11-23T16:41:02.935887+01:00",
+  "generated_at_utc": "2026-11-23T16:32:59.747028+00:00",
+  "generated_at_paris": "2026-11-23T17:32:59.747028+01:00",
   "date_paris": "2026-11-23",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 26.1,
-    "change_24h_pct": -27.28,
+    "value": 27.45,
+    "change_24h_pct": -23.52,
     "date": "2026-11-23"
   },
   "macro_calendar_today": [
@@ -158,19 +158,19 @@
       "title": "How important are Nvidia and Jensen Huang to the US economy?",
       "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
       "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 15:15:48 GMT"
+      "published": "Mon, 23 Nov 2026 16:12:35 GMT"
+    },
+    {
+      "title": "The rise and fall and rise again of Jensen Huang",
+      "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 15:49:52 GMT"
     },
     {
       "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
       "summary": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
       "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 11:24:37 GMT"
-    },
-    {
-      "title": "Catering giant to switch main share listing to US in further blow to UK",
-      "summary": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 09:54:04 GMT"
     },
     {
       "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
@@ -185,16 +185,16 @@
       "published": "Mon, 23 Nov 2026 12:34:07 GMT"
     },
     {
+      "title": "Catering giant to switch main share listing to US in further blow to UK",
+      "summary": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 09:54:04 GMT"
+    },
+    {
       "title": "Energy bills will soar - here's how you can ease the pain",
       "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
       "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 01:05:07 GMT"
-    },
-    {
-      "title": "Poundland is facing collapse - what's gone wrong?",
-      "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 10:09:25 GMT"
     }
   ],
   "sources_status": {
