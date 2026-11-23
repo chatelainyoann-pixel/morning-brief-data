@@ -1,176 +1,200 @@
 {
-  "generated_at_utc": "2026-11-20T14:25:15.812111+00:00",
-  "generated_at_paris": "2026-11-20T15:25:15.812111+01:00",
-  "date_paris": "2026-11-20",
+  "generated_at_utc": "2026-11-23T15:41:02.935887+00:00",
+  "generated_at_paris": "2026-11-23T16:41:02.935887+01:00",
+  "date_paris": "2026-11-23",
   "indices": {
     "DAX": {
-      "open": 25887.0898,
-      "high": 25945.5195,
-      "low": 25463.8105,
-      "close": 25463.8105,
-      "date": "2026-11-19"
+      "open": 25187.5098,
+      "high": 25194.6406,
+      "low": 24801.2207,
+      "close": 24802.7793,
+      "date": "2026-11-20"
     },
     "CAC": {
-      "open": 8193.7598,
-      "high": 8200.1104,
-      "low": 8080.7402,
-      "close": 8080.7402,
-      "date": "2026-11-19"
+      "open": 8020.1899,
+      "high": 8029.0801,
+      "low": 7927.75,
+      "close": 7927.75,
+      "date": "2026-11-20"
     },
     "FTSE": {
-      "open": 10551.0996,
-      "high": 10563.0996,
-      "low": 10452.7002,
-      "close": 10452.7002,
-      "date": "2026-11-19"
+      "open": 10452.7998,
+      "high": 10452.7998,
+      "low": 10330.0,
+      "close": 10346.2998,
+      "date": "2026-11-20"
     },
     "SPX": {
-      "open": 7389.2598,
-      "high": 7415.6401,
-      "low": 7173.6299,
-      "close": 7175.8301,
-      "date": "2026-11-19"
+      "open": 7150.3901,
+      "high": 7198.6699,
+      "low": 6882.6602,
+      "close": 6910.3901,
+      "date": "2026-11-20"
     },
     "NDX": {
-      "open": 27574.2305,
-      "high": 27749.3496,
-      "low": 26481.8203,
-      "close": 26517.0508,
-      "date": "2026-11-19"
+      "open": 26184.7598,
+      "high": 26429.0898,
+      "low": 24910.4805,
+      "close": 25028.9805,
+      "date": "2026-11-20"
     },
     "DJI": {
-      "open": 50432.3203,
-      "high": 50454.8086,
-      "low": 49091.9219,
-      "close": 49097.0586,
-      "date": "2026-11-19"
+      "open": 49071.8203,
+      "high": 49594.8984,
+      "low": 47998.8594,
+      "close": 48147.3281,
+      "date": "2026-11-20"
     },
     "N225": {
-      "open": 59025.1914,
-      "high": 59660.6094,
-      "low": 58750.5312,
-      "close": 59444.2109,
-      "date": "2026-11-19"
+      "open": 58551.5586,
+      "high": 58707.4805,
+      "low": 56436.6484,
+      "close": 56436.6484,
+      "date": "2026-11-20"
     },
     "HSI": {
-      "open": 23049.6504,
-      "high": 23049.6504,
-      "low": 22772.2109,
-      "close": 22841.6191,
-      "date": "2026-11-19"
+      "open": 22482.3906,
+      "high": 22593.5098,
+      "low": 22307.4199,
+      "close": 22410.8008,
+      "date": "2026-11-20"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.0972,
-      "high": 1.1012,
-      "low": 1.0956,
-      "close": 1.0972,
-      "date": "2026-11-19"
+      "open": 1.097,
+      "high": 1.0999,
+      "low": 1.0959,
+      "close": 1.097,
+      "date": "2026-11-20"
     },
     "GBPUSD": {
-      "open": 1.3146,
-      "high": 1.3173,
-      "low": 1.3106,
-      "close": 1.3147,
-      "date": "2026-11-19"
+      "open": 1.3087,
+      "high": 1.3129,
+      "low": 1.308,
+      "close": 1.3086,
+      "date": "2026-11-20"
     }
   },
   "vix": {
-    "value": 29.77,
-    "change_24h_pct": 4.68,
-    "date": "2026-11-20"
+    "value": 26.1,
+    "change_24h_pct": -27.28,
+    "date": "2026-11-23"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "08:00",
-      "country": "GBP",
-      "indicator": "Retail Sales m/m",
-      "consensus": "0.0%",
-      "previous": "-0.4%",
+      "time_paris": "09:15",
+      "country": "EUR",
+      "indicator": "French Flash Manufacturing PMI",
+      "consensus": "49.8",
+      "previous": "49.3",
       "impact": "Medium"
     },
     {
       "time_paris": "09:15",
       "country": "EUR",
-      "indicator": "ECB President Lagarde Speaks",
-      "consensus": "",
-      "previous": "",
+      "indicator": "French Flash Services PMI",
+      "consensus": "47.4",
+      "previous": "48.4",
       "impact": "Medium"
     },
     {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Revised UoM Consumer Sentiment",
-      "consensus": "51.7",
-      "previous": "51.0",
+      "time_paris": "09:30",
+      "country": "EUR",
+      "indicator": "German Flash Manufacturing PMI",
+      "consensus": "54.1",
+      "previous": "54.2",
       "impact": "Medium"
     },
     {
-      "time_paris": "16:00",
-      "country": "USD",
-      "indicator": "Revised UoM Inflation Expectations",
-      "consensus": "",
-      "previous": "4.3%",
+      "time_paris": "09:30",
+      "country": "EUR",
+      "indicator": "German Flash Services PMI",
+      "consensus": "52.4",
+      "previous": "51.7",
       "impact": "Medium"
     },
     {
-      "time_paris": "18:00",
+      "time_paris": "10:30",
+      "country": "GBP",
+      "indicator": "Flash Manufacturing PMI",
+      "consensus": "53.0",
+      "previous": "52.8",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "10:30",
+      "country": "GBP",
+      "indicator": "Flash Services PMI",
+      "consensus": "53.0",
+      "previous": "53.1",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "15:45",
       "country": "USD",
-      "indicator": "President Trump Speaks",
-      "consensus": "",
-      "previous": "",
+      "indicator": "Flash Manufacturing PMI",
+      "consensus": "54.5",
+      "previous": "56.0",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "15:45",
+      "country": "USD",
+      "indicator": "Flash Services PMI",
+      "consensus": "55.6",
+      "previous": "57.9",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-      "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
-      "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 09:44:56 GMT"
+      "title": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
+      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5% in early trading.",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 15:39:41 GMT"
     },
     {
-      "title": "Airbnb's divisive new house rules come into force",
-      "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 09:55:20 GMT"
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 15:15:48 GMT"
     },
     {
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 23:33:51 GMT"
+      "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
+      "summary": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
+      "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 11:24:37 GMT"
     },
     {
-      "title": "Fish and eggs al desko? The dos and don'ts of lunch at work",
-      "summary": "Eating at your desk? The dos and don'ts of lunch at work",
-      "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 00:08:37 GMT"
+      "title": "Catering giant to switch main share listing to US in further blow to UK",
+      "summary": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 09:54:04 GMT"
     },
     {
-      "title": "Should AI be judging our credit worthiness?",
-      "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-      "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 07:32:19 GMT"
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 00:08:00 GMT"
     },
     {
-      "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 13:08:30 GMT"
+      "title": "Next data accessed in cyber breach",
+      "summary": "The fashion retailer says there is no evidence customers' personal data was compromised.",
+      "url": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 12:34:07 GMT"
     },
     {
-      "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-      "summary": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
-      "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 06:00:33 GMT"
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 01:05:07 GMT"
     },
     {
-      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-      "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 00:02:07 GMT"
+      "title": "Poundland is facing collapse - what's gone wrong?",
+      "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 10:09:25 GMT"
     }
   ],
   "sources_status": {
