@@ -1,49 +1,49 @@
 {
-  "generated_at_utc": "2026-11-23T16:32:59.747028+00:00",
-  "generated_at_paris": "2026-11-23T17:32:59.747028+01:00",
-  "date_paris": "2026-11-23",
+  "generated_at_utc": "2026-11-24T15:31:49.370498+00:00",
+  "generated_at_paris": "2026-11-24T16:31:49.370498+01:00",
+  "date_paris": "2026-11-24",
   "indices": {
     "DAX": {
-      "open": 25187.5098,
-      "high": 25194.6406,
-      "low": 24801.2207,
-      "close": 24802.7793,
-      "date": "2026-11-20"
+      "open": 24907.1895,
+      "high": 25386.8203,
+      "low": 24873.3398,
+      "close": 25337.2695,
+      "date": "2026-11-23"
     },
     "CAC": {
-      "open": 8020.1899,
-      "high": 8029.0801,
-      "low": 7927.75,
-      "close": 7927.75,
-      "date": "2026-11-20"
+      "open": 7965.4102,
+      "high": 8059.5898,
+      "low": 7949.5098,
+      "close": 8044.8398,
+      "date": "2026-11-23"
     },
     "FTSE": {
-      "open": 10452.7998,
-      "high": 10452.7998,
-      "low": 10330.0,
-      "close": 10346.2998,
-      "date": "2026-11-20"
+      "open": 10345.9004,
+      "high": 10499.0,
+      "low": 10340.7998,
+      "close": 10480.7998,
+      "date": "2026-11-23"
     },
     "SPX": {
-      "open": 7150.3901,
-      "high": 7198.6699,
-      "low": 6882.6602,
-      "close": 6910.3901,
-      "date": "2026-11-20"
+      "open": 7227.4102,
+      "high": 7295.6001,
+      "low": 7152.6602,
+      "close": 7237.1699,
+      "date": "2026-11-23"
     },
     "NDX": {
-      "open": 26184.7598,
-      "high": 26429.0898,
-      "low": 24910.4805,
-      "close": 25028.9805,
-      "date": "2026-11-20"
+      "open": 26889.2891,
+      "high": 27018.8809,
+      "low": 26386.4199,
+      "close": 26746.0996,
+      "date": "2026-11-23"
     },
     "DJI": {
-      "open": 49071.8203,
-      "high": 49594.8984,
-      "low": 47998.8594,
-      "close": 48147.3281,
-      "date": "2026-11-20"
+      "open": 49239.9102,
+      "high": 49810.2617,
+      "low": 49033.3086,
+      "close": 49595.3086,
+      "date": "2026-11-23"
     },
     "N225": {
       "open": 58551.5586,
@@ -53,148 +53,92 @@
       "date": "2026-11-20"
     },
     "HSI": {
-      "open": 22482.3906,
-      "high": 22593.5098,
-      "low": 22307.4199,
-      "close": 22410.8008,
-      "date": "2026-11-20"
+      "open": 22168.1895,
+      "high": 22436.1797,
+      "low": 21998.0508,
+      "close": 22383.7402,
+      "date": "2026-11-23"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.097,
-      "high": 1.0999,
-      "low": 1.0959,
-      "close": 1.097,
-      "date": "2026-11-20"
+      "open": 1.0973,
+      "high": 1.1006,
+      "low": 1.0884,
+      "close": 1.0972,
+      "date": "2026-11-23"
     },
     "GBPUSD": {
-      "open": 1.3087,
-      "high": 1.3129,
-      "low": 1.308,
-      "close": 1.3086,
-      "date": "2026-11-20"
+      "open": 1.3097,
+      "high": 1.3143,
+      "low": 1.3013,
+      "close": 1.3095,
+      "date": "2026-11-23"
     }
   },
   "vix": {
-    "value": 27.45,
-    "change_24h_pct": -23.52,
-    "date": "2026-11-23"
+    "value": 27.6,
+    "change_24h_pct": 3.68,
+    "date": "2026-11-24"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "09:15",
-      "country": "EUR",
-      "indicator": "French Flash Manufacturing PMI",
-      "consensus": "49.8",
-      "previous": "49.3",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:15",
-      "country": "EUR",
-      "indicator": "French Flash Services PMI",
-      "consensus": "47.4",
-      "previous": "48.4",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:30",
-      "country": "EUR",
-      "indicator": "German Flash Manufacturing PMI",
-      "consensus": "54.1",
-      "previous": "54.2",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "09:30",
-      "country": "EUR",
-      "indicator": "German Flash Services PMI",
-      "consensus": "52.4",
-      "previous": "51.7",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "10:30",
-      "country": "GBP",
-      "indicator": "Flash Manufacturing PMI",
-      "consensus": "53.0",
-      "previous": "52.8",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "10:30",
-      "country": "GBP",
-      "indicator": "Flash Services PMI",
-      "consensus": "53.0",
-      "previous": "53.1",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "15:45",
+      "time_paris": "16:00",
       "country": "USD",
-      "indicator": "Flash Manufacturing PMI",
-      "consensus": "54.5",
-      "previous": "56.0",
-      "impact": "Medium"
-    },
-    {
-      "time_paris": "15:45",
-      "country": "USD",
-      "indicator": "Flash Services PMI",
-      "consensus": "55.6",
-      "previous": "57.9",
+      "indicator": "CB Consumer Confidence",
+      "consensus": "92.4",
+      "previous": "91.7",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
-      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5% in early trading.",
+      "title": "The shake-up facing renters as a new kind of landlord emerges",
+      "summary": "Companies building flats that they then rent out could usher in big changes for renters.",
+      "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 00:28:48 GMT"
+    },
+    {
+      "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+      "summary": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+      "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 00:11:08 GMT"
+    },
+    {
+      "title": "World Cup drove profits surge, says Marston's",
+      "summary": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
+      "url": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 13:03:20 GMT"
+    },
+    {
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 10:53:37 GMT"
+    },
+    {
+      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+      "summary": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 00:01:04 GMT"
+    },
+    {
+      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+      "summary": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 17:11:58 GMT"
+    },
+    {
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
       "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 15:39:41 GMT"
+      "published": "Mon, 23 Nov 2026 21:23:42 GMT"
     },
     {
       "title": "How important are Nvidia and Jensen Huang to the US economy?",
       "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
       "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 16:12:35 GMT"
-    },
-    {
-      "title": "The rise and fall and rise again of Jensen Huang",
-      "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 15:49:52 GMT"
-    },
-    {
-      "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
-      "summary": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
-      "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 11:24:37 GMT"
-    },
-    {
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 00:08:00 GMT"
-    },
-    {
-      "title": "Next data accessed in cyber breach",
-      "summary": "The fashion retailer says there is no evidence customers' personal data was compromised.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 12:34:07 GMT"
-    },
-    {
-      "title": "Catering giant to switch main share listing to US in further blow to UK",
-      "summary": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 09:54:04 GMT"
-    },
-    {
-      "title": "Energy bills will soar - here's how you can ease the pain",
-      "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
-      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 01:05:07 GMT"
     }
   ],
   "sources_status": {
