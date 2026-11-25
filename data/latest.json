@@ -1,144 +1,168 @@
 {
-  "generated_at_utc": "2026-11-24T16:31:38.200527+00:00",
-  "generated_at_paris": "2026-11-24T17:31:38.200527+01:00",
-  "date_paris": "2026-11-24",
+  "generated_at_utc": "2026-11-25T15:18:06.020268+00:00",
+  "generated_at_paris": "2026-11-25T16:18:06.020268+01:00",
+  "date_paris": "2026-11-25",
   "indices": {
     "DAX": {
-      "open": 24907.1895,
-      "high": 25386.8203,
-      "low": 24873.3398,
-      "close": 25337.2695,
-      "date": "2026-11-23"
+      "open": 25308.3105,
+      "high": 25330.3203,
+      "low": 24955.3496,
+      "close": 25017.8105,
+      "date": "2026-11-24"
     },
     "CAC": {
-      "open": 7965.4102,
-      "high": 8059.5898,
-      "low": 7949.5098,
-      "close": 8044.8398,
-      "date": "2026-11-23"
+      "open": 8062.0098,
+      "high": 8079.6699,
+      "low": 8028.04,
+      "close": 8040.4902,
+      "date": "2026-11-24"
     },
     "FTSE": {
-      "open": 10345.9004,
-      "high": 10499.0,
-      "low": 10340.7998,
-      "close": 10480.7998,
-      "date": "2026-11-23"
+      "open": 10480.5,
+      "high": 10508.0996,
+      "low": 10436.0996,
+      "close": 10467.0996,
+      "date": "2026-11-24"
     },
     "SPX": {
-      "open": 7227.4102,
-      "high": 7295.6001,
-      "low": 7152.6602,
-      "close": 7237.1699,
-      "date": "2026-11-23"
+      "open": 7172.3301,
+      "high": 7223.9502,
+      "low": 7138.9302,
+      "close": 7201.0898,
+      "date": "2026-11-24"
     },
     "NDX": {
-      "open": 26889.2891,
-      "high": 27018.8809,
-      "low": 26386.4199,
-      "close": 26746.0996,
-      "date": "2026-11-23"
+      "open": 26298.1406,
+      "high": 26433.5996,
+      "low": 25935.4707,
+      "close": 26214.1699,
+      "date": "2026-11-24"
     },
     "DJI": {
-      "open": 49239.9102,
-      "high": 49810.2617,
-      "low": 49033.3086,
-      "close": 49595.3086,
-      "date": "2026-11-23"
+      "open": 49494.6016,
+      "high": 50075.1211,
+      "low": 49294.4883,
+      "close": 50018.6992,
+      "date": "2026-11-24"
     },
     "N225": {
-      "open": 58551.5586,
-      "high": 58707.4805,
-      "low": 56436.6484,
-      "close": 56436.6484,
-      "date": "2026-11-20"
+      "open": 57009.9883,
+      "high": 59262.5703,
+      "low": 57009.9883,
+      "close": 58644.6289,
+      "date": "2026-11-24"
     },
     "HSI": {
-      "open": 22168.1895,
-      "high": 22436.1797,
-      "low": 21998.0508,
-      "close": 22383.7402,
-      "date": "2026-11-23"
+      "open": 22627.2891,
+      "high": 22647.5,
+      "low": 22183.1602,
+      "close": 22219.6504,
+      "date": "2026-11-24"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.0973,
-      "high": 1.1006,
-      "low": 1.0884,
-      "close": 1.0972,
-      "date": "2026-11-23"
+      "open": 1.0909,
+      "high": 1.098,
+      "low": 1.0898,
+      "close": 1.0908,
+      "date": "2026-11-24"
     },
     "GBPUSD": {
-      "open": 1.3097,
-      "high": 1.3143,
-      "low": 1.3013,
-      "close": 1.3095,
-      "date": "2026-11-23"
+      "open": 1.3036,
+      "high": 1.3118,
+      "low": 1.3031,
+      "close": 1.3035,
+      "date": "2026-11-24"
     }
   },
   "vix": {
-    "value": 29.18,
-    "change_24h_pct": 9.62,
-    "date": "2026-11-24"
+    "value": 31.26,
+    "change_24h_pct": 18.59,
+    "date": "2026-11-25"
   },
   "macro_calendar_today": [
     {
-      "time_paris": "16:00",
+      "time_paris": "14:30",
       "country": "USD",
-      "indicator": "CB Consumer Confidence",
-      "consensus": "92.4",
-      "previous": "91.7",
+      "indicator": "Core PCE Price Index m/m",
+      "consensus": "0.3%",
+      "previous": "0.3%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Prelim GDP q/q",
+      "consensus": "3.5%",
+      "previous": "3.4%",
+      "impact": "High"
+    },
+    {
+      "time_paris": "14:30",
+      "country": "USD",
+      "indicator": "Prelim GDP Price Index q/q",
+      "consensus": "2.3%",
+      "previous": "2.3%",
+      "impact": "Medium"
+    },
+    {
+      "time_paris": "15:15",
+      "country": "GBP",
+      "indicator": "Monetary Policy Report Hearings",
+      "consensus": "",
+      "previous": "",
       "impact": "Medium"
     }
   ],
   "news_bbc": [
     {
-      "title": "The shake-up facing renters as a new kind of landlord emerges",
-      "summary": "Companies building flats that they then rent out could usher in big changes for renters.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 00:28:48 GMT"
+      "title": "US stocks fall further as fears over AI intensify",
+      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 15:05:38 GMT"
     },
     {
-      "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
-      "summary": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
-      "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 00:11:08 GMT"
+      "title": "Energy bills to rise by 26% from January after gas prices surge",
+      "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 13:42:08 GMT"
     },
     {
-      "title": "World Cup drove profits surge, says Marston's",
-      "summary": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
-      "url": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 13:03:20 GMT"
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 10:42:20 GMT"
     },
     {
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 10:53:37 GMT"
+      "title": "What will the energy cap changes mean for my bills?",
+      "summary": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+      "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 09:54:32 GMT"
     },
     {
-      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
-      "summary": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 00:01:04 GMT"
+      "title": "Why tiny cars are taking off across Europe",
+      "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 00:34:05 GMT"
     },
     {
-      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
-      "summary": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 17:11:58 GMT"
+      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+      "summary": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+      "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 12:12:11 GMT"
     },
     {
-      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 21:23:42 GMT"
+      "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+      "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
+      "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 10:03:12 GMT"
     },
     {
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 16:12:35 GMT"
+      "title": "US announces new tariffs on host of countries including China",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 14:52:22 GMT"
     }
   ],
   "sources_status": {
