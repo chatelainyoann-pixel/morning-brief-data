@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-25T15:18:06.020268+00:00",
-  "generated_at_paris": "2026-11-25T16:18:06.020268+01:00",
+  "generated_at_utc": "2026-11-25T16:11:44.374986+00:00",
+  "generated_at_paris": "2026-11-25T17:11:44.374986+01:00",
   "date_paris": "2026-11-25",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 31.26,
-    "change_24h_pct": 18.59,
+    "value": 33.06,
+    "change_24h_pct": 25.42,
     "date": "2026-11-25"
   },
   "macro_calendar_today": [
@@ -117,10 +117,16 @@
   ],
   "news_bbc": [
     {
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 16:03:07 GMT"
+    },
+    {
       "title": "US stocks fall further as fears over AI intensify",
       "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
       "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 15:05:38 GMT"
+      "published": "Wed, 25 Nov 2026 16:07:26 GMT"
     },
     {
       "title": "Energy bills to rise by 26% from January after gas prices surge",
@@ -135,16 +141,16 @@
       "published": "Wed, 25 Nov 2026 10:42:20 GMT"
     },
     {
-      "title": "What will the energy cap changes mean for my bills?",
-      "summary": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
-      "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 09:54:32 GMT"
-    },
-    {
       "title": "Why tiny cars are taking off across Europe",
       "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
       "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 25 Nov 2026 00:34:05 GMT"
+    },
+    {
+      "title": "What will the energy cap changes mean for my bills?",
+      "summary": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+      "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 09:54:32 GMT"
     },
     {
       "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
@@ -157,12 +163,6 @@
       "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
       "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 25 Nov 2026 10:03:12 GMT"
-    },
-    {
-      "title": "US announces new tariffs on host of countries including China",
-      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 14:52:22 GMT"
     }
   ],
   "sources_status": {
