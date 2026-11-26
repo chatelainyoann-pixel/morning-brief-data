@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-26T14:43:26.008113+00:00",
-  "generated_at_paris": "2026-11-26T15:43:26.008113+01:00",
+  "generated_at_utc": "2026-11-26T15:51:08.627431+00:00",
+  "generated_at_paris": "2026-11-26T16:51:08.627431+01:00",
   "date_paris": "2026-11-26",
   "indices": {
     "DAX": {
@@ -77,8 +77,8 @@
     }
   },
   "vix": {
-    "value": 27.13,
-    "change_24h_pct": -4.1,
+    "value": 26.79,
+    "change_24h_pct": -5.3,
     "date": "2026-11-26"
   },
   "macro_calendar_today": [],
@@ -121,9 +121,9 @@
     },
     {
       "title": "New UK-EU treaty has 10-year termination clause",
-      "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
       "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 09:59:14 GMT"
+      "published": "Thu, 26 Nov 2026 15:23:17 GMT"
     },
     {
       "title": "Car finance compensation payments explained",
