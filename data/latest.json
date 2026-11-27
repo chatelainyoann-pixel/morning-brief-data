@@ -1,28 +1,28 @@
 {
-  "generated_at_utc": "2026-11-26T15:51:08.627431+00:00",
-  "generated_at_paris": "2026-11-26T16:51:08.627431+01:00",
-  "date_paris": "2026-11-26",
+  "generated_at_utc": "2026-11-27T14:42:23.106611+00:00",
+  "generated_at_paris": "2026-11-27T15:42:23.106611+01:00",
+  "date_paris": "2026-11-27",
   "indices": {
     "DAX": {
-      "open": 25083.9805,
-      "high": 25151.4199,
-      "low": 24698.2207,
-      "close": 24702.1309,
-      "date": "2026-11-25"
+      "open": 25153.1094,
+      "high": 25300.8809,
+      "low": 25114.25,
+      "close": 25215.5195,
+      "date": "2026-11-26"
     },
     "CAC": {
-      "open": 8095.1299,
-      "high": 8146.2598,
-      "low": 7980.5698,
-      "close": 7980.5698,
-      "date": "2026-11-25"
+      "open": 8098.96,
+      "high": 8144.54,
+      "low": 8093.2402,
+      "close": 8108.7402,
+      "date": "2026-11-26"
     },
     "FTSE": {
-      "open": 10468.0996,
-      "high": 10545.0,
-      "low": 10423.5996,
-      "close": 10426.9004,
-      "date": "2026-11-25"
+      "open": 10426.0996,
+      "high": 10636.5,
+      "low": 10425.4004,
+      "close": 10609.2998,
+      "date": "2026-11-26"
     },
     "SPX": {
       "open": 7060.3301,
@@ -46,48 +46,78 @@
       "date": "2026-11-25"
     },
     "N225": {
-      "open": 58383.4883,
-      "high": 58472.5586,
-      "low": 56502.9688,
-      "close": 57011.6211,
-      "date": "2026-11-25"
+      "open": 57429.5391,
+      "high": 58251.9297,
+      "low": 57288.1016,
+      "close": 57499.1602,
+      "date": "2026-11-26"
     },
     "HSI": {
-      "open": 22252.8105,
-      "high": 22507.8301,
-      "low": 21915.8809,
-      "close": 21966.0098,
-      "date": "2026-11-25"
+      "open": 22234.8906,
+      "high": 22543.75,
+      "low": 22217.0098,
+      "close": 22226.8809,
+      "date": "2026-11-26"
     }
   },
   "forex": {
     "EURUSD": {
-      "open": 1.0965,
-      "high": 1.0981,
-      "low": 1.0933,
-      "close": 1.0962,
-      "date": "2026-11-25"
+      "open": 1.097,
+      "high": 1.099,
+      "low": 1.0958,
+      "close": 1.097,
+      "date": "2026-11-26"
     },
     "GBPUSD": {
-      "open": 1.3115,
-      "high": 1.3116,
-      "low": 1.305,
-      "close": 1.3112,
-      "date": "2026-11-25"
+      "open": 1.3111,
+      "high": 1.3123,
+      "low": 1.3097,
+      "close": 1.3113,
+      "date": "2026-11-26"
     }
   },
   "vix": {
-    "value": 26.79,
-    "change_24h_pct": -5.3,
-    "date": "2026-11-26"
+    "value": 25.99,
+    "change_24h_pct": -3.02,
+    "date": "2026-11-27"
   },
   "macro_calendar_today": [],
   "news_bbc": [
     {
-      "title": "Millions of people to see average monthly mortgage payments rise by £100",
-      "summary": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
-      "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 14:00:20 GMT"
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "summary": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 19:55:58 GMT"
+    },
+    {
+      "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+      "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+      "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 00:58:49 GMT"
+    },
+    {
+      "title": "UK to pay 'participation' fee to deliver EU deals",
+      "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+      "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 23:17:12 GMT"
+    },
+    {
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+      "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 23:08:12 GMT"
+    },
+    {
+      "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
+      "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 10:10:36 GMT"
+    },
+    {
+      "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+      "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+      "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 00:02:19 GMT"
     },
     {
       "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
@@ -96,40 +126,10 @@
       "published": "Thu, 26 Nov 2026 13:40:46 GMT"
     },
     {
-      "title": "When will Poundland close? Five questions about its future",
-      "summary": "Why is Poundland closing down, and what will hapen to staff and suppliers?",
-      "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 14:05:27 GMT"
-    },
-    {
-      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-      "summary": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 14:28:22 GMT"
-    },
-    {
-      "title": "Drivers over 70 face eye tests every three years under new plans",
-      "summary": "The changes could see drivers over 70 stripped of licences if they do not meet standards.",
-      "url": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 11:21:45 GMT"
-    },
-    {
-      "title": "Guitar wars - the transatlantic battle over the Stratocaster",
-      "summary": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
-      "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 00:01:37 GMT"
-    },
-    {
-      "title": "New UK-EU treaty has 10-year termination clause",
-      "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 15:23:17 GMT"
-    },
-    {
-      "title": "Car finance compensation payments explained",
-      "summary": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
-      "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 09:39:50 GMT"
+      "title": "Millions of people to see average monthly mortgage payments rise by £100",
+      "summary": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 14:00:20 GMT"
     }
   ],
   "sources_status": {
